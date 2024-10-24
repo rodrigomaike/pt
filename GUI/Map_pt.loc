@@ -1,0 +1,29 @@
+Title_Maps { Mapas }
+
+MapName_World_Rough { Mapa Cru }
+
+MapName_World_Detailed { Mapa do Mundo }
+
+MapName_World_Shrines { Santuários }
+
+MapName_Nemeton { Nemeton }
+
+MapName_Ruincamp { Acampamento dos Remanescentes }
+
+MapName_Leuchtwald { Floresta Primordial }
+
+MapName_Tristan { Mapa de Tristan }
+
+MarkerPlaced { Marcado no Mapa }
+
+NoInk { Necessita de Tinta }
+
+Title_Markers { Selo }
+
+Hour_Minute_Separator { : }
+
+PlaceMarker { Colocar Marcador }
+
+DeleteMarker { Apagar Marcador }
+
+Hint_Ink { Compre tinta para marcar lugares no mapa. }

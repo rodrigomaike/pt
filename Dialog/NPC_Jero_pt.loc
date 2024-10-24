@@ -1,0 +1,469 @@
+Plh_334 { Estou pronto para a Torre Vermelha. }
+
+Plh_335 { Tudo bem, vamos começar. }
+
+Plh_15 { Venha junto. }
+
+Plh_158 { Chega de conversa! Hora de atacar! }
+
+Plh_16 { Plh_16 }
+
+Plh_74 { A liberdade está ao nosso alcance. Esteja preparado. }
+
+Plh_183 { Para escapar. }
+
+Plh_6 { Jero! A expedição foi um sucesso. }
+
+Plh_31 { Darwin me informou. Ele está preparando o vaso rúnico agora. Mas — perdemos o Lindon? }
+
+Plh_199 { Foi... *abaixa os olhos* $GVAR:EVars_Player.Name$, conte. }
+
+Plh_200 { Lindon fez o sacrifício final por nós. O Javali Poderoso o empalou. }
+
+Plh_201 { O Javali Poderoso era forte demais para ele. Não tem o que fazer. }
+
+Plh_202 { Já ouvi seu nome antes. Do Levin. Você é novo por aqui e já se juntou a uma expedição? Incomum. Mas isso diz algo sobre você. }
+
+Plh_203 { Foi realmente uma sorte. $GVAR:EVars_Player.Name$ sabia como navegar pela Chama Negra. Essa foi a única maneira de chegarmos ao Javali Poderoso. }
+
+Plh_204 { A Chama Negra que custou tantas vidas? Você conhece um caminho através dela? Você está realmente no lugar certo na hora certa. }
+
+Plh_205 { Agora, o poder do Javali Poderoso está em nossas mãos. A Cuna está preparando tudo agora. Kilian, ajude-a. $GVAR:EVars_Player.Name$, você fica aqui. }
+
+Plh_13 { Sim! }
+
+Plh_206 { Tenho algo para te mostrar. Venha comigo. }
+
+Plh_7 { ... }
+
+Plh_387 { Conseguimos! Estamos na Torre Vermelha! }
+
+Plh_425 { Molvina, o círculo rúnico ficou escuro. Não possui mais poder mágico. }
+
+Plh_426 { Isso significa que não haverá retorno — a menos que encontremos as Divindades... }
+
+Plh_423 { Mais acima na torre, há várias Divindades... Eu posso sentir a presença delas... }
+
+Plh_424 { Em breve, os Remnants saberão que estamos na Torre Vermelha. Precisamos nos apressar. Uma vez que tivermos as Divindades, seremos imparáveis! }
+
+Plh_482 { Olhe ao redor — precisamos descobrir como abrir o portão para os níveis superiores. }
+
+Plh_476 { Bem lutado. Os Bygones são fortes, mas sem mente e sem vontade própria. Sem senso de camaradagem. Nós somos um — e é por isso que prevalecemos. }
+
+Plh_431 { Eu os compadeço... Depois de todo esse tempo nesta condição... Na Charneca, eu percebi o que pode acontecer se nossa conexão com este mundo se corromper... }
+
+Plh_477 { Mais uma razão para enviá-los para o próximo mundo. }
+
+Plh_478 { Não é à toa que eles são chamados de "Bygones." O tempo deles acabou. NÓS devemos reinar sobre Drova. Vamos em frente. }
+
+Plh_479 { Esta barreira... Eu me lembro das runas brilhantes da Torre Vermelha. Mombert? }
+
+Plh_480 { Sim, é semelhante, mas mais fraca. }
+
+Plh_433 { Com o poder do Javali Poderoso, devemos ser capazes de superá-la. }
+
+Plh_261 { Você conseguiu! }
+
+Plh_260 { Podemos passar. }
+
+Plh_262 { Siga-me, continue em movimento! }
+
+Plh_481 { Mais Bygones à frente, prepare-se para a batalha! }
+
+Plh_435 { Nenhum golem à vista... Muito melhor. }
+
+Plh_484 { *sorrindo* Mostre a eles o que significa ter uma família! }
+
+Plh_336 { *respira pesadamente* Conseguimos! Bom trabalho! }
+
+Plh_219 { O que era aquela coisa maldita?! }
+
+Plh_263 { Eu — eu não sei. Parece que manteve os Bygones vivos... O poder mágico deles não conseguiu escapar da construção. }
+
+Plh_264 { "Tente escapar da morte, e você nunca encontrará paz." Isso é o que Dorian, meu pai, sempre disse. }
+
+Plh_440 { A morte é parte da vida. Lembre-se de Gradan... Ele está no próximo mundo, pensando em nós, assim como nós pensamos nele. }
+
+Plh_441 { Quem quer que esteja naquele próximo mundo... Eles devem se sentir sortudos por tê-lo. }
+
+Plh_266 { Basta. Precisamos encontrar os vasos rúnicos. Olhe ao redor! }
+
+Plh_443 { Outra barreira. Devemos estar perto do topo. }
+
+Plh_442 { Você ainda tem força suficiente, Mombert? }
+
+Plh_271 { Deixe-me tentar... }
+
+Plh_272 { Podemos passar... }
+
+Plh_273 { Continue! }
+
+Plh_422 { Olhe ao redor. }
+
+Plh_213 { O portão está aberto! Aqui! }
+
+Plh_483 { Como você conseguiu isso, $GVAR:EVars_Player.Name$? Tudo por aqui é tão alienígena... }
+
+Plh_338 { Os relicários estavam nas salas — escondidos. Eu os usei para abrir a porta. }
+
+Plh_385 { Enquanto isso, eu decifrei os puzzles deles — os relicários tinham que ser colocados exatamente no lugar certo. }
+
+Plh_386 { É uma longa história... }
+
+Plh_340 { É bom ter você do nosso lado. Os Bygones e suas estruturas estranhas... Eles provavelmente armaram armadilhas aqui também. }
+
+Plh_246 { Eu não sei o que nos aguarda lá em cima. Mas precisamos dos vasos rúnicos. Caso contrário, tudo isso foi em vão. }
+
+Plh_418 { Temos que nos apressar. Não se esqueça do motivo pelo qual estamos fazendo isso. Pelo Nemeton! }
+
+Plh_428 { Nós seguimos você! }
+
+Plh_430 { Fique alerta. }
+
+Plh_214 { Pare! }
+
+Plh_252 { *sussurra* Não devemos atacar de forma imprudente. Este — construto — é um dos golems deles? }
+
+Plh_341 { $GVAR:EVars_Player.Name$, você já lutou contra algo assim antes? O que você sabe sobre isso? }
+
+Plh_342 { Ele pode aguentar uma surra e tem um longo alcance. Sem mencionar feitiços poderosos. }
+
+Plh_344 { Temos que nos espalhar. Se fizermos isso, não será um problema. }
+
+Plh_343 { Deixe isso comigo. }
+
+Plh_253 { Tudo bem, $GVAR:EVars_Player.Name$, você cuida do golem. Nós atacamos os Bygones e cobrimos suas costas. }
+
+Plh_346 { Prepare-se. Nós atacamos, e... }
+
+Plh_347 { Agora! }
+
+Plh_349 { Devemos estar perto do topo. O poder mágico das Divindades é tão forte — é inacreditável. Está energizando este círculo rúnico também. Veja. }
+
+Plh_350 { Você sabe o que ele faz? }
+
+Plh_351 { Não tenho certeza... Mas reconheço algumas dessas runas. O círculo parece agir como um feitiço protetor...? }
+
+Plh_401 { Quando você entrou na Torre Vermelha, enfraqueceu o feitiço protetor. Ao fazer isso, você selou sua própria perdição... }
+
+Plh_485 { Seus malditos hipócritas. Primeiro o Corvo, depois o Javali. Nós vamos detê-los! Caso contrário, todos nós vamos acabar como os Bygones! }
+
+Plh_447 { Eu não vou deixar você colocar as mãos nos vasos rúnicos. }
+
+Plh_282 { Prepare-se, $GVAR:EVars_Player.Name$. }
+
+Plh_486 { Irmão, estamos aqui para criar a Terra das Lendas — lutamos por nossa causa! Você quer apenas fugir? Para se esquivar de sua responsabilidade? }
+
+Plh_487 { Assim como você sempre faz! Um covarde que quer sair de Drova, em vez de tomar o destino em suas próprias mãos? Você não se lembra como era? Só um lunático iria querer voltar para lá... }
+
+Plh_448 { Silêncio! Ninguém fala assim com nosso líder! }
+
+Plh_356 { Eu vou cortar sua língua... }
+
+Plh_357 { Venha então, faça isso, se tiver coragem! }
+
+Plh_405 { Meus leais... Abaixem suas armas. }
+
+Plh_285 { Qu-que? }
+
+Plh_449 { Isso não diz respeito a ninguém além de minha irmã e eu. O sangue de ninguém mais precisa ser derramado. Nós decidiremos — com nosso próprio sangue. }
+
+Plh_406 { O que você diz, irmã? Vamos cruzar espadas? }
+
+Plh_288 { Que as Divindades pronunciem o julgamento! Ao guiar nossas lâminas, que elas decidam quem recebe os vasos rúnicos e quem dita o destino de Drova! }
+
+Plh_290 { O que? Um julgamento pelas Divindades? }
+
+Plh_291 { Isso significaria que um de nós terá que morrer... }
+
+Plh_293 { Afaste-se! }
+
+Plh_410 { Pela paz, nenhum sacrifício é grande demais. Apenas mais uma vez o sangue deverá fluir em Drova. Uma última vez — mesmo que tenha que vir das veias do meu próprio irmão. }
+
+Plh_411 { Eu luto pelo Nemeton. Eu luto por todo Drova! }
+
+Plh_412 { Molvina, a Herdeira da Charneca. }
+
+Plh_296 { Não é bom... Não é bom mesmo... }
+
+Plh_452 { Todos vocês! Testemunhem o julgamento das Divindades! }
+
+Plh_454 { Você nunca me derrotou em uma luta, irmão. Vir aqui foi um erro. }
+
+Plh_453 { Aqueles eram combates quando ainda éramos jovens. O erro foi seu, pois eu não sou mais o pequeno Jero daqueles dias, irmã. }
+
+Plh_302 { *sussurra* Eu nunca quis que chegássemos a isso. }
+
+Plh_303 { *sussurra* É tarde demais. Tarde demais. }
+
+Plh_352 { O que foi aquilo? }
+
+Plh_353 { Soou como... Não, isso não pode ser... }
+
+Plh_444 { A trombeta dos Remnants. }
+
+Plh_348 { Eles estão aqui! }
+
+Plh_397 { Irmã. Que prazer te ver aqui. }
+
+Plh_277 { Formação de defesa! }
+
+Plh_399 { Guerreiros dos Remnants — avancem! }
+
+Plh_400 { Como vocês conseguiram entrar na Torre Vermelha? }
+
+Plh_229 { Darwin, este é o nosso caminho para a liberdade? }
+
+Plh_230 { Eu... Eu não sei... Sinto poder mágico, mas... }
+
+Plh_231 { O poder mágico vem de mais acima... E não está conectado a este círculo rúnico. O círculo foi extinguido. }
+
+Plh_232 { Temos o Javali Poderoso. Podemos usá-lo para gerar poder mágico suficiente para reacender o círculo rúnico? }
+
+Plh_233 { Não. O círculo rúnico que buscamos está localizado no topo da torre. Precisamos encontrar os outros vasos rúnicos com as Divindades. }
+
+Plh_234 { Então, vamos subir a torre... }
+
+Plh_235 { Olhe ao redor. De alguma forma, temos que abrir o portão. }
+
+Plh_215 { Os Bygones nunca pararão de lutar, mas seus espíritos já deixaram seus corpos... Eles não poderão nos deter. Você está ileso? }
+
+Plh_255 { Eu nunca estive melhor. Uma batalha por dia mantém o médico afastado! }
+
+Plh_256 { Esse é o Eugen que eu conheço! Apenas lute, e o mundo ficará bem de novo! }
+
+Plh_257 { Nós — temos que continuar. Um poder mágico está crescendo sobre nós. Eu posso sentir isso. As Divindades estão perto. }
+
+Plh_258 { Em frente, então! }
+
+Plh_216 { Isso parece outra barreira mágica... }
+
+Plh_217 { É a mesma... }
+
+Plh_259 { A barreira se parece com a que cercava a Torre Vermelha. Mas está fraca. Com o poder do Javali Poderoso, eu conseguirei levantá-la. }
+
+Plh_474 { Cuidado — ainda há mais Bygones. }
+
+Plh_475 { Sem golem desta vez. Moleza! }
+
+Plh_265 { É o que eu sempre digo. Sou um pacificador. }
+
+Plh_220 { Outra dessas barreiras. Darwin? }
+
+Plh_358 { Molvina... Não, isso não pode ser. }
+
+Plh_362 { Como isso pôde acontecer? Estávamos tão perto... }
+
+Plh_455 { Eu não queria a luta. Eu não queria matar minha irmã. Mas ela não me deixou escolha. As Divindades não me deixaram escolha. }
+
+Plh_456 { Drova nunca se tornará a Terra das Lendas. Devemos retornar à terra de onde viemos! E eu os levarei até lá! }
+
+Plh_457 { Agora somos mais poderosos do que as Divindades — por que deveríamos moldar apenas Drova à nossa imagem? Possuímos o poder de mudar o mundo inteiro! Eu tenho esse poder! Eu tenho! }
+
+Plh_458 { O círculo rúnico — algo está errado com ele. Ele foi — apagado? }
+
+Plh_459 { Mombert! Nada disso importa. As Divindades falaram. Eu falei! }
+
+Plh_460 { Pela liberdade! }
+
+Plh_461 { Molvina, a Herdeira da Charneca! Como isso pode ser a vontade das Divindades? Jero quer se elevar acima das Divindades. }
+
+Plh_366 { Henik, é... }
+
+Plh_367 { Molvina está morta, e o Nemeton também. Ele não pode se defender. As Divindades pertencem a nós, e nós nos tornaremos as novas Divindades deste mundo! }
+
+Plh_462 { Eu nunca me submeteria às Divindades novamente... Eu decidirei por mim mesmo. }
+
+Plh_463 { Ajoelhe-se diante de mim. Jure sua lealdade a mim. }
+
+Plh_464 { Ou entre no ringue se não desejar seguir. }
+
+Plh_370 { Eu não vou te seguir. Em vez disso, eu te convoco ao julgamento das Divindades. }
+
+Plh_371 { (ajoelha-se) }
+
+Plh_372 { O que aconteceu com o círculo rúnico? Ele não brilha mais. }
+
+Plh_467 { O que, em nome das Divindades, você está fazendo? Você está louco? }
+
+Plh_468 { Alguém quer lutar com o Jero? }
+
+Plh_469 { Eu admiro essa coragem. Coragem sem sentido, mas você tem meu respeito. }
+
+Plh_470 { Vou te enviar para as Divindades. Lute! }
+
+Plh_465 { Asmus... $GVAR:EVars_Player.Name$... O que você está fazendo?! }
+
+Plh_466 { Foi uma batalha honrosa. As Divindades pronunciaram seu julgamento. Jero nos liderará agora... }
+
+Plh_471 { Pela Jero! O portador da liberdade! }
+
+Plh_472 { Os vasos rúnicos agora pertencem aos Remnants. Com seu poder, deixaremos Drova para sempre. A liberdade está ao nosso alcance! }
+
+Plh_473 { Sigam-me, guerreiros Remnants. Vamos obter os vasos rúnicos. }
+
+Plh_382 { Isso não é bom, pode ser que — }
+
+Plh_383 { Silêncio! }
+
+Plh_384 { Ajoelhe-se e jure lealdade a mim. Eu os levarei a um mundo melhor, onde podemos viver sem Divindades. }
+
+Plh_337 { Há muitas coisas estranhas dos Bygones nesta câmara. O que você fez, $GVAR:EVars_Player.Name$? }
+
+Plh_247 { Estamos tão perto. Se encontrarmos as Divindades, teremos mais do que poder mágico suficiente para deixar Drova. Vamos trazer a magia rúnica para casa. }
+
+Plh_248 { Nós seguimos você, Jero! }
+
+Plh_249 { Até a morte e além! }
+
+Plh_250 { Em breve, vamos beber nossa cerveja em liberdade! Juntos! Sigam-me! }
+
+Plh_354 { NEMETON! }
+
+Plh_274 { O Nemeton! O Nemeton está vindo! }
+
+Plh_276 { Meu irmão... Então, nos encontramos novamente. }
+
+Plh_279 { À frente! }
+
+Plh_278 { Como você chegou aqui? }
+
+Plh_280 { A barreira havia desaparecido. O Corvo conseguiu nos levar para dentro da torre. Você causou sua própria ruína... }
+
+Plh_281 { Você destruiu a Floresta Primordial! A morte segue onde quer que você vá. Eu não permitirei que os vasos rúnicos acabem em suas mãos. }
+
+Plh_283 { Como se você não tivesse recorrido ao poder das Divindades! Ao poder do Javali Poderoso! Seus hipócritas! }
+
+Plh_355 { Não dirija-se à Herdeira da Charneca dessa forma! }
+
+Plh_284 { Guerreiros do Nemeton... Abaixem suas armas. }
+
+Plh_286 { Sangue suficiente já foi derramado. Isso diz respeito apenas a mim e meu irmão. Vamos resolver isso — e apenas com nosso próprio sangue. }
+
+Plh_287 { Apenas nós dois, irmão. O sobrevivente fica com os vasos rúnicos — e com eles, o futuro de Drova. }
+
+Plh_294 { Dediquei minha vida a levar o povo de Drova à liberdade. }
+
+Plh_295 { Se para alcançar isso eu tiver que aparecer diante das Divindades para julgamento — se eu tiver que morrer por isso, ou se eu tiver que tirar a vida da minha irmã... Então que assim seja. }
+
+Plh_297 { PELA JERO! }
+
+Plh_299 { Que todos testemunhem enquanto as Divindades proferem seu julgamento! Observe o futuro de Drova surgir da névoa! }
+
+Plh_300 { Então veremos o que você aprendeu nesse meio tempo — irmã. }
+
+Plh_301 { Você está prestes a descobrir — irmão. }
+
+Plh_190 { Eugen me contou o que aconteceu na charneca. Eu não esperava vê-lo novamente. Estávamos prestes a enviar outro grupo de busca. Você tem os cristais? }
+
+Plh_191 { Sim, aqui. (entrega) }
+
+Plh_322 { O Eugen surtou totalmente. Ele não me ajudou em nada. }
+
+Plh_192 { *analisa-os e sorri* Eu sinto o poder das Divindades dentro deles. Podemos começar. }
+
+Plh_330 { Vamos entrar na Torre Vermelha. Eu não sei o que nos aguarda lá. Prepare-se bem. }
+
+Plh_331 { Estou pronto. }
+
+Plh_332 { Preciso de apenas mais um pouco de tempo. }
+
+Plh_333 { Então termine o que está fazendo. Acelere! }
+
+Plh_323 { Falei com ele. Todos nós queremos sair daqui. Felizmente, você conseguiu sair vivo... Seu heroísmo ficará registrado na história de nosso novo mundo, $GVAR:EVars_Player.Name$. Mas primeiro precisamos chegar lá... }
+
+Plh_36 { A Torre Vermelha. Nosso caminho para a liberdade! Fomos presos em Drova por tempo demais, mas chegou a hora de escaparmos. }
+
+Plh_37 { Este foi nosso objetivo quando deixamos o Nemeton e fundamos os Remnants. Não passou um dia sem que nos esforçássemos por esse objetivo. }
+
+Plh_39 { Você foi parte do Nemeton? }
+
+Plh_38 { E agora nosso objetivo está ao nosso alcance. }
+
+Plh_41 { Todos eram — porque naquela época, o Nemeton era tudo o que havia. As pessoas pensavam que era a Terra das Lendas. Logo perceberam que não era, e alguns queriam ir embora. }
+
+Plh_42 { Os druidas do Nemeton não gostaram disso. Para moldar o Nemeton no que eles acreditavam que deveria ser, exigiram devoção e obediência. Qualquer dissidente era rotulado como traidor. Então nós saímos e fundamos o acampamento dos Remnants. }
+
+Plh_43 { Isso foi há mais de vinte anos. E acredite em mim — ninguém é forçado a se juntar a nós. Todos estão aqui por sua própria vontade. E acreditam em nosso objetivo. }
+
+Plh_49 { Se queremos alcançar nosso objetivo, precisamos de pessoas que tenham algo a oferecer. Pessoas que lutem. Pessoas que não duvidem de nosso caminho. }
+
+Plh_208 { Você nos mostrou o caminho através da Chama Negra; você trouxe o Cristal Divino, e você foi fundamental para que pudéssemos receber o poder das Divindades. }
+
+Plh_317 { Eis a Torre Vermelha. }
+
+Plh_318 { O feitiço protetor é forte e não pode ser derrotado com força física... Mas agora possuímos o poder de uma Divindade. }
+
+Plh_319 { Nossos druidas desenvolveram um ritual no qual podem usar prata para amplificar o poder mágico da Divindade e direcioná-lo para a barreira. }
+
+Plh_320 { Quero você ao meu lado quando entrarmos na Torre Vermelha. }
+
+Plh_53 { Ninguém sabe o que encontraremos na Torre Vermelha. Não posso prometer que todos nós vamos sobreviver. Mas prometo fazer tudo o que puder para que isso aconteça. Bem? }
+
+Plh_194 { Venha junto. }
+
+Plh_195 { (venha junto) }
+
+Plh_21 { *agarra sua mão, corta sua palma, depois faz o mesmo consigo mesmo* }
+
+Plh_25 { *pressiona sua mão e a dele contra a Torre Vermelha* Juramos um juramento de sangue. Você colocou seu destino em minhas mãos. E eu o libertarei de Drova. }
+
+Plh_54 { A Torre Vermelha é nosso caminho de saída. }
+
+Plh_61 { Você precisa de uma pedra rúnica. Finalmente podemos fazer algumas, graças ao Javali Poderoso. Vá até a Cuna e peça a ela para lhe dar uma pedra rúnica. Ela está do lado oeste da Academia. }
+
+Plh_64 { Depois disso, você irá se reportar ao Kilian. }
+
+Plh_62 { Agora vá. }
+
+Plh_193 { Comece o ritual, Manes. }
+
+Plh_304 { Imediatamente! Vamos colocar os Cristais Divinos em posição. }
+
+Plh_306 { Isso simplesmente tem que funcionar... }
+
+Plh_305 { Vai funcionar. Tenha fé em nosso povo, Jero. }
+
+Plh_309 { Comece! }
+
+Plh_307 { A barreira foi destruída! }
+
+Plh_308 { Prepare-se! A Torre Vermelha está aberta para nós! }
+
+Plh_310 { Você ouviu o Jero! Eugen, Fulk e $GVAR:EVars_Player.Name$. Preparem-se! }
+
+Plh_311 { Pela liberdade! (saudação) }
+
+Plh_313 { Para a Torre Vermelha. }
+
+Plh_314 { Pela Jero! }
+
+Plh_315 { Pelo Farlan. }
+
+Plh_324 { Você não tem muito tempo. Não vai demorar até que o Nemeton perceba que estamos na Torre Vermelha. Eles provavelmente atacarão. Eu cuidarei da defesa. }
+
+Plh_325 { Precisamos ser mais rápidos que o Nemeton. A guerra é inevitável. Temos que escapar. Vamos lá! }
+
+Plh_328 { Precisaremos do Javali Poderoso para o ritual. }
+
+Plh_327 { Kilian, você e Levin cuidam da defesa. Impediam o Nemeton de alcançar a Torre Vermelha. }
+
+Plh_81 { Olhe — a Torre Vermelha... Há quanto tempo eu sonho com este momento... }
+
+Plh_326 { Nosso caminho para a liberdade. }
+
+Plh_316 { Venha comigo! }
+
+Plh_211 { Conseguimos... }
+
+Plh_224 { ... À TORRE VERMELHA! Conseguimos! }
+
+Plh_225 { Toda a minha vida trabalhei por este momento... }
+
+Plh_226 { Jero, isso é incrível! }
+
+Plh_227 { Cuidado. Somos as primeiras pessoas a pisar na Torre Vermelha em uma eternidade. Este é território desconhecido. Aqui é onde os Bygones pereceram. }
+
+Plh_228 { Fique perto. }
+
+

@@ -1,0 +1,171 @@
+Plh_7 { Onde estamos? }
+
+Plh_8 { Como você chegou aqui? }
+
+Plh_12 { Alguma ideia do que devemos fazer aqui? }
+
+Plh_9 { *encolhe os ombros* Sob a terra. }
+
+Plh_10 { Eu estava tomando umas no tavern, com um cara que realmente aguentava bebida. Bem, ele me fez beber até eu cair da mesa. Então acordei aqui com uma ressaca infernal. }
+
+Plh_34 { Eu realmente poderia usar um trago... Você não tem nenhum Rustmoss, tem? }
+
+Plh_35 { Mas é claro. (mentira) }
+
+Plh_36 { Eles tiraram tudo de mim... }
+
+Plh_37 { Não. Como eu deveria escondê-lo? }
+
+Plh_38 { Sério!? E você também tem um cachimbo? Poderíamos ter um bom trago à noite, quando os guardas estiverem comendo. }
+
+Plh_42 { Quer saber COMO eu contrabandei esse cachimbo?... (mentira) }
+
+Plh_44 { Desculpe. Só estou brincando. Para falar a verdade, não tenho nada. }
+
+Plh_43 { Bem, para ser honesto, acho que é melhor eu não saber... }
+
+Plh_45 { *franze a testa* Não é brincadeira. Tudo o que nos resta aqui é esperança. Não brinque com isso. }
+
+Plh_41 { *suspira* O que eu não daria por um cachimbo bem cheio... }
+
+Plh_39 { Que pena. Isso era o mínimo que eles poderiam nos dar. Comida é boa e tudo, mas a mente precisa de algo também... }
+
+Plh_40 { Acho que é verdade. Parece que você não tem nada... }
+
+Plh_13 { Eles estão procurando por algo. Estamos revirando todas as ruínas, cavando montes de terra. Deve haver algo valioso lá, eu acho. }
+
+Plh_48 { Você viu tudo? }
+
+Plh_49 { Sim... Lanzo perdeu a cabeça. Ele espancou a pobre Bruna até deixar ela em um estado horrível. Eu adoraria... Mas, bem... }
+
+Plh_50 { Por que ainda estamos fazendo isso? }
+
+Plh_51 { O que você quer dizer? }
+
+Plh_79 { Alguém — em algum momento — começou isso... }
+
+Plh_52 { Violência. Socos, chutes, tudo isso. Qual é o ponto?! }
+
+Plh_54 { Se quisermos sair daqui, também teremos que nos tornar violentos. }
+
+Plh_53 { Ou isso, ou mentir e trapacear como nunca! A violência não funcionará. Especialmente quando estamos em menor número. }
+
+Plh_61 { Estamos em desvantagem, mesmo com mentiras e trapaças. }
+
+Plh_59 { E como isso funcionou para você? }
+
+Plh_55 { Mas não chegaremos longe apenas com violência. Tudo depende de encontrar a mistura certa. }
+
+Plh_56 { E se tivermos a chance de escapar — você vai estar a bordo? }
+
+Plh_58 { Bem, talvez. Mas apenas se for sem violência. Pelo menos, não quero ser forçado a isso. Vou precisar pensar sobre isso... É realmente difícil sem Rustmoss... }
+
+Plh_60 { Sim, sim, eu ainda não consegui sair, eu sei. Obrigado pela dica... }
+
+Plh_19 { É hora. Queremos fugir e precisamos da sua ajuda. }
+
+Plh_69 { Eu usei todas as minhas ferramentas de arrombamento — você tem algumas sobrando? }
+
+Plh_62 { Sério agora? Hmm, não sei, não sei... }
+
+Plh_63 { Os guardas acabaram de se retirar. É agora ou nunca! }
+
+Plh_64 { Nós falamos sobre isso ontem... }
+
+Plh_65 { Os outros também estão dispostos a fazer isso? }
+
+Plh_67 { Sim, todos eles. Eu só preciso abrir uma porta... }
+
+Plh_20 { *franze a testa* Na verdade, eu posso ter algo — só um momento... }
+
+Plh_46 { Eu peguei alguns talheres. Queria fazer algumas esculturas com isso — todo mundo precisa de um hobby... }
+
+Plh_47 { Dê uma olhada nisso... Você poderia usar como ferramentas de arrombamento. Não vai ser fácil, mas pode funcionar. Não conte a ninguém que são meus! Vou esperar com os outros. }
+
+Plh_66 { Claro, mas eu gostaria de mais tempo para pensar sobre isso... }
+
+Plh_68 { Tarde demais para isso. Tudo que preciso fazer é abrir mais uma porta... }
+
+Plh_70 { Eu ainda tenho algumas. Aqui. Espero que funcione... }
+
+Plh_30 { Ei, Wind, você voltou em uma peça? }
+
+Plh_31 { Sim... É simplesmente incrível estar de volta aqui! Obrigado novamente. }
+
+Plh_22 { Vamos nos encontrar lá. }
+
+Plh_16 { Ei, esses são realmente símbolos bonitos no chão. }
+
+Plh_71 { Finalmente — um ar fresco... }
+
+Plh_73 { O que você vai fazer com sua liberdade, $GVAR:EVars_Player.Name$? }
+
+Plh_72 { Ainda não sei. }
+
+Plh_74 { Estou voltando para minha facção. }
+
+Plh_75 { Vou dar uma olhada mais de perto no relicário. }
+
+Plh_76 { Vá onde o vento te levar, eu estou voltando para o meu amigo Pwyll. Você me encontrará ao norte da taverna. Passe por aqui às vezes. }
+
+Plh_77 { Eles devem ter sentido sua falta. É bom estar de volta entre amigos. }
+
+Plh_78 { Nós cavamos o suficiente para isso. Honestamente, não quero vê-lo novamente, nunca. Mas espero que seja útil para você. }
+
+Plh_80 { *olha para você com os olhos vermelhos, mas não parece te reconhecer* }
+
+Plh_81 { Ei, Wind, tudo certo com você? }
+
+Plh_82 { Quantos tragos você está passando? }
+
+Plh_83 { ... eeeeehhhhh, $GVAR:EVars_Player.Name$? É você? }
+
+Plh_84 { Conseguir Rustmoss é moleza por aqui. Que sonho! Quer um trago? }
+
+Plh_85 { Claro, senão eu sei que você vai fumar tudo. }
+
+Plh_86 { Não, eu vou passar. }
+
+Plh_87 { É realmente coisa boa. }
+
+Plh_88 { Então, onde está Pwyll? }
+
+Plh_89 { Eles não deixam você entrar? }
+
+Plh_96 { Ah bem... Vejo você por aí, Wind. }
+
+Plh_91 { Pwyll? Ah sim, ele foi. Teve um trago forte na noite passada, depois veio se despedir de nós. Odeio dizer isso, mas ele está chapado. }
+
+Plh_92 { O assisti quando ele estava saindo. Poderia jurar que ele derreteu na névoa... mas deve ter sido o trago. }
+
+Plh_90 { Não, eles estão todos tensos. Pwyll disse que é mais seguro perto deles, mas eu gosto de estar aqui. *sorrir amplamente* }
+
+Plh_97 { Sim. }
+
+Plh_98 { Eu estou sempre aqui. }
+
+Plh_94 { Oh. }
+
+Plh_95 { Ei. }
+
+Plh_14 { O que há? }
+
+Plh_99 { Queremos sair daqui. Poderíamos realmente usar sua ajuda. }
+
+Plh_6 { Sou Wind. Parece que você teve tanta má sorte quanto o resto de nós. Ainda assim... bem-vindo. }
+
+Plh_100 { Eu tenho um pouco de Rustmoss sobrando.}
+
+Plh_101 { Claro, é claro. Cara, como eu senti falta disso. Vamos compartilhar um cachimbo? }
+
+Plh_102 { Sempre com prazer. }
+
+Plh_103 { É tudo para você. }
+
+Plh_104 { Ok, espera um segundo... }
+
+Plh_106 { É bom estar ao ar livre... }
+
+Plh_107 { *sorrindo* Obrigado. }
+
+Plh_108 { Eu senti falta disso. Agora eu preciso de uma pausa. }

@@ -1,0 +1,323 @@
+Plh_222 { Onde posso encontrar as Lâminas de Jero? }
+
+Plh_230 { Eugen é uma lenda em Drova — ele é o lutador mais poderoso que existe. Ele derrota todos e tudo com seu fiel machado. }
+
+Plh_245 { Mas, infelizmente, hoje em dia ele passa o tempo bebendo na taverna, desperdiçando toda essa força. Ele está cansado de tudo. Mas ainda está em busca de um desafio. }
+
+Plh_229 { Boris tem muitas facetas. Ele é um bom lutador, mas imprevisível. Acho que ele ganha algumas moedas através de algumas... atividades desagradáveis. Que tipo, eu não sei. }
+
+Plh_244 { Sua palavra tem muito peso por aqui. Você encontrará sua cabana a oeste, perto da taverna. }
+
+Plh_49 { Como vão as coisas, Jola? }
+
+Plh_67 { Eu encontrei alguns novos trabalhadores. }
+
+Plh_122 { Eu quero trabalhar na Fossa. A nota diz que você está no comando? }
+
+Plh_231 { Eu ouvi que você pode me levar até a Fossa. Isso é verdade? }
+
+Plh_25 { Sobre Aldo... }
+
+Plh_91 { Vamos lá, dê uma olhada ao redor. Você verá os benefícios de estar aqui. }
+
+Plh_250 { Se você está procurando uma cama, todos os Cortadores dormem na antiga mina a leste da entrada. Você pode pegar uma cama lá. }
+
+Plh_256 { *te observa* }
+
+Plh_258 { Aparentemente, você escolheu o Nemeton. Não foi uma boa decisão. }
+
+Plh_259 { Posso entrar no acampamento dos Remnants? }
+
+Plh_260 { O Nemeton me convém melhor. }
+
+Plh_261 { Eu quero ficar em Drova e viver aqui em paz. }
+
+Plh_264 { Você pode. Pode negociar, apostar, beber. Mas não espere que os lutadores o tratem bem. Entre por sua conta e risco. }
+
+Plh_263 { Essa é sua decisão. Mas não seria a minha. }
+
+Plh_262 { Não desejamos brigar com o Nemeton. Temos nossos próprios objetivos. Todos vocês podem ficar aqui e fazer o que quiserem. }
+
+Plh_257 { Ei, você aí! }
+
+Plh_265 { Escória do Nemeton! Saia daqui! }
+
+Plh_266 { Guarde a arma, Florin. Tudo o que Jero disse foi que ninguém do Nemeton é permitido na Floresta da Inundação. Não queremos uma guerra. }
+
+Plh_267 { *grml* }
+
+Plh_268 { *respira pesadamente* O que você quer aqui? }
+
+Plh_269 { Vim negociar. }
+
+Plh_270 { Quero ver algumas lutas na arena. }
+
+Plh_271 { Sou um dos lutadores de Proximus. }
+
+Plh_280 { Você pode entrar. Mas preste atenção... os Nemeton não são amigos dos Remnants. }
+
+Plh_274 { Eu conheço você. Você é $GVAR:EVars_Player.Name$! }
+
+Plh_275 { Sua batalha contra Liandra foi lendária. Nunca pensei que você venceria. }
+
+Plh_276 { Você realmente mostrou a ela! }
+
+Plh_277 { ...e venceu! }
+
+Plh_278 { *tosse* Florin! Cuidado com seu comportamento. }
+
+Plh_279 { Desculpe. }
+
+Plh_281 { Não vi você lutando na arena ainda. }
+
+Plh_282 { Proximus falou de $GVAR:EVars_Player.Name$. }
+
+Plh_286 { Você pode entrar, mas não cause problemas! }
+
+Plh_165 { Não quero perder o fogo. Finalmente tendo alguma ação. }
+
+Plh_199 { A expedição voltou! Vamos conversar depois. }
+
+Plh_4 { Ei, não te vi aqui antes. Sou Jola. *sorri* E francamente... Você não parece bem, exatamente. Precisa de alguma coisa? }
+
+Plh_212 { Eu já vi muitos rostos antes, mas não lembro de ter visto o seu. É sua primeira vez aqui? }
+
+Plh_213 { Eu realmente preciso entrar no Nemeton. }
+
+Plh_234 { Sou novo em Drova, e estou procurando o Nemeton. }
+
+Plh_236 { Você está longe do Nemeton. Este é o acampamento dos Remnants. Qual é o seu interesse no Nemeton? }
+
+Plh_216 { Eu preciso mostrar esta pedra a um druida. }
+
+Plh_217 { Eu quero falar com um druida lá. }
+
+Plh_239 { Então você não precisa passar pela Charneca Vermelha. Temos druidas aqui também. Costumávamos ser parte do Nemeton, mas há algum tempo deixamos esses lunáticos por conta própria. }
+
+Plh_219 { Bom saber. Onde posso encontrar seus druidas? }
+
+Plh_240 { Na Academia. Mas é só para os Remnants. }
+
+Plh_243 { Se você quiser se juntar aos Remnants, terá que convencer um dos Blades de Jero — Boris e Eugen — a aceitá-lo. Você também precisará pertencer a um de seus esquadrões. }
+
+Plh_169 { Ei! Você agora é uma das pessoas de Eugen, certo? }
+
+Plh_170 { Isso mesmo. }
+
+Plh_171 { Como você sabe disso? }
+
+Plh_172 { Bom para você. E já que estamos nesse assunto... }
+
+Plh_174 { Da próxima vez que o ver, você pode perguntar algo para ele? }
+
+Plh_175 { Sobre o que é? }
+
+Plh_176 { Pergunte a ele pessoalmente. }
+
+Plh_177 { Bem, Eugen não aparece muito por aqui — na verdade, só quando ele fica bêbado e vai caçar. }
+
+Plh_179 { E... eu gostaria de conhecê-lo melhor, se você me entende. }
+
+Plh_180 { Você gosta dele? }
+
+Plh_181 { ...hã? }
+
+Plh_182 { Não tão alto! }
+
+Plh_183 { Eu não posso simplesmente me aproximar dele e dizer que quero conversar. }
+
+Plh_184 { Mas se ele acontecer de passar por aqui — se você puder fazer isso... }
+
+Plh_185 { Claro, eu vou. }
+
+Plh_186 { Esqueça. Algo assim, você tem que fazer por conta própria. }
+
+Plh_187 { Obrigado! }
+
+Plh_189 { Aqui. Porque você quer me ajudar. Eugen adora isso. Mas não deixe que ele saiba que é de mim. }
+
+Plh_188 { Oh... *olha para baixo* }
+
+Plh_190 { Ok, esqueça. }
+
+Plh_178 { *corando* Eu não posso! }
+
+Plh_173 { A fofoca se espalha rápido aqui no acampamento. }
+
+Plh_204 { Você sobreviveu — isso é realmente ótimo. Informe-se com Kilian. Ele está esperando por você. }
+
+Plh_205 { O que aconteceu aqui? }
+
+Plh_207 { Vou me apressar! }
+
+Plh_208 { O Nemeton realmente tentou nos atacar. Eles tentaram se infiltrar no acampamento, mas descobrimos sua farsa. E então lutamos contra eles. }
+
+Plh_209 { Nós vencemos, mas da próxima vez eles podem nos atacar com ainda mais força. }
+
+Plh_36 { Diga, você não saiu do acampamento completamente nu no escuro para que ninguém pudesse te pegar? Isso foi uma cena e tanto, tudo balançando no ar da meia-noite! }
+
+Plh_164 { Acho que Eugen se divertiu com você. Você pode querer ser um pouco mais cuidadosa da próxima vez, caso contrário, pode acabar se enrosquando nos arbustos, haha! }
+
+Plh_284 { Muito bom. Mas precisamos de mais Cortadores na nossa mina. Essa prata não vai se cortar sozinha. }
+
+Plh_51 { Se você conseguir mais trabalhadores, por favor, faça-os vir aqui. }
+
+Plh_203 { Precisamos de quatro pessoas agora mesmo. Para cada par de mãos, eu pagarei $GVAR:QuestVars_WorkerWorkerWorker_Config.RewardPerWorker$ moedas. }
+
+Plh_54 { Que tipo de pessoas devo procurar? }
+
+Plh_55 { Quem posso perguntar? }
+
+Plh_56 { Eu vou trazer alguns novos trabalhadores para você. }
+
+Plh_57 { Se eu encontrar algum, eu te avisarei. }
+
+Plh_59 { Eles devem ser capazes de cortar. Isso é suficiente. }
+
+Plh_60 { Qualquer um vagando por aí sem fazer nada. Há muitas pessoas sem trabalho relaxando na taverna do Olaf. }
+
+Plh_61 { Você poderia persuadir Meluna no acampamento dos Remnants. Na verdade, ela costumava nos ajudar com o corte, mas está parada há um tempo. }
+
+Plh_62 { Muito bom! Como eu disse, quatro pessoas seriam o suficiente. Envie-as diretamente para mim. }
+
+Plh_252 { Há professores aqui que poderiam me treinar? }
+
+Plh_254 { Há muitos bons lutadores aqui, mas a maioria ensinará apenas se você pertencer aos Remnants. }
+
+Plh_255 { Eu recomendo que você tente os lutadores da arena. Você os encontrará se passar pela taverna, em direção à arena. E leve algumas moedas com você. }
+
+Plh_68 { Sim, algumas pessoas já me relataram! }
+
+Plh_69 { Alguém chamado Jurek de uma das fazendas apareceu. Ele parece que pode contribuir bem. Ele é exatamente o tipo que estou procurando! }
+
+Plh_70 { Ruhan passou por aqui. Ele parece um pouco fraco — mas nós o tornaremos forte! }
+
+Plh_71 { Eu nunca teria pensado que ouviríamos de Meluna novamente! }
+
+Plh_285 { Ela estava irritada, mas não me importo. }
+
+Plh_72 { Agilo dos madeireiros veio aqui. Perguntou sobre esse tal de Gero. Ele estava realmente ansioso para estar conosco, mas quem quer que seja esse Gero, eu não posso dizer. }
+
+Plh_74 { Excelente! Graças ao seu recrutamento, temos mais algumas pessoas ajudando. Não vai passar despercebido. Como prometido. *pisca* }
+
+Plh_76 { Eu preciso de ainda mais pessoas. Então fique de olhos e ouvidos abertos! }
+
+Plh_119 { Estamos sempre procurando bons Cortadores. Há algo nisso para você também — um teto sobre sua cabeça, boa comida, muitas moedas... você não precisa se comprometer com nada! Pode trabalhar o tempo que quiser. }
+
+Plh_125 { O que eu tenho que fazer lá? }
+
+Plh_128 { Você trabalha em uma mina e corta prata. Sob nossa proteção. Quem corta conosco — nós cuidamos deles. Em todos os aspectos. }
+
+Plh_129 { Recentemente trouxe alguns para a Fossa... }
+
+Plh_200 { Hmm, na verdade, Mottek deve estar por perto. Ele queria voltar para a Fossa, e poderia te levar com ele... }
+
+Plh_131 { Eu não recomendaria que você fosse sozinho. Perigoso. }
+
+Plh_133 { Quem é Mottek? }
+
+Plh_201 { Em outras palavras, o que Levin diz vai? }
+
+Plh_134 { Onde exatamente eu encontro Mottek? }
+
+Plh_136 { Mottek era um Cortador. Agora ele é um dos lutadores no acampamento dos Remnants. Ele descobriu uma veia de prata na Fossa e ganhou a simpatia de Levin. Agora ele é um de nós! }
+
+Plh_202 { Levin determina se alguém pode entrar no Quarteirão Superior, mas seguimos Jero. Ele é nosso líder. Levin é o primeiro passo para chegar até ele. }
+
+Plh_137 { Ele provavelmente está por aí em volta da arena novamente. Ele teve essa ideia de se tornar um lutador de arena. Se você encontrá-lo, diga que eu te mandei. }
+
+Plh_233 { Você também pode ir até a Fossa por conta própria, mas não é seguro. }
+
+Plh_141 { Eu entendo. Obrigado. }
+
+Plh_248 { Apenas me dê as direções. }
+
+Plh_139 { Siga a estrada para o nordeste. Em algum momento você encontrará um santuário. Então vire para o leste e siga um caminho de terra. }
+
+Plh_140 { Então, apenas siga o caminho e você deve chegar à Fossa. Havia bandidos vagando por lá, mas eles devem ter ido embora agora. }
+
+Plh_249 { Cuide de si mesmo e não seja assaltado. Se estiver em dúvida, procure Mottek. }
+
+Plh_130 { E você não quer ser um Cortador? Bem, então espero que você se saia melhor em outro lugar. E que ninguém corte sua garganta à noite. }
+
+Plh_0 { Você sempre ouve sobre quem entra e sai do acampamento dos Remnants, certo? }
+
+Plh_23 { Você não pode apenas me dizer se viu Aldo? }
+
+Plh_1 { Estou sempre perto da entrada, sim. Por quê? }
+
+Plh_2 { Aldo saiu do acampamento recentemente? }
+
+Plh_3 { Aldo? O Mercador? Hm. De alguma forma, seu rosto está borrado na minha mente. Se você puder me ajudar a lembrar — para torná-lo mais claro... }
+
+Plh_5 { Eu entendo. Quanto? }
+
+Plh_6 { Talvez um cabeçada faça a memória voltar para você. }
+
+Plh_7 { Quero fazer um favor para Fulk. E então? }
+
+Plh_17 { Então, o que sobre Aldo? Fale! Ou você quer mais problemas? }
+
+Plh_210 { Eu volto. (fim da conversa) }
+
+Plh_8 { Finalmente, alguém que não precisa de auxílios visuais. Então deixe-me ser direto: $GVAR:QuestVars_TheDoppelgangers_Config.PriceForJola$ moedas. }
+
+Plh_19 { Aqui estão as moedas. E então? (entrega as moedas) }
+
+Plh_14 { Eu não preciso da sua ajuda. }
+
+Plh_22 { Oh, é um milagre! Minha memória está voltando! *limpa a garganta*... Aldo... }
+
+Plh_21 { Isso não é o suficiente. Volte quando tiver mais. }
+
+Plh_167 { Boa sorte na sua missão, então. }
+
+Plh_10 { Eu gostaria de pensar melhor. Uma cabeçada sem cabeça seria bem difícil de fazer. Acontece mais rápido do que você pensa... }
+
+Plh_251 { Eu não me importo para quem você está fazendo algo. Informação tem seu preço. }
+
+Plh_18 { Tudo bem. Você tem mais do que eu pensei... }
+
+Plh_211 { Você sabe onde me encontrar. }
+
+Plh_26 { Isso foi há alguns dias... Aldo deixou o acampamento à noite, indo para leste. Parecia que queria ir para os Remnants com outra pessoa. Ele parecia estressado e apressado. }
+
+Plh_168 { Ele sempre é tão quieto, mas os dois obviamente tiveram uma discussão. }
+
+Plh_27 { Você sabe para onde eles foram? }
+
+Plh_28 { Quem era a outra pessoa? }
+
+Plh_31 { Você viu mais alguma coisa? }
+
+Plh_29 { Eles saíram do acampamento. Eu não vi mais nada. Ele costumava passear pelo acampamento dos Remnants com bastante frequência. Apenas siga a estrada para o nordeste, atravesse o rio e você os verá. }
+
+Plh_30 { Não sei. Ele estava usando um chapéu ou algo assim, e eu não consegui ver seu rosto. Era um homem... Tenho certeza disso. E os dois pareciam se conhecer de alguma forma. }
+
+Plh_32 { Não. Apenas... Espere... Então Aldo voltou e passou por mim. Perguntei a ele sobre o paradeiro de seu amigo, mas ele estava completamente absorto em seus próprios pensamentos e me ignorou. Eu não sei o que estava acontecendo com ele. Normalmente ele para para conversar comigo. }
+
+Plh_33 { Tudo bem. Hmm... }
+
+Plh_34 { Você tem um bom golpe de direita, devo admitir. Fale com Kilian. Poderíamos usar pessoas como você. Você é sempre bem-vindo nas minas. }
+
+Plh_35 { Seja o que for que ele viu lá fora — pode estar esperando para te emboscar. Você precisará de uma boa arma, armadura grossa, caso contrário, você estará morto. Essa é uma dica gratuita. }
+
+Plh_103 { Quem é Jero? }
+
+Plh_109 { Mas... Este não é o País das Lendas? }
+
+Plh_246 { Ele é nosso líder. Ele é nosso salvador. }
+
+Plh_106 { Por muito tempo, ele acreditou no Nemeton. Ele queria construir um país aqui, como foi profetizado. Mas logo viu que isso foi um erro. }
+
+Plh_247 { Ele convenceu outros de que tinham que se separar, e assim o acampamento dos Remnants foi fundado — um santuário para aqueles que não se deixarão cegar pelo Nemeton. }
+
+Plh_113 { Em vez de correr atrás de um sonho impossível, Jero está fazendo tudo para garantir que possamos deixar Drova. E faremos tudo o que pudermos para garantir que ele tenha sucesso. }
+
+Plh_112 { UMA MENTIRA! Uma mentira que é oferecida a todos que vêm aqui, que até mesmo QUEREM vir aqui. Drova é uma prisão, e está abandonada. Mas ainda podemos escapar antes que tudo seja consumido pela Névoa da Morte... }
+
+Plh_100 { Quem são os Remnants? }
+
+Plh_94 { Em Drova, existem duas facções principais: os Remnants — somos nós — e o Nemeton. Não pretendemos viver nessas ruínas para sempre... Queremos sair daqui. Não apenas do acampamento dos Remnants, mas deste mundo! }
+
+Plh_237 { Para casa. Longe de Drova. Não podemos construir uma vida aqui. Jero nos salvará. Ele nos libertará. }

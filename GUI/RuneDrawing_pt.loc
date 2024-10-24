@@ -1,0 +1,9 @@
+draw { Sacar }
+
+delete { Excluir }
+
+move { Mover }
+
+close { Fechar }
+
+confirm { Confirmar }

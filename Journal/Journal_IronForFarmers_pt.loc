@@ -1,0 +1,5 @@
+Title { Ferro de Pântano para os Agricultores }
+
+Entry_01 { Quando cheguei, Jurek e Jerzy estavam se enfrentando. Eu devo ajudá-los a reunir $GVAR:QuestVars_IronForFarmers.NumItemsNeeded$ peças de ferro de pântano. Ele pode ser encontrado em todo o campo por aqui. }
+
+Entry_02 { Eu entreguei o ferro de pântano para os dois briguentos. Eles estão felizes com meu trabalho e contarão a Georg sobre isso. }

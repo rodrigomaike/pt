@@ -1,0 +1,459 @@
+Plh_28 { Que tipo de lugar é este? }
+
+Plh_29 { Como a ponte foi destruída? }
+
+Plh_30 { Que tipo de acampamentos você está falando? }
+
+Plh_34 { Sobre os trabalhadores... }
+
+Plh_367 { Você não verá mais o ladrão do poço de armazenamento por aqui. }
+
+Plh_371 { Eu não consegui encontrar nenhum ladrão do poço de armazenamento. }
+
+Plh_264 { Sobre Larea... }
+
+Plh_31 { Nós somos lenhadores. Devemos trabalhar para Nemeton, mas desde que a ponte foi destruída, alguns de nossos trabalhadores foram para o acampamento dos Remnants. }
+
+Plh_32 { Há alguns dias, houve um terremoto que causou bastante dano — especialmente na ponte. Se não conseguirmos consertá-la logo, não receberemos ajuda de Nemeton. Então mais pessoas vão nos abandonar para os Remnants... }
+
+Plh_33 { Nemeton e o acampamento dos Remnants são os principais assentamentos. Eles são arqui-inimigos. Mas se você não quiser se juntar a nenhum dos dois acampamentos, vai se perder em Drova... }
+
+Plh_370 { Venha. }
+
+Plh_138 { Não agora. }
+
+Plh_412 { Precisamos descobrir o que fazer a seguir. }
+
+Plh_413 { Sobre o líder da matilha de rippers... }
+
+Plh_414 { Você está bem? }
+
+Plh_415 { *suspiros* Os Nemeton estão aqui agora, então as coisas vão melhorar. Os trabalhadores estão voltando. Tudo está voltando ao normal. }
+
+Plh_416 { Você se provou confiável. Obrigado. }
+
+Plh_389 { *respira pesadamente* Não consigo acreditar. }
+
+Plh_391 { O que aconteceu? }
+
+Plh_392 { Você está bem? }
+
+Plh_393 { Eu... eu não sei. De repente, surgiram esses sons vindo da floresta. }
+
+Plh_394 { Já te disse: mande embora aquelas malditas bestas — elas estão crescendo rápido. }
+
+Plh_395 { É só isso? Ou ainda estão vindo mais? }
+
+Plh_398 { Acho que estamos seguros por agora. Tudo está tranquilo. }
+
+Plh_396 { Agilo levou um golpe, mas ele ainda está vivo. Felizmente, $GVAR:EVars_Player.Name$ e Niala estavam lá. Caso contrário, estaríamos todos mortos. }
+
+Plh_397 { Eu estava lá com Colin, mas ele não sobreviveu. *olha para o chão* }
+
+Plh_399 { Tem mais alguém ferido? }
+
+Plh_400 { Eu vi um corpo no caminho para cá. }
+
+Plh_401 { Nem todos sobreviveram. }
+
+Plh_403 { Sinto muito, Cengiz. Jalina e Merlind... Eles estão... }
+
+Plh_404 { ... }
+
+Plh_405 { Precisamos levá-los aos Divinities. Traga os corpos deles. Vamos enterrá-los. }
+
+Plh_406 { Cengiz, devemos... }
+
+Plh_407 { Apenas faça o que eu digo! }
+
+Plh_408 { *assente* }
+
+Plh_409 { Cengiz, primeiro devemos cuidar dos feridos. }
+
+Plh_411 { Eu disse, colete os corpos deles. Vamos enterrá-los. ENTENDIDO? }
+
+Plh_402 { Sim, eu acho que sim. }
+
+Plh_388 { Ainda há algumas daquelas criaturas imundas por aqui em algum lugar. Precisamos matá-las. }
+
+Plh_265 { Eu eliminei o líder da matilha de rippers. }
+
+Plh_266 { *franze a testa* O quê? Você quer dizer que você se aproximou dos rippers sozinho e matou o líder da matilha? Estou entendendo isso corretamente? }
+
+Plh_268 { Sim, foi exatamente tão simples. }
+
+Plh_269 { Eu voltei com alguns arranhões, mas fiz o trabalho. }
+
+Plh_270 { Inacreditável! Agora que você mencionou, não está vindo mais uivos do lado de fora. Tem mais em você do que parece. Eu teria apostado que aquelas bestas tinham te despedaçado! }
+
+Plh_271 { Você é cheio de surpresas. Eles poderiam usar pessoas como você em Nemeton. Pegue essas moedas. Obrigado por lidar com a situação dos rippers. }
+
+Plh_272 { Você acha que eles precisam de pessoas como eu em Nemeton? }
+
+Plh_274 { Eu te vejo por aí. }
+
+Plh_273 { Claro. Eles não aceitam qualquer um, mas se você conseguir resolver problemas, bem, eles te receberão de braços abertos. }
+
+Plh_275 { Finalmente, podemos dormir em paz e tranquilidade... Malditos rippers... }
+
+Plh_390 { Muitos deixaram o acampamento. Apenas alguns permanecem. Nós nos unimos. Lutamos juntos. Alguns de nós caíram. }
+
+Plh_418 { Nós preparamos Jalina, Colin e Merlind para os Divinities. }
+
+Plh_419 { Os Divinities os levarão para outra vida. }
+
+Plh_420 { Eles lutaram bem. Os Divinities os levarão junto. }
+
+Plh_421 { A ponte está consertada. As mortes deles não foram em vão. Os Nemeton estão conosco e nos protegerão. }
+
+Plh_422 { Eu venho de Gerdwin, e sou responsável por protegê-los. Você pode contar comigo. }
+
+Plh_423 { Os Remnants também nos ajudaram. Não teríamos conseguido sem $GVAR:EVars_Player.Name$. Pelo menos, não vivos. Isso é certo. }
+
+Plh_424 { Sem você, não teríamos conseguido — obrigado pela ajuda. Mas vamos tocar a partir daqui. Não precisamos de ninguém dos Remnants. }
+
+Plh_426 { Vamos beber por Merlind, Jalina e Colin, para que nunca os esqueçamos. }
+
+Plh_431 { Por Jalina. }
+
+Plh_432 { Por Colin. }
+
+Plh_428 { Pela vida. }
+
+Plh_429 { Pelos caídos. }
+
+Plh_433 { Nunca os esqueceremos. }
+
+Plh_425 { $GVAR:EVars_Player.Name$ também ajudou. Gerdwin disse que tudo está bem aqui. Estou segurando a fortaleza. }
+
+Plh_4 { E ainda me pergunto... Por que, em nome dos Divinities, a terra está tremendo novamente? É por sua causa! }
+
+Plh_49 { O quê?! Do que você está falando? }
+
+Plh_50 { Olá. Eu venho de — }
+
+Plh_51 { Você é o pobre idiota que foi agarrado pelos Divinities e arrastado para Drova! }
+
+Plh_55 { Meu nome é Cengiz. Os lenhadores vivem aqui. Bem, pelo menos aqueles que não foram embora. Malditos covardes... }
+
+Plh_57 { Asmus disse que eu deveria relatar a você. }
+
+Plh_58 { Você tem trabalho para mim? }
+
+Plh_59 { Asmus? E ele foi embora imediatamente? Filho da... }
+
+Plh_455 { Pelo menos ele te enviou. Precisamos de toda ajuda que pudermos obter por aqui... }
+
+Plh_60 { Não se iluda. Drova não é o que você pode ter sido dito... você verá em breve. }
+
+Plh_454 { Nós, lenhadores, trabalhamos para Nemeton. Sempre tivemos que lutar para superar as adversidades. Agora que a ponte foi destruída, estamos isolados de nossos aliados. Muitas pessoas nos abandonaram. }
+
+Plh_280 { É por isso que qualquer um que puder trabalhar é mais do que bem-vindo aqui. }
+
+Plh_277 { Para onde suas pessoas estão fugindo? }
+
+Plh_139 { O que exatamente você está fazendo aqui? }
+
+Plh_65 { Estou procurando uma maneira de Nemeton... }
+
+Plh_278 { Para o acampamento dos Remnants. Claro, é em uma localização mais protegida, mas se você se juntar a eles, está abandonando toda esperança de que possamos realmente transformar Drova na Terra das Lendas... }
+
+Plh_69 { Você pode me contar mais sobre esse acampamento dos Remnants? }
+
+Plh_72 { E tudo isso só por causa de uma ponte destruída? }
+
+Plh_70 { Posso ajudar de alguma maneira? }
+
+Plh_71 { Nemeton está em desordem. É liderada pela Herdeira do Brejo. Ela quer transformar Drova na Terra das Lendas. O irmão dela, Jero, não está convencido de que isso possa ser feito. Ele quer sair de algum jeito. Ele levou algumas pessoas com ele e fundou o acampamento dos Remnants — esses traidores. }
+
+Plh_282 { Desde então, têm havido conflitos entre os acampamentos. Ambos os lados estão lutando por pessoas. Nós, lenhadores, estamos um pouco à parte, mas somos leais a Nemeton. E eles sabem o que encontraram em nós. }
+
+Plh_140 { A ponte é a rota direta para Nemeton. É a única maneira de fornecermos madeira e de Nemeton nos ajudar rapidamente, se necessário. Mas agora a ponte está inutilizável — péssimo momento. }
+
+Plh_73 { Agora temos que aguentar até que a ponte seja reparada. E vamos torcer para não sermos pegados por nada com dentes ou garras. Blaan e Carima não podem nos proteger de tudo... }
+
+Plh_66 { Caso você não tenha notado, somos lenhadores. Fornecemos madeira para Nemeton. }
+
+Plh_281 { Mas desde que o terremoto destruiu a ponte, não conseguimos mais fazer isso. E, em troca, Nemeton também não pode nos ajudar. Neste momento, estamos indefesos. }
+
+Plh_67 { Você vai encontrá-la facilmente. Mas se você saiu da Garganta com as mesmas noções que os outros... Bem, digamos que não será o Nemeton que você está esperando. }
+
+Plh_53 { — a Garganta, eu posso dizer. Os Divinities te jogaram lá. Pelo menos você ainda está com todos os membros no lugar. Bem-vindo a Drova. }
+
+Plh_11 { Precisamos consertar a ponte o mais rápido possível. Poderíamos usar todas as mãos que pudermos conseguir. Você tem até duas delas! }
+
+Plh_141 { Nunca consertei uma ponte antes... }
+
+Plh_142 { O que posso fazer para ajudar? }
+
+Plh_294 { Nada complicado. Os outros te mostrarão o que fazer. }
+
+Plh_75 { Você provavelmente está exausto da viagem para Drova. Mas se você ainda quiser nos ajudar, procure Jendrik e Agilo. Eles vão te dizer onde você é necessário. }
+
+Plh_143 { Eles são confiáveis — eles tiram um peso das minhas costas. E ainda bem, porque eu tenho o suficiente para me manter ocupado... }
+
+Plh_14 { O que vou ganhar por minha ajuda? }
+
+Plh_47 { Você realmente precisa de Nemeton ao seu lado? }
+
+Plh_144 { Vou ver o que posso fazer... }
+
+Plh_19 { Você fará parte da comunidade. É isso que você vai ganhar. Junte-se ou desapareça. }
+
+Plh_283 { Eu sei que, em Drova, você terá que cuidar de si mesmo. Se você fizer sua parte, também receberá algo em troca. Eu ainda tenho algumas roupas de trabalho antigas por aqui. Se você nos ajudar, eu vou te dar elas. }
+
+Plh_147 { Elas devem servir em você, e são melhores do que nada. Os trapos que você está usando não vão servir. }
+
+Plh_48 { Nemeton precisa da nossa madeira, e nós precisamos de seus lutadores. Sem lutadores, os trabalhadores vão embora — é perigoso demais aqui. }
+
+Plh_284 { Os monstros nesta área estão se tornando cada vez mais ousados. Uma matilha de rippers está avançando do sul, vindo em nossa direção. O uivo deles está ficando cada vez mais alto a cada noite. Sem as armas de Nemeton, as coisas podem ficar complicadas. }
+
+Plh_20 { Bom. Se você quiser reunir suas forças, a tenda azul ao lado da minha está livre. Infelizmente, não temos muita comida, então você vai ter que se virar. }
+
+Plh_285 { Nossa caçadora Larea deveria ter voltado há algum tempo. Espero que nada tenha acontecido com ela. Não posso sair à procura dela agora. }
+
+Plh_22 { Onde posso encontrar Jendrik? }
+
+Plh_23 { Onde posso encontrar Agilo? }
+
+Plh_250 { Onde estava Larea? }
+
+Plh_25 { Geralmente perto do local de corte de madeira. A oeste daqui, onde todos os troncos estão espalhados. Se ele não estiver lá, provavelmente está cortando árvores. Nesse caso, você vai encontrá-lo perambulando ao norte do local de corte. }
+
+Plh_26 { Ele cuida da cozinha. Alguém tem que fazer isso. Geralmente, ele só joga as coisas juntas e mexe, mas eu realmente não quero saber o que ele está realmente colocando. Na verdade, ele não consegue cozinhar. }
+
+Plh_78 { *murmura* Vamos torcer para que ele não esteja mijando na panela. }
+
+Plh_249 { Ela está caçando ratos d'água nas proximidades. Não deve estar longe. }
+
+Plh_288 { Normalmente, ela nunca ficou fora tanto tempo... }
+
+Plh_27 { Me avise quando os outros estiverem trabalhando na ponte. }
+
+Plh_293 { É assim que eu gosto! Precisamos de pessoas que realmente queiram trabalhar duro! }
+
+Plh_194 { Onde posso encontrar Jendrik novamente? }
+
+Plh_35 { Jendrik e Agilo estão ambos trabalhando na ponte. }
+
+Plh_196 { No local de corte de madeira. A oeste do acampamento aqui. É onde eles processam a madeira do norte. Ele deve estar por lá em algum lugar. }
+
+Plh_39 { Excelente! Vamos torcer para que eles não sejam desastrados. A ponte deve ser reparada o mais rápido possível! }
+
+Plh_252 { *franze a testa* Então... Obrigado pela sua ajuda... Agora eu só tenho um pequeno problema... }
+
+Plh_253 { *grunhe* Eu prometi algumas roupas de trabalho para você... mas algum idiota limpou meu baú! Primeiro nossos suprimentos desaparecem, e agora alguém está roubando até DENTRO do acampamento! }
+
+Plh_254 { Eu não me importo. Você me prometeu as roupas de trabalho. Eu as quero. Agora. }
+
+Plh_255 { Ah, esqueça. Se alguém as roubou, elas simplesmente se foram. }
+
+Plh_256 { Inacreditável! Parece que você está perdendo o controle do seu acampamento. }
+
+Plh_257 { O que, você acha que eu poderia simplesmente puxar algumas do meu traseiro? EU NÃO TENHO NENHUMA. É tão frustrante, droga. Se eu conseguir recuperá-las, você vai recebê-las. }
+
+Plh_259 { Eu permaneço fiel à minha palavra. Não tenho outras roupas de trabalho, mas posso te dar algumas moedas. Aqui estão. Você pode usá-las para comprar algumas. }
+
+Plh_261 { Tudo bem. (pegar moedas) }
+
+Plh_262 { Fique com as moedas. Seu agradecimento é o suficiente para mim. }
+
+Plh_260 { Aí está. Talvez você consiga comprar alguma armadura no acampamento dos Remnants. }
+
+Plh_450 { Agora é apenas uma questão de tempo até que a ponte seja reparada. Tempo demais, infelizmente. Se tivéssemos mais pessoas, seria terminado muito mais rápido. Mas não temos. }
+
+Plh_199 { Posso fazer mais alguma coisa? }
+
+Plh_201 { Primeiro a ponte precisa ser reparada. Isso é o mais importante. Depois disso, veremos. }
+
+Plh_202 { Você pode continuar usando a tenda. No momento, ninguém mais precisa dela. Descanse lá. }
+
+Plh_198 { E se você for ao acampamento dos Remnants, fique nos caminhos. Os monstros são bastante agressivos. E isso não vai mudar tão cedo, temo... }
+
+Plh_258 { Sério? Assim, desse jeito? Isso não acontece muito em Drova. Eu te devo uma. }
+
+Plh_295 { *grunhe* Parece que sim. Você não pode confiar em ninguém hoje em dia... }
+
+Plh_41 { Bom trabalho. Eu prometi algumas roupas de trabalho para você, então você as terá. Elas podem cheirar um pouco mofadas, mas isso é um grande avanço para você! }
+
+Plh_443 { Você já pegou sua recompensa. Acho que estamos quites agora. }
+
+Plh_346 { O que está acontecendo aqui? Quem é aquele? }
+
+Plh_299 { Seu ladrão do poço de armazenamento. Mas ele quer trabalhar para você. }
+
+Plh_360 { Esse é Owain. Ele está procurando trabalho. (ocultar informações sobre o roubo) }
+
+Plh_300 { Ei! Eu pensei que você queria falar bem de mim! }
+
+Plh_325 { Você me traz o ladrão do poço de armazenamento e quer que ele TRABALHE para mim agora?! }
+
+Plh_326 { Devemos enforcá-lo! }
+
+Plh_327 { Uau, me dê uma chance, Cengiz! Eu não vou tocar nos seus poços de armazenamento novamente! }
+
+Plh_328 { *grunhe* Grrrr. Se eu não precisasse de trabalhadores tão urgentemente... }
+
+Plh_359 { Tudo bem, então. Vamos tentar. Mas primeiro você só estará trabalhando para pagar sua dívida por tudo que roubou! Caso contrário, você pode ir embora. }
+
+Plh_361 { *piscadas* Bem, tudo bem então. Isso é justo. A partir de agora, você pode contar comigo. }
+
+Plh_301 { Vamos ver. Amanhã você pode ser expulso do acampamento por Jendrik e seu machado. Estaremos de olho em você. }
+
+Plh_354 { Você pode dormir em uma das tendas perto da água. Se alguém reclamar, apenas diga que eu te enviei. }
+
+Plh_306 { Vou me reportar a Jendrik. Obrigado, Cengiz. }
+
+Plh_308 { Isso é mais duas mãos colocando-se a trabalho. Podemos realmente usar qualquer ajuda que conseguirmos. }
+
+Plh_316 { Aqui, isso é para o novo trabalhador que você me trouxe. Assim, ninguém pode alegar que eu não sou grato. }
+
+Plh_362 { Mmm. Owain. Eu conheço você. Você sabe como cortar madeira? }
+
+Plh_363 { Hum, não. Mas o que há para saber? Você balança o machado e corta a madeira. Repetidamente. }
+
+Plh_364 { Bah! Há mais nisso do que isso. Jendrik pode te ensinar tudo. }
+
+Plh_365 { Você pode trabalhar comigo. Por cada dia de trabalho, você vai ganhar algumas moedas, uma refeição e um lugar para dormir. E se você não for capaz, você estará fora. }
+
+Plh_434 { Te fica bem. Você não parece TOTALMENTE esfarrapado agora. *sorri* }
+
+Plh_435 { Ei! Você está vestindo minhas roupas... bem na minha frente? O que diabos você está pensando? }
+
+Plh_436 { Tire-as imediatamente! Então eu vou desviar o olhar... }
+
+Plh_437 { Tudo bem, aqui estão. (devolvendo) }
+
+Plh_438 { Esqueça. }
+
+Plh_440 { Isso é melhor. Em Nemeton, eles cortariam sua mão na hora se você não entregasse um pedaço de moedas. Eu faço as coisas de maneira diferente. }
+
+Plh_441 { Faça-se útil e ganhe as roupas. Então você vai recebê-las de volta. }
+
+Plh_442 { Hmph. Você não é melhor do que todos os outros babacas em Drova... Mas você precisa de roupas. Você não quer andar por aí parecendo assim. Bem, eu vou deixar passar. }
+
+Plh_456 { Bom te ver. }
+
+Plh_374 { Você realmente conseguiu? Quem era? }
+
+Plh_375 { Era esse Owain. }
+
+Plh_376 { Um forasteiro. }
+
+Plh_377 { Owain? Aquele cara veio até mim há um tempo procurando trabalho. Isso foi antes do terremoto. Eu o mandei embora porque não precisávamos de ninguém. Se ao menos ele tivesse voltado em vez de nos roubar... }
+
+Plh_379 { O que você fez com ele? }
+
+Plh_380 { Eu garanti que ele não pudesse roubar novamente tão cedo. }
+
+Plh_381 { Não se preocupe com isso. Ele não está voltando. }
+
+Plh_382 { *sorri* Então ele recebeu o que merecia. }
+
+Plh_384 { Aqui, pegue isso. Graças a você, isso é um peso a menos na minha mente. Bom trabalho. }
+
+Plh_383 { Não se ele ainda tiver um pouco de juízo, não. }
+
+Plh_378 { Algum escória que rouba de pessoas comuns... }
+
+Plh_372 { Você não conseguiu encontrar nada também? Droga. }
+
+Plh_373 { Se eu pegar aquele cara, vou estrangular ele... }
+
+Plh_207 { Agilo acha que alguém estava roubando os poços de armazenamento? }
+
+Plh_203 { Sim, eu vi alguém se esgueirando para lá à noite, mas nunca cheguei rápido o suficiente para identificá-los. Todo mundo no acampamento estava presente, então era alguém diferente... }
+
+Plh_208 { Eu gostaria de conseguir pôr as mãos naquele ladrão sujo... }
+
+Plh_209 { Talvez você consiga. Você receberá algumas moedas por isso. }
+
+Plh_447 { Eu já procurei por todos os lados. Longe e perto. Nenhum ladrão de poço de armazenamento à vista. }
+
+Plh_212 { Muito bem, então. Faça o que quiser com ele. O principal é que nada mais desapareça daqui. Você provavelmente só vai encontrá-lo à noite. Ele não tem estado por aqui durante o dia — até agora. }
+
+Plh_213 { Larea está de volta no acampamento. }
+
+Plh_214 { Eu encontrei Larea fora do acampamento... Ela... Ela está morta. }
+
+Plh_215 { Eu conversei com ela mais cedo, quando ela voltou. Que bom que ela não saiu, ao contrário de alguns outros. Aqui está um pequeno símbolo da minha apreciação. }
+
+Plh_219 { Espero que essas poucas moedas sejam um agradecimento por tudo que você fez. Perder Larea teria sido terrível. }
+
+Plh_216 { ... }
+
+Plh_217 { Morta? Larea? }
+
+Plh_218 { Não, isso não pode ser... Não... O que... Como...? }
+
+Plh_222 { Ela foi mordida por um ripper. A ferida era muito grave. }
+
+Plh_223 { A morte dela é minha culpa... }
+
+Plh_224 { Foi um erro. Agilo disse que a raiz da terra ajudaria ela, mas a matou. }
+
+Plh_225 { Malditos rippers! Eles estão se tornando cada vez mais perigosos. O tempo todo venho avisando a todos, mas eles continuam como se não se importassem. A matilha ao sul também está avançando... }
+
+Plh_241 { As pessoas foram embora. A ponte desabou. Larea está morta. Tudo está desmoronando. Larea... Droga. Sem a ajuda de Nemeton, todos nós vamos acabar assim. }
+
+Plh_234 { Vamos lembrar de Larea com reverência. Você é uma alma honesta. }
+
+Plh_235 { Pegue essas moedas como um agradecimento... E quando você gastá-las, pense em Larea. }
+
+Plh_226 { Sua culpa? Como? }
+
+Plh_237 { Eu queria levá-la de volta para o Acampamento dos Lenhadores, mas ela se recusou... }
+
+Plh_232 { Larea e sua maldita teimosia... Sempre tão forte, tão corajosa, nunca mostrando fraqueza... Droga... }
+
+Plh_240 { Eu não queria isso. }
+
+Plh_242 { Eu teria ajudado ela. É culpa dela. }
+
+Plh_243 { *olha para você severamente* }
+
+Plh_233 { Ambos devemos carregar o peso da morte de Larea. }
+
+Plh_246 { Eu vou carregar isso. }
+
+Plh_245 { O que aconteceu que te faz carregar esse peso? }
+
+Plh_228 { Aqui, isso é para você. Deve aliviar seu fardo, ao menos por esta noite. }
+
+Plh_247 { *não diz nada* }
+
+Plh_248 { Se algum dia formos beber uma caneca de hidromel juntos, eu te contarei sobre isso. Mas não até lá. Eu prefiro lidar com isso sozinho. }
+
+Plh_227 { Agilo? Ele não sabe nada sobre plantas! }
+
+Plh_236 { A raiz da terra não é imediatamente venenosa... Se ela acabou matando-a, ela deve ter estado em péssima forma antes. Que os Divinities me ajudem, espero que ela não tenha sofrido... }
+
+Plh_81 { Estou procurando Kora. Ela deve estar cuidando de algumas feridas. }
+
+Plh_98 { Sobre a ferida... }
+
+Plh_80 { Kora? Ela não está mais aqui. Pouco depois do terremoto, ela e os outros partiram para o acampamento dos Remnants. }
+
+Plh_82 { Ela era nossa única curadora. Agora só temos Agilo para cuidar das feridas. Às vezes ele faz mais mal do que bem, mas não temos ninguém mais... }
+
+Plh_83 { Suponha que eu fosse mordido por um ripper. O que eu deveria fazer? }
+
+Plh_84 { Como eu vou saber? Se ainda estiver sangrando, isso provavelmente não é um bom sinal. É melhor perguntar a Agilo. Ele está um pouco mais por dentro do assunto do que a maioria dos outros. }
+
+Plh_85 { Por que você está perguntando, de qualquer forma? Aconteceu algo com você? }
+
+Plh_89 { (mentir) Apenas curioso. }
+
+Plh_90 { Estou perguntando por um amigo. }
+
+Plh_91 { Eu encontrei Larea. Ela está ferida. }
+
+Plh_92 { *encolhe os ombros* Como sempre digo: Enquanto seu braço não cair, você ainda pode cortar madeira. }
+
+Plh_93 { Você não esteve aqui muito tempo, e mal conhece alguém. Diga-me a verdade. }
+
+Plh_94 { Larea? Hm. Eu não ficaria surpresa se ela tivesse se ferido. Ela sempre é obstinada em conseguir o que quer. Ela sabe perfeitamente que nos cuidamos aqui... }
+
+Plh_95 { Diga a ela para voltar ao acampamento. Nós vamos cuidar dela. Talvez ela te ouça. Ela geralmente ignora nosso conselho. }
+
+

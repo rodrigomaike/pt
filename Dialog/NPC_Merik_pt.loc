@@ -1,0 +1,209 @@
+Plh_25 { Sobre sua oferta por aquela picareta... }
+
+Plh_29 { A picareta está quebrada... }
+
+Plh_1 { Você tem algo que faz menos barulho? }
+
+Plh_106 { Você está vendendo algo além daquele Esmagador de Prata? }
+
+Plh_107 { Bem, claro! Na Merik, você vai conseguir tudo que o coração de um Hewer deseja! }
+
+Plh_98 { Lembre-se: Se sua vida tem cheirado como um esgoto, Merik está aqui para ajudar como Hewer. }
+
+Plh_93 { Você tem algo — algo especial em estoque? }
+
+Plh_94 { Eu? Bem, só o que você pode ver aqui. Afinal, não sou autorizado a vender qualquer coisa que eu quiser. *olha para os lados* }
+
+Plh_95 { Bem, então, vou gastar meu prata em outro lugar... }
+
+Plh_96 { Tudo bem. Obrigado de qualquer forma. }
+
+Plh_97 { *abaixa a voz* Mas, obviamente, eu também não quero decepcionar as pessoas e deixá-las saírem de mãos vazias. }
+
+Plh_99 { Para você, eu tenho alguns, eh, outros itens. Dê uma olhada mais de perto. }
+
+Plh_4 { Não estou vendendo nada agora. Volte à noite. }
+
+Plh_81 { Ei. Eu sou Merik, mas estou realmente ocupado agora. Passe na minha barraca mais tarde. Posso vender algo para você então. }
+
+Plh_84 { Você pode usar isso para hew pedra como se fosse madeira. Confie em mim! Hewing nunca foi tão bom! }
+
+Plh_85 { Hm. Sério? }
+
+Plh_86 { Ouço descrença? Você pode confiar nos meus produtos! }
+
+Plh_87 { Tudo bem, então vou levar uma dessas coisas. }
+
+Plh_88 { Com prazer! E venha me ver se precisar de mais equipamentos! }
+
+Plh_26 { Bem, você mudou de ideia? O Esmagador de Prata está ansioso para que você o use! }
+
+Plh_13 { Droga, caro... }
+
+Plh_15 { O que torna o Esmagador de Prata superior a qualquer picareta convencional? }
+
+Plh_18 { O Esmagador de Prata é apenas outra picareta de uma cor diferente, não é? }
+
+Plh_20 { Qual é a pegadinha? }
+
+Plh_6 { Tudo bem, vou levar a picareta. (Pague $GVAR:QuestVars_BluntHoe_Config.PriceForPickaxe$ prata) }
+
+Plh_28 { Tudo bem, vou levar a picareta. (Pague $GVAR:QuestVars_BluntHoe_Config.ReducedPriceForPickaxe$ prata) }
+
+Plh_7 { Eu não quero. }
+
+Plh_22 { Não, obrigado. Vou embora agora. (encerrar conversa) }
+
+Plh_14 { Faça as contas. Você vai precisar de metade da força para cada golpe, então conseguirá hew duas vezes mais prata. Eu deveria cobrar o dobro! }
+
+Plh_16 { Tudo! Tudo é melhor! O modelo anterior teve uma reação ruim ao prata, mas nós resolvemos isso! }
+
+Plh_19 { O quê? Esse é o resultado de eras de pesquisa. O que você está insinuando? *uma gota de suor escorre pela sua testa* }
+
+Plh_21 { Eu não vendo pegadinhas — apenas hatches, hahaha! Talvez você tenha que se acomodar aqui... }
+
+Plh_112 { E isso seria muito mais fácil com o Esmagador de Prata! Mas você vai perceber isso logo. }
+
+Plh_8 { Uma escolha sábia! *sorrindo amplamente e mostrando um dente de ouro* }
+
+Plh_10 { Temos um acordo. *sorrindo* Boa sorte com a hewing! }
+
+Plh_11 { Espere, você não tem prata suficiente! Volte quando puder me pagar. }
+
+Plh_27 { Ouça. Eu gosto de você, então farei uma exceção. Eu vou te dar um desconto no Esmagador de Prata. $GVAR:QuestVars_BluntHoe_Config.ReducedPriceForPickaxe$ prata! }
+
+Plh_23 { *ranger os dentes* Tudo bem, você obviamente acha que sabe melhor. Apenas venha rastejando de volta aqui, depois que você se mataram de trabalhar e mudar de ideia. }
+
+Plh_89 { Ah, eu não acho que tivemos o prazer de fazer negócios até agora! *sorrindo amplamente* }
+
+Plh_0 { Bem-vindo à minha barraca! Eu sou Merik! Aqui você terá tudo que o coração de um Hewer deseja! Você não encontrará uma oferta melhor em lugar nenhum — não na Mina ou em qualquer outro lugar de Drova! }
+
+Plh_117 { Aqui na Mina, não aceitamos moedas. Nós trocamos bens. }
+
+Plh_5 { Bem, você parece forte, mas não é hewing exaustivo? Isso não está drenando sua força? Há outra maneira! }
+
+Plh_90 { Basta usar uma das MINHAS picaretas novas e melhoradas! *segura uma picareta* }
+
+Plh_12 { Apresento: O ESMAGADOR DE PRATA! Com uma ponta extra endurecida que foi revestida magicamente sob a lua cheia. Ele esmaga prata como uma faca na manteiga! }
+
+Plh_114 { Seu cabo de madeira da noite se encaixa confortavelmente na sua palma. Com o Esmagador de Prata, você precisa de apenas metade da resistência para cada golpe! A mesma quantidade de trabalho, mas duas vezes mais prata! }
+
+Plh_115 { Esqueça a picareta de ontem — pegue o Esmagador de Prata! Hoje! }
+
+Plh_91 { E apenas pelo preço promocional de $GVAR:QuestVars_BluntHoe_Config.PriceForPickaxe$ prata! E a esse preço, estou me cortando! Então, o que acha? }
+
+Plh_57 { Desculpe, estou realmente ocupado agora. Voltarei mais tarde para vender algo a você. }
+
+Plh_60 { Você está roubando coisas aqui? }
+
+Plh_61 { Eu tenho que ir. }
+
+Plh_63 { Some fora. Isso não é da sua conta. }
+
+Plh_65 { Levin ficaria interessado em saber o que você está fazendo aqui... }
+
+Plh_66 { O que está acontecendo aqui? }
+
+Plh_108 { Você quer um pedaço de mim? Melhor tomar cuidado... }
+
+Plh_70 { *olha para Katsa* }
+
+Plh_71 { Nós garantimos que vocês Hewers tenham equipamento suficiente. Merik o pega aqui e vende para você. }
+
+Plh_72 { Então você está contrabandeando itens para a Mina? }
+
+Plh_73 { Posso ajudar? }
+
+Plh_109 { *te encara com seriedade* Apenas fique fora disso. }
+
+Plh_76 { *continua trabalhando* }
+
+Plh_77 { Ninguém precisa saber o que estamos fazendo aqui. Que tal você fechar a boca e eu fico te devendo uma? }
+
+Plh_79 { Levin não gostaria disso. }
+
+Plh_78 { Eu não vou ver nada, supondo que você não vai ver nada da próxima vez que eu quiser sair. }
+
+Plh_68 { Pense bem sobre o que você vai dizer e para quem... }
+
+Plh_80 { *sorrindo* Tudo bem, é um acordo. Mas você pode sair de graça apenas UMA VEZ. E se Levin descobrir o que você viu, eu saberei quem é o responsável. }
+
+Plh_51 { Acredito que tivemos um pequeno mal-entendido. Vamos recomeçar. *sorrindo* }
+
+Plh_50 { Argh. Meu braço... }
+
+Plh_53 { Você mexeu comigo, e agora vai pagar em prata. }
+
+Plh_54 { Entregue a prata, ou eu vou te espancar até a morte. }
+
+Plh_55 { *ergue ambas as mãos* Ei, ei, calma. Podemos resolver isso. Aqui, pegue. }
+
+Plh_56 { Eu realmente não deveria fazer negócios com você. Mas eu também preciso ganhar a vida... }
+
+Plh_83 { Você já pegou tudo que eu tinha! }
+
+Plh_3 { Ei! O que vai ser desta vez? }
+
+Plh_37 { A picareta quebrou de novo! }
+
+Plh_38 { Não pode ser! Você está usando corretamente? Isso nunca aconteceu antes — juro que não tenho ideia do que está acontecendo! }
+
+Plh_31 { Talvez eu tenha feito algo errado... }
+
+Plh_32 { Você está me tirando? Você me roubou! }
+
+Plh_33 { Eu deveria apenas te socar. (iniciar briga) }
+
+Plh_34 { Não, sem danos. Por apenas $GVAR:QuestVars_BluntHoe_Config.PriceForPickaxe$ prata eu vou conseguir uma nova para você! Você só precisa usá-la corretamente. }
+
+Plh_42 { Tudo bem. Aqui. (Pague $GVAR:QuestVars_BluntHoe_Config.PriceForPickaxe$) }
+
+Plh_43 { Esqueça. }
+
+Plh_44 { Muito, muito bom. E desta vez, não segure a coisa de cabeça para baixo! }
+
+Plh_45 { Você não tem prata suficiente! }
+
+Plh_47 { Faça como quiser. Muitos dos meus clientes juram pelo Esmagador de Prata. Mas se você prefere trabalhar mais duro... }
+
+Plh_35 { Calma agora. Eu valorizo a opinião dos meus clientes. Mas não preciso aceitar esse tipo de insinuação sem responder. }
+
+Plh_39 { Seus Smashers são uma porcaria! }
+
+Plh_40 { Vamos resolver isso de outra maneira. Com os punhos. (iniciar briga) }
+
+Plh_41 { Seu escroto. Apenas esqueça. (encerrar conversa) }
+
+Plh_46 { Precisamos trabalhar na nossa relação comercial. }
+
+Plh_113 { Que tal um desconto? O próximo Esmagador de Prata eu vou te vender por $GVAR:QuestVars_BluntHoe_Config.LowestPriceForPickaxe$ prata. Oferta única! }
+
+Plh_82 { Tudo bem. Aqui. (Pague $GVAR:QuestVars_BluntHoe_Config.LowestPriceForPickaxe$) }
+
+Plh_48 { Você realmente acha que eu compraria outro, seu escroto? Vou te ensinar modos agora. (iniciar briga) }
+
+Plh_49 { Oh é? Essa é uma linguagem que eu entendo! }
+
+Plh_36 { Sua picareta quebrou quase instantaneamente! }
+
+Plh_30 { Impossível! Você segurou de cabeça para baixo ou algo assim? Você cuidou bem dela? Você hew com o ângulo correto? Essas coisas duram uma vida inteira! }
+
+Plh_2 { O barulho na Mina, né? Sim, todo aquele barulho pode te deixar louco. Felizmente, eu tenho proteção para os ouvidos em estoque. }
+
+Plh_116 { Isso vai proteger seus ouvidos. E seus nervos. E não custa tanto assim! }
+
+Plh_24 { Mostre-me seus produtos. }
+
+Plh_100 { O coração do Hewer bate forte aqui! Pegue enquanto pode! }
+
+Plh_101 { Picareta gasta? Sem problemas! Venha para a Merik! }
+
+Plh_102 { Poupanças, poupanças, poupanças! }
+
+Plh_103 { Duas picaretas pelo preço de três! }
+
+Plh_104 { Barraca do Merik! Há apenas uma! Venha conferir! }
+
+Plh_111 { Quando a vida do Hewer está te deixando para baixo, venha para a Merik, vire essa cara para cima! }
+
+

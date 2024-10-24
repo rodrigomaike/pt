@@ -1,0 +1,5 @@
+Title { Carne para os Hewers }
+
+Entry_01 { Shona, que é responsável pela comida, quer que eu consiga $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ pedaços de carne crua e fibrosa dos porcos de escavação na Fossa. }
+
+Entry_02 { Shona preparou um novo prato com a carne que eu trouxe para ela. Isso manterá os Hewers bem alimentados por um tempo. }

@@ -1,0 +1,19 @@
+Entry_01 { Alguém roubou um pacote de Asmus, e eu devo recuperá-lo. Ele não tem a menor ideia de quem possa tê-lo levado. Eu devo perguntar por conta dele. }
+
+Entry_02 { Afrin admitiu que sabe onde está aquele pacote. Mas ele não vai me contar. Tenho que descobrir por conta própria. }
+
+Entry_03A { Convenci Afrin a falar com Asmus. Ele me disse que posso encontrar o pacote no pomar, perto da árvore ao lado da pilha de madeira. Depois disso, devo ir vê-lo. }
+
+Entry_03B { Às vezes, os punhos falam mais alto que as palavras. O pacote está enterrado no pomar, perto da árvore ao lado da pilha de madeira. }
+
+Entry_03C { Afrin se ofereceu para simplesmente comprar o pacote de mim. }
+
+Entry_03D { Eu comprei a dica de Afrin. O pacote está enterrado no pomar, perto da árvore ao lado da pilha de madeira. }
+
+Entry_04 { O pacote está finalmente em minhas mãos. Agora só preciso levá-lo de volta para Asmus. }
+
+Entry_05 { Asmus recuperou seu pacote, e fui devidamente recompensado. }
+
+Title { O Pacote Roubado }
+
+Entry_06 { O assunto foi resolvido. }

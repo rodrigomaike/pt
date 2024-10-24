@@ -1,0 +1,19 @@
+Entry_01A { Eu sou responsável por levar o pacote que obtive de Afrin para Boris, no acampamento dos Remnants, e trocá-lo por moedas. }
+
+Entry_01B { Boris quer que eu consiga um pacote de Asmus e o traga de volta para ele. Ele me prometeu algumas moedas por isso. }
+
+Entry_02 { Boris tem o pacote. Se eu quiser ver algumas moedas, tenho que vender o Rustmoss para ele lá. }
+
+Entry_03 { Bem, o pacote foi entregue, e as moedas estão nos meus bolsos. Tudo o que resta agora é levar tudo de volta para Asmus. }
+
+Entry_04 { No caminho de volta, fui assaltado por bandidos. Aparentemente, eles estavam me procurando e foram enviados por Boris. Eu preciso ter uma conversa com ele. }
+
+Entry_05 { Eu vendi a nota para Boris por $GVAR:QuestVars_LucrativeBusiness_Config.LetterPrice$ moedas. Agora só preciso ir até Asmus. }
+
+Entry_06 { Asmus acredita na história sobre o assalto, mas ele não pode fazer nada sem provas. Ele precisa das moedas, e eu sou responsável por consegui-las de outra maneira. }
+
+Entry_07 { Eu entreguei as moedas a Asmus. Como recompensa, ele me deu uma parte das moedas de volta. }
+
+Title { Negócio Lucrativo }
+
+Entry_01C { O negócio não foi concretizado. }

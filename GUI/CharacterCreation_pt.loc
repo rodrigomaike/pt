@@ -1,0 +1,81 @@
+EnterName { Insira o nome... }
+
+Body { Corpo }
+
+Visual { Aparência }
+
+Souvenir { Lembrança }
+
+SaveMode { Modo de Jogo }
+
+DefaultMode { Clássico }
+
+ImmersiveMode { Ferro }
+
+StoryMode { Explorador }
+
+SkipIntro { Pular Introdução }
+
+Option_BodyType { Físico }
+
+Option_SkinColor { Cor da Pele }
+
+Option_Voice { Voz }
+
+Option_Hair { Estilo de Cabelo }
+
+Option_HairColor { Cor do Cabelo }
+
+Option_Deco { Decoração }
+
+Option_Beard { Barba }
+
+Option_BeardColor { Cor da Barba }
+
+Souvenir_Empty { Sem Lembrança }
+
+Souvenir_Empty_Tooltip { Apenas você e suas habilidades. Você tem tudo o que precisa. }
+
+Souvenir_Alchemy { Remédios }
+
+Souvenir_Alchemy_Tooltip { Você está bem preparado e sempre carrega uma pequena reserva de remédios com você. }
+
+Souvenir_Money { Bolsa de Moedas }
+
+Souvenir_Money_Tooltip { Você nunca sai de casa sem sua bolsa de moedas. }
+
+Souvenir_Health { Anel da Vida }
+
+Souvenir_Health_Tooltip { Este anel é infundido com a Essência da Vida. Sua vida é aumentada. }
+
+Souvenir_Thief { Ganzúa }
+
+Souvenir_Thief_Tooltip { A sorte favorece os... bem, aqueles que fazem sua própria sorte. }
+
+Souvenir_Strength { Anel da Força }
+
+Souvenir_Strength_Tooltip { Você valoriza a força física. Este anel é perfeito para isso. }
+
+GameMode_Normal_Tooltip { Configuração recomendada. Drova é perigoso. Tenha cuidado com quem você mexe! }
+
+GameMode_Immersive_Tooltip { Viva com suas decisões. Você tem apenas um jogo salvo e o jogo salva automaticamente. }
+
+InvalidName { Este nome não está disponível! }
+
+HardcoreMode { Modo Hardcore }
+
+GameMode_Hardcore_Tooltip { O desafio supremo. Você tem apenas uma vida e um jogo salvo. }
+
+UseKeyboard { Por favor, insira seu nome usando o teclado! }
+
+GameMode_Story_Tooltip { Você causa mais dano e pode suportar mais dano. }
+
+Story_PopUp { Tem certeza de que quer jogar Drova no modo Explorador?<br><br>Você causa mais dano e pode suportar mais. Você pode personalizar os valores de dano nas opções e alternar entre o modo Explorador e o Clássico livremente.<br><br>Você pode salvar e carregar a qualquer momento. }
+
+Immersive_PopUp { Tem certeza de que quer jogar Drova no modo Ferro?<br><br>Você só tem um jogo salvo e o jogo salva automaticamente regularmente após diálogos, batalhas, progresso de missões e decisões importantes.<br><br>Você não pode alterar este modo depois de começar o jogo. }
+
+Hardcore_PopUp { Tem certeza de que quer jogar Drova no modo Hardcore?<br><br>Você só tem um jogo salvo e o jogo salva automaticamente. Se seu personagem morrer, seu jogo salvo será excluído.<br><br>Depois de começar o jogo, você não pode mais alterar este modo.<br><br>O desafio supremo. Apenas os lutadores mais duros de Drova podem dominar este modo. }
+
+SaveModePopUp_Title { Selecione o modo de salvamento }
+
+SaveModePopUp_Text_Default { Em Drova, você tem várias opções para salvar seu jogo.<br><br>No modo clássico, você pode salvar em diferentes slots a qualquer momento.<br><br>Se você selecionar o modo Ferro, terá apenas um jogo salvo e o jogo salva automaticamente. O salvamento manual não é possível neste modo. }

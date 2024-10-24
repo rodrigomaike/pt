@@ -1,0 +1,280 @@
+WakingUp { O que você quer? Estou tentando dormir aqui. }
+
+WakingUp_End { Finalmente posso voltar a dormir. }
+
+SuspiciousPlace { Ei! Você não tem nada a ver com isso! }
+
+SuspiciousPlace_OnEnd { Sim, fique longe daqui! }
+
+Plh_52 { Faça isso de novo, e eu não serei tão amigável. }
+
+BrawlEndWinner { É melhor prestar atenção em quem você está mexendo. }
+
+Plh_51 { Espero que isso tenha te ensinado uma lição! }
+
+Plh_142 { Quem você pensa que é? }
+
+Plh_157 { Moedas! Agora elas são minhas... }
+
+Plh_159 { Que fraco... }
+
+Plh_160 { Você vai ter que fazer muito melhor do que isso. }
+
+Plh_161 { Nunca mais tente isso de novo! }
+
+Plh_166 { Boa noite. }
+
+Plh_167 { Esse acertou em cheio! }
+
+Plh_168 { Isso é tudo, ou o quê? }
+
+Plh_169 { Isso foi ridículo. }
+
+Plh_170 { Apresentação patética. }
+
+Plh_171 { Quem cai por causa de algo assim? }
+
+Plh_124 { Ei, vai com calma. Eu não quero problemas. }
+
+Plh_62 { Nem pense em sair! }
+
+BrawlBeforeFlee { Fique aqui e enfrente! }
+
+Plh_50 { Covarde! Pare de fugir! }
+
+Plh_143 { Hmm. Alguém ficou com medo? }
+
+Plh_144 { Não terminamos aqui! }
+
+Plh_155 { Pare aí mesmo, canalha! }
+
+Plh_156 { Sim, é melhor correr! }
+
+Plh_158 { Continue correndo, covarde! }
+
+Plh_162 { Sim, continue correndo! }
+
+Plh_163 { Espere até eu colocar minhas mãos em você...! }
+
+BlockingWay_01 { Dê passagem, preciso passar! }
+
+BlockingWay_02 { Já anda logo! }
+
+BlockingWay_03 { Saia daqui, ou vou te dar um soco no nariz! }
+
+HoldingWeapon_01 { Guarde essa arma! }
+
+HoldingWeapon_02 { Guarde essa maldita arma! }
+
+HoldingWeapon_03 { Você é surdo?! Abaixe sua arma! }
+
+Noise_01 { ... o que está acontecendo aqui? }
+
+Noise_02 { Silêncio, droga! Eu quero dormir! }
+
+Noise_03 { Cale a boca logo, ou vai ter problema! }
+
+StandingInWay_01 { Abra caminho! }
+
+StandingInWay_02 { Saia do caminho! }
+
+StandingInWay_03 { Cai fora ou você vai se arrepender! }
+
+Stealing { Devolva isso agora! }
+
+Plh_129 { Pegue, eu só não quero problemas. }
+
+Trespassing_01 { Ei! O que você está fazendo aqui? }
+
+Trespassing_02 { Você não tem nada para fazer aqui. Saia! }
+
+Trespassing_03 { Se você não sair agora, vai se arrepender muito! }
+
+Lockpicking { Tire suas mãos imundas das minhas coisas! }
+
+Plh_145 { VOCÊ ESTÁ GOSTANDO DISSO?! }
+
+Plh_133 { NÃO ESTOU TE DIVERTINDO?! }
+
+Plh_146 { Ninguém consegue me derrubar. }
+
+Plh_132 { Olhem para mim! Quem quer ser o próximo?! }
+
+Plh_131 { Bem lutado! Eu definitivamente faria isso de novo! }
+
+Plh_138 { Da próxima vez, você pode tentar um pouco mais. }
+
+Plh_130 { E mais uma vitória para a lenda. }
+
+Plh_137 { Quem é o próximo?! }
+
+Plh_135 { Foi isso que você conseguiu fazer? }
+
+Plh_73 { Talvez você se saia melhor como Cortador. }
+
+Plh_134 { Mais uma vitória para o futuro campeão! }
+
+Plh_136 { Quando eu vou enfrentar os verdadeiros lutadores?! }
+
+Plh_147 { Sem ofensa, mas isso realmente não foi suficiente. }
+
+Plh_148 { Faça um esforço, perdedor. }
+
+Plh_149 { Continue assim, e você nunca chegará ao topo. }
+
+Plh_74 { Vamos lá! }
+
+Plh_139 { Mostre-me o que você tem. }
+
+Plh_140 { Eu vou te esmagar! }
+
+Plh_141 { Não se segure! }
+
+Plh_150 { Agora, ações falam mais que palavras. }
+
+Plh_151 { Coma terra! }
+
+Plh_152 { Sua vez agora! }
+
+Plh_153 { Você vai se arrepender disso logo. }
+
+Plh_154 { Você é meu! }
+
+Plh_172 { Hora de começar o show. }
+
+Plh_173 { Ha, isso vai ser divertido. }
+
+Plh_174 { Hora de causar problemas! }
+
+Plh_175 { Primeiro bata, depois fale! }
+
+Plh_88 { Pegue sua comida primeiro. Você vai precisar dela. }
+
+Plh_89 { Ah, um rosto novo, eu vejo. Sou Haron, e garanto que todos vocês trabalhem como devem. Você é — vamos ver, você está no túnel norte. Mexa-se! }
+
+Plh_92 { Vá com calma e descanse o que puder, porque amanhã voltaremos ao trabalho pesado. }
+
+Plh_90 { E então? Um pouco de trabalho duro nunca matou ninguém, certo? *pisca* }
+
+Plh_114 { Verdade. }
+
+Plh_115 { Hmpf. }
+
+Plh_116 { Continuaremos amanhã. }
+
+Plh_86 { Eu consigo ver os escombros até daqui. Como vamos passar por isso? Abra caminho, então eu deixo você ir. }
+
+Plh_87 { Meu instinto me diz que você não alcançou sua cota de quebrar pedras de hoje. }
+
+Plh_93 { Vamos, vamos. Limpe a passagem norte já! }
+
+Plh_117 { Ansioso por isso? }
+
+Plh_118 { Quebrar pedras! Eba! }
+
+Plh_119 { Posso quebrar outra coisa? }
+
+Plh_120 { Haha, engraçado. Mas agora vá trabalhar. Pelo túnel. Mãos à obra. }
+
+Plh_121 { *sorri para você satisfeito* }
+
+Plh_94 { Seu turno ainda não acabou. }
+
+Plh_105 { Hã, sem trabalho de pedra para você hoje. Vá dar uma mão para Bruna. }
+
+Plh_107 { Coma bastante, e o trabalho será moleza. Bom trabalho. Pegue um pouco de comida: Hoje vamos romper! }
+
+Plh_109 { Siga direto para o leste e depois suba. Vamos dar tudo o que temos hoje — o fim está à vista! }
+
+Plh_96 { O que você encontrou? Mostre-me! }
+
+Plh_100 { Aqui. (mostrar) }
+
+Plh_101 { Ainda não tenho o suficiente. }
+
+Plh_103 { Isso serve... }
+
+Plh_104 { Você não tem nada para fazer aqui. }
+
+Plh_110 { Volte ao trabalho, ou vai ter problemas. }
+
+Plh_113 { Você deveria estar ajudando ali. }
+
+Plh_82 { Ei, você não tem nada para fazer aí. Saia! }
+
+Plh_84 { Eu já te disse... Desapareça! }
+
+Plh_85 { A única coisa que você entende é uma boa surra! }
+
+Plh_64 { Não é sua vez de lutar. }
+
+Plh_13 { Cai fora. }
+
+Plh_69 { Saia da minha vista, escória de Nemeton! }
+
+Plh_63 { Se você quer entrar no Poço, então se apresente a Levin. }
+
+Plh_122 { Se apresente a Lothar com sua nota se quiser entrar no Poço! }
+
+Plh_70 { Por Jero! }
+
+Plh_71 { Levin me ordenou a não deixar mais guerreiros entrarem no Poço. Se você está procurando trabalho, se apresente à Lâmina de Jero, que é responsável por você. }
+
+Plh_48 { Saia. Você não tem negócios com os druidas. }
+
+Plh_23 { Você só entra aqui durante o Festival do Fogo. }
+
+Plh_22 { Eles estão te esperando no Festival do Fogo. }
+
+Plh_75 { Remanescentes não têm lugar aqui! }
+
+Plh_189 { Ei, você! Onde pensa que está indo? }
+
+Plh_192 { Guarde sua prata. }
+
+Plh_76 { Remanescentes não são permitidos em Nemeton! }
+
+Plh_49 { Apenas alguns Cortadores selecionados são permitidos aqui em cima. }
+
+Plh_65 { Mas Boris está me recomendando. Ele disse que eu deveria me apresentar a Kilian. }
+
+Plh_66 { Não estou nem aí. A menos que Levin diga que você pode vir aqui, não se incomode em tentar. }
+
+Plh_68 { Volte para Nemeton. Vocês malucos não pertencem aqui. }
+
+Plh_191 { Apenas alguns selecionados entre os Cortadores têm permissão para entrar. E só Levin escolhe. }
+
+Plh_3 { Está desafinado! }
+
+Plh_165 { Esse barulho é insuportável... }
+
+Plh_176 { Meus ouvidos estão sangrando... }
+
+Plh_177 { Você precisa praticar mais... }
+
+Plh_178 { Qualquer um poderia tocar tão mal assim... }
+
+Plh_179 { Você também poderia ACERTAR a nota certa de vez em quando... }
+
+Plh_2 { Isso soa bem. }
+
+Plh_180 { Boa melodia... }
+
+Plh_181 { Você deveria cobrar moedas por isso. }
+
+Plh_182 { Eu poderia ouvir isso o dia todo. }
+
+Plh_183 { Por favor, continue tocando. }
+
+Plh_184 { Eu não ouço algo tão bonito há muito tempo. }
+
+Plh_4 { Esta é para você! }
+
+Plh_185 { Aqui, você merece. }
+
+Plh_186 { Isso vale algumas moedas para mim. }
+
+Plh_187 { Para você. Você toca muito bem. }
+
+Plh_188 { Isso foi — inacreditável. }
+

@@ -1,0 +1,207 @@
+Plh_63 { Acerte-o! }
+
+Plh_64 { Espero que seja uma batalha interessante. }
+
+Plh_0 { Ei, Andarta, eu trouxe este anel para você. Só para você. }
+
+Plh_1 { Para mim? E quem é você? }
+
+Plh_3 { Eu sou Tuz, e... eu realmente gosto de você. }
+
+Plh_4 { *corando* Bem... Eu nem sei como responder a isso... }
+
+Plh_6 { SIM! }
+
+Plh_7 { VAMOS FAZER ISSO! }
+
+Plh_8 { Vamos continuar! }
+
+Plh_10 { Hm... Eu não sei... }
+
+Plh_11 { Confie em mim, você não vai se arrepender! }
+
+Plh_15 { Hoje à noite $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ enfrentará $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. }
+
+Plh_16 { Isso é algum tipo de pista? }
+
+Plh_17 { A forma do símbolo parece ter alguma semelhança com o círculo rúnico. }
+
+Plh_18 { O símbolo se afunila na parte inferior — assim como os picos negros usados aqui. }
+
+Plh_19 { Um símbolo de forma estranha. Certamente tem alguma conexão com a pesquisa que está sendo conduzida aqui. }
+
+Plh_20 { O material tem uma sensação estranha ao toque. }
+
+Plh_22 { Não consigo me livrar de todos os detritos sozinho. }
+
+Plh_23 { Isso não parece estar funcionando. }
+
+Plh_29 { Eu preciso limpar os detritos primeiro. }
+
+Plh_34 { Aqui é onde os detritos são esvaziados. }
+
+Plh_35 { Preciso equipar minha picareta. }
+
+Plh_36 { Preciso de uma tocha. }
+
+Plh_37 { O talismã... responde. }
+
+Plh_38 { O talismã vibra. }
+
+Plh_39 { O talismã está quente ao toque... }
+
+Plh_40 { Em memória de Caius Cassius Helios, lançador de runas da quinta geração. }
+
+Plh_41 { Aqui jaz Lucius Aemilius Tribune, mestre lançador de runas, fundador da pesquisa sobre runas. }
+
+Plh_42 { Aqui jaz Flavius Augustus, líder dos exércitos na batalha contra a primeira Divindade. }
+
+Plh_43 { Eu preciso limpar os detritos primeiro. }
+
+Plh_44 { Hoje Bady luta contra Gra! }
+
+Plh_45 { Conheça os três primeiros e avance para desvendar as profundezas da magia das runas. }
+
+Plh_46 { Há uma leve atração vinda do objeto. }
+
+Plh_47 { Parece que eles estavam se preparando para a guerra. }
+
+Plh_48 { Você sente um formigamento por todo o corpo. O objeto emite um poder incompreensível... }
+
+Plh_49 { Traços de muitos arranhões e mordidas nesta paliçada. }
+
+Plh_50 { O escudo está cheio de buracos e rachaduras — como se algo tivesse sido preso a ele. }
+
+Plh_51 { Um corvo acima de um triskelion. }
+
+Plh_52 { Duas mãos, um aperto de mãos amigável, e uma moeda abaixo delas. }
+
+Plh_53 { Mostra a empunhadura e o início da lâmina de uma espada sob o corvo de Nemeton. }
+
+Plh_54 { Uma foice sob o corvo de Nemeton. Aparentemente, é aqui que estão os druidas. }
+
+Plh_55 { Mostra uma bigorna sob o corvo de Nemeton. Parece simbolizar a habilidade artesanal. }
+
+Plh_56 { Há algo aqui. }
+
+Plh_57 { Oh, o que é isso? }
+
+Plh_58 { Alguém escondeu algo aqui. }
+
+Plh_59 { Poder mágico escarlate, semelhante a sangue, está cintilando na seção do meio. }
+
+Plh_60 { Este deve ser o estandarte dos Remanescentes. Me pergunto o que a espiral representa... }
+
+Plh_61 { As marcas vermelhas na rocha podem ser um aviso. }
+
+Plh_62 { O que poderia ser poderoso o suficiente para lançar algo tão grande do céu, com tanta força? }
+
+Plh_67 { Consegui minha Faísca! Finalmente! }
+
+Plh_68 { Você mereceu. }
+
+Plh_69 { Finalmente, sou um de vocês. }
+
+Plh_70 { Estamos confiando em você há algum tempo. }
+
+Plh_71 { Mas agora eu oficialmente pertenço a vocês também! }
+
+Plh_72 { Isso parece ser parte de uma runa. }
+
+Plh_73 { Você terminou. }
+
+Plh_132 { Nada mais está se movendo. }
+
+Plh_133 { Isso seria isso. }
+
+Plh_134 { Você vai ficar bem aí. }
+
+Plh_135 { Isso foi fácil demais. }
+
+Plh_136 { É isso. }
+
+Plh_105 { Venha aqui, seu desgraçado! }
+
+Plh_106 { Eu vou te dar uma surra! }
+
+Plh_102 { Mal posso esperar pela próxima batalha. }
+
+Plh_103 { Criaturas! }
+
+Plh_104 { Toma isso! }
+
+Plh_127 { Ali está a fera! }
+
+Plh_128 { Somos a vingança de Olaf! }
+
+Plh_129 { Aquela cabeça vai ficar ótima decorando minha parede! }
+
+Plh_130 { Não pare agora! }
+
+Plh_27 { Onde será que está o tesouro? }
+
+Plh_24 { Isso não vai funcionar. }
+
+Plh_65 { Vamos descobrir algo. }
+
+Plh_25 { Nada. }
+
+Plh_26 { Eu não deveria ter vindo... }
+
+Plh_85 { Vamos lá, continue socando! }
+
+Plh_86 { Sim, mostre do que você é capaz! }
+
+Plh_87 { Não segure nada! }
+
+Plh_88 { WOOOO! }
+
+Plh_89 { Bem no rosto! }
+
+Plh_90 { YEAHHH! SANGUE!! }
+
+Plh_91 { Dá nele! }
+
+Plh_92 { Acerta! }
+
+Plh_97 { Eu apostei em você! Dá neles! }
+
+Plh_93 { Estou muito animado. }
+
+Plh_94 { Quem vai ganhar? }
+
+Plh_95 { Comecem a lutar logo... }
+
+Plh_96 { Ahhhh... e agora relaxamos. }
+
+Plh_98 { Eles vão começar a se socar a qualquer momento? }
+
+Plh_99 { Vai começar em breve. }
+
+Plh_100 { Não consigo esperar mais... }
+
+Plh_101 { A próxima batalha começará em breve. }
+
+Plh_74 { Os ovos... Precisamos destruir os ovos. }
+
+Plh_75 { Morra! }
+
+Plh_83 { Sua vez agora! }
+
+Plh_84 { Desculpe! }
+
+Plh_76 { Maldita cria! }
+
+Plh_81 { Morra! }
+
+Plh_82 { Saia daqui! }
+
+Plh_77 { Droga, há ainda mais deles saindo dos ovos! }
+
+Plh_78 { Os ovos... Precisamos destruir os ovos! }
+
+Plh_80 { Droga, por que você não morre logo?! }
+
+Plh_79 { Ali está a prole. Sei que está por aqui em algum lugar! }
+
+Plh_140 { Não há batalha marcada para hoje. }

@@ -1,0 +1,223 @@
+Plh_307 { O que você está fazendo aqui? }
+
+Plh_308 { *sorri* Sou um curandeiro. Cuido dos feridos e machucados. Se meus serviços não são necessários, então me certifiquei de ter plantas suficientes. }
+
+Plh_309 { Posso também vender algumas, se você estiver interessado. }
+
+Plh_10 { Temos que continuar. }
+
+Plh_59 { Avante! }
+
+Plh_139 { Você deve falar com Kilian. }
+
+Plh_131 { Não vamos mais se ajoelhar diante das Divindades. Nosso tempo é agora. }
+
+Plh_13 { Que as Divindades tenham misericórdia de você. }
+
+Plh_4 { É melhor você se concentrar na tarefa em mãos. }
+
+Plh_239 { Então, $GVAR:EVars_Player.Name$, já teve o suficiente das conversas ao redor do fogo? }
+
+Plh_240 { Preciso de um momento para mim. }
+
+Plh_241 { Eles são muito rudes para mim. }
+
+Plh_242 { Posso ver isso. Sentar perto do fogo é bom, mas eu prefiro a natureza de qualquer maneira. }
+
+Plh_244 { Faça uma pausa. Amanhã vai ser difícil. }
+
+Plh_246 { Nunca estive na Floresta Primeval antes. Pensei que era apenas escura e perigosa, além da Chama Negra... Mas é também deslumbrantemente bonita. }
+
+Plh_247 { Essas árvores... Elas respiram a própria história de Drova. O Javali Poderoso permeia tudo. Eu posso sentir. }
+
+Plh_248 { O que acontece se pegarmos o Javali Poderoso? }
+
+Plh_249 { Não tenho certeza, mas se estou interpretando corretamente os antigos escritos dos Bygones... }
+
+Plh_254 { ...então tudo irá... }
+
+Plh_255 { ...enfraquecer, desvanecer e... desaparecer. }
+
+Plh_256 { Tudo está conectado à Divindade. É ela quem permite que a floresta respire... }
+
+Plh_257 { Estamos fazendo a coisa certa? }
+
+Plh_258 { Mas o que acontecerá com as pessoas que vivem na Floresta Primeval? }
+
+Plh_259 { Estou começando a ter dúvidas sobre esta expedição... }
+
+Plh_270 { Não podemos pensar em nada além do nosso objetivo! }
+
+Plh_297 { O que é certo e o que é errado... Difícil dizer. Estamos fazendo o que achamos certo. Mas isso torna isso verdade? }
+
+Plh_298 { Você sabe, $GVAR:EVars_Player.Name$, eu acredito em Jero. E que podemos escapar deste mundo — com a ajuda do Javali Poderoso. }
+
+Plh_299 { Os Bygones criaram um mundo de acordo com sua própria vontade. Um mundo em que controlamos as Divindades é um mundo em que eu quero viver. }
+
+Plh_263 { Mas a que preço? }
+
+Plh_300 { *sorri* Imagine que você está em uma carroça. E nessa carroça, você pode se mover o quanto quiser. }
+
+Plh_310 { Você pode ir para a frente e sentar-se com o motorista, ou apenas ter um lugar na parte de trás. Você pode observar as árvores ou deitar e dormir. Você se sente livre para fazer o que quiser na carroça. }
+
+Plh_301 { Mas, por mais livre que você se sinta, a carroça o leva — independentemente do que você pode querer — para um destino que você não conhece e não pode determinar. }
+
+Plh_302 { E não queremos mais viver em um mundo assim. Queremos decidir por nós mesmos, livres da orientação das Divindades. Desejamos nos livrar de Drova e das Divindades. E é isso pelo que estamos lutando. }
+
+Plh_267 { Agora, as pessoas aqui definitivamente não terão mais facilidade. Mas eles estão acostumados com a dificuldade, e vão se acostumar com isso... }
+
+Plh_268 { No final do dia, eles alcançarão uma vida melhor, na qual poderão decidir por si mesmos o que é bom para eles. Assim como nós. Eles verão isso. }
+
+Plh_269 { Ter dúvidas faz parte da vida. É bom que você esteja fazendo essas perguntas. Mas você precisa encontrar suas próprias respostas. }
+
+Plh_273 { Apenas... segure a língua antes de falar com qualquer outra pessoa sobre essas dúvidas. }
+
+Plh_275 { Eu deveria descansar um pouco. }
+
+Plh_276 { Vou me juntar a você em um momento. Mas ainda gostaria de aproveitar um pouco de paz e tranquilidade e me preparar para amanhã. }
+
+Plh_304 { Confrontar uma Divindade... Não sei o quanto posso me preparar para isso. Vai ser uma nova experiência. Para todos nós. }
+
+Plh_277 { Estou feliz em saber que você está ao nosso lado. }
+
+Plh_278 { Por Jero! Pela liberdade. }
+
+Plh_279 { Obrigado por suas palavras. }
+
+Plh_280 { *observa as árvores e canta uma melodia suave* }
+
+Plh_271 { *sorri* E é exatamente isso que estamos fazendo. Unidos. }
+
+Plh_243 { Não os leve a mal. Eles são boas pessoas, mas ninguém quer mostrar fraqueza... }
+
+Plh_245 { *observa sonhadoramente as árvores* }
+
+Plh_250 { Por que você não está perto do fogo? }
+
+Plh_252 { (não atrapalhe) }
+
+Plh_253 { Ah, $GVAR:EVars_Player.Name$. Não consigo dormir ainda. Apenas olhe para este lugar incrível... }
+
+Plh_138 { Informe Eugen assim que estiver pronto. }
+
+Plh_183 { Kilian está procurando por você. Informe a ele assim que puder. }
+
+Plh_118 { Você está cansado? }
+
+Plh_120 { Não ainda. }
+
+Plh_143 { Hora de descansar. }
+
+Plh_117 { A decisão é sua. }
+
+Plh_119 { Você precisa descansar. Temos uma luta difícil pela frente amanhã. }
+
+Plh_81 { Amanhã será um dia que ficará na história de Drova... }
+
+Plh_9 { Ei! Estamos seguindo em frente! }
+
+Plh_11 { Esta expedição é importante. Coloque-se em ordem. }
+
+Plh_314 { Finalmente, estamos na Torre Vermelha. Devemos encontrar os vasos rúnicos com as Divindades. }
+
+Plh_292 { ... esses registros são interessantes. Os Bygones sabiam como documentar bem suas observações. }
+
+Plh_294 { Encontramos outra barreira mágica. Você deveria dar uma olhada. }
+
+Plh_327 { Eles — estão todos mortos. Eles apenas queriam defender a floresta... Todo esse sangue... }
+
+Plh_296 { Não temos tempo para nos preocupar com o passado. Precisamos subir até os vasos rúnicos. }
+
+Plh_329 { Vamos. }
+
+Plh_16 { Certo, vou começar agora. }
+
+Plh_38 { Sua sombra está se espalhando! Está chegando mais perto! }
+
+Plh_326 { Fiquem em posição! }
+
+Plh_151 { Fiquem perto de mim — esta luz nos protegerá! }
+
+Plh_37 { Seu poder... Eu não consigo... Mas... }
+
+Plh_150 { Eu posso fazer isso... EU CONSIGO! }
+
+Plh_39 { O QUÊ...!? LINDON, VOLTE! }
+
+Plh_317 { DROGA! }
+
+Plh_318 { LINDON! }
+
+Plh_41 { Ele está enfraquecido. Está tentando recuar. Precisamos atacar! }
+
+Plh_313 { O vaso, agora! }
+
+Plh_311 { A floresta — ela quer proteger o javali... Espere...! }
+
+Plh_324 { EU CONSIGO! }
+
+Plh_321 { Argh... Conseguimos... }
+
+Plh_322 { Tão incrivelmente poderoso — minha cabeça está doendo. }
+
+Plh_40 { Conseguimos! Realmente pegamos! }
+
+Plh_232 { Mas... Lindon! Ele — está morto. Droga... }
+
+Plh_153 { Lindon fez o sacrifício supremo. Mas não foi em vão. Uma Divindade... Em nossas próprias mãos! }
+
+Plh_201 { *sussurra* Lindon, sinto muito... Eu... Eu deveria ter sido mais cuidadoso... }
+
+Plh_200 { Eugen, Lindon fará a jornada para o próximo mundo como um herói. }
+
+Plh_210 { Você deve buscar consolo nisso. }
+
+Plh_305 { *sussurra* Foi minha culpa... Ele confiou em mim... }
+
+Plh_207 { *murmura* Lindon, mais do que ninguém, morreu uma morte heroica — diante de todos nós. }
+
+Plh_208 { (aproximar-se de Lindon) }
+
+Plh_319 { Que o próximo mundo o receba de braços abertos. }
+
+Plh_214 { Descanse em poder. }
+
+Plh_213 { Agora você é imortal, Lindon. }
+
+Plh_202 { Lindon não está mais entre nós, mas devemos olhar para frente. A Torre Vermelha nos aguarda — assim como nossa liberdade. }
+
+Plh_203 { Maldição, Lindon. Você realmente fez isso... }
+
+Plh_204 { Nunca esqueceremos Lindon. Certo, Eugen? }
+
+Plh_234 { ... estamos partindo... }
+
+Plh_306 { Eugen está certo. Devemos ir. Olhe, a floresta está mudando — a escuridão se foi, mas parece quase — sem vida. }
+
+Plh_325 { Antes de irmos... }
+
+Plh_223 { $GVAR:EVars_Player.Name$, você é uma das pessoas do Boris, não é? }
+
+Plh_236 { Diga a ele como Lindon morreu heroicamente. Ele deveria fazer algo para honrá-lo. }
+
+Plh_225 { Não foi exatamente heroico. }
+
+Plh_224 { Eu direi. }
+
+Plh_226 { Ele foi atravessado por uma Divindade. Não poderia ter sido mais heroico... }
+
+Plh_320 { *sussurra* Lindon... Eu deveria ter sabido melhor... Você não estava pronto para partir... }
+
+Plh_227 { Eugen, a floresta — pode ser perigoso para nós aqui. Devemos partir AGORA. }
+
+Plh_229 { Eugen! }
+
+Plh_235 { O poder divino desapareceu deste lugar. Tudo... Tudo está mudando. Precisamos sair. Rápido. }
+
+Plh_230 { *assusta-se*... Sim. }
+
+Plh_231 { Vamos voltar para o acampamento dos Remnants imediatamente. }
+
+Plh_228 { Espero que Boris aprecie o que Lindon fez. }
+
+Plh_315 { Bem, leve-nos para fora daqui. }

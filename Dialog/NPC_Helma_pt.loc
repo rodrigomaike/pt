@@ -1,0 +1,479 @@
+Plh_255 { Eu estava brincando com Olga e Luten. }
+
+Plh_231 { Eu li sua nota no quadro de avisos. }
+
+Plh_256 { Sim, eu vi isso! Aqueles dois realmente se divertiram. }
+
+Plh_233 { Aqui, isso é para você. Porque você mostrou um coração para esses pequenos travessos. }
+
+Plh_254 { E eu vi você brincando com os dois. }
+
+Plh_232 { Ah, muito bom! Olga é fácil de lidar, mas com Luten, você vai ter que ajudar a trazê-lo para fora da casca... }
+
+Plh_158 { Você pode confirmar que Swenn estava ocupado na noite do envio de armas? }
+
+Plh_239 { Que tal isso — Luten pode se esconder, e eu vou procurar! }
+
+Plh_252 { A criança ficará encantada! Não vai, Luten? }
+
+Plh_257 { *olha para você um pouco assustado* R... realmente? }
+
+Plh_258 { Mas Luten, $GVAR:EVars_Player.Name$ pertence aos lutadores. E não conhece nenhum dos seus lugares para se esconder. *piscando* }
+
+Plh_238 { Ótimo! Mas eu não posso me afastar muito de Helma. Ela diz. }
+
+Plh_12 { Você tem que fechar os olhos e contar até dez! }
+
+Plh_253 { E nada de espiar! }
+
+Plh_240 { Um... }
+
+Plh_243 { Dois... }
+
+Plh_245 { Três... }
+
+Plh_244 { Quatro... }
+
+Plh_246 { Cinco... }
+
+Plh_247 { Seis... }
+
+Plh_248 { Sete... }
+
+Plh_249 { Oito... }
+
+Plh_250 { Nove... }
+
+Plh_251 { Dez... PRONTO OU NÃO, LÁ VOU EU! }
+
+Plh_4 { As Divindades são a cola que mantém nosso mundo unido. Ninguém mais pode conter a névoa. }
+
+Plh_259 { Elas devem ser respeitadas. Honradas. Para que, com a ajuda delas, possamos refazer Drova em nossa Terra das Lendas. }
+
+Plh_13 { Saudações. }
+
+Plh_5 { De onde vêm essas Divindades? }
+
+Plh_6 { De onde vem o ar que você respira? As Divindades sempre estiveram e sempre estarão. Elas são a própria vida, e nós fazemos parte delas. }
+
+Plh_7 { *olha para você* Você é o novato, certo? Tente não interromper a aula. }
+
+Plh_50 { Mas é muito mais divertido com mais pessoas por perto! }
+
+Plh_51 { Absolutamente! Por favor! }
+
+Plh_52 { Eu já te disse para não confiar em estranhos assim! }
+
+Plh_53 { Mas estamos seguros aqui, certo? E o poderoso Gradan está por perto. Por favor! }
+
+Plh_54 { *faz olhos grandes e suplicantes* }
+
+Plh_55 { *suspira* Tudo bem. }
+
+Plh_174 { Mas só para você saber, eu sou um druida do Nemeton. Brinque comigo por sua conta e risco! }
+
+Plh_56 { Você tem certeza de que quer se juntar a nós? }
+
+Plh_155 { Certo. Nunca é demais aprender. }
+
+Plh_156 { Na verdade, eu só queria fazer uma pergunta sobre Swenn. }
+
+Plh_157 { Você não consegue ver que estou ocupado? Vamos conversar depois da aula. }
+
+Plh_11 { Fique à vontade. }
+
+Plh_310 { Você gostaria de saber mais sobre Drova? }
+
+Plh_234 { Não tenho nada a dizer a você. }
+
+Plh_235 { Ei, novato. }
+
+Plh_355 { Ótimo! Venha e junte-se a nós. }
+
+Plh_14 { Eu sou Helma. Esses dois são Olga e Luten. Se você quiser responder a uma pergunta, espere até eu chamar você. Somente a pessoa que foi chamada pode falar. }
+
+Plh_263 { É totalmente fácil! }
+
+Plh_264 { Olga! }
+
+Plh_265 { Oops. }
+
+Plh_15 { Tudo bem, quem pode me falar sobre o Festival do Fogo? }
+
+Plh_17 { *encara as nuvens* }
+
+Plh_18 { Bem, isso deveria ser fácil... }
+
+Plh_20 { (evite contato visual) }
+
+Plh_356 { Lembre-se, só fale depois que for chamado! }
+
+Plh_21 { Olga. }
+
+Plh_22 { O Festival do Fogo sinaliza o início dos dias mais quentes. Acendemos uma fogueira enorme no Nemeton. Todos dançam, riem e dão uns aos outros talismãs. }
+
+Plh_357 { Acendemos a fogueira com o Fogo Eterno aqui em nosso acampamento para manter os espíritos malignos afastados! }
+
+Plh_23 { Honramos os mortos e falamos com pessoas de quem não gostamos muito. Assim, eles esquecerão tudo de ruim que fizemos a eles. }
+
+Plh_24 { Correto, Olga! }
+
+Plh_309 { Bem, mais ou menos. Nós nos purificamos e buscamos perdão. Você esqueceu de mencionar as Divindades. Elas também são celebradas. }
+
+Plh_25 { E agora, eu gostaria que você me dissesse — o que você considera ser a coisa mais importante na vida? }
+
+Plh_348 { ... alguém além de Olga? }
+
+Plh_358 { A coisa mais importante na vida é... }
+
+Plh_26 { *para você* O que você acha? }
+
+Plh_28 { Comunidade e solidariedade. }
+
+Plh_29 { Força e poder. }
+
+Plh_30 { Não tenho certeza sobre isso ainda... }
+
+Plh_31 { Você fala como se já fosse parte do Nemeton. Aqui, essa é a resposta desejada. A chave para levar uma boa vida em Drova. }
+
+Plh_27 { Luten? Seus pensamentos? }
+
+Plh_34 { Helloooo? Tem alguém aí? *sua voz ecoa de um poço, seguida de risadas* }
+
+Plh_343 { Luten! O que você está aprontando agora? }
+
+Plh_344 { Huh? O que? }
+
+Plh_345 { Volte aqui, agora! }
+
+Plh_346 { Tá bom, tá bom... }
+
+Plh_35 { Então, o que você acha, Luten? O que é mais importante na vida? }
+
+Plh_36 { Uh? Oh, certo — comida ótima! }
+
+Plh_37 { *sorrindo* Você não está errado. }
+
+Plh_38 { Próxima pergunta: O que, exatamente, é uma runa? Olga, coloque sua mão para baixo. Apenas responda. }
+
+Plh_39 { Muito simples! Ela permite que você lance feitiços poderosos e bolas mágicas por toda parte. BAM! }
+
+Plh_40 { Você certamente pode fazer isso. Mas o que É uma runa? Luten? }
+
+Plh_41 { *se assusta ao afastar-se de um besouro com o qual estava brincando* Uh, uma runa, bem, é feita para alguém e... então ativada... através de algum tipo de ritual? }
+
+Plh_42 { Exatamente. Bem, em princípio. Bom ver que você tem prestado atenção. Quando uma runa é feita, ela é vinculada a uma pessoa. }
+
+Plh_43 { Então, apenas essa pessoa pode utilizar sua magia. Para qualquer outra pessoa, a pedra é completamente inútil. }
+
+Plh_57 { *para você* O quanto você sabe sobre esse assunto? Você já ouviu falar dos Passados? }
+
+Plh_59 { *sussurra algo* }
+
+Plh_267 { *gargalha alto* }
+
+Plh_60 { O que eu te disse sobre falar na aula? }
+
+Plh_61 { Você... você deve falar apenas quando chamado. }
+
+Plh_62 { Certo. }
+
+Plh_347 { *para você* Então, o que você sabe sobre essas pessoas? }
+
+Plh_63 { Esses "Queimados" vivem além da névoa. }
+
+Plh_64 { Um povo antigo, que uma vez chamou este lugar de lar. }
+
+Plh_69 { *para Olga* Fale mais alto! Rápido! }
+
+Plh_65 { Nunca ouvi falar deles. }
+
+Plh_66 { *quase cai de tanto rir* }
+
+Plh_67 { *os olhos dela se arregalam em choque* O QUE você os chamou? }
+
+Plh_68 { Calma, crianças. Então — eles são os PASSADOS. E o que deu a você a ideia de que alguém pode viver fora da névoa? }
+
+Plh_70 { Ouvi em algum lugar. }
+
+Plh_71 { Eu acabei de inventar. }
+
+Plh_73 { Talvez você não devesse acreditar em tudo que ouve. }
+
+Plh_76 { Luten, já que você se divertiu tanto com essa resposta... qual é a verdadeira história? }
+
+Plh_77 { Uh, bem... Eles viveram aqui muito, muito antes. Mas foram embora há muito tempo. Algo aconteceu com eles. }
+
+Plh_271 { Olga? }
+
+Plh_78 { Eles foram os primeiros a servir as Divindades aqui! Eles descobriram a magia das runas. }
+
+Plh_79 { Correto. Eles já estavam aqui em Drova muito antes de nossa época. }
+
+Plh_97 { Os Passados estabeleceram um grande império, mas ele declinou e caiu muitos anos atrás. E agora, apenas as ruínas permanecem. }
+
+Plh_176 { Os Remanescentes usam as estruturas desgastadas dos Passados até hoje. }
+
+Plh_44 { Bem feito, crianças... e você. Isso é suficiente por hoje. }
+
+Plh_349 { Yay, finalmente estamos livres! }
+
+Plh_350 { Não temos nada melhor para fazer de qualquer maneira... Eu poderia passar o dia todo estudando na aula da Helma. }
+
+Plh_351 { Obrigado pela lição. }
+
+Plh_353 { De nada. Sua participação na aula foi boa. }
+
+Plh_354 { Tudo bem, crianças! Nós continuaremos outra hora. }
+
+Plh_74 { Pelo menos você é honesto. Mas você não precisa inventar respostas sempre que há algo que você não sabe. }
+
+Plh_75 { Você não sabia. Poderia apenas ter dito isso. }
+
+Plh_80 { Correto. Luten, você pode nos dizer algo mais? }
+
+Plh_81 { Eles eram um povo muito antigo que viveu aqui antes de nós! }
+
+Plh_82 { Certo. Pelo menos um de vocês aprendeu algo. }
+
+Plh_175 { Você pode acrescentar algo, Luten? }
+
+Plh_84 { Você NUNCA ouviu falar deles? Como isso é possível? }
+
+Plh_85 { Eu cheguei recentemente ao Desfiladeiro. }
+
+Plh_86 { Sou novo aqui e ainda não conheço o caminho. }
+
+Plh_87 { Então eu deveria estar te dando as boas-vindas a Drova em vez de te fazer uma porção de perguntas. }
+
+Plh_88 { Sim, bem-vindo! }
+
+Plh_89 { *seus olhos se arregalam* Você vem do outro mundo? }
+
+Plh_91 { Me conte sobre isso! }
+
+Plh_93 { Minhas recordações são... apenas fragmentos. }
+
+Plh_94 { Oh não... Isso é terrível. }
+
+Plh_95 { Quando você lembrar, tem que nos contar tudo! }
+
+Plh_96 { Ei crianças, não se aglomerem ao redor deles. Vocês sabem como é quando alguém simplesmente não consegue lembrar. Luten, por que você não nos fala sobre os Passados? }
+
+Plh_32 { Uma resposta digna de alguém do acampamento dos Remanescentes. Mas qual é a força de um único indivíduo em comparação com a de uma comunidade? }
+
+Plh_33 { Honestidade. Essa também é uma resposta válida. Conceder que sua jornada está longe de terminar. Uma jornada que é mais fácil de gerenciar em uma comunidade. }
+
+Plh_159 { *parece surpreso* Sim, naquela noite Swenn estava de olho em Olga e Luten para mim. Eu tive que deixar o acampamento para pegar algo. }
+
+Plh_160 { O bom velho Swenn adora brincar com as crianças, e ele me ajuda de vez em quando. Um cara de respeito. }
+
+Plh_161 { Ele poderia ter deixado as crianças sozinhas por um momento? }
+
+Plh_162 { Obrigado, agora eu sei o que está acontecendo. }
+
+Plh_163 { Oh, ele poderia. Mas geralmente ele mantém um olho atento sobre elas. }
+
+Plh_164 { Por que você está perguntando? }
+
+Plh_166 { É sobre os envios de armas desaparecidos. }
+
+Plh_165 { Não posso dizer. }
+
+Plh_167 { Eu vou garantir por Swenn. Ele nunca causaria danos. Estou certo disso. Por favor, não incomode mais ele com isso... }
+
+Plh_170 { Se ele é inocente, então ele não tem nada a temer. }
+
+Plh_169 { Tudo bem. Swenn não ouvirá mais nada de mim. }
+
+Plh_171 { Ele é inocente. Não perca seu tempo. }
+
+Plh_173 { Espero que você chegue ao fundo do assunto. }
+
+Plh_172 { *sorrindo* Obrigado. }
+
+Plh_168 { *estreita os olhos* Você suspeita dele? }
+
+Plh_362 { Um druida me deu este cristal. Eu deveria mostrá-lo a um druida no Nemeton. }
+
+Plh_363 { Um druida? Quem? Um dos Remanescentes? }
+
+Plh_366 { Não. O druida com quem vim para Drova. }
+
+Plh_367 { Não. Ninguém dos Remanescentes. }
+
+Plh_368 { Um druida veio para Drova? Com este cristal? }
+
+Plh_370 { Como isso é possível? A magia rúnica existe apenas em Drova... }
+
+Plh_373 { O que o cristal tem a ver com a magia rúnica? }
+
+Plh_369 { Você vê aquelas runas? Isso indica que tem algo a ver com magia rúnica. }
+
+Plh_371 { Eu acho que algo sobre isso é inquietante. Simplesmente não parece certo. }
+
+Plh_364 { Isso é tudo o que posso te dizer. Deixarei o resto para os outros druídas. Estou responsável pela educação por aqui. }
+
+Plh_374 { Quem mais pode me ajudar? }
+
+Plh_375 { Obrigado pela sua ajuda. }
+
+Plh_376 { Talvez Mombert... ou Lio? Mas você só pode chegar até eles depois de ter se juntado ao Nemeton. }
+
+Plh_372 { Estranho, considerando o quão intensamente eles estão estudando magia rúnica. }
+
+Plh_112 { O Festival do Fogo começou. Estávamos esperando por você. Assim que você estiver pronto, a cerimônia começará. Até lá, você pode dar uma olhada ao redor. }
+
+Plh_113 { Estou pronto. }
+
+Plh_273 { Que tipo de cerimônia é essa? }
+
+Plh_114 { Eu ainda preciso de um momento. }
+
+Plh_292 { Grande Corvo! Nós nos reunimos aqui para prestar homenagem a você, para servi-lo e honrá-lo. }
+
+Plh_177 { O ano está chegando ao fim. Um novo começa. O ciclo nunca termina! }
+
+Plh_277 { O Grande Corvo sabe de todos os seus feitos, tanto bons quanto ruins. A Chama Eterna deve purificá-los. Você renascerá, como o novo ano. }
+
+Plh_278 { Mas a Divindade também viu traição entre nós. Alguém está contra ela. Contra nós, irmãos e irmãs, e ele aguarda um julgamento. }
+
+Plh_279 { Kendrick deve queimar! }
+
+Plh_280 { Como ele pôde fazer isso? }
+
+Plh_281 { Pelo Corvo! }
+
+Plh_297 { Quem nos engana deve morrer. }
+
+Plh_298 { Encontre a paz, Kendrick. }
+
+Plh_296 { Ele teve uma escolha. }
+
+Plh_327 { Eu... estou com medo. }
+
+Plh_328 { Não desvie o olhar, Luten. Isso é importante. }
+
+Plh_138 { Repita após mim... }
+
+Plh_139 { Eu juro proteger o Nemeton e responder ao chamado do pântano. }
+
+Plh_228 { O juramento foi feito. Eu ouvi. Você ouviu! }
+
+Plh_338 { Grande Corvo, veja nossos dois novos guardiões. Proteja-os, e eles lhe servirão. }
+
+Plh_132 { Agora beba! }
+
+Plh_306 { $GVAR:EVars_Player.Name$! }
+
+Plh_307 { Karotte! }
+
+Plh_136 { Aproveite o Festival do Fogo! Que o fogo ilumine esta noite e o guie para o novo ano. }
+
+Plh_340 { Seu escroto! }
+
+Plh_339 { Vamos beber! }
+
+Plh_274 { Honramos os mortos e começamos um novo amanhecer. Servimos a justiça e garantimos que a justiça seja feita. E nós vamos julgar Kendrick. Esse foi seu serviço para nós. }
+
+Plh_116 { Saboreie o festival. Volte quando estiver pronto. }
+
+Plh_282 { Kendrick roubou armas e quebrou a lei nemetoniana. Ele agiu de forma egoísta e colocou todos nós em perigo! }
+
+Plh_360 { Traga-o aqui, Henik! }
+
+Plh_315 { Mova-se! }
+
+Plh_314 { Eu fiz isso apenas pelo Nemeton! }
+
+Plh_316 { Mova-se! Não vou dizer isso de novo... }
+
+Plh_217 { Ele traiu a Herdeira do Pântano, e assim, todo o Nemeton. Como devemos lidar com ele? }
+
+Plh_283 { Deixe-o queimar, sim! }
+
+Plh_284 { Para as chamas! }
+
+Plh_218 { Eu te ouço. Em seus olhos, vejo suas preocupações e medos por Nemeton. E acredite, eu também os sinto! }
+
+Plh_286 { A Divindade vê você! E vê a injustiça. A Chama Eterna purificará Kendrick, e ele deve se apresentar diante da Divindade para receber sua punição. }
+
+Plh_226 { Você não vê? Eu fiz tudo por Nemeton! Pela Herdeira do Pântano! Não para te desmerecer! }
+
+Plh_187 { $GVAR:EVars_Player.Name$ nos trouxe todas as provas. O que você fez foi um ato contra esta comunidade. }
+
+Plh_192 { Eu encontrei seu esconderijo. O lugar onde ele guardou todas as armas roubadas. }
+
+Plh_193 { Kendrick forçou os trabalhadores a roubar para ele. }
+
+Plh_289 { Kendrick realmente achou que estava fazendo isso por Nemeton. }
+
+Plh_194 { Molvina, Herdeira do Pântano, frustrou os planos de Kendrick. Mas ele fez isso por conta própria. }
+
+Plh_196 { Somente o Grande Corvo pode perdoar seus erros. Mas não neste mundo. No próximo. Após sua morte. }
+
+Plh_291 { O Corvo deve julgá-lo! }
+
+Plh_293 { Grande Corvo! Você aceitará nosso julgamento? Você verá que a justiça seja feita? }
+
+Plh_195 { Ele jurou lealdade a Molvina, Herdeira do Pântano. Mas ele também persuadiu outros que fizeram este juramento a traí-lo. }
+
+Plh_290 { Talvez ele acreditasse que... Em sua mente distorcida. Mas o que ele fez foi uma traição ao Nemeton. }
+
+Plh_294 { Ouça-nos, Divindade! }
+
+Plh_295 { Pronuncie o julgamento de Kendrick! }
+
+Plh_198 { Eu sinto a presença do Corvo. O ano velho chega ao fim; o novo começa. As chamas nos purificarão. O Fogo Eterno de Nemeton continua a arder! }
+
+Plh_311 { Kendrick deve queimar! }
+
+Plh_365 { Nós não devemos queimá-lo! Isso é errado! }
+
+Plh_318 { A Divindade deve julgar. Ela decidirá. }
+
+Plh_319 { Ele deve queimar! }
+
+Plh_323 { O Grande Corvo falou! Faça assim, Henik! }
+
+Plh_324 { É hora, Kendrick. }
+
+Plh_312 { O Fogo Eterno de Nemeton. }
+
+Plh_320 { Vocês, tolos! Não vêem o que está acontecendo aqui?! }
+
+Plh_321 { O Fogo Eterno purificará Kendrick. }
+
+Plh_322 { Por Nemeton! }
+
+Plh_326 { Eu te amaldiçoo... }
+
+Plh_208 { O Fogo Eterno purifica Nemeton da culpa e dá boas-vindas ao nosso novo ano. Sem impurezas. Como uma criança recém-nascida. PELA NEMETON! }
+
+Plh_329 { Justiça para Nemeton. Molvina! }
+
+Plh_331 { Todas as pessoas encontrarão seu lar em Drova... Esse é o nosso objetivo. Drova será a Terra das Lendas que nos foi prometida! }
+
+Plh_332 { Qualquer um que deseje obstruir isso não tem lugar aqui. }
+
+Plh_299 { Kendrick agora está com o Corvo. Uma vida a menos entre nós, mas duas novas se juntaram a nós. Venham até mim, Karotte e $GVAR:EVars_Player.Name$. }
+
+Plh_209 { Na expedição para a Floresta Primordial, Karotte provou sua coragem, bravura e lealdade. }
+
+Plh_359 { Você faz parte do Nemeton há muito tempo; agora sua lealdade será recompensada. }
+
+Plh_300 { Karotte, finalmente! Estou orgulhoso de você. }
+
+Plh_210 { $GVAR:EVars_Player.Name$ ainda não esteve conosco por muito tempo, mas mostrou dedicação. Com $GVAR:EVars_Player.Name$, chegamos mais perto de nosso objetivo. Você se levantou pelo Nemeton... Você provou isso! }
+
+Plh_304 { (faz gesto de Nemeton) }
+
+Plh_335 { Fizemos um talismã para Helma graças a $GVAR:EVars_Player.Name$. }
+
+Plh_336 { Mesmo no Acampamento dos Lenhadores, eu sabia que você se encaixaria conosco. }
+
+Plh_337 { $GVAR:EVars_Player.Name$ derrotou um urso! Esse é o tipo de pessoa que precisamos! }
+
+Plh_334 { $GVAR:EVars_Player.Name$ sobreviveu no Pântano Morboso! }
+
+Plh_211 { Ambos são dignos de serem chamados de Guardiões do Nemeton. }

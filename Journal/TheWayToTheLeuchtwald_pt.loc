@@ -1,0 +1,19 @@
+Title { O Caminho para a Floresta Primeval }
+
+Entry_01_A { O Grande Javali vive na Floresta Primeval, cercado por um mar de Chamas Negras. As pessoas que habitam a Floresta Primeval conseguiram sobreviver nesse ambiente. Eu preciso descobrir uma maneira de atravessar as Chamas Negras ileso. Dizem que um comerciante chamado Tristan sabe mais sobre isso. Posso encontrá-lo na taverna conhecida como Headless Ripper Inn. }
+
+Entry_02 { Tristan não vai à taverna há um tempo, e ele nunca pagou sua conta. Olaf se ofereceu para me deixar entrar em seu quarto, desde que eu pague os $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$ que Tristan deve a ele. }
+
+Entry_04 { No quarto de Tristan, encontrei um mapa que mostra como posso entrar na Floresta Primeval em segurança. O mapa também representa um acampamento na floresta. Eu deveria ir até lá. }
+
+Entry_05 { Encontrei o Refúgio. As pessoas aqui vivem com uma centelha que as protege e permite que passem pelas Chamas Negras. Eu preciso de uma dessas centelhas. }
+
+Entry_06 { Tristan diz que apenas membros do Refúgio podem receber tal centelha. Eu devo ter uma conversa com Diemo. }
+
+Entry_07 { Aparentemente, a centelha que recebi repele as Chamas Negras. Eu devo retornar à minha facção e relatar. }
+
+Entry_08 { Depois de compartilhar as informações sobre as Chamas Negras e a centelha, eu devo me juntar a uma expedição na Floresta Primeval. }
+
+Entry_02_A { Eu recebi a chave e agora posso entrar no quarto. }
+
+Entry_09 { Eu tenho um mapa da Floresta Primeval. Tenho certeza de que será útil. }

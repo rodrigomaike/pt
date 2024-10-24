@@ -1,0 +1,225 @@
+Plh_30 { Ajuda da missão... }
+
+Plh_37 { Sobre comida... }
+
+Plh_15 { Shona preparou algo delicioso de novo... }
+
+Plh_19 { Pare de pegar prata de Almar. }
+
+Plh_38 { Então, como é o novo prato da Shona? }
+
+Plh_4 { Hm... }
+
+Plh_125 { Você não vai escapar de mim novamente! }
+
+Plh_127 { Ei, sou Murtagh. Eu te vi chegar mais cedo. VOCÊ provavelmente já ganhou um pouco de prata, não ganhou? }
+
+Plh_0 { É bem perigoso por aqui, não é? É melhor você ficar perto de pessoas que podem te proteger. E isso seria eu. }
+
+Plh_86 { Isso vai te custar apenas $GVAR:QuestVars_ItPaidOff_Config.AmountToPay$ prata. Estou te protegendo, assim você pode trabalhar em paz... vale a pena. }
+
+Plh_88 { Eu pensei que vocês guardas estão aqui para nos proteger de qualquer maneira? }
+
+Plh_90 { Levin não mencionou nenhum tipo de taxa. }
+
+Plh_126 { Shona cozinhou algo de novo. Você realmente quer perder isso? }
+
+Plh_2 { Tudo bem. (dar $GVAR:QuestVars_ItPaidOff_Config.AmountToPay$ prata) }
+
+Plh_3 { Eu não tenho tanta prata assim. }
+
+Plh_5 { Parece que vou ter que te ensinar algumas maneiras. (Começar briga) }
+
+Plh_89 { Porque nós amamos vocês, Hewers! }
+
+Plh_128 { Bem ousado da sua parte. Talvez eu apenas pegue sua prata... }
+
+Plh_91 { Levin não está aqui, então neste lugar é a nossa regra. Então, prata? }
+
+Plh_6 { Isso mesmo. Agora você pode trabalhar em paz. Murtagh está cuidando de você. *sorri amplamente* }
+
+Plh_7 { Oh é? Sério? *pega seu braço* Vamos ver sobre isso... }
+
+Plh_112 { Vá em frente. }
+
+Plh_113 { Tire suas patas fedidas de mim, se você quiser mantê-las. }
+
+Plh_10 { Hm. Isso é mais do que $GVAR:QuestVars_ItPaidOff_Config.AmountToPay$ prata. Então você terá que pagar o dobro. }
+
+Plh_123 { Você venceu. Leve isso. }
+
+Plh_124 { Não vou te dar nada! }
+
+Plh_115 { Não me minta novamente. Você vai se arrepender. }
+
+Plh_9 { Hm. Suas pockets realmente estão vazias. Que fraco. Vá embora. Espero que da próxima vez suas pockets estejam cheias de prata. }
+
+Plh_114 { Você pediu por isso. }
+
+Plh_8 { Vamos ver sobre isso. }
+
+Plh_17 { Hm? Cozinhou o quê? }
+
+Plh_31 { Até tem um pouco de carne. }
+
+Plh_32 { Cheira bem. }
+
+Plh_33 { Ela fez algumas porções perto de sua barraca. }
+
+Plh_34 { Com CARNE? Há semanas não como nada além de pão e vegetais. }
+
+Plh_129 { Droga... se Mursel ficar sabendo disso, ele vai comer tudo sozinho! }
+
+Plh_35 { *lambe os lábios* Estou animado... }
+
+Plh_117 { Ei, lá está você de novo. }
+
+Plh_13 { Na próxima vez, você paga na hora, entendeu? }
+
+Plh_14 { Hm. Bem lutado. Não foi nada mal! }
+
+Plh_118 { Você não vai conseguir nada de mim mais, entendeu? }
+
+Plh_121 { Seus dias de limpar as pessoas acabaram, entendeu? }
+
+Plh_119 { A partir de agora, você vai deixar Almar e eu em paz, entendeu? }
+
+Plh_120 { Entendi, entendi. Fácil. Droga, nenhum dos outros reclamou... }
+
+Plh_20 { Ugh! Tudo bem! Eu vou deixar ele em paz. E você me deixe fora da sua briga! }
+
+Plh_21 { Ou então o quê? }
+
+Plh_94 { Pegue isso. (dar $GVAR:QuestVars_ItPaidOff_Config.AmountToBribeRuslan$) }
+
+Plh_24 { Tenho certeza que podemos resolver isso de alguma forma. }
+
+Plh_92 { $GVAR:QuestVars_ItPaidOff_Config.AmountToBribeRuslan$ prata? Sério? }
+
+Plh_22 { Talvez você mude de ideia depois que eu te der um bom soco na cara. }
+
+Plh_23 { Oh, esqueça. }
+
+Plh_95 { Isso é melhor. Você pode dizer a Almar que eu vou deixá-lo em paz. Pelo menos por enquanto. }
+
+Plh_25 { Claro. Basta me dar $GVAR:QuestVars_ItPaidOff_Config.AmountToBribeRuslan$ prata e eu vou olhar para o outro lado por alguns dias! E talvez os outros também! }
+
+Plh_93 { Você acha que vou pegar apenas $GVAR:QuestVars_ItPaidOff_Config.AmountToPay$ prata de Almar? O cara está lucrando na Mina Profunda. Mas se você compensar minhas perdas... *sorri* }
+
+Plh_26 { Você pediu por isso! }
+
+Plh_28 { Já feito. }
+
+Plh_39 { Mhhhh... isso realmente me cai bem. Shona se superou de novo. }
+
+Plh_40 { Eu consegui a carne para ela. }
+
+Plh_42 { Sem mim, ela não teria nada para cozinhar. }
+
+Plh_47 { Preciso admitir: Com toda a carne que você trouxe para ela, isso está realmente delicioso. *lambe os lábios* }
+
+Plh_49 { Eu acho que como agradecimento posso abrir mão do seu pagamento desta vez. Eu arranho suas costas, você arranha as minhas. }
+
+Plh_50 { Por que você está pegando dinheiro, de qualquer maneira? }
+
+Plh_51 { Obrigado. Agora posso me mover mais livremente no Poço. }
+
+Plh_52 { É assim que se faz! }
+
+Plh_53 { Assim podemos sair de Drova mais rápido. Os guardas se beneficiam e os Hewers ficam mais motivados. E tudo anda mais rápido. }
+
+Plh_56 { Levin falta a prata que você tira dos Hewers. Você está atrapalhando o trabalho. }
+
+Plh_64 { Por que você quer sair de Drova tão desesperadamente? }
+
+Plh_57 { Se isso ajudar a sair daqui mais rápido, então é a coisa certa a fazer. }
+
+Plh_58 { Ah, vai, é só um pouco de prata. Isso não machuca ninguém... }
+
+Plh_60 { Você conseguiu suas mãos em mais do que um pouco de prata... }
+
+Plh_61 { Talvez haja outro motivo pelo qual você queira sair daqui...? }
+
+Plh_63 { E daí? Com ciúmes? Eu vou gastar, afinal! Mas é meio divertido tirar algo desses fracos Hewers. }
+
+Plh_67 { Mas talvez... Se mais disso chegasse a Levin, isso poderia ajudar. Certo? }
+
+Plh_68 { Absolutamente. Cada pouco ajuda. }
+
+Plh_69 { Certamente. Mas Katsa, especialmente, está tornando as coisas piores. }
+
+Plh_96 { Hm. Talvez você esteja certo. }
+
+Plh_98 { Ei, Murtagh. Almar parece realmente fora de si. Diz que você está limpando ele todos os dias, embora ele trabalhe tão duro. Isso é verdade? }
+
+Plh_99 { Limpar pode ser um exagero... }
+
+Plh_100 { Exagero?! Você o levou até o último centavo de prata? }
+
+Plh_101 { Bem, então... eu acho que... }
+
+Plh_130 { Você quer que eu o deixe em paz...? }
+
+Plh_102 { Exatamente! Legal de você perceber isso. Precisamos nos unir aqui embaixo, afinal... *sorrindo* }
+
+Plh_103 { Ficar unido... certo. Você pode ter um ponto... }
+
+Plh_131 { Então... posso ter um pouco mais da sua comida fabulosa...? }
+
+Plh_104 { Não sobrou muito... Mas é legal que você goste... *sorrindo* }
+
+Plh_133 { Na próxima vez, vou esperar por você para poder fazer o que eu quiser com você imediatamente. *corando* Uh, com a comida, é claro. }
+
+Plh_106 { É melhor eu deixar você em paz... }
+
+Plh_108 { O quê?! Não, não, está tudo bem! }
+
+Plh_110 { É melhor você voltar ao trabalho! }
+
+Plh_134 { Ah, e diga a Almar que ele não precisa pagar mais. }
+
+Plh_71 { Hm, sim, Katsa. A metade realmente é uma boa fatia. Um dia desses, eu deveria conversar com ela... }
+
+Plh_66 { Eu só preciso sair daqui. Preciso descobrir... se eu nunca descobrir... nada disso é da sua conta! }
+
+Plh_72 { O que você precisa descobrir? }
+
+Plh_74 { TUDO! Eu nasci no mundo real, e agora estou preso aqui! Em breve, vou esquecer tudo sobre minha terra natal! }
+
+Plh_76 { Isso seria tão ruim? }
+
+Plh_77 { Você não está procurando liberdade? }
+
+Plh_78 { Você está de brincadeira? Claro que isso seria ruim! Eu só preciso saber do que minha vida real se tratava? }
+
+Plh_80 { Todo mundo que vem a Drova perde a memória? }
+
+Plh_81 { Tenho certeza que você vai recuperar sua memória. }
+
+Plh_82 { Não sei. Quase todo mundo que conheço nasceu aqui. Ninguém veio através do Desfiladeiro por um longo tempo. }
+
+Plh_84 { *ele insinua um sorriso que parece quase lhe causar dor* Hm. Vamos manter isso entre nós, você entende? }
+
+Plh_83 { E se for a última coisa que eu fizer. Caso contrário, eu não serei Murtagh, o Ferreiro. Nada pode me parar. }
+
+Plh_79 { Eu entendo. Mas minhas memórias são mais importantes para mim. Elas são... minha essência. E estão ficando mais pálidas. Como se eu estivesse me transformando em névoa... }
+
+Plh_59 { Exatamente. E se você continuar fazendo perguntas estúpidas, talvez eu mude de ideia. Entendeu? }
+
+Plh_65 { Não suporto mais ver nada. Quero dizer, já vi TUDO. E há perigo em cada esquina! }
+
+Plh_54 { Isso mesmo. }
+
+Plh_55 { Não fique convencido. Ou eu posso mudar de ideia. }
+
+Plh_44 { *estreita os olhos* Significa? Você nunca poderia ter feito uma refeição tão deliciosa com isso! }
+
+Plh_45 { Verdade, mas sem a carne teria sido apenas metade tão bom. }
+
+Plh_46 { Eu provavelmente não conseguiria... }
+
+Plh_48 { Te avisei! }
+
+NewName { Murtagh }
+
+Plh_135 { Aproveite. }

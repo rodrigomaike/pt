@@ -1,0 +1,17 @@
+cancel { Cancelar }
+
+accept { Aceitar }
+
+yes { Sim }
+
+no { Não }
+
+on { Ligado }
+
+off { Desligado }
+
+holdToSkip { Segure para pular }
+
+gameModeChangeDesc { Se você mudar o modo, não poderá mais desfazer. Tem certeza? }
+
+loadLatestPopUp { Deseja carregar seu último jogo salvo? }

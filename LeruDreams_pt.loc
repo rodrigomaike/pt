@@ -1,0 +1,63 @@
+Plh_12 { *Você vê uma lanterna peculiar à sua frente. Perto dali, você ouve sussurros e gemidos fracos.* }
+
+Plh_15 { *Três esqueletos estão reunidos ao redor da lanterna. Todos estão voltados para ela, com as mãos vazias estendidas diante de si.* }
+
+Plh_13 { (tocar a lanterna) }
+
+Plh_14 { (dar o fóssil ao esqueleto) }
+
+Plh_34 { (pegar o anel) }
+
+Plh_19 { *A lanterna treme levemente quando você a toca. A corrente range. Parece quase um lamento.* }
+
+Plh_20 { *Ao entregar o fóssil ao primeiro esqueleto, você vê algo que parece uma lembrança...* }
+
+Plh_23 { *Com muita dor, você está deitado ao lado de um lago. O fim parece próximo. Alguém está segurando sua mão.* }
+
+Plh_24 { *Você sente algo deixando seu corpo. Você ouve um grito. A mão que segurava a sua se afasta.* }
+
+Plh_25 { *Olhando para baixo, você vê milhares de girinos se contorcendo no chão. Eles lutam para alcançar o lago.* }
+
+Plh_26 { *De repente, você volta a si, e enquanto o esqueleto à sua frente afunda no chão, você ouve um suspiro de alívio...* }
+
+Plh_21 { *Outra memória o invade novamente enquanto você pressiona o fóssil na mão do esqueleto...* }
+
+Plh_27 { *Você é um pedreiro. Toda a sua vida, você esculpiu pedras e criou estátuas, orgulhando-se de dar vida à pedra.* }
+
+Plh_28 { *Você passou cada vez mais tempo com seu trabalho, eventualmente afastando sua família. Um dia, você adormece no trabalho.* }
+
+Plh_29 { *Ao despertar, você se encontra incapaz de se mover. Não vê nada, não ouve nada. Algo está sobre você. Você percebe que se fundiu com sua obra de arte.* }
+
+Plh_22 { *Você entrega o fóssil ao último esqueleto restante. Mais uma vez, você testemunha uma lembrança...* }
+
+Plh_30 { *Você está em um porão, cercado por gemidos e soluços. Você se sente cansado...* }
+
+Plh_31 { *Há outros. Você se aproxima de um deles e insiste para que ele olhe nos seus olhos. Apenas aqueles que podem sustentar o olhar têm alguma chance de recuperação.* }
+
+Plh_32 { *Os olhos do homem se fecham. Ele respira com dificuldade. Mais um além de qualquer tratamento. Ao olhar ao redor, todos desviam o olhar.* }
+
+Plh_33 { *Você volta a si. Após o último esqueleto desaparecer no chão, um novo esqueleto se ergue. Ele estende um anel para você.* }
+
+Plh_35 { *Ao pegar o anel, você sente uma força poderosa dentro dele. Seu coração acelera, e o sangue corre pelas suas veias.* }
+
+Plh_0 { *O esqueleto à sua frente cruza as mãos sobre o peito. Ele olha para cima, quase como se pudesse vê-lo.* }
+
+Plh_1 { (abrir as mãos do esqueleto) }
+
+Plh_2 { (encontrar seu olhar) }
+
+Plh_4 { *Ao tocar as mãos do esqueleto, você sente momentaneamente uma presença peculiar, mas ela rapidamente se afasta. Você não consegue mover os dedos do esqueleto.* }
+
+Plh_5 { *Você encara o esqueleto. Quanto mais você olha, mais sente-se atraído por ele.* }
+
+Plh_7 { (continuar olhando nos olhos dele) }
+
+Plh_8 { (desviar o olhar) }
+
+Plh_6 { *Você não ousa desviar o olhar do esqueleto. Está totalmente focado. Você nem percebe como suas mãos estão lentamente se movendo em direção às mãos do esqueleto...* }
+
+Plh_10 { *Você continua encarando os olhos do esqueleto. Você sente movimento nas suas mãos. Então, sua mão se fecha em torno de um objeto de formato estranho.* }
+
+Plh_11 { *De repente, você se sente revigorado e cheio de energia. Parece que o esqueleto não está mais olhando para você.* }
+
+Plh_9 { *Ao desviar o olhar, uma súbita sensação de perda o domina.* }

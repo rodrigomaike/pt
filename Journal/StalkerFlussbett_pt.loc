@@ -1,0 +1,5 @@
+Title { A Madeira Protege dos Snaptors }
+
+Entry_01 { Harald encontrou uma mina de prata, mas está com medo dos snaptors ao redor. Se eu conseguir $GVAR:QuestVars_StalkerFlussbett_Config.WoodAmount$ pedaços de madeira, ele me permitirá prospectar toda a prata que eu quiser. Ele diz que posso encontrar madeira nos destroços de navios. }
+
+Entry_02 { Estou autorizado a entrar no Poço. }

@@ -1,0 +1,117 @@
+Plh_168 { Você pode me mostrar como fazer cerveja de ovo? Parece que seu povo gosta dela. }
+
+Plh_3 { (encerrar conversa) }
+
+Plh_169 { Claro! Você é um dos nossos. }
+
+Plh_170 { Na verdade, é bem simples. Jogue todos os ingredientes na panela, depois leve tudo para ferver. A cerveja de ovo estará pronta. Você já conhece os ingredientes. *sorri* }
+
+Plh_164 { É a receita secreta da minha avó. Se um dia você se juntar a nós, talvez eu te conte. }
+
+Plh_127 { O trabalho na paliçada foi finalizado a tempo! Agora podemos relaxar. }
+
+Plh_155 { Espere aqui. }
+
+Plh_156 { Só um segundo. }
+
+Plh_4 { Cai fora. Estou ocupado. O trabalho nas paliçadas não se supervisiona sozinho. }
+
+Plh_8 { Você sabe algo sobre os carregamentos de armas roubados? }
+
+Plh_31 { Sou novo aqui. Estou procurando trabalho. }
+
+Plh_9 { E se eu soubesse? }
+
+Plh_138 { Então, eu ficaria feliz em ouvir sobre isso. }
+
+Plh_177 { E o que isso tem a ver com você? Você nem faz parte de nós. }
+
+Plh_178 { Quero resolver isso para provar meu valor a Angus. }
+
+Plh_179 { Quero resolver isso para poder me juntar a vocês. }
+
+Plh_180 { Hm. Ele certamente acharia isso uma boa ideia. }
+
+Plh_182 { Certo, você terá sua chance. }
+
+Plh_140 { Sei que meus trabalhadores ficaram encarregados da última entrega para Chunnaic. Mas se eu tiver que te ajudar, você vai me ajudar primeiro. }
+
+Plh_172 { Sou o mestre da madeira aqui. Um dos três mestres artesãos de Nemeton. }
+
+Plh_167 { Meus trabalhadores precisam urgentemente de cerveja de ovo — caso contrário, o moral vai despencar. Você pode fazer alguma? }
+
+Plh_173 { Não. }
+
+Plh_174 { Uhh... claro. }
+
+Plh_176 { Eu pensei... }
+
+Plh_153 { Cuide do local aqui e espere até eu voltar. Se alguém quiser algo, diga que já volto. }
+
+Plh_154 { É melhor você não sair daqui! Caso contrário, não te contarei nada, entendeu? }
+
+Plh_175 { Você não é um mentiroso particularmente bom. }
+
+Plh_181 { Muitos dos que estão fora de Nemeton querem exatamente isso. }
+
+Plh_32 { Eu não tenho nada. Tente os lutadores no Portão Oeste. Eles estão sempre procurando novas mãos. }
+
+Plh_157 { Onde você estava, em nome da Divindade? Não te disse para ficar aqui? }
+
+Plh_158 { Karotte precisava de ajuda com a pedra da fronteira... }
+
+Plh_159 { Uhh... bem... }
+
+Plh_160 { Eu não poderia me importar menos com Karotte! }
+
+Plh_162 { Você deveria ter esperado aqui. Nada mais. Se você não consegue fazer nem isso, de que adianta? }
+
+Plh_166 { Então não temos mais nada para discutir sobre os carregamentos de armas! Cai fora! }
+
+Plh_161 { Fala logo! }
+
+Plh_163 { Voltei. A cerveja de ovo está pronta, e isso vai dar um bom ânimo para os meus rapazes. }
+
+Plh_165 { Sobre o carregamento de armas... }
+
+Plh_137 { Ah sim, essa história... }
+
+Plh_183 { Reluto em dizer isso, mas foi um dos meus rapazes. }
+
+Plh_141 { Chunnaic queria que um deles entregasse o carregamento no armazém de Fia. Os artesãos estavam ocupados. }
+
+Plh_142 { Quem, exatamente? }
+
+Plh_144 { Hm. Não sei. }
+
+Plh_146 { E você acha que está no controle de tudo aqui, mesmo sem saber isso? }
+
+Plh_147 { Quem exatamente são os seus trabalhadores? }
+
+Plh_148 { Então vá falar com eles você mesmo... }
+
+Plh_150 { Aiko, Kellan e Mumme. Basta caminhar ao longo das paliçadas aqui no Portão Leste, e você os encontrará facilmente. }
+
+Plh_151 { Mas não os distraia por muito tempo! Eles devem estar trabalhando, não batendo papo. }
+
+Plh_184 { Angus me disse que você poderia me ajudar a melhorar minha casa. }
+
+Plh_185 { Bom trabalho. Eu nunca teria pensado que Kendrick faria algo assim. Já ouvi dizer que o antigo lugar dele agora é seu. Você mereceu. }
+
+Plh_186 { Gostaria de ter uma cama melhor. (Entregar $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$ moedas) }
+
+Plh_187 { Gostaria de ter uma bancada de trabalho. (Entregar $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ moedas) }
+
+Plh_188 { Gostaria de ter uma fornalha. (Entregar $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$ moedas) }
+
+Plh_189 { Plh_189 }
+
+Plh_190 { Plh_190 }
+
+Plh_191 { Parece bom, estou a caminho. Deve estar pronto amanhã. }
+
+Plh_192 { Se você tiver as moedas necessárias. }
+
+Plh_193 { Se você tiver as moedas necessárias, eu poderia te ajudar. }
+
+Plh_194 { Plh_194 }

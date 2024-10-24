@@ -1,0 +1,25 @@
+SleepBuff { Descansado }
+
+SleepBuffDescription { Aumenta sua velocidade de movimento em [MovementPercent]. }
+
+Poison { Veneno }
+
+PoisonDescription { Diminui sua velocidade de movimento em [MovementPercent]. }
+
+Bleeding { Sangramento }
+
+BleedingDescription { A cada segundo, você perde vida. }
+
+SleepBuff_T2 { Bem Descansado }
+
+Veil_Name { Chama Negra }
+
+Veil_Desc { Você está continuamente tomando dano. }
+
+Intoxicated_Name { Bêbado }
+
+Intoxicated_Desc { Tudo parece meio embaçado... }
+
+NoFood_Name { Estômago Vazio }
+
+NoFood_Desc { Coma algo para encher seu estômago. Se estiver satisfeito, você regenerará a vida perdida ao longo do tempo. }

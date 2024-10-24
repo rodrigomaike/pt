@@ -1,0 +1,5 @@
+Title { O Ensopado da Tiaa }
+
+Entry_01 { Tiaa definitivamente não está contente no momento. Ela precisa de carne. Ela me dará algo somente se eu conseguir $GVAR:QuestVars_TiaasEintopf_Config.AmountOfMeat$ pedaços de carne para ela. E nada de carne dura, como ela chama. }
+
+Entry_02 { Eu trouxe carne para a Tiaa. Agora posso conseguir uma refeição quente dela todos os dias. }

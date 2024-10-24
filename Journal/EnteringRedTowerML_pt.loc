@@ -1,0 +1,21 @@
+Title { O Caminho para a Torre Vermelha }
+
+Entry_00_Nemeton { Existe uma jornada rúnica que pode utilizar o Cristal Divino e, com a ajuda do Grande Javali, poderemos entrar na Torre Vermelha. Mas o Grande Javali não possui poder mágico suficiente. Eu devo ir à Biblioteca dos Bygones e encontrar informações sobre outros Cristais Divinos em Drova. }
+
+Entry_00_Ruinenlager { Não conseguimos abrir a porta da Torre Vermelha. O Grande Javali não era poderoso o suficiente. Para obter mais poder, devo procurar na Biblioteca dos Bygones informações sobre a localização de outros Cristais Divinos em Drova. }
+
+Entry_01 { Descobri que existem mais Cristais Divinos. Aparentemente, um pode ser encontrado no topo de um morro, ao norte do Acampamento dos Lenhadores. }
+
+Entry_02 { Encontrei um Cristal Divino. Outro deve estar localizado no fundo da Floresta Primeval, a oeste do acampamento dos Remnants. }
+
+Entry_03 { O poder seria suficiente, mas os Cristais Divinos não estão carregados. Os Bygones costumavam carregar os cristais no fundo do Red Moor, ao sudeste de Nemeton. Preciso dar uma olhada nessa área. }
+
+Entry_04_1_NemetonQuest { Temos os Cristais Divinos carregados e o Grande Javali. Estamos prontos para a Torre Vermelha! Devo informar Mombert na casa dos druidas. }
+
+Entry_04_2_NemetonQuest { Mombert está pronto. Torre Vermelha, aí vamos nós! Vamos transformar Drova na Terra das Lendas! }
+
+Entry_04_3_NemetonQuest { Tudo está pronto. Devo me preparar bem. Não há como voltar atrás! Assim que estiver pronto, devo me reportar a Molvina. }
+
+Entry_04_1_RuinenlagerQuest { Tudo está pronto. Devo me preparar bem. Não há como voltar atrás! Assim que estiver pronto, devo me reportar a Jero. }
+
+Entry_05 { Funcionou! Estamos dentro da Torre Vermelha! }

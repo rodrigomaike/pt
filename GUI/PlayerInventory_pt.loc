@@ -1,0 +1,59 @@
+title_character_segment { Personagem }
+
+label_character_level { Nível }
+
+tooltip_character_level { Exibe seu nível atual. Isso indica o quão poderoso seu personagem é. }
+
+tooltip_character_faction { Exibe sua lealdade atual. }
+
+tooltip_character_skillpoints { Você pode usar pontos de aprendizado para aumentar seus atributos ou aprender novos talentos com professores. Cada novo nível concede <color=#55BD55>quatro</color> pontos de aprendizado e <color=#55BD55>cinco</color> pontos de vida. }
+
+label_character_skillpoints { Pontos de Aprendizado }
+
+tooltip_character_xp { Você recebe pontos de experiência ao matar oponentes ou completar tarefas. }
+
+label_attributes_hitpoints { Vida }
+
+tooltip_attributes_hitpoints { Quando sua vida chega a zero, seu personagem morre. }
+
+tooltip_attributes_stamina { O vigor é usado para bloquear, esquivar e para ataques pesados. }
+
+label_attributes_stamina { Vigor }
+
+tooltip_attributes_flow { O foco é usado para habilidades. Ele é gerado ao causar dano e dissipa com o tempo ou após receber dano. }
+
+label_attributes_flow { Foco }
+
+tooltip_attributes_power { Aptidão é a soma de seus atributos e serve como pré-requisito para empunhar certas armas. }
+
+tooltip_attributes_strength { Força aumenta o dano físico que você inflige em [VALUE]. }
+
+tooltip_attributes_dexterity { Destreza aumenta sua chance de acerto crítico em [VALUE]. Cada acerto crítico causa sangramento no alvo e dano adicional, dependendo do tipo de arma. }
+
+tooltip_attributes_mind { Mente aumenta seu dano mágico em [VALUE1] e seu foco base em [VALUE2]. }
+
+label_attributes_armor { Armadura }
+
+tooltip_attributes_armor { Reduz o dano físico recebido. }
+
+tooltip_attributes_magic_resistance { Reduz o dano mágico recebido. }
+
+label_attributes_magic_resistance { Resistência Mágica }
+
+title_equipment_segment { Equipamento }
+
+title_directquickbar_segment { Barra Rápida }
+
+faction_none { Sem facção }
+
+faction_nemeton { Nemeton }
+
+faction_ruincamp { Acampamento dos Remanescentes }
+
+title_ammo { Munição }
+
+totalFIghtingStrength { Aptidão }
+
+baseFightingStrength { Aptidão Base }
+
+baseFightingStrengthDesc { A aptidão base é a soma dos seus atributos sem bônus adicionais de equipamentos e é considerado um requisito para talentos. }

@@ -1,0 +1,130 @@
+Plh_7 { Humbert está alegando que você destruiu o jardim dele. }
+
+Plh_24 { Ceda as moedas ou você vai se arrepender. }
+
+Plh_32 { Humbert vai trazer o resto da entrega para você. }
+
+Plh_5 { Mostre-me suas mercadorias. }
+
+Plh_2 { Com prazer, com prazer. }
+
+Plh_4 { Oh, rapaz, um novo cliente! Bem-vindo ao estande de Gerion, onde você pode comprar as melhores armas de todo Drova! }
+
+Plh_0 { Eu tenho tudo que seu coração deseja! Espadas simples, machados de duas mãos bons para cortar cabeças, adagas ágeis ou uma lança longa e pontuda! }
+
+Plh_35 { Se você quiser comprar algo, encontre-me em meu estande no Bairro dos Mercadores. }
+
+Plh_1 { Posso ajudar você? *esfrega as mãos* }
+
+Plh_8 { O QUÊ? O velho está me acusando? }
+
+Plh_9 { Acho que ele ficou maluco de tanto inalar os vapores das ervas. Tudo o que ele faz é ficar com suas ovelhas e plantas ruins. Não tenho nada a ver com o jardim dele sendo destruído! }
+
+Plh_15 { A cerca foi destruída. Ele está alegando que você pegou o portão. }
+
+Plh_17 { Alguns dos arbustos foram pisoteados. Você tem algo a ver com isso? }
+
+Plh_10 { *Estica os olhos* Diga-me a verdade. Foi você ou não? }
+
+Plh_11 { Quem mais poderia ter sido? }
+
+Plh_16 { Claro! Eu definitivamente não teria deixado nenhuma evidência para trás. }
+
+Plh_18 { Você acha que eu pisotearia as plantas que tanto preciso? }
+
+Plh_19 { Essa seria uma ideia absurda. }
+
+Plh_12 { *levanta as mãos* Não fui eu! Você tem que acreditar em mim! }
+
+Plh_14 { Eu... eu nunca roubaria. E de um mestre artesão? Isso seria um suicídio completo! }
+
+Plh_20 { O velho quer $GVAR:QuestVars_FavourOfCraftsmenGardeners.MoneyOwedToHumbert$ moedas de você. }
+
+Plh_22 { O-que? Aquele velho entrega bem menos do que pagamos, e agora quer ainda MAIS moedas por isso? }
+
+Plh_23 { Ele pode esquecer isso. Esse cara deveria nos fornecer adequadamente. Até ele me entregar, ele não vai receber nada. }
+
+Plh_13 { Como eu deveria saber disso?! }
+
+Plh_25 { Você deve estar brincando! Você é um dos lutadores, e está tentando me fazer de tolo? Já te disse: NÃO FUI EU! }
+
+Plh_26 { Você está mentindo. Ceda as moedas. }
+
+Plh_27 { Eu volto. }
+
+Plh_28 { *range os dentes* Primeiro Humbert não entrega o suficiente, e agora sou eu quem deve pagar mais por isso. }
+
+Plh_29 { Mas, bem... eu acho que não tenho escolha. Aí está. As moedas. Agora me deixe em paz. }
+
+Plh_30 { É por causa de pessoas como você que esse maldito acampamento está indo para o fundo do poço... }
+
+Plh_31 { Pare de desperdiçar nosso tempo. Não fui eu! Agora vá embora. }
+
+Plh_33 { Você convenceu aquele velho? E você não está tentando me fazer de tolo, como os outros?! }
+
+Plh_34 { Então realmente há alguém em Nemeton tentando garantir que a justiça seja feita? Justiça que eu realmente vou experimentar um dia. Aqui está. }
+Plh_7 { Humbert está alegando que você destruiu o jardim dele. }
+
+Plh_24 { Ceda as moedas ou você vai se arrepender. }
+
+Plh_32 { Humbert vai trazer o resto da entrega para você. }
+
+Plh_5 { Mostre-me suas mercadorias. }
+
+Plh_2 { Com prazer, com prazer. }
+
+Plh_4 { Oh, rapaz, um novo cliente! Bem-vindo ao estande de Gerion, onde você pode comprar as melhores armas de todo Drova! }
+
+Plh_0 { Eu tenho tudo que seu coração deseja! Espadas simples, machados de duas mãos bons para cortar cabeças, adagas ágeis ou uma lança longa e pontuda! }
+
+Plh_35 { Se você quiser comprar algo, encontre-me em meu estande no Bairro dos Mercadores. }
+
+Plh_1 { Posso ajudar você? *esfrega as mãos* }
+
+Plh_8 { O QUÊ? O velho está me acusando? }
+
+Plh_9 { Acho que ele ficou maluco de tanto inalar os vapores das ervas. Tudo o que ele faz é ficar com suas ovelhas e plantas ruins. Não tenho nada a ver com o jardim dele sendo destruído! }
+
+Plh_15 { A cerca foi destruída. Ele está alegando que você pegou o portão. }
+
+Plh_17 { Alguns dos arbustos foram pisoteados. Você tem algo a ver com isso? }
+
+Plh_10 { *Estica os olhos* Diga-me a verdade. Foi você ou não? }
+
+Plh_11 { Quem mais poderia ter sido? }
+
+Plh_16 { Claro! Eu definitivamente não teria deixado nenhuma evidência para trás. }
+
+Plh_18 { Você acha que eu pisotearia as plantas que tanto preciso? }
+
+Plh_19 { Essa seria uma ideia absurda. }
+
+Plh_12 { *levanta as mãos* Não fui eu! Você tem que acreditar em mim! }
+
+Plh_14 { Eu... eu nunca roubaria. E de um mestre artesão? Isso seria um suicídio completo! }
+
+Plh_20 { O velho quer $GVAR:QuestVars_FavourOfCraftsmenGardeners.MoneyOwedToHumbert$ moedas de você. }
+
+Plh_22 { O-que? Aquele velho entrega bem menos do que pagamos, e agora quer ainda MAIS moedas por isso? }
+
+Plh_23 { Ele pode esquecer isso. Esse cara deveria nos fornecer adequadamente. Até ele me entregar, ele não vai receber nada. }
+
+Plh_13 { Como eu deveria saber disso?! }
+
+Plh_25 { Você deve estar brincando! Você é um dos lutadores, e está tentando me fazer de tolo? Já te disse: NÃO FUI EU! }
+
+Plh_26 { Você está mentindo. Ceda as moedas. }
+
+Plh_27 { Eu volto. }
+
+Plh_28 { *range os dentes* Primeiro Humbert não entrega o suficiente, e agora sou eu quem deve pagar mais por isso. }
+
+Plh_29 { Mas, bem... eu acho que não tenho escolha. Aí está. As moedas. Agora me deixe em paz. }
+
+Plh_30 { É por causa de pessoas como você que esse maldito acampamento está indo para o fundo do poço... }
+
+Plh_31 { Pare de desperdiçar nosso tempo. Não fui eu! Agora vá embora. }
+
+Plh_33 { Você convenceu aquele velho? E você não está tentando me fazer de tolo, como os outros?! }
+
+Plh_34 { Então realmente há alguém em Nemeton tentando garantir que a justiça seja feita? Justiça que eu realmente vou experimentar um dia. Aqui está. }

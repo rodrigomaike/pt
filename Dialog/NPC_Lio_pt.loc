@@ -1,0 +1,113 @@
+Plh_5 { Seu rosto já apareceu para mim em meus sonhos. Eu sabia que você viria até mim. Eu sou Lio, tecelão de runas do Nemeton. }
+
+Plh_95 { O que você está fazendo nesta caverna? }
+
+Plh_96 { O que há de errado com seus olhos? }
+
+Plh_97 { Eu moro aqui. Para estudar magia e o conduto de poder e espírito. Sem poder, você não pode criar poder mágico. Você precisa lutar, para que seu corpo possa criar poder mágico. }
+
+Plh_99 { E o poder mágico tem seu preço. Eu perco minha visão e murcho por dentro. Mas todos nós murcharemos, eventualmente. }
+
+Plh_19 { Vamos começar... }
+
+Plh_30 { É hora. Finalmente! }
+
+Plh_20 { Karotte e $GVAR:EVars_Player.Name$. Vocês trouxeram o Poderoso Javali e liberaram seu poder. Agora esse poder irá ajudá-los. }
+
+Plh_21 { Ó Divindade! Abençoe esta runa. Que seja o recipiente de sua força! Uma veia de magia! }
+
+Plh_32 { Torne-se um com a Divindade! Torne-se um com esta runa! Ela se tornará parte do seu corpo! }
+
+Plh_35 { O ritual está completo. Uma runa foi vinculada a Karotte, outra a $GVAR:EVars_Player.Name$. }
+
+Plh_36 { Uma runa é inútil sem um feitiço. Lio irá imprimir um primeiro feitiço em sua runa. }
+
+Plh_38 { Venha até mim, Karotte. }
+
+Plh_24 { Sua runa será ligada a você. Somente na morte este vínculo poderá ser destruído. }
+
+Plh_40 { Aqui, pegue sua runa e carregue-a com honra, Karotte. }
+
+Plh_41 { *agarra a runa* Está vibrando na minha mão. }
+
+Plh_42 { Essa é a ligação entre você e a pedra. Somente você pode usar esta runa. }
+
+Plh_52 { $GVAR:EVars_Player.Name$, agora você. }
+
+Plh_44 { (mover) }
+
+Plh_46 { Sua runa — o poder do Poderoso Javali — agora faz parte de você. }
+
+Plh_47 { Bom trabalho, Lio. Você merece uma pausa. }
+
+Plh_48 { Karotte e $GVAR:EVars_Player.Name$, lembrem-se, carregar uma runa vem com grande responsabilidade. Agora vocês representam o Nemeton. Toda a comunidade se refletirá em cada um de seus atos. Tenham isso em mente. }
+
+Plh_49 { Eu valorizarei minha runa. }
+
+Plh_58 { Eu não vou decepcioná-lo. }
+
+Plh_57 { Pelo Nemeton! }
+
+Plh_50 { Karotte, por favor, apresente-se a Henik. Sua próxima tarefa o aguarda. E você, $GVAR:EVars_Player.Name$, fique aqui. Precisamos conversar sobre algo. }
+
+Plh_61 { A hora chegou. Com isso, entraremos na Torre Vermelha. }
+
+Plh_68 { Se Jero soubesse disso... mas seremos nós a ganhar acesso à Torre Vermelha. }
+
+Plh_69 { A Torre Vermelha está no território dos Remnants. Vamos atacá-los? }
+
+Plh_67 { Não. Os lutadores deles são fortes, e Jero é um líder formidável. Mas graças aos Cristais Divinos e ao Poderoso Javali, pelo menos temos uma chance. *sorri* }
+
+Plh_64 { Precisaremos de poder mágico para uma jornada rúnica a fim de superar a barreira em torno da Torre Vermelha e entrar. }
+
+Plh_71 { Esta jornada exigirá um poder enorme. O poder do Poderoso Javali é limitado, uma vez que o aprisionamos no recipiente da runa. }
+
+Plh_72 { Não podemos libertar a Divindade e aproveitar seu poder? }
+
+Plh_77 { Como conseguiremos poder suficiente? }
+
+Plh_73 { Não, isso direcionaria sua ira contra nós. Perderíamos o controle sobre o Javali, e Gradan teria morrido em vão... }
+
+Plh_74 { O Cristal Divino! O poder da Divindade pode ser armazenado nele, e podemos usá-lo para a jornada rúnica. }
+
+Plh_76 { Este Cristal Divino não contém mais poder divino. Precisamos reimprimi-lo novamente. No entanto, é impossível que um único cristal retenha o suficiente. }
+
+Plh_75 { Precisamos descobrir se existem mais Cristais Divinos. Mombert, você precisa encontrar uma maneira de imbuir os Cristais Divinos com poder divino. }
+
+Plh_79 { Há um lugar onde provavelmente podemos aprender mais sobre a existência dos Cristais Divinos. É uma biblioteca antiga. Dentro das ruínas. Não sabemos onde, exatamente. }
+
+Plh_78 { Existe um pequeno grupo de pessoas que se chamam os Caçadores de Ruínas. Eu sei que eles já foram a esta Biblioteca antes. }
+
+Plh_93 { Há bastante tempo, eu entrei em contato com uma pessoa chamada Reija. Temos nos interessado pela Biblioteca desde que obtivemos o Cristal Divino. Ela pode nos levar até lá. }
+
+Plh_100 { No momento, ela está perto da Estalagem. Encontre-a lá. Diga a ela que eu te mandei. }
+
+Plh_94 { Essa é uma tarefa muito importante, $GVAR:EVars_Player.Name$. Tenho certeza de que você está à altura. Precisamos de todas as informações sobre os cristais que você puder conseguir. }
+
+Plh_80 { Eu não vou decepcioná-lo. }
+
+Plh_85 { Como Guardião do Nemeton, você precisará de uma armadura decente. }
+
+Plh_86 { Posso te dar uma armadura leve, que permitirá maior agilidade, mas não oferece tanta proteção. Ou uma armadura pesada que oferece muito mais proteção, se você for atingido. }
+
+Plh_87 { A magia que nos rodeia está em toda parte. Também posso oferecer uma armadura druídica. Ela não oferecerá tanta proteção, mas aumentará sua conexão espiritual. }
+
+Plh_88 { Eu gostaria da armadura leve. }
+
+Plh_89 { Eu gostaria da armadura pesada. }
+
+Plh_90 { Eu gostaria da armadura mágica. }
+
+Plh_92 { Agora, isso é muito melhor. Se você precisar de novas armas, deve ir ver Chunnaic. E Lio pode imprimir novos feitiços em sua runa. }
+
+Plh_91 { Lute pelo Nemeton! Lute pelo nosso sonho! }
+
+Plh_6 { O que é um tecelão de runas? }
+
+Plh_8 { Eu crio runas. Elas são imbuídas com o poder de uma Divindade. Assim, podemos usá-las para lançar feitiços que vêm diretamente do reino das Divindades. }
+
+Plh_10 { Como exatamente um tecelão de runas faz isso? }
+
+Plh_55 { Pense no poder de uma Divindade como sendo uma teia de aranha. Como um Teceiro de Runas, eu preciso navegar pelos seus caminhos intrincados. Isso exige prática e muita força. }
+
+Plh_56 { Precisamos esperar por Molvina. }

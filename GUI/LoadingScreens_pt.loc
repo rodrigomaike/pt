@@ -1,0 +1,81 @@
+LoadingScreen_01 { Antes de interagir com pessoas ou objetos, você precisa guardar sua arma. }
+
+LoadingScreen_02 { Pressione $INPUT:DrawWeapon$ para sacar ou guardar sua arma. }
+
+LoadingScreen_05 { Você pode usar $INPUT:PerceptionMode$ para observar melhor o ambiente ao seu redor. Existem algumas coisas que só podem ser descobertas dessa maneira! }
+
+LoadingScreen_06 { Você só pode atacar após sacar sua arma. Primeiro pressione $INPUT:DrawWeapon$ e depois $INPUT:Attack_Primary$. }
+
+LoadingScreen_07 { Durma em camas para se recuperar. Quanto melhor for a cama em que você dormir, mais descansado estará. }
+
+LoadingScreen_08 { Pegue tudo o que encontrar. Você pode criar itens usando outros itens. }
+
+LoadingScreen_09 { Você pode fritar carne ou cozinhar refeições usando uma fogueira. }
+
+LoadingScreen_11 { Quando alguém estiver caído, você pode ajudá-lo a se levantar. }
+
+LoadingScreen_12 { Diferentes comerciantes vendem diferentes mercadorias. Fique de olho em boas ofertas! }
+
+LoadingScreen_14 { Carregar uma lança permite que você pesque em certos lugares. Peixes circulando indicam os melhores pontos de pesca. }
+
+LoadingScreen_15 { Se você tiver uma ganzúa, poderá abrir fechaduras. Apenas não seja pego! }
+
+LoadingScreen_16 { Cuidado ao pegar itens! Itens com contorno vermelho já pertencem a outra pessoa. Ninguém gosta de ladrões! }
+
+LoadingScreen_17 { Em combate, você pode esquivar ataques usando $INPUT:Dodge$. Mas fique de olho na sua barra de vigor! }
+
+LoadingScreen_18 { Se você cometer um crime, as pessoas não querem mais saber de você. Em Nemeton, Gerdwin pode perdoar um crime. No acampamento dos Remanescentes, você terá que resolver com quem está bravo com você. }
+
+LoadingScreen_19 { Seu personagem anota todos os eventos importantes. Consulte seu diário se ficar perdido. }
+
+LoadingScreen_20 { Se você encontrar oponentes que ainda são muito difíceis para você, considere ir para outro lugar primeiro. }
+
+LoadingScreen_21 { Aptidão é a soma dos seus atributos. Algumas armas exigem uma certa quantidade de aptidão para serem empunhadas. }
+
+LoadingScreen_22 { As pessoas não gostam se você andar por aí brandindo sua arma. Quando estiver perto de pessoas, guarde sua arma com $INPUT:DrawWeapon$. }
+
+LoadingScreen_23 { Algumas pessoas querem ir a lugares com você. Geralmente elas esperam se você se afastar muito. }
+
+LoadingScreen_24 { Pense bem sobre qual facção você deseja se juntar. Uma vez que fizer sua escolha, não há como voltar atrás. }
+
+LoadingScreen_25 { Você pode extrair garras de certos animais, ou esfolá-los. Mas primeiro você precisará aprender os talentos respectivos. }
+
+LoadingScreen_26 { Se você quiser aprender um talento ou aumentar seus atributos, terá que encontrar um professor. }
+
+LoadingScreen_28 { Segure $INPUT:RingMenu$ para abrir o menu circular. De lá, você pode selecionar uma habilidade ativa. }
+
+LoadingScreen_29 { Habilidades de pergaminhos só podem ser usadas uma vez. Elas podem ser úteis, então use com sabedoria. }
+
+LoadingScreen_30 { Usar uma habilidade consome foco. Você gera foco atacando, e perde foco se for atingido ou se não atacar por muito tempo. }
+
+LoadingScreen_32 { Com $INPUT:SwapWeaponSet$, você pode alternar entre dois conjuntos de armas em combate. Pressione $INPUT:MENU-Inventory$ para configurar seus dois conjuntos de armas. }
+
+LoadingScreen_34 { Você pode se comunicar com alguns animais. Por que não tentar falar com um? }
+
+LoadingScreen_35 { Para criar certos itens, você precisa do local de trabalho adequado. }
+
+LoadingScreen_36 { Não gosta de lutar? Mantenha-se no caminho e você estará relativamente seguro. }
+
+LoadingScreen_37 { O ataque secundário das adagas causa exponencialmente mais dano quanto maior for seu foco. }
+
+LoadingScreen_38 { Você pode colocar marcadores em todos os seus mapas. No entanto, você deve primeiro encontrar tinta. }
+
+LoadingScreen_39 { Você pode marcar itens que não têm utilidade para você como lixo usando $INPUTANIM:Garbage$. Você pode mostrar e esconder o lixo no inventário e adicioná-lo à troca no menu de troca com apenas um clique. }
+
+LoadingScreen_40 { Acertos críticos causam sangramento (sangramento causa dano ao longo do tempo, equivalente ao dano do ataque). }
+
+LoadingScreen_41 { O veneno diminui a velocidade de movimento dos alvos afetados. }
+
+LoadingScreen_42 { A comida cura você ao longo do tempo, mas a regeneração é pausada enquanto sua vida estiver cheia. Muitos pratos oferecem efeitos passivos enquanto você está saciado. Se já estiver cheio e comer algo, o efeito ativo de saciedade será sobrescrito. }
+
+LoadingScreen_43 { Ao usar um item de cura, você recebe o efeito de cura e recupera pontos de vida em intervalos regulares. Você também pode ter vários efeitos de cura ativos ao mesmo tempo, mas apenas um por item de cura. }
+
+LoadingScreen_44 { Confira o menu de opções. Temos alguns recursos e configurações adicionais que podem ser úteis para seu estilo de jogo. }
+
+LoadingScreen_45 { Inimigos têm diferentes resistências a danos físicos e mágicos. Portanto, feitiços são particularmente eficazes em criaturas bem armadas! }
+
+LoadingScreen_46 { Cada arma tem um ataque secundário, que você executa com $INPUTANIM:Block$. Você só pode usar isso com armas de uma mão se sua mão secundária estiver livre. }
+
+LoadingScreen_47 { Se você tiver algum feedback ou quiser entrar em contato conosco, junte-se ao nosso Discord. Lá você pode falar conosco pessoalmente. Ficaremos felizes em vê-lo! }
+
+LoadingScreen_48 { Itens consumíveis, como armadilhas, bombas e facas arremessáveis, penetram a armadura dos inimigos. }

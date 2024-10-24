@@ -1,0 +1,11 @@
+Title { Um Lugar na Mina Profunda }
+
+Entry_01 { Murtagh sempre leva uma grande parte da prata prospectada por Almar na Mina Profunda. Se eu conseguir dissuadir Murtagh de fazer isso, Almar compartilhará seu lugar na Mina Profunda comigo. }
+
+Entry_02A { Cuidei de Almar. Se ele não puder trabalhar, Jendra precisará de outra pessoa para a Mina Profunda. Essa é a minha oportunidade. }
+
+Entry_02B { Murtagh não causará mais problemas a Almar. Eu deveria avisar Almar. }
+
+Entry_02C { Jendra queria $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ prata pelo lugar de Almar. Eu paguei, e agora tenho o lugar dele. }
+
+Entry_03 { Estou compartilhando um lugar na Mina Profunda com Almar. Ele está fazendo uma pausa por enquanto. Agora Jendra deve estar disposto a me levar. }

@@ -1,0 +1,83 @@
+Plh_45 { Me ensine algo sobre caça. }
+
+Plh_94 { Você tem mercadorias para vender? }
+
+Plh_12 { Você é bom com armadilhas? }
+
+Plh_59 { Eu conheço bem armadilhas. É meu tipo de caça. Elas vão te salvar lá fora. }
+
+Plh_60 { Chunnaic precisa de alguém assim... }
+
+Plh_62 { Eu conheço Chunnaic. E ela sabe que sou um mestre nesta área. Ela pode vir quando quiser... }
+
+Plh_63 { Mas aquela guarda na entrada, Palina, não vai me deixar passar. }
+
+Plh_65 { Eu cuido disso. Venha para a entrada mais tarde. }
+
+Plh_66 { Você acha que consegue fazer isso? Eu não me importaria... }
+
+Plh_6 { O que esse gato está fazendo aqui? }
+
+Plh_9 { Se eu soubesse. Parece estar com fome. Mas ele não quer carne de ripper. Apenas peixe. Ele é um gato exigente... }
+
+Plh_95 { Eu o vi vagando pelo Red Moor. Parecia bem perigoso. Mas ele sobreviveu até agora. }
+
+Plh_74 { Aqui estão os $GVAR:EVars_Caspara.TrainingCost$ moedas. Me ensine algo. }
+
+Plh_42 { Você pode me ensinar sobre caça? }
+
+Plh_75 { Você vai recuperar as moedas rapidamente. O que você quer aprender? }
+
+Plh_43 { Claro. Eu poderia fazer isso. Mas vai custar. Não existe almoço grátis. *pisca* }
+
+Plh_77 { Por $GVAR:EVars_Caspara.TrainingCost$ moedas, eu te ensinarei uma ou duas coisas sobre caça. }
+
+Plh_93 { Eu sou caçadora. É assim que ganho a vida. Dê uma olhada ao redor. }
+
+Plh_56 { Ah, você viu o pequeno gato? *sorrindo* Ele está correndo por aqui em algum lugar. }
+
+Plh_5 { Quem é você? }
+
+Plh_7 { O que tem aqui, então? }
+
+Plh_8 { Eu sou Caspara. Uma caçadora e rastreadora. Trabalhei em Georgefarm por um tempo. Mas agora estou aqui. }
+
+Plh_10 { Você viu as paliçadas? As ENORMES, INSUPERÁVEIS paliçadas? Isso soa familiar? *sorrindo* }
+
+Plh_67 { Já te disse antes, Caspara! Você não vai entrar aqui! }
+
+Plh_69 { Ei, Palina, esta é Caspara. Eu sou suposto para levá-la a Chunnaic. }
+
+Plh_70 { *avalia Caspara* Se você diz, $GVAR:EVars_Player.Name$. Deixe-me explicar as regras... }
+
+Plh_71 { Estamos com pressa. Estou ajudando ela a encontrar o caminho. }
+
+Plh_68 { Muito bem, você pode entrar. }
+
+Plh_81 { Eu vou encontrar o caminho para Chunnaic. Eu já fui vê-la muitas vezes antes. }
+
+Plh_11 { O que você quer? }
+
+Plh_52 { Você já esteve em Georgefarm? }
+
+Plh_20 { Onde fica Georgefarm? }
+
+Plh_21 { Como você acha que está piorando? }
+
+Plh_25 { Como você vai entrar em Nemeton? }
+
+Plh_18 { Não faz muito tempo. Eu era a única caçadora e lutadora lá. }
+
+Plh_19 { Mas desde aquele problema com a ponte e o terremoto... Bem, digamos que — agora eu prefiro estar do outro lado da paliçada. }
+
+Plh_22 { É para onde você quer ir? Confie em mim, Georg só vai te enganar para trabalhar lá. }
+
+Plh_28 { Mas se isso não te deter, siga o caminho para o nordeste, ao longo do rio. Você realmente não pode errar. }
+
+Plh_23 { Eu posso dizer. Em todo lugar. É como um zumbido no ar. Alguns animais enlouquecem, outros se escondem. Como se uma tempestade estivesse se aproximando... }
+
+Plh_24 { Seria bom estar protegido pelas paliçadas de Nemeton. }
+
+Plh_26 { Eu sou uma caçadora habilidosa. Posso destrinchar animais, construir armadilhas e perceber qualquer cheiro — não importa quão fraco. }
+
+Plh_27 { Mas esses malditos guardas não estão interessados em nada disso. ELES são os que eu deveria destrinchar... }

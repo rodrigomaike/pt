@@ -1,0 +1,211 @@
+Plh_8 { O que é este lugar? }
+
+Plh_27 { O que exatamente você está fazendo aqui? }
+
+Plh_9 { *sorri* Você nos encontrou, os Saqueadores das Ruínas. Isso te torna uma das poucas pessoas que conhecem este lugar. }
+
+Plh_28 { Nós procuramos tesouros nas ruínas. E se encontrarmos algo, vendemos em Nemeton ou no acampamento dos Remanescentes. }
+
+Plh_24 { O que você quer dizer com "Coisas Passadas"? }
+
+Plh_26 { Outras coisas? O que você quer dizer com isso? }
+
+Plh_23 { Certamente você já viu as antigas ruínas que estão espalhadas por Drova. O acampamento dos Remanescentes se espalhou entre elas. Essas ruínas são os vestígios dos Coisas Passadas. }
+
+Plh_25 { Esta era a colônia deles há muito tempo. Eles mineravam prata e outras coisas aqui. }
+
+Plh_37 { Já viu magia rúnica? Ela vem dos Coisas Passadas. Eles usaram o poder das Divindades para conjurá-la. }
+
+Plh_38 { De qualquer forma, eles pereceram. Ninguém sabe por quê. }
+
+Plh_39 { Talvez um dia descubramos... }
+
+Plh_42 { Eu encontrei outro relicário. }
+
+Plh_105 { Fale com o Olaf primeiro. Você precisa entender tudo. }
+
+Plh_18 { Eu deveria te mostrar este relicário aqui. }
+
+Plh_113 { Eu encontrei a câmara do Drivanius. }
+
+Plh_19 { *olha para o relicário* }
+
+Plh_31 { E aí? O que você diz? }
+
+Plh_34 { Estranho... }
+
+Plh_35 { É um relicário dos Coisas Passadas. Vou ter que investigá-lo mais a fundo. Mas isso levará um tempo. }
+
+Plh_44 { Seu valor é difícil de estimar. Vou te dar, digamos... }
+
+Plh_45 { $GVAR:QuestVars_Brutus_Config.BrutusMineReward$ moedas. }
+
+Plh_104 { Fique à vontade para me trazer mais relicários dos Coisas Passadas. }
+
+Plh_114 { O QUÊ? Onde estão eles? O que você encontrou? Fale logo! }
+
+Plh_115 { Está abaixo da Torre Vermelha. Você pode chegar lá pelo templo de Sol. }
+
+Plh_116 { E o que havia lá? }
+
+Plh_118 { Estava cheio de pesquisas. Nos seus últimos dias, ele estava trabalhando neste capacete do nexo. }
+
+Plh_119 { A única coisa que consegui entender foi este estranho capacete aqui. }
+
+Plh_120 { Mostre-me! Hm. Sem as anotações dele, não entendo nada sobre isso. O que mais você aprendeu? }
+
+Plh_121 { Talvez seja melhor se você ver por si mesmo. }
+
+Plh_122 { Eu não entendi muito do que encontrei. }
+
+Plh_123 { Vou contar aos outros. Capacete do nexo. Hm... se isso foi a última coisa em que ele estava trabalhando, pode ser útil, afinal. Só podemos esperar. }
+
+Plh_124 { Pelo menos, uma vez que você tenha conseguido entrar na Torre Vermelha. }
+
+Plh_97 { Você tem alguma novidade sobre os relicários? }
+
+Plh_98 { Consegui juntar alguns documentos. Deve ter havido uma grande batalha em algum lugar ao norte. Isso afetou Drivanius... }
+
+Plh_99 { Não diretamente. Mas tenho certeza de que ainda há alguns nas ruínas aqui, que ainda não foram encontrados. }
+
+Plh_100 { Fique de olho neles enquanto estiver por aí. Especialmente em lugares onde ninguém colocou os pés há séculos... }
+
+Plh_101 { Você pesquisou todas as ruínas? Talvez alguém tenha encontrado uma pedra? Eu diria que você deveria conferir com comerciantes e trapaceiros. }
+
+Plh_126 { $GVAR:EVars_Player.Name$? O que você ainda está fazendo aqui? }
+
+Plh_127 { Eu queria ver se você encontrou algo interessante. }
+
+Plh_128 { Eu estava na área e pensei em dar uma passada. }
+
+Plh_129 { Sim. Essas câmaras contêm muitos experimentos interessantes e algumas anotações. Drivanius não apenas fez observações interessantes sobre Drova, mas também sobre as estrelas... }
+
+Plh_130 { No entanto, o Capacete do Nexo foi sua tentativa de entender a situação em Drova. Espero que você tenha mais sucesso do que ele teve. }
+
+Plh_5 { As pessoas não costumam se aventurar aqui embaixo. Como você chegou aqui? }
+
+Plh_13 { Aqui, eu trouxe isso. Parece ser do Olaf. }
+
+Plh_16 { *franze a testa* Do Olaf, você diz? Deixe-me ver. }
+
+Plh_14 { Eu te disse — é apenas uma questão de tempo antes que alguém nos encontre. }
+
+Plh_15 { Mm. Acho que você estava certo afinal. }
+
+Plh_110 { *boceja* Estou cansado. Vamos conversar mais no bar. }
+
+Plh_21 { Acredito que ainda não me apresentei. }
+
+Plh_17 { Ei, e aí? }
+
+Plh_10 { Meu nome é Ede. Dediquei minha vida a procurar artefatos dos Coisas Passadas. Essas coisas são fascinantes — e valiosas também. }
+
+Plh_46 { Se algo assim algum dia cair em suas mãos — relíquias raras, antigos tabletes, esse tipo de coisa — venha até nós. Daremos um bom preço. }
+
+Plh_43 { Deixe-me dar uma olhada. }
+
+Plh_47 { De alguma forma, isso me parece familiar... }
+
+Plh_48 { Tenho uma intuição. Assim que eu tiver a chance, vou dar uma olhada mais de perto. }
+
+Plh_49 { Você receberá suas moedas imediatamente. Bom trabalho. }
+
+Plh_51 { Que tipo de velhas relíquias são essas? }
+
+Plh_111 { À disposição — por um preço, naturalmente. }
+
+Plh_53 { É exatamente isso que estamos tentando determinar. Quanto mais encontramos, mais aprenderemos sobre elas. }
+
+Plh_50 { Agora, os outros devem saber que você está nos ajudando. Veja a Amella — ela é muito boa com espada e escudo. Talvez ela possa te ensinar alguns truques. }
+
+Plh_54 { Aqui estão suas moedas. }
+
+Plh_55 { Os três relicários que você encontrou são partes de uma chave. Na verdade, deveria haver... Hm... }
+
+Plh_56 { ... deveria haver um total de sete partes. Só um momento... }
+
+Plh_63 { Ede e seus relicários — os tipos de coisas que ele se encanta em ter descoberto! Para mim, tudo isso parece igual. }
+
+Plh_64 { Não acho que já nos conhecemos. Sou Zoltan. É legal da sua parte ajudar. As ruínas são enormes. }
+
+Plh_65 { Se você quiser, posso te ensinar alguns truques com o machado. Melhor arma. Tem um bom impacto, mas não é muito pesada. Útil nas ruínas. }
+
+Plh_106 { Machados não são para mim. }
+
+Plh_107 { Vou voltar a isso. }
+
+Plh_108 { É perigoso lá embaixo. Quanto melhor você puder lutar... }
+
+Plh_109 { Inacreditável! }
+
+Plh_57 { Eles se encaixam! Isso pode ser a descoberta! }
+
+Plh_66 { Você quer dizer que estamos nos aproximando de Drivanius? }
+
+Plh_58 { Sim. Talvez. Deixe-me verificar minhas anotações... }
+
+Plh_67 { $GVAR:EVars_Player.Name$, fale com Olaf e diga a ele que provavelmente rastreamos Drivanius. }
+
+Plh_59 { Quem é Drivanius? }
+
+Plh_60 { Por que eu devo falar com Olaf? }
+
+Plh_61 { Apenas fale com Olaf. Ele te explicará tudo sobre Drivanius. Eu preciso olhar para isso sem distrações. }
+
+Plh_68 { Excelente, excelente! Só três faltando! }
+
+Plh_69 { Aqui, você merece isso. }
+
+Plh_70 { Escute, podemos usar alguns dos itens em nossa coleção antes que eles se deteriorarem. Lá fora, eles podem te ajudar. }
+
+Plh_71 { Claro, você terá que comprá-los. Mas daremos a você um preço especial de amigos e família, já que conhecemos você. *pisca* }
+
+Plh_72 { A quinta peça... só mais duas para ir, então o círculo estará completo! Continue o bom trabalho. }
+
+Plh_76 { Você aprendeu algo? }
+
+Plh_73 { As pedras do sinete parecem estar conectadas ao panteão dos Coisas Passadas. Sete deuses. Sete selos. Mas o que isso significa exatamente... }
+
+Plh_74 { ... ainda não posso dizer com certeza. }
+
+Plh_75 { Graças a você, fizemos algum progresso. Se pudermos te ensinar mais alguma coisa — Reija aperfeiçoou a arte de lutar com adagas. Desde que Monko partiu, ela tem se mantido afastada, mas talvez ela esteja disposta a te ajudar. }
+
+Plh_77 { Só falta mais um! Mal posso acreditar, depois de todo esse tempo. }
+
+Plh_78 { Este relicário deve ser a chave para entrar no lugar mais sagrado de Drivanius — onde ele conduziu suas pesquisas. }
+
+Plh_79 { Drivanius mantinha seu trabalho sob sete chaves. Um homem de mistério. Que tesouro de conhecimento e riqueza deve estar esperando por nós em sua câmara secreta... }
+
+Plh_112 { Recentemente, encontrei os pedaços mais impressionantes de nossa coleção novamente... Encontre a última relíquia e você ficará maravilhado. }
+
+Plh_81 { Você conseguiu! Você merece essas moedas! }
+
+Plh_82 { Dê-me um momento... }
+
+Plh_83 { Está completo. }
+
+Plh_84 { Finalmente conseguimos. }
+
+Plh_85 { Olhe para esta pequena joia nos selos. Ela parece tão... fraca? }
+
+Plh_89 { Aqui, pegue o selo. }
+
+Plh_90 { *sussurra* Se alguém pode encontrar e abrir a câmara de Drivanius, esse alguém é você. }
+
+Plh_91 { Mas e as gemas no selo? }
+
+Plh_93 { Eu revelarei os segredos da câmara. }
+
+Plh_92 { Elas deveriam brilhar todas — é o que os escritos dizem, pelo menos. Drivanius provavelmente era muito religioso, então isso poderia estar de alguma forma conectado com seus deuses. É tudo o que sei. }
+
+Plh_94 { Eu acredito em você. }
+
+Plh_95 { Não conte a ninguém sobre isso, mas dê uma olhada no que posso te oferecer. Que valor tem tudo isso se estivermos presos aqui em Drova? }
+
+Plh_86 { Olhe como algumas das gemas nos selos estão brilhando, enquanto outras não. }
+
+Plh_87 { Olha! As gemas nos selos estão brilhando! Então parece que já está funcionando. }
+
+Plh_131 { Espero que o capacete do nexo ainda te ajude de alguma forma. Nós iremos até a câmara de Drivanius. }
+
+Plh_134 { Se conseguirmos encontrar respostas em algum lugar, será na Torre Vermelha. O Capacete do Nexo pode te ajudar lá. }

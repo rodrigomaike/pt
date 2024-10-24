@@ -1,0 +1,119 @@
+Plh_49 { Eu preciso de uma pausa... }
+
+Plh_33 { Você já coletou ferro de charneca suficiente? }
+
+Plh_35 { Isso deve ser o suficiente. (Entregar ferro de charneca) }
+
+Plh_58 { Eu levei para a Rura. }
+
+Plh_34 { Estou trabalhando nisso ainda. (encerrar conversa) }
+
+Plh_36 { Chunnaic ficará satisfeito com isso. Vou entregar a Muc assim que ele voltar, e avisarei ao Georg, caso ele pergunte por você. }
+
+Plh_37 { Tem mais trabalho para mim? }
+
+Plh_70 { Quem é Chunnaic? }
+
+Plh_40 { Até mais. (encerrar conversa) }
+
+Plh_38 { Não. Mas você pode perguntar à Dylara. Ela quase certamente precisa de ajuda com a ponte. }
+
+Plh_41 { Onde posso encontrar Dylara? }
+
+Plh_42 { Siga o caminho a oeste e depois vá para o norte. Ela está supervisionando os reparos da ponte. }
+
+Plh_44 { Por que a ponte está fora de uso? }
+
+Plh_43 { Há algumas noites, um terremoto ocorreu. Agora a ponte desapareceu, então não conseguimos mais chegar ao Acampamento dos Lenhadores. Uma pena para nós, e para o Nemeton... }
+
+Plh_71 { O melhor ferreiro de longe. Não há lâmina que ela não consiga forjar. }
+
+Plh_72 { Se você se encontrar no Nemeton, não se esqueça de visitá-la. }
+
+Plh_57 { Ah, bom. Era exatamente para onde o ferro de charneca precisava ir de qualquer forma. Então Muc não vai precisar se matar carregando isso. }
+
+IronForFarmers_Start { Eu sempre fico preso fazendo esse trabalho para o Georg. Já estou até aqui! }
+
+Plh_2 { Agora, agora, não exagere. Às vezes temos que fazer coisas desagradáveis, mas o que conta é o objetivo. }
+
+Plh_3 { Fácil para você dizer, você faz parte do Nemeton. "Coisas desagradáveis"? Estamos nos matando aqui por nada! }
+
+Plh_4 { Eu poderia falar bem de você com o Nemeton... }
+
+Plh_5 { Eles podem todos se danar! Eu prefiro ir para o acampamento dos Remnants... }
+
+IronForFamers_Question02 { Sobre o que vocês estão discutindo? }
+
+End { (encerrar conversa) }
+
+Plh_6 { Discutindo? Estamos apenas conversando. Sou Jerzy. Aquele cabeça de bloco ali é o Jurek. }
+
+Plh_9 { Pelo menos aquele cabeça de bloco vê as coisas como elas são. Desde a divisão, o Nemeton só tem decaído. Seria melhor se simplesmente fechassem tudo. }
+
+TalkAboutAndrick { Eles sempre prometem a Terra das Lendas, uma terra em harmonia com as Divindades. Mas coloque um pé na charneca, e os mosquitos de sangue vão te devorar vivo. }
+
+Plh_11 { Como alguém pode confiar no Nemeton? Continue se iludindo agora que eles te aceitaram, mas eu não vejo uma vida pacífica no horizonte! }
+
+Plh_13 { Qual é o problema com o Nemeton? }
+
+Plh_14 { Por que você não se juntou ao Nemeton também? }
+
+FoodForFarmers_JurekJerzyFood { Eu trouxe comida para vocês dois. }
+
+Plh_15 { O Nemeton é a maior facção de Drova, e o Georgefarm faz parte disso. As criaturas na charneca estão ficando cada vez mais agressivas, mas o Nemeton está enviando cada vez menos lutadores. }
+
+Plh_16 { Estamos apenas conversando sobre a vida pacífica que teremos um dia, mas eu mal me atrevo a fazer minhas necessidades do lado de fora. O Nemeton está em queda... }
+
+Plh_68 { Jurek, o que você espera que o Nemeton faça? Cada vez mais pessoas estão correndo para o acampamento dos Remnants. }
+
+Plh_69 { Sim, e de quem é a culpa? Do Nemeton! As pessoas sabem que estão melhor em outro lugar. Estou começando a acreditar nisso também... }
+
+Plh_17 { Eles não aceitam qualquer um. E eu não quero mais ser aceito, de qualquer forma. Estou cansado de ser excluído por eles. Eles te deixariam apodrecer na charneca... }
+
+Plh_18 { As coisas vão melhorar de novo, Jurek. }
+
+Plh_19 { Talvez para você — você pode se esconder atrás de suas grandes paliçadas... }
+
+Plh_12 { Comida! Não há nada melhor! }
+
+Plh_61 { Vamos lá, Jurek. Vamos comer em paz. }
+
+Plh_63 { *murmura* Vamos continuar essa conversa em outro momento... }
+
+Plh_7 { Ufa, droga, estou com fome... }
+
+Plh_64 { Comer é o ponto alto do dia. Eles definitivamente não têm nada tão gostoso no Nemeton. }
+
+Plh_65 { Obrigado por nos trazer a comida. }
+
+Plh_60 { Espere, isso não é suficiente... Precisamos de duas porções... }
+
+Plh_22 { Não agora. Jurek e eu precisamos resolver algo. }
+
+Plh_24 { Tem algum trabalho para mim? O Georg me mandou. }
+
+Plh_25 { Não acho. Estamos nos virando bem sozinhos. }
+
+Plh_23 { Nos virando? Nós? Que bobagem. Se o velho mandou você, então vá em frente e trabalhe. Apenas colete um pouco de ferro de charneca dos campos à frente. }
+
+Plh_26 { Ha, boa ideia. O Muc sempre coleta ferro de charneca de nós para Chunnaic, o ferreiro. Junte um pouco e traga para mim. }
+
+Plh_27 { Como é o ferro de charneca? }
+
+Plh_30 { O que é ferro de charneca? }
+
+Plh_28 { Eu trarei o ferro de charneca. (encerrar conversa) }
+
+Plh_29 { Pequenos blocos marrons. Eles sempre são arados até a superfície. }
+
+Plh_31 { Chunnaic refina isso em ferro. Não é tão bom quanto o que vem das minas, mas é utilizável. }
+
+Plh_32 { Traga-me $GVAR:QuestVars_IronForFarmers.NumItemsNeeded$ peças. Eu vou dar ao Muc na próxima oportunidade. }
+
+Plh_51 { Por que você não vai direto para o Nemeton? }
+
+Plh_52 { Você não sabe o que eu quero dizer! }
+
+Plh_53 { Não seja assim! }
+
+Plh_54 { Vá em frente, apenas me deixe em paz! }

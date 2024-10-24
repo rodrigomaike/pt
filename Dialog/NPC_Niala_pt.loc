@@ -1,0 +1,99 @@
+Plh_12 { Se você causar problemas, estará fora daqui em pouco tempo. Mantenha suas mãos para si. }
+
+Plh_13 { Quais são exatamente as regras aqui? }
+
+Plh_14 { Onde posso encontrar tudo aqui? }
+
+Plh_15 { Você pode me contar algo sobre Nemeton? }
+
+Plh_16 { Se você atacar alguém, não será facilmente perdoado. Terá que pagar uma multa a Gerdwin, no Quartel dos Lutadores. Se você se arriscar, esse erro será o seu último. }
+
+Plh_17 { Localizados no extremo norte estão os mercadores, de quem você pode comprar tudo o que precisa. Mais ao sul estão os lutadores. Angus é o chefe deles, e ele determina quem pode fazer o quê em Nemeton. }
+
+Plh_19 { Mais ao sul, você encontrará os Artesãos. Com eles, você pode aprender a fazer armadilhas, munição e poções. }
+
+Plh_20 { A leste está o Quartel Perdido. Infelizmente, não há artesãos suficientes para manter todas as cabanas. }
+
+Plh_18 { Nemeton é o primeiro e maior acampamento aqui em Drova. Naquela época, os Remnants ainda faziam parte de Nemeton. Mas Jero nos deixou e fundou o acampamento dos Remnants, levando muitas boas pessoas com ele. }
+
+Plh_86 { O que eu preciso saber sobre Nemeton? }
+
+Plh_88 { Pessoas como você têm acesso a três bairros em Nemeton. }
+
+Plh_89 { Bem ao lado do Portão Oeste está a Praça do Mercado, onde você pode comprar qualquer coisa que precise. Ou vender, se precisar de algumas moedas. }
+
+Plh_90 { Caso alguém tenha algo contra você, busque proteção com os lutadores. Mas, na verdade, este lugar é para os lutadores do Nemeton, não para novatos. Você pode encontrar os lutadores bem ao lado da Praça do Mercado. }
+
+Plh_91 { E então temos os Artesãos. Você os encontrará perto dos menires, na parte mais ao sul do acampamento. Do jeito que você parece, talvez consiga encontrar trabalho lá. }
+
+Plh_87 { Quais são as regras aqui? }
+
+Plh_92 { Na verdade, é autoexplicativo. }
+
+Plh_93 { Mantenha suas mãos longe das coisas que não lhe pertencem. Não entre aleatoriamente na casa de alguém. Algumas pessoas não reagirão muito bem a isso. }
+
+Plh_94 { E não se meta em brigas. Gerdwin realmente não quer que ninguém brigue em Nemeton. }
+
+Plh_95 { Se você se meter em problemas, vá até Gerdwin no Quartel dos Lutadores. Ele pode perdoar seus erros. }
+
+Plh_96 { Em troca de uma pequena doação ao Nemeton, é claro. }
+
+Plh_84 { Ei. }
+
+Plh_54 { Eu pensei que alguém mais dos Remnants estava vindo aqui. }
+
+Plh_56 { Atacou o acampamento dos Remnants? }
+
+Plh_55 { O que aconteceu aqui? }
+
+Plh_57 { Um grande grupo de guerreiros de armaduras vermelhas veio na nossa direção. Pensamos que iriam nos atacar, mas eles seguiram em outra direção. Um deles disse que nos mataria, caso ousássemos ir para o norte. }
+
+Plh_58 { "A Floresta da Planície Alagada é nossa", disseram eles. Você tem que tomar cuidado — eles não hesitarão, e eles irão te matar. Uma guerra está se aproximando. }
+
+Plh_59 { De alguma forma, eu tenho que chegar ao morro — você conhece um caminho? }
+
+Plh_61 { Para o morro? Os Remnants provavelmente querem ir lá também. Por que mais deveriam vir aqui? }
+
+Plh_62 { Jendrik já esteve lá em cima, mas isso foi há muito tempo. Se alguém souber, ele sabe. }
+
+Plh_63 { Mas tome cuidado. Vamos segurar a fortaleza aqui. Eu não acho que eles estão atrás do Acampamento dos Lenhadores. Não ainda. }
+
+Plh_64 { Quase. Mas não, estamos ilesos. }
+
+Plh_53 { Já te vi antes? Você nos ajudou quando fomos atacados aqui! }
+
+Plh_67 { Este é um bom amigo. $GVAR:EVars_Player.Name$ nos ajudou a reparar a ponte. Apesar da armadura dos Remnants, $GVAR:EVars_Player.Name$ é uma boa pessoa. }
+
+Plh_68 { Não queremos ser arrastados para os problemas de Nemeton, ou nas dificuldades dos Remnants. O que você quer aqui? }
+
+Plh_69 { Temos guerreiros em toda a Floresta da Planície Alagada. Você não irá a lugar algum sozinho. }
+
+Plh_65 { Relaxe, não queremos briga. Eu só queria comprar madeira. }
+
+Plh_66 { Eu não os vejo aqui. É só nós dois. }
+
+Plh_72 { Quero subir até o morro. Você sabe como posso chegar lá? }
+
+Plh_75 { Sua melhor aposta é se reportar a Jendrik. Embora você seja um dos Remnants, estamos profundamente endividados a você. }
+
+Plh_73 { Sem você, naquela época, não teríamos conseguido, e também estou em dívida com você. Não vou te prejudicar. }
+
+Plh_74 { Não sabemos disso, e a floresta está infestada de guerreiros do Nemeton. Não há como você passar. Volte. }
+
+Plh_9 { Gerdwin enviou reforços? Venha rápido. O Acampamento dos Lenhadores está sob ataque! }
+
+Plh_27 { Ei, você — mesmo que seja um dos Remnants — o Acampamento dos Lenhadores está sob ataque! Precisamos de ajuda! Venha rápido! }
+
+Plh_85 { Não faça nada estúpido. Então tudo pode correr muito bem para você por aqui. }
+
+Plh_98 { Tudo está seguro aqui. Muito bem. }
+
+Plh_25 { Vou ficar aqui e vigiar. Vou contar a Gerdwin que fomos atacados, mas que agora tudo está seguro. Você realmente nos salvou! }
+
+Plh_28 { Obrigado pela sua ajuda, mas o Nemeton assumirá o controle a partir daqui. }
+
+Plh_26 { Estou relutante em dizer isso, mas precisávamos de cada lutador. Até mesmo alguém dos Remnants. }
+
+Plh_24 { *gemendo* Colin não sobreviveu. Você lutou bem. }
+
+Plh_23 { Ainda há criaturas aqui. Temos que matá-las todas. }

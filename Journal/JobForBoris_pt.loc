@@ -1,0 +1,25 @@
+Title { O Voto de Boris para Entrar nos Remnants }
+
+Entry_00 { Se eu quiser que Boris me recomende para ser aceito nos Remnants, vou ter que recuperar um pacote de Asmus em Nemeton. Para Nemeton! }
+
+Entry_01 { Boris me deu três pacotes de Rustmoss e me disse para vendê-los para os Hewers por no mínimo $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ moedas por pacote. Se eu fizer isso por ele, ele me recomendará. }
+
+Entry_02A { Kora e eu compartilhamos um pouco de Rustmoss, por isso eu o vendi para ela por $GVAR:QuestVars_JobForBoris_Config.KoraJointDiscount$ moedas. A diferença terá que sair do meu próprio bolso. }
+
+Entry_02B { Kora comprou o Rustmoss por $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ moedas. }
+
+Entry_03 { Cord comprou um pacote do ouro vermelho por $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ moedas. }
+
+Entry_03_1 { Eu vendi um pouco de Rustmoss para Grit. }
+
+Entry_03_2 { Eu vendi um pouco de Rustmoss para Senga. }
+
+Entry_04 { Liandra comprou um pacote de Rustmoss por $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ moedas. }
+
+Entry_05 { Conquistei Boris. Ele vai me recomendar. Mas se eu quiser me juntar à equipe dele, também precisarei conquistar os outros, além de Eugen. }
+
+Entry_01B { Eu não vendi as coisas para Boris. }
+
+Entry_Sold { Eu vendi tudo e devo relatar isso a Boris. }
+
+Entry_06 { Mog tem um pouco de Rustmoss. Eu recebi $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ moedas por isso. }

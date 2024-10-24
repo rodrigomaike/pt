@@ -1,0 +1,83 @@
+Plh_48 { Sobre suas coisas... }
+
+Plh_35 { Você está aqui há muito tempo? }
+
+Plh_36 { Como você ficou cego? }
+
+Plh_37 { Você não tem uma família que possa te apoiar? }
+
+Plh_7 { Aqui, eu trouxe suas coisas. (entrega a pele de urso) }
+
+Plh_20 { Aqui, eu trouxe suas coisas. (entrega a pele de ovelha) }
+
+Plh_50 { Ainda estou trabalhando nisso. }
+
+Plh_9 { Oh, finalmente uma pele de urso. É tão macia. Estou te dizendo, minha vida já é difícil o suficiente. }
+
+Plh_10 { Era um urso jovem. }
+
+Plh_11 { Onde estão minhas moedas? }
+
+Plh_8 { Estou tão agradecido. Tire as moedas de uma bolsa. Eu não consigo vê-las. }
+
+Plh_12 { (Tira todas as $GVAR:QuestVars_OldMan_Config.AllMoney$ moedas da bolsa) }
+
+Plh_13 { (Tira $GVAR:QuestVars_OldMen_Config.DefaultValue$ moedas da bolsa) }
+
+Plh_14 { Eu não quero moedas. }
+
+Plh_17 { Não consigo lembrar a última vez que não senti frio à noite. Mas esta noite vai ser diferente... }
+
+Plh_18 { Você... Você está simplesmente me dando a pele? Eu não experimentei tal bondade há muito tempo. Que o Corvo te proteja. }
+
+Plh_21 { *acaricia a pele* Finalmente, uma pele de urso! Tão macia, tão bonita... mas... tão pequena? Os ursos não são maiores? }
+
+Plh_51 { Eu vou esperar aqui por você. }
+
+Plh_38 { Ha! Eu sou quase tão velho quanto Nemeton! }
+
+Plh_41 { Você não poderia imaginar o que eu vi aqui. Quando Nemeton era grandioso... Um lugar que ninguém queria deixar... }
+
+Plh_42 { Mas então os Remanescentes chegaram... }
+
+Plh_43 { Molvina deveria ter feito mais em relação aos Remanescentes. Ela é fraca! Assim como seu pai! Ele era um covarde, mesmo naquela época! }
+
+Plh_39 { Você acreditaria em mim se eu dissesse que um dia fui um lutador valente, mas fui superado e punido pelos meus inimigos? }
+
+Plh_46 { Sim. }
+
+Plh_47 { Não. }
+
+Plh_44 { Então vamos deixar assim. }
+
+Plh_45 { É um bom sinal que você não seja do tipo que acredita em tudo que as pessoas dizem. A idade simplesmente me alcançou. }
+
+Plh_40 { Você acha que eu estaria aqui se tivesse um?! }
+
+Plh_23 { Alô? Alô? Tem alguém aí? }
+
+Plh_24 { Sim. Sou eu. }
+
+Plh_25 { Não. }
+
+Plh_27 { Ah! }
+
+Plh_6 { Eu sou Gilwar. Acredite, eu ficaria feliz em deixar você em paz, mas agora não tenho escolha... }
+
+Plh_5 { Olhe para mim. Eu sou velho e cego. Preciso de ajuda. Você parece jovem e forte. Pode me trazer quatro maçãs, uma faca de pão, três pedaços de erva-doce e uma pele de urso do mercado? Eu vou te pagar por isso, também. }
+
+Plh_31 { Claro! Eu vou te ajudar. }
+
+Plh_32 { Eu não tenho tempo para isso... }
+
+Plh_33 { Então ainda há algumas pessoas decentes por aqui! Você encontrará tudo aqui no mercado. }
+
+Plh_34 { Hmph. Que pena. Se mudar de ideia, estarei aqui. Talvez alguém mais apareça... }
+
+Plh_28 { Hmph. Eu não preciso da ajuda de ninguém para me ferrar. }
+
+Plh_29 { Eu consigo te ouvir! }
+
+Plh_30 { Sim, estou aqui... }
+
+Plh_22 { É você de novo? }

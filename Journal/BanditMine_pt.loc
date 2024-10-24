@@ -1,0 +1,55 @@
+Title { Desaparecidos }
+
+Entry_Main_01 { Um dos trabalhadores de Georg desapareceu, um cara chamado Hasso. Ele só queria fazer uma visita rápida à Taverna do Ripper Sem Cabeça, mas nunca voltou. }
+
+Entry_Main_02 { No acampamento dos Remanescentes, Kora está sentindo falta de seu amigo Baltus. Ele ia beber uma cerveja na Taverna do Ripper Sem Cabeça, mas nunca voltou. }
+
+Entry_Main_03 { No acampamento ao sul do acampamento dos Remanescentes, Pwyll está sentindo falta de seu amigo Wind, que estava a caminho da Taverna do Ripper Sem Cabeça. }
+
+Entry_Main_04 { Algumas pessoas da taverna desapareceram. Todos tinham negócios com Fawini. Eu deveria falar com ela. }
+
+Entry_Main_04_01 { Supostamente, Hasso deixou a taverna em algum momento durante a noite, indo na direção de Georgefarm. }
+
+Entry_OutSideFoundGuys { Um grupo de pessoas estava sendo mantido em uma mina no pântano. Eles me pediram para ajudá-los a escapar de lá. }
+
+Entry_Main_05 { Fui capturado. Todas as minhas coisas sumiram. Esse é o mesmo destino que Hasso e algumas das outras pessoas desaparecidas sofreram. }
+
+Entry_Main_06 { Sem a ajuda dos outros, escapar daqui será difícil. Eu deveria me aliar a eles. }
+
+Entry_Day1_01 { Minha cabeça está zumbindo... As pessoas aqui estão procurando por algo, e supõe-se que vamos desenterrá-lo para eles. Hasso diz que eu deveria ir com ele. E seja o que for que eu faça, é melhor eu não manter os guardas esperando. }
+
+Entry_Day1_02 { Eu conversei com o chefe dos sequestradores. Hasso e eu devemos desobstruir um caminho. Estou curioso sobre o que eles estão procurando. }
+
+Entry_Day1_03 { Lanzo me disse para limpar os escombros. Somente depois que eu terminar poderei deitar. E amanhã continuaremos. }
+
+Entry_Day2_01 { Dia 2: Ainda temos que limpar rochas e escombros. Isso vai continuar para sempre? }
+
+Entry_Day2_02 { Hasso e eu desenterramos uma sala dos Bygones. Poderia haver algo interessante nela? }
+
+Entry_Day2_03 { Descobrimos uma antiga câmara, mas neste momento um guarda apareceu. Eu terminei por hoje, e devo me deitar. }
+
+Entry_Day3_01 { Dia 3: Estamos ficando sem comida. Fui encarregado de conseguir um pouco e levá-lo a Bruna. Pelo menos isso muda a rotina... }
+
+Entry_Day3_02 { Bruna quer que eu obtenha $GVAR:BanditMineBrutus_Day03.CountMushrooms$ cogumelos de caverna e $GVAR:BanditMineBrutus_Day03.CountCaveMushrooms$ cogumelos sombrios. Aparentemente, os porcos de escavação vivem onde esses crescem. Mas todos nós poderíamos usar um pouco de carne. }
+
+Entry_Day3_03 { Lanzo bateu em Bruna. Agora ela não pode cozinhar mais... Então, naturalmente, eu sou o responsável por preparar a comida de amanhã. }
+
+Entry_Day3_04 { Pronto... Finalmente terminado por hoje... Finalmente, hora de me deitar... }
+
+Entry_Day4_01 { Dia 4: Parece que estamos bem perto do que estamos procurando. Estou prestes a pegar um lanche e depois é de volta ao trabalho. Talvez eles nos deixem sair de aqui uma vez que encontrarmos algo. }
+
+Entry_Day4_01_1 { Só precisamos limpar mais alguns escombros, e então deveremos conseguir ver nosso alvo. }
+
+Entry_Day4_02 { Os guardas têm seu artefato, e agora eles não vão mais precisar de nós. Se eu conseguir convencer Wind e Bruna a escaparem juntos — e se conseguirmos chegar à armarinho — seremos capazes de escapar. }
+
+Entry_Main_08 { Wind está dentro. }
+
+Entry_Main_09 { De alguma forma, preciso entrar na armarinho. Bruna disse que eu deveria pedir ajuda a Mali, assim ela deixará a armarinho desguarnecida. }
+
+Entry_Main_09_1 { Bruna está dentro. }
+
+Entry_Main_010 { Aqui vamos nós. Tudo ou nada. A liberdade nos aguarda! }
+
+Entry_Main_GoodEnd { Eu consegui salvar todo mundo e tirá-los desta caverna. Estamos livres! }
+
+Entry_Main_KilledFawini { Fawini me atacou, mas eu consegui me defender. Ela disse algo sobre me levar para o pântano. Talvez eu devesse dar uma olhada pelo pântano. }

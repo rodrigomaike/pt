@@ -1,0 +1,77 @@
+Teach_General { Você pode me ensinar algo sobre mineração? }
+
+Plh_10 { Sobre sua lesão... }
+
+Plh_59 { *sorri* Você não vai a lugar nenhum se continuar batendo assim. Mantenha sempre um ritmo constante, assim a pedra quebra. E você também economiza energia. }
+
+Plh_62 { Vou me lembrar disso. }
+
+Plh_63 { Espero poder voltar ao trabalho logo também. Não quero ficar aqui à toa. }
+
+Plh_4 { Agora não. }
+
+Plh_0 { *murmura para si mesma, segurando o braço direito, boca entreaberta* Você se meteu em encrenca de novo, Agnessa... }
+
+Plh_43 { Oh. Ei. Eu não te vi aqui antes...? }
+
+Plh_26 { Quem é você? }
+
+Plh_32 { Agnessa. Fui estúpida o suficiente para não andar em linha reta e caí de cara no chão... E agora estou sentada aqui feito uma idiota, sem poder minerar como os outros. E nada funciona aqui sem prata... }
+
+Plh_25 { Você está muito machucada? }
+
+Plh_28 { Como exatamente isso aconteceu? }
+
+Plh_27 { Estou bem. Só não quero que Mursel me veja assim... }
+
+Plh_29 { Meu braço dói pra caramba. Espero que não esteja quebrado ou algo assim... Só sei que sempre que tento minerar, quase desmaio de tanta dor. }
+
+Plh_64 { Mas eu PRECISO trabalhar! }
+
+Plh_60 { *segura o braço direito* Meu Deus, a dor está piorando a cada dia... }
+
+Plh_1 { Precisa de ajuda? }
+
+Plh_34 { Talvez você consiga minerar de novo em breve... }
+
+Plh_37 { Você precisa de remédio ou algo assim? }
+
+Plh_3 { Não me entenda mal, mas eu mal posso te oferecer qualquer coisa pela sua ajuda... E no final você também vai acabar querendo prata de mim... }
+
+Plh_31 { Quando me machuquei, eu tinha acabado de pegar prata emprestada de Mursel para comprar novo equipamento... Se eu não pagar minha dívida logo, ele vai ficar furioso... }
+
+Plh_36 { *sorri com dor, limpa um fio de saliva* É só um arranhão. Deixe-me descansar mais um pouco, e vou ficar bem... }
+
+Plh_52 { *geme levemente* Você também. }
+
+Plh_65 { Boa sorte nas minas! }
+
+Plh_40 { *gemido de dor* Ei, você. }
+
+Plh_11 { Shona disse que cogumelos-sombra poderiam ajudar. (dê a ela $GVAR:QuestVars_INeedToWorkAgain_Config.AmountOfTüften$ cogumelos-sombra) }
+
+Plh_12 { Mursel está te dando alguns dias para se recuperar. Eu usei alguns argumentos bem convincentes. }
+
+Plh_42 { Eu quitei sua dívida com Mursel. }
+
+Plh_55 { Tenho aqui uma pomada curativa para você. Isso vai ajudar. }
+
+Plh_14 { *estreita os olhos* Você não está fazendo isso por bondade. Vamos lá, o que você quer em troca? }
+
+Plh_53 { Nada. Nós, mineradores, temos que nos apoiar. }
+
+Plh_54 { Você acha que ninguém vai ajudar sem esperar algo em troca? }
+
+Plh_23 { Eu... Eu te agradeço. As Divindades devem ter te inspirado. }
+
+Plh_57 { Ahhhhhh, isso está bom. Já está melhorando, dá pra sentir. Logo poderei trabalhar de novo. }
+
+Plh_58 { Obrigada. Não posso te dar muito, mas... }
+
+Plh_44 { Eu sei algo sobre mineração, posso te ensinar alguns truques do ofício... }
+
+Plh_61 { Na verdade, é exatamente isso que eu penso. Pelo menos todo mundo pensa assim. }
+
+Plh_18 { Hã? Que tipo de argumentos? Conhecendo o Mursel, imagino que você argumentou com os punhos? Nada mal! }
+
+Plh_41 { O QUÊ?! Assim, do nada? Mesmo mal me conhecendo? Isso é... altruísmo. Ninguém faz isso por aqui. }

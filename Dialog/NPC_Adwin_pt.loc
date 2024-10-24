@@ -1,0 +1,101 @@
+Plh_66 { Ouvi uma discussão. Jennifer disse que você estava sem madeira? }
+
+Plh_72 { Devo buscar a madeira para você? }
+
+Plh_52 { Aqui está sua madeira. (entregar $GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$ toras) }
+
+Plh_67 { Isso mesmo. E daí? }
+
+Plh_73 { Eu poderia buscar para você. }
+
+Plh_68 { Sério? Você salvaria minha pele. Junali está extremamente irritada porque acabou tudo... }
+
+Plh_69 { Na verdade, Swenn deveria ter nos trazido $GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$ toras. Mas estamos esperando há séculos. }
+
+Plh_70 { Se você nos trouxer madeira, claro que vou te pagar por isso. }
+
+Plh_53 { Finalmente podemos continuar o trabalho. Isso também vai acalmar um pouco a Junali. Ela já estava bastante irritada com a demora de tudo. }
+
+Plh_54 { E o Swenn simplesmente entregou a madeira, assim, de boa? }
+
+Plh_55 { Sim, ele só precisava de alguém para transportar. }
+
+Plh_56 { Eu não fui ao Swenn. Peguei eu mesmo. }
+
+Plh_57 { Cachorro preguiçoso, fazendo os outros carregarem enquanto fica parado contando moedas. }
+
+Plh_59 { Você realmente nos ajudou com isso. Aqui, isso é para você. }
+
+Plh_60 { Vai, pega. Trabalho honesto, pagamento justo, simples assim. Se você ajuda, é pago por isso. É assim que funciona entre nós, os artesãos. }
+
+Plh_58 { Você é definitivamente mais confiável do que os comerciantes daqui. Estamos sempre discutindo com eles... }
+
+Plh_11 { Qual é a questão com as pedras de fronteira? }
+
+Plh_16 { Onde a pedra de fronteira deve ser colocada? }
+
+Plh_61 { Como exatamente essas pedras de fronteira funcionam? }
+
+Plh_12 { Vivemos em harmonia com o Grande Corvo e colocamos as pedras de fronteira para ele. Protegemos o território dele, e em troca, ele nos permite viver aqui. }
+
+Plh_13 { Viver em harmonia com uma Divindade é algo muito especial. Um pouco de dar, um pouco de receber. Somos um só. }
+
+Plh_17 { Uma pedra de fronteira no pomar de maçãs não está mais cumprindo sua função. O campo ali costumava florescer. Agora o Pântano Vermelho está se espalhando. Assim a Divindade nos pune... }
+
+Plh_19 { As pedras de fronteira da Divindade precisam ser construídas. Caso contrário, Drova nunca se tornará a Terra das Lendas. }
+
+Plh_62 { A Divindade gosta das pedras de fronteira. Nós as construímos para agradá-la. Os Nemeton fazem de tudo para permanecer nas boas graças da Divindade. }
+
+Plh_63 { É por isso que colocamos essas pedras de fronteira em um círculo ao redor de Nemeton. Agora, tudo aqui floresce. Nada está tão dilapidado como no acampamento dos Remanescentes. }
+
+Plh_64 { A Divindade nos agradece pelo nosso serviço e, em troca, nos concede esta terra fértil. Ela faz algo por nós. E nós fazemos algo por ela. }
+
+Plh_6 { É bom ver um rosto novo aqui. Eu sou Adwin. }
+
+Plh_7 { Eu sou $GVAR:EVars_Player.Name$. O que você está fazendo aqui? }
+
+Plh_9 { Estamos colocando uma pedra de fronteira para estender a esfera de influência do Grande Corvo. Com certeza você notou essas pedras ao redor de Nemeton? }
+
+Plh_21 { *assustado* O que você quer aqui? }
+
+Plh_22 { Eu ia te fazer a mesma pergunta. }
+
+Plh_26 { Você é o cara que tem andado vandalizando as paredes? }
+
+Plh_24 { Eu só quero relaxar. Muito o que fazer, pouco trabalho. Mas... O que você tem a ver com isso? Cai fora. }
+
+Plh_27 { O cara? Eu sou aquele que está dizendo a verdade sobre o que os Nemeton estão fazendo! }
+
+Plh_28 { Olhe para a Floresta Primordial! Eles mataram a Divindade. O Corvo não existe. Tudo é uma mentira, e eu vou expor isso! }
+
+Plh_31 { Diga isso para o Gerdwin. Ele está te procurando. }
+
+Plh_32 { Gerdwin? Hah! Ele não entende o que os Nemeton estão fazendo com a gente. Você estava na expedição... Você sabe o que aconteceu! Você também deveria gritar a verdade e escrever isso nas paredes! }
+
+Plh_29 { Gerdwin acha que você vai ter o que merece. }
+
+Plh_39 { Ou você vai até o Gerdwin agora ou eu te levo até ele. }
+
+Plh_30 { É melhor você parar com isso, e eu direi ao Gerdwin que isso foi resolvido. }
+
+Plh_37 { Na verdade, você está certo. Me dê esse pincel. }
+
+Plh_38 { Eu? Você matou uma Divindade, eu digo isso em voz alta, e eu que vou ser punido por isso. }
+
+Plh_40 { A verdade será revelada. }
+
+Plh_41 { Tire suas mãos imundas de mim! Eu vou. }
+
+Plh_42 { Hm. Gerdwin não mostrou misericórdia a Kendrick. Tudo bem. Eu cedo. }
+
+Plh_51 { Espero que os Remanescentes apreciem quando as pessoas dizem a verdade. Estou fora daqui... }
+
+Plh_43 { Eu gosto disso! }
+
+Plh_44 { Parece interessante, mas... Gerdwin realmente está me procurando? }
+
+Plh_46 { Está no quadro de avisos. }
+
+Plh_47 { Então eu realmente posso ficar feliz que VOCÊ foi quem me encontrou. Mas quem sabe o que vai acontecer... }
+
+Plh_20 { *olha para você* O que você quer? }

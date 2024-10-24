@@ -1,0 +1,145 @@
+Plh_0 { *A pele da pessoa está bronzeada, sua orelha esquerda tem um brinco, e o cabelo loiro está emaranhado de sangue.* }
+
+Plh_2 { (examinar a cabeça) }
+
+Plh_4 { (tentar identificar o falecido) }
+
+Plh_10 { (examinar o cadáver de perto) }
+
+Plh_1 { (revistar os bolsos da pessoa morta) }
+
+Plh_3 { *Você descobre uma ferida na cabeça. A pessoa perdeu muito sangue, que agora está secando no cabelo. Esta lesão é a causa óbvia da morte.* }
+
+Plh_8 { *A pessoa lhe parece familiar. Aldo, o comerciante, lá no acampamento dos Remanescentes... os traços faciais, os olhos. Deve ser ele.* }
+
+Plh_11 { *O cadáver está coberto de sangue. Você percebe o cabelo loiro e pegajoso e um brinco na orelha esquerda. Um cheiro doce e podre invade suas narinas.* }
+
+Plh_9 { *Segurando a respiração, você examina o corpo de perto. O braço pálido tem uma longa cicatriz — antiga e bem cicatrizada.* }
+
+Plh_89 { *Morto... Ele carrega um arco nas costas, usa um tapa-olho e parece que foi dilacerado por feras.* }
+
+Plh_90 { (será que é — Faol?) }
+
+Plh_95 { (revistar o cadáver) }
+
+Plh_92 { *Ao examinar o corpo de perto e olhar para o rosto, você percebe que deve ser Faol — o caçador da Taverna de Olaf.* }
+
+Plh_83 { *Um corpo sem vida jaz à sua frente.* }
+
+Plh_84 { *É Ruhan, da taverna. Parece que uma fera selvagem com um bico o despedaçou.* }
+
+Plh_85 { *Você não reconhece o homem morto. Parece que animais selvagens o dilaceraram.* }
+
+Plh_17 { *Uma ovelha morta. Parece que comeu algo que não lhe fez bem.* }
+
+Plh_22 { *Provavelmente por desespero.* }
+
+Plh_23 { *Parece que uma fera das sombras estava mordiscando essa ovelha recentemente.* }
+
+Plh_24 { *Descanse em paz.* }
+
+Plh_28 { *Diante de você está uma ovelha, em uma poça de sangue. Parece que foi atacada recentemente e fugiu para cá com suas últimas forças.* }
+
+Plh_25 { *Ainda está respirando.* }
+
+Plh_26 { Fique calma. Logo tudo estará acabado. (colocar a mão nela) }
+
+Plh_27 { Eu deveria acabar logo com seu sofrimento. (sacar a arma) }
+
+Plh_29 { *A ovelha lança um breve olhar para você, parecendo grata pelo calor que você lhe oferece.* }
+
+Plh_30 { *Sua cabeça cai no chão, e ela dá seu último suspiro.* }
+
+Plh_31 { *Você rapidamente enfia sua arma direto no coração da ovelha.* }
+
+Plh_32 { *Uma ovelha morta. Parece que morreu de sede.* }
+
+Plh_33 { *Pobre criatura.* }
+
+Plh_78 { *Um corpo está à sua frente. É Teigen.* }
+
+Plh_79 { Descanse em paz... Me perdoe. }
+
+Plh_80 { O tolo realmente tentou fazer isso sozinho... }
+
+Plh_81 { *Nos olhos sem vida, você vê o olhar de choque e medo da morte. Seu corpo provavelmente já foi roído por animais selvagens.* }
+
+Plh_34 { *No chão está um homem morto. Ele tem barba preta e pele bronzeada. Uma cicatriz atravessa seu nariz.* }
+
+Plh_40 { Esse deve ser Tristan! }
+
+Plh_93 { (revistar o cadáver) }
+
+Plh_41 { *Ao examinar mais de perto, você realmente reconhece Tristan. Aparentemente, ele foi vítima de animais selvagens.* }
+
+Plh_42 { *A forma da raiz lembra um javali selvagem. Deveria simbolizar o Grande Javali? Você sente algo tentando se conectar ao seu ser mais íntimo.* }
+
+Plh_43 { (colocar o talismã) }
+
+Plh_45 { *Você fixa o talismã manchado de sangue na raiz e, de repente, sente uma conexão profunda se formando dentro de você. Algo está tentando alcançar sua mente consciente.* }
+
+Plh_46 { *Parece que você está ouvindo um javali gritando à distância, mas ao seu lado, Diemo não parece reagir. De repente, sua faísca gira ao seu redor, excitada.* }
+
+Plh_47 { *A faísca está tentando te dizer algo? Parece agitada.* }
+
+Plh_48 { O que está acontecendo com você? }
+
+Plh_49 { Eu não entendo você... }
+
+Plh_50 { *O brilho da faísca pisca, como se estivesse tentando se comunicar. Será que quer que você visite as outras raízes também?* }
+
+Plh_64 { *Nesta raiz, há menos filhotes de javali do que na do Refúgio.* }
+
+Plh_65 { *No momento em que você fixa o talismã, um dos filhotes se solta da raiz e olha ao redor, confuso.* }
+
+Plh_66 { *te nota e parece assustado* Guinch! Guinch! }
+
+Plh_67 { Não se preocupe, pequeno. Eu não vou te machucar. }
+
+Plh_68 { (fazer-se grande) BRAAAWRG! }
+
+Plh_69 { *O filhote relaxa, mas ainda parece um pouco reservado.* }
+
+Plh_70 { (aproximar-se lentamente e acariciar) }
+
+Plh_71 { (não fazer nada) }
+
+Plh_86 { Eu te disse que tinha que ser um desses malucos desse acampamento... }
+
+Plh_87 { O filhote acabou de pular daquela raiz nojenta... }
+
+Plh_88 { Eu não tocaria nessa coisa, nem por cem moedas... }
+
+Plh_72 { *Lentamente e com cautela, sua mão se aproxima do filhote. Sem preocupação aparente, ele te encara com seus grandes olhos.* }
+
+Plh_73 { *Você alcança o filhote e acaricia amorosamente sua cabeça. O filhote se inclina em sua mão e parece muito relaxado.* }
+
+Plh_74 { *De repente, o filhote se vira e foge.* }
+
+Plh_77 { *Você sente que o filhote está correndo para o coração da Floresta Primeva. Mas você não sabe o que ele pretende fazer. Então a conexão que você sentia com o filhote é abruptamente cortada.* }
+
+Plh_75 { *Vocês passam algum tempo se observando.* }
+
+Plh_76 { *parece completamente em pânico e treme* Eeeeek! Eeeehk! }
+
+Plh_52 { *A raiz parece ter sido arranhada por um urso recentemente. Mas os filhotes de javali parecem ilesos.* }
+
+Plh_53 { *Você coloca seu talismã e imediatamente sente um calor no estômago. Sua visão fica escura, mas você não se sente desorientado; ao contrário, se sente seguro.* }
+
+Plh_54 { *Em sua mente, você vê apenas escuridão. Da escuridão, uma luz cresce, e da luz, um grande javali se aproxima de você.* }
+
+Plh_55 { *Ele para na sua frente e te analisa. Você sente que o javali não tem a intenção de te machucar enquanto te examina.* }
+
+Plh_56 { (aproximar-se e estender a mão para o javali) }
+
+Plh_57 { (não fazer nada) }
+
+Plh_58 { *Você estende a mão para o javali. Ele permite que você toque em seu nariz, e no momento em que seus dedos fazem contato, mil sentimentos calorosos correm da sua mão para o seu peito.* }
+
+Plh_59 { *O javali se vira, então faz uma pausa breve para olhar por cima do ombro para você. Depois, solta um grito alto para o céu e corre de volta para a luz, que se dissolve em escuridão.* }
+
+Plh_60 { O que foi isso agora? }
+
+Plh_61 { Será que aquele era o Grande Javali...? }
+
+Plh_62 { *Você pronuncia a pergunta em voz alta, mas não há ninguém por perto para responder. A sensação de calor te abandona — tão rapidamente quanto veio — e você se encontra de volta à Raiz Materna.* }

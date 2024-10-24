@@ -1,0 +1,137 @@
+back { (Voltar) }
+
+end_dialog { (encerrar conversa) }
+
+End_(End) { (encerrar conversa) }
+
+Silence { (não dizer nada) }
+
+Leave { (sair) }
+
+NotEnoughMoney { Essas moedas não são suficientes. Volte quando tiver o suficiente. }
+
+NotEnoughMoney1 { Algumas moedas dessas não serão suficientes. Volte quando tiver o suficiente. }
+
+NotEnoughMoney2 { Não tente me enganar. Essas moedas não são suficientes. }
+
+aboutQuests { Sobre missões... }
+
+aboutOtherQuests { Ajuda com missões... }
+
+end { Tenho que ir. (encerrar conversa) }
+
+Teach_SpearSling { Você pode me mostrar como lutar melhor usando lança e estilingue? }
+
+End_WirSehenUns { Nos vemos por aí. }
+
+BloodSteel { Sangue e ferro! }
+
+End_VergissEs { Esqueça. }
+
+End_KeineZeit { Não tenho tempo para isso. }
+
+Inf_DaWarNochWas { Ainda tinha mais uma coisa... }
+
+SLP_GoaWay { Vá embora. }
+
+Busy_NotNow { Agora não. }
+
+End_MussLos { Tenho que ir. (encerrar conversa) }
+
+aboutGenericTopics { Gostaria de falar sobre outra coisa. }
+
+Teach_Smith { Me ensine algo sobre sua arte. }
+
+showMeWares { Mostre-me suas mercadorias. }
+
+Inf_IchSchauMichUm { Só estou dando uma olhada. }
+
+Inf_HabeFrage { Eu tenho uma pergunta... }
+
+ShowMeSkills { Gostaria de aprender novas habilidades. }
+
+Teach_Sword_! { Me ensine como lutar melhor com a espada. }
+
+Teach_Dagger_! { Me ensine como lutar melhor com a adaga. }
+
+End_IchGehDannMal { Estou indo embora agora. }
+
+End_VlltSpäter { Talvez mais tarde. }
+
+Acc_KuemmereMichDrum { Vou cuidar disso. }
+
+Teach_Animals { Você pode me mostrar como esfolar animais? }
+
+Teach_General { Me ensine algo. }
+
+Acc_HelfeDir { Tudo bem, vou te ajudar. }
+
+End_ÜberlegeNoch { Ainda estou pensando nisso. }
+
+Teach_Dagger { Você pode me ensinar a lutar com a adaga? }
+
+Armor? { Você pode fazer algo com essas peças de armadura? }
+
+Armor { Tenho essas três peças de armadura — você pode fazer um conjunto completo delas? }
+
+ArmorLight { A mais leve possível, para que eu possa me movimentar facilmente. }
+
+ArmorHeavy { Uma que ofereça a máxima proteção. }
+
+ArmorDruid { Uma armadura com muitas runas gravadas. }
+
+End_AnderesZuTun { Tenho outra coisa para fazer. }
+
+LetsTraining { Pronto para uma batalha? }
+
+LetsRevance { Pronto para uma revanche? }
+
+NoTime_TrainingTime { Quando o sol estiver alto no céu, estarei no campo de treinamento. Então podemos lutar. }
+
+Inf_WasMachstDuHier { O que você está fazendo aqui? }
+
+SLP_Dunkel { Volte quando o sol estiver alto no céu de Drova! }
+
+Run_IchBinNochDabei { Ainda estou nisso... }
+
+SLP_Müde { Eu poderia dormir por três dias e noites seguidos... mas há muito o que fazer. SEMPRE há muito o que fazer... }
+
+Teach_Training { Treine comigo. }
+
+LetsTraining_fromMorvin { Proximus disse que deveríamos treinar. }
+
+Inf_Crimes { Sobre meus delitos... }
+
+FightingArena { Hoje nós dois lutaremos na arena. }
+
+Teach_Mind { Me mostre como melhorar minha habilidade de fortalecer o poder mágico. }
+
+Teach_SpearSling_! { Me ensine como lutar melhor com a lança e o estilingue. }
+
+Teach_Axe_! { Me ensine como lutar melhor com o machado. }
+
+SLP_Zeit { *boceja* Agora não... }
+
+Acc_BinDabei { Estou dentro! }
+
+Teach_Power { Me mostre como aumentar minha força. }
+
+End_NichtsZuTun { Não quero me envolver com isso. }
+
+Teach_Sword { Você pode me ensinar a lutar com espada? }
+
+Teach_Lockpicking { Me ensine a arrombar fechaduras. }
+
+MeldDichBeiMir { Volte para me ver. }
+
+HereIsMyMoney { Aqui estão as moedas. }
+
+PlayerSaysTheyDontHaveMoney { Não tenho moedas suficientes... }
+
+PlayCatch { Quer jogar pega-pega? }
+
+OnlyNemetonTeaching { Só serei professor para lutadores de Nemeton. }
+
+Teach_Axe { Você pode me ensinar a lutar melhor com o machado? }
+
+HaveRostmoos { Tenho Musgo de Ferrugem comigo. Você precisa de um pouco? }

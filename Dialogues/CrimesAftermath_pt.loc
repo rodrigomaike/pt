@@ -1,0 +1,153 @@
+Plh_0 { Pela lei e pela ordem. }
+
+Plh_11 { Você quebrou as leis de Nemeton. Vai ter que responder por isso. }
+
+Plh_36 { Me dê [Currency] moedas, então eu perdoarei suas transgressões. Até limpar seu nome, ninguém aqui vai te aceitar. }
+
+Plh_23 { Aqui, pegue as moedas e me perdoe por minhas transgressões. }
+
+Plh_10 { Em nome do Corvo, eu perdoo suas transgressões. Direi às pessoas que você voltou à razão. }
+
+Plh_63 { Saia da minha vista. Não vamos esquecer suas transgressões aqui. }
+
+Plh_12 { A menos que você possa pagar, nada vai acontecer. Volte quando tiver moedas suficientes — ou saia de Nemeton. }
+
+Plh_21 { O Grande Javali não confia em você. }
+
+Plh_35 { Me dê [Currency] fichas de expiação, e eu posso perdoá-lo pelo que você fez. }
+
+Plh_1 { Gostaria de expiar meus crimes. }
+
+Plh_20 { Oh, Grande Javali! Perdoe esta pessoa por suas transgressões! Purifique-a de seus erros e mostre-lhe o caminho! }
+
+Plh_64 { Você está limpo de toda culpa... }
+
+Plh_22 { O Grande Javali está observando você e seus feitos. Volte quando tiver uma ficha de expiação, e eu pedirei perdão ao Javali. }
+
+Plh_3 { Você não tem nada para expiar. Vá embora. }
+
+Plh_28 { Me dê [Currency] prata, e esqueceremos tudo. }
+
+Plh_29 { Aqui está sua prata. }
+
+Plh_65 { Certo, seus crimes foram perdoados. }
+
+Plh_62 { Ou me traga a prata ou caia fora. }
+
+Plh_9 { Entregue [Currency] moedas ou suma daqui. }
+
+Atone_Crimes { Aqui estão suas moedas. }
+
+Plh_13 { Não tenho nada a dizer a você até ver algumas moedas. }
+
+Plh_42 { Você prejudicou nossa comunidade. Apenas Diemo pode te perdoar por isso. }
+
+Plh_41 { Gerdwin decidirá seu destino. Até que ele me diga que você está limpo, não quero nada com você. }
+
+Witnessed_Stealing_00 { Você roubou. Saia da minha vista. }
+
+Witnessed_Stealing_01 { Miserável ladrão. Cai fora. }
+
+Witnessed_Stealing_02 { Cai fora, antes que você roube mais alguma coisa. }
+
+Witnessed_Stealing_03 { Não falo com ladrões. }
+
+Witnessed_Stealing_04 { Se você não consegue manter as mãos longe do que não é seu, não tenho nada a dizer a você. }
+
+Plh_44 { Se as coisas não são suas, mantenha as mãos longe delas! }
+
+Plh_45 { Nunca mais tente roubar de mim de novo! }
+
+Plh_52 { Saia da minha vista, ladrão imundo! }
+
+Witnessed_HoldingWeapon_00 { Vai sacar sua arma de novo e causar mais problemas? Cai fora. }
+
+Witnessed_HoldingWeapon_01 { Não quero nada com alguém que empunha a arma por aí de forma descuidada. }
+
+Witnessed_HoldingWeapon_02 { Saia da minha vista antes de ousar sacar essa arma de novo! }
+
+Witnessed_HoldingWeapon_03 { Mostre uma arma na minha cara mais uma vez, e você estará em apuros de verdade. }
+
+Witnessed_HoldingWeapon_04 { É melhor não sacar essa maldita arma assim de novo. }
+
+Plh_51 { Guarde a arma! }
+
+Witnessed_Trespassing_00 { Cai fora antes de começar a invadir mais lugares. }
+
+Witnessed_Trespassing_01 { Não estou falando com você. Você acha que alguém como você pode entrar em qualquer lugar? }
+
+Witnessed_Lockpicking_02 { Cai fora, ladrão. }
+
+Witnessed_Trespassing_03 { Me deixa em paz. Não quero você invadindo todos os lugares por aqui. }
+
+Witnessed_Trespassing_04 { Você não vai arrancar uma palavra de mim até parar de invadir tudo. }
+
+Plh_49 { Dê o fora. Não preciso de invasões por aqui. }
+
+Witnessed_Lockpicking_00 { Você arrombou uma fechadura assim, maldito ladrão! Cai fora! }
+
+Witnessed_Lockpicking_01 { Sempre arrombando fechaduras, hein? Cai fora, ladrão. }
+
+Plh_30 { É melhor tentar arrombar fechaduras em outro lugar. Ou não seja pego. Saia daqui. }
+
+Witnessed_Lockpicking_03 { Me deixa em paz. Não tenho nada a dizer a alguém que quer me roubar. }
+
+Witnessed_Lockpicking_04 { Não quero nada com arrombadores! }
+
+Plh_53 { De volta para arrombar mais fechaduras? Seu canalha, estou de olho em você. }
+
+Witnessed_Noise_00 { Você me acordou! Cai fora! }
+
+Witnessed_Noise_01 { Da próxima vez, fique quieto quando eu estiver dormindo perto de você. Cai fora. }
+
+Witnessed_Noise_02 { Encrenqueiro! Você não tem nada que fazer aqui. }
+
+Witnessed_Noise_03 { Alguém não sabe quando ficar quieto. Aqui vai uma dica: quando as pessoas estão dormindo! Cai fora! }
+
+Witnessed_Noise_04 { Seu maldito desajeitado. Você está me privando do meu sono. Sai daqui. }
+
+Plh_54 { Vá embora, ou não vou conseguir dormir! De novo! }
+
+Plh_55 { Saia! Se tem uma coisa que eu odeio, é ser acordado. }
+
+Plh_37 { Não quero nada com pessoas que quebram as regras. Gerdwin decidirá seu destino. }
+
+Plh_38 { Você não obedeceu às leis de Nemeton. Vá até Gerdwin se quiser acertar as coisas. }
+
+Plh_39 { Não quero nada com brutamontes como você. Gerdwin vai julgar você. }
+
+Plh_40 { Existem regras aqui. E você as quebrou. Pague sua multa a Gerdwin. }
+
+Plh_56 { Não vou dizer uma única palavra a você até que tenha pago sua multa a Gerdwin pelo que fez. }
+
+Plh_57 { Então você acha que está acima da lei? Pague sua dívida com Gerdwin ou suma daqui. }
+
+Plh_26 { Começar uma briga e depois fugir? Isso é covardia. Você voltou aqui para se entregar? }
+
+Plh_31 { Covarde! Você fugiu antes de resolvermos isso. }
+
+Plh_32 { Se você não tivesse fugido, estaria em situação muito pior. Cai fora! }
+
+Plh_33 { Pensei que você quisesse lutar, mas depois você amarela? Me deixa em paz! }
+
+Plh_34 { Não vou perder meu tempo com você. Tudo o que faz é fugir! }
+
+Witnessed_BlockingWay_00 { Se me atrapalhar de novo, não serei mais legal. }
+
+Witnessed_BlockingWay_01 { Se você cruzar meu caminho de novo, vai se arrepender. Saia! }
+
+Witnessed_BlockingWay_02 { Voltou para me atrapalhar de novo? Dê o fora! }
+
+Witnessed_BlockingWay_03 { Não aguento mais olhar para sua cara. Cai fora daqui e fique fora do meu caminho! }
+
+Witnessed_BlockingWay_04 { Não fique aí bloqueando o caminho. Saia da frente! }
+
+Plh_47 { Saia do caminho, ou as coisas vão ficar feias de novo. }
+
+Plh_27 { Achou que eu ia aceitar qualquer coisa? Ou você veio se desculpar? }
+
+Plh_59 { Peça desculpas ou cai fora. }
+
+Plh_60 { Não vou sair daqui até você se desculpar. }
+
+Plh_61 { Mostre algumas moedas ou suma. Não quero nada com você. }

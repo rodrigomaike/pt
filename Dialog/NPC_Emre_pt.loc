@@ -1,0 +1,59 @@
+Plh_10 { Seu nome é realmente Cobra? }
+
+Plh_12 { Sério? É assim que sua mãe te chamava? }
+
+Plh_11 { Claro. Foi assim que minha mãe me nomeou. Cobra. }
+
+Plh_13 { Diga-me, você caiu e bateu a cabeça ou algo assim? }
+
+Plh_14 { Acredite, você não quer saber meu nome verdadeiro. }
+
+Plh_6 { O que tem lá dentro? }
+
+Plh_8 { Eu vou conseguir moedas assim, do nada? }
+
+Plh_7 { Quantas você precisar. }
+
+Plh_9 { Claro. Friedel fica feliz em te dar algo. }
+
+Plh_5 { Entre. Cobra está de olho em você. }
+
+Plh_34 { Que noite agradável para ficar na taverna do Bernold. Cobra também gosta de fazer uma pausa. }
+
+Plh_16 { Bem, bem... você achou que poderia apenas pegar algumas moedas emprestadas e sair correndo? }
+
+Plh_17 { Pague as $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ moedas que você deve a Friedel, caso contrário, vou te transformar em lenha. }
+
+Plh_22 { O quê? Mas eu não peguei tantas! }
+
+Plh_19 { Tudo bem, tudo bem. Pegue-as. (entrega $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ moedas) }
+
+Plh_20 { Tudo bem, tudo bem. Pegue-as. (entrega $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ moedas) }
+
+Plh_21 { Apenas venha e pegue as moedas. }
+
+Plh_23 { Sério? }
+
+Plh_24 { Você acha que Friedel só quer de volta as moedas? Como você espera que ela tenha lucro? Eu deveria te dar uma boa pancada na cabeça por uma pergunta tão estúpida. }
+
+Plh_25 { Vá em frente, então. E da próxima vez, pague sem fazer perguntas. }
+
+Plh_28 { Você está tentando me enganar? Você não trouxe moedas suficientes! Vou ter que te ensinar uma lição. }
+
+Plh_29 { Eu te avisei, mas você não ouviu. Agora você realmente vai se ver em apuros! }
+
+Plh_30 { Eu sou EMRE! E as pessoas levam uma boa surra de mim sempre que falta moeda. }
+
+Plh_27 { Eu esperava que você dissesse isso. *sorri* }
+
+Plh_18 { Pague as $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ moedas que você deve a Friedel, caso contrário, eu vou te picar em lenha. }
+
+Plh_31 { Você me derrotou. }
+
+Plh_32 { Saia daqui. }
+
+Plh_15 { Se você precisar de moedas, entre e fale com Friedel. }
+
+Plh_33 { Nada melhor do que uma cerveja depois do trabalho. }
+
+Nickname { Cobra }

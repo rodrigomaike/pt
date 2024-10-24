@@ -1,0 +1,33 @@
+Level { Nível: }
+
+LearningPoints { Pontos de Aprendizado: }
+
+Category_Sword { Espada }
+
+Category_Unknown { ??? }
+
+Category_Spear { Lança }
+
+Category_Axe { Machado }
+
+Category_Daggers { Adagas }
+
+Category_Bow { Arco }
+
+Category_Crafting { Artesanato }
+
+Category_Hunting { Coisas }
+
+CombatStrength { Aptidão }
+
+Category_Slingshot { Estilingue }
+
+Category_Shield { Escudo }
+
+requirement { Pré-requisito: }
+
+Category_Preparation { Preparação }
+
+Category_Mining { Prospecção }
+
+fighting_strength { Aptidão }

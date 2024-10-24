@@ -1,0 +1,169 @@
+Plh_177 { Como funciona o ritual? }
+
+Plh_178 { Hm. É complicado. Mas posso tentar explicar em termos simples. }
+
+Plh_179 { Os vasos rúnicos mantêm o poder que emitem muito limitado. Caso contrário, a Divindade poderia se libertar. Os Bygones sabiam exatamente o que estavam fazendo... }
+
+Plh_180 { Comparado ao que nós humanos somos capazes, o poder mágico ainda é bastante impressionante. Além disso, é constante... e inesgotável. }
+
+Plh_181 { É por isso que coletamos o poder mágico da Divindade durante o ritual, até que a prata seja impregnada com ele. Então, por meio de runas complexas, a Divindade é ordenada a direcionar esse poder para a barreira ao redor da Torre Vermelha. }
+
+Plh_182 { Infelizmente, subestimamos quão resiliente a barreira ao redor da Torre Vermelha realmente é. Precisamos de muito mais poder mágico... Espero que o cristal que você trouxe possa ajudar nisso. }
+
+Plh_174 { Para que você precisa de toda essa prata? }
+
+Plh_175 { O Poder Divino pode ser concentrado na prata. Imagine este mundo como o corpo de uma Divindade. A prata constituiria suas veias, através das quais o poder flui como sangue. }
+
+Plh_176 { Assim, precisamos da prata para reunir e direcionar o poder da Divindade. }
+
+Plh_103 { Por que você quer tanto sair daqui? }
+
+Plh_104 { Você não viu o que aconteceu com a Floresta Primeva? }
+
+Plh_105 { Eu mesmo capturei a Divindade! }
+
+Plh_106 { Sim. Parece morta. }
+
+Plh_107 { E tirou o poder mágico da Floresta Primeva! }
+
+Plh_152 { A Floresta Primeva não está mais protegida, e continuará a decair. Sem poder mágico, não pode haver vida. Em lugar nenhum. }
+
+Plh_156 { Isso já vem acontecendo há muito tempo por toda Drova. Os Bygones conseguiram manter a Névoa da Morte à distância, mas não puderam confinar a vida. }
+
+Plh_186 { O poder divino escorre lentamente deste mundo, uma gota de cada vez... }
+
+Plh_153 { Então é minha culpa que a Floresta Primeva esteja morrendo? }
+
+Plh_154 { Eu fiz a coisa certa? Ou não fiz? }
+
+Plh_155 { Fiz isso pelos Remanescentes, e faria de novo. }
+
+Plh_157 { Precisamos do Javali Poderoso para entrar na Torre Vermelha. Tudo o que você fez foi fazer o inevitável acontecer. }
+
+Plh_158 { Mas a decadência de Drova é irreversível. Podemos usar a magia rúnica para nos salvar — para criar vidas melhores para nós mesmos. }
+
+Plh_110 { Chega de ficar preso ao passado. Vamos olhar para a frente. }
+
+Plh_160 { Mas... }
+
+Plh_162 { O tempo acabou para quaisquer se... mas... }
+
+Plh_159 { Nunca teremos acesso à Torre Vermelha sem o Javali Poderoso. Estamos mais perto de nosso objetivo... }
+
+Plh_108 { Morto? }
+
+Plh_151 { Ele perdeu todo seu poder mágico. }
+
+Plh_7 { O que você sabe sobre os Bygones? }
+
+Plh_5 { Os Bygones viveram em Drova antes de nós. Eles descobriram como criar magia rúnica utilizando o poder das Divindades. }
+
+Plh_163 { Durante todo esse tempo, fizemos o que achávamos que serviria às Divindades. Nos submetemos ao que acreditávamos ser a vontade delas. }
+
+Plh_164 { Isso acabou agora. Os Bygones se libertaram das Divindades. }
+
+Plh_165 { Além disso... os servos se tornaram os soberanos. Soberanos sobre as Divindades. Soberanos sobre Drova. }
+
+Plh_166 { Agora possuímos o poder das Divindades, e vamos reivindicar a liberdade que buscamos. }
+
+Plh_8 { O que você pode me contar sobre a Torre Vermelha? }
+
+Plh_9 { Da Torre Vermelha, os Bygones vagaram entre os mundos. Eles não estavam presos a um só lugar. Podiam ir aonde quisessem. }
+
+Plh_167 { Eles mantinham listas de todas as coisas que carregavam desde os recantos mais distantes de Drova até outros mundos. }
+
+Plh_168 { Em algum momento, eles a selaram. Não sabemos exatamente por quê. }
+
+Plh_169 { Muitas perguntas sobre os Bygones ainda permanecem sem resposta. E as respostas só podem ser encontradas dentro da Torre Vermelha. }
+
+Plh_6 { Ah, o novato. Saudações! Meu nome é Manes, arcanista dos Remanescentes. }
+
+Plh_84 { O que você está fazendo aqui? }
+
+Plh_171 { Por que você não está ajudando os outros druidas? }
+
+Plh_83 { Estamos preparando o ritual pelo qual destruiremos a barreira que cerca a Torre Vermelha. }
+
+Plh_86 { *olha ao redor e murmura* a prata deve ser suficiente, o vaso rúnico está prestes a ficar disponível, as runas no chão estão tomando forma... }
+
+Plh_172 { *olha de volta para você* Começaremos em breve. }
+
+Plh_173 { Eu desenvolvi o ritual que nos permitirá ganhar acesso à Torre Vermelha. Agora tudo o que preciso fazer é garantir que não haverá erros. }
+
+Plh_140 { $GVAR:EVars_Player.Name$! Estamos ocupados com a prata agora. Precisamos garantir que o ritual funcione na próxima tentativa. Você conseguiu localizar o Cristal Divino? }
+
+Plh_12 { Eu tenho o cristal da cidade na Floresta Primeva. }
+
+Plh_185 { Ótimo... Nossa liberdade está ao nosso alcance. }
+
+Plh_141 { Levin chegou. Mas o Nemeton o atacou. Eles perceberam que estamos limpando a Fossa. O tempo está se esgotando... }
+
+Plh_142 { Todos os Hewers estão ocupados minerando a prata. Eles não podem ir mais rápido — já estão trabalhando até o osso! }
+
+Plh_143 { $GVAR:EVars_Player.Name$, precisamos impregnar os Cristais Divinos com o poder mágico de uma Divindade. Vá até Eugen. Ele está liderando a expedição na Charca Vermelha, e por agora ele deve estar lá — espero... }
+
+Plh_144 { A expedição foi para leste do Acampamento dos Lenhadores, via Georgefarm. Felizmente, a ponte foi consertada enquanto isso... }
+
+Plh_145 { Eles queriam se encontrar com Elgar lá, para discutir a situação. Em troca de algumas moedas, ele nos daria algumas informações sobre a Charca Vermelha. Vá até lá. Ele poderá lhe mostrar o caminho. }
+
+Plh_146 { Aqui estão os Cristais Divinos. Leve-os para a Charca Vermelha e guarde-os com sua vida. }
+
+Plh_148 { Eu irei. }
+
+Plh_147 { Encontre Eugen, impregne os Cristais Divinos com poder mágico e, em seguida, traga-os de volta para nós. E se apresse, antes que seja tarde demais... }
+
+Plh_114 { Se o Nemeton nos atacar, tudo estará perdido. Não temos muralhas — nenhuma defesa. DEVEMOS atacá-los PRIMEIRO. O mais rápido possível! }
+
+Plh_115 { Manes, queremos nos afastar deste mundo, obviamente, mas não seremos capazes de fazer isso se nos impusermos nas espadas do inimigo! }
+
+Plh_13 { Eu tenho o cristal da Floresta do Alagado. }
+
+Plh_116 { *toca o cristal* Inacreditável! Eu ainda posso sentir algum poder mágico que está adormecido nele. Jero, vai funcionar! Tudo o que precisamos agora é do cristal final. }
+
+Plh_117 { ... e da expedição para a Charca Vermelha, para impregná-lo com poder divino. O tempo está se esgotando. }
+
+Plh_183 { Os trabalhadores da Floresta Primeva já retornaram. O caminho está livre para as ruínas a oeste. }
+
+Plh_118 { Também precisamos avançar com os preparativos aqui — sem demora! }
+
+Plh_119 { O Nemeton não tem a intenção de nos deixar em paz — não temos escolha. }
+
+Plh_120 { Kilian, vá até Levin. Diga a ele para abandonar a Fossa e trazer a prata aqui AGORA. }
+
+Plh_121 { Temos que fazer algo! }
+
+Plh_113 { $GVAR:EVars_Player.Name$, você nos prestou um valioso serviço. E espero que isso continue... }
+
+Plh_123 { Claro. }
+
+Plh_124 { Eu trouxe o outro Cristal Divino! }
+
+Plh_126 { O outro Cristal Divino deve estar nas ruínas a oeste daqui. Ninguém conhece este lugar. O caminho até lá foi enterrado em escombros, e a Chama Negra queimava lá particularmente forte. }
+
+Plh_128 { A partir de seus escritos, sabemos que o templo de Luna deve estar lá. Ele foi frequentemente descrito como a joia de sua fé. }
+
+Plh_184 { Tivemos alguns Hewers limpando o caminho, e Kilian relatou que eles estão prontos. Sua tarefa é clara — precisamos do terceiro Cristal Divino. }
+
+Plh_129 { Enquanto isso, enviarei uma expedição de reconhecimento para a Charca Vermelha. É profunda e começa longe ao sudeste de Nemeton. A Charca Vermelha é um dos lugares mais perigosos de Drova... Uma charca da morte. }
+
+Plh_130 { Durante meu tempo em Nemeton, ninguém se atreveu a ir lá... Mas a escrita da Biblioteca era inequívoca. É onde a construção dos Bygones deve estar localizada. }
+
+Plh_189 { Vou enviar as melhores pessoas para abrir caminho. Sua tarefa é conseguir o Cristal Divino. }
+
+Plh_131 { E se o Nemeton nos invadir? }
+
+Plh_132 { Sim, eu trarei o cristal. }
+
+Plh_134 { Vou obter reforços da Fossa. Eles precisam ver que não somos indefesos. Isso os fará pensar duas vezes. E se eles se atreverem a atacar, vão se arrepender. }
+
+Plh_135 { Eu conheço minha irmã. Ela não sacrificará seus guerreiros. Eu sei como ela pensa, e precisamos explorar isso. }
+
+Plh_136 { *recolhe atrás da cabeça e desata seu colar* }
+
+Plh_170 { Este colar foi do meu pai. Ele foi o fundador de Nemeton. Todos os meus irmãos e irmãs receberam um colar como este. Agora você o usa. }
+
+Plh_137 { Meu pai ficaria contente em vê-lo usado agora pela pessoa que pode nos levar para fora de Drova. }
+
+Plh_138 { Deixe-me cuidar da defesa. Pela liberdade! }
+
+Plh_125 { *sorri* E sem hesitação! }

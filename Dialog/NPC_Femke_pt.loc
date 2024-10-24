@@ -1,0 +1,87 @@
+Plh_25 { Eu quero a armadura. }
+
+Plh_37 { Estou procurando uma pele de urso para o velho. Você tem uma? }
+
+Plh_36 { O que, ele estava reclamando com você também? }
+
+Plh_41 { ESSA É MINHA TROFÉU. }
+
+Plh_52 { De jeito nenhum você vai conseguir. }
+
+Plh_42 { Eu estrangulei aquele urso depois de uma luta difícil! Eu ganhei aquela pele de urso. E não vou abrir mão dela! }
+
+Plh_38 { Você poderia dar a ele uma pele de ovelha. Ele não vai saber a diferença de qualquer forma. }
+
+Plh_39 { Escute, você pode comprar uma de mim. E como é para o velho, eu até vou te dar um desconto. Apenas $GVAR:QuestVars_OldMen_Config.FemkeOfferPrice$ moedas. Assim, todos ficam felizes. }
+
+Plh_43 { Eu não posso prejudicar o pobre velho. }
+
+Plh_44 { Vou pegar a pele de ovelha. (Pagar $GVAR:QuestVars_OldMen_Config.FemkeOfferPrice$ moedas) }
+
+Plh_45 { Vou ter que pensar sobre isso. }
+
+Plh_46 { Então ele pode continuar reclamando por não ter uma pele de urso. O que é meu, é meu. }
+
+Plh_47 { Excelente! Você vai ver. Ele não vai saber a diferença. }
+
+Plh_49 { Aqui está. }
+
+Plh_51 { Volte quando tiver algumas moedas. }
+
+Plh_48 { Como quiser. A pele de ovelha não vai a lugar nenhum. }
+
+Plh_35 { Estarei aqui o dia todo. Volte se precisar de algo. }
+
+Plh_4 { Hm, este nariz, esta boca, estes olhos... desconhecidos. Você deve ser novo, certo? E você quer se juntar ao Nemeton. Estou certo? }
+
+Plh_16 { Ei, eu não vi seu rosto por aqui antes. Meu nome é Femke. Posso te vender o que você precisar para a batalha. }
+
+Plh_5 { Sim, eu quero me juntar ao Nemeton. }
+
+Plh_6 { Não, o Nemeton realmente não me interessa. }
+
+Plh_7 { Então você está com sorte! }
+
+Plh_34 { Pode me chamar de Femke. Porque esse é meu nome, afinal. }
+
+Plh_9 { *quietamente* Todas as pessoas por aqui são um pouco suspeitas. Ganhar a confiança delas vai ser difícil. }
+
+Plh_11 { Como você os convenceu? }
+
+Plh_10 { Você pode me ajudar a fazer isso? }
+
+Plh_12 { *sorri* Eles perceberam como é benéfico ter-me no acampamento. }
+
+Plh_13 { Como você percebeu, não é seguro no Moor Vermelho. É por isso que todos no Nemeton são bem bons em lutar. Assim como você deve ser também. }
+
+Plh_14 { E as aparências são tudo. Se você parecer um guerreiro, eles te tratarão como tal. E para isso eu tenho algo para você... }
+
+Plh_15 { Armadura de couro. Melhor e mais forte do que essa roupa estranha que você está usando. Esta peça deve te ajudar a sobreviver mais tempo no Moor Vermelho. }
+
+Plh_22 { *suspira* Eu ainda me lembro quando cheguei pela primeira vez no Nemeton. Sem moedas, sem amigos. Eu vou te vender por... }
+
+Plh_23 { $GVAR:EVars_Femke.CostArmor$ em vez de $GVAR:EVars_Femke.CostArmorFake$ moedas. }
+
+Plh_53 { Não estou interessado. }
+
+Plh_54 { Parece interessante. }
+
+Plh_55 { Ei, não se preocupe. Eu estou apenas oferecendo. }
+
+Plh_56 { Eu tenho outras coisas que podem te interessar. Tudo que um caçador precisa. }
+
+Plh_17 { *te examina* Do jeito que você parece, o Nemeton dificilmente vai se interessar por você. }
+
+Plh_20 { Faça isso. Você vai encontrar tudo o que procura aqui, na Praça do Mercado — contanto que tenha moedas suficientes no bolso. Mas ninguém no Nemeton vai te prestar atenção se você andar por aí parecendo assim. }
+
+Plh_24 { Boa escolha. Você tem as $GVAR:EVars_Femke.CostArmor$ moedas? }
+
+Plh_26 { Aqui estão as moedas. }
+
+Plh_29 { *conta as moedas* Tudo bem, aqui está sua armadura. Isso deve te ajudar a sobreviver no Moor Vermelho. }
+
+Plh_30 { Você não me deu moedas suficientes. Volte quando tiver o suficiente. }
+
+Plh_28 { Então pense sobre isso. Você sabe onde me encontrar. }
+
+Plh_33 { Eu estoco apenas as melhores mercadorias. Dê uma olhada ao redor. Leve seu tempo. }

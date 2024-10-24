@@ -1,0 +1,11 @@
+Plh_0 { *O recipiente está à sua frente. Você consegue sentir o poder mágico no ar.* }
+
+Plh_4 { *O recipiente está frio ao toque. Você relaxa e imediatamente sente o chão sendo arrancado debaixo de seus pés.* }
+
+Plh_5 { *Você sente como se estivesse caindo. Está girando e não consegue encontrar nada para se segurar.* }
+
+Plh_6 { *Algo está te observando. Você sente que está sendo avaliado. Muito acima de você.* }
+
+Plh_7 { *Está frio. Você continua caindo, até que, finalmente, atinge o fundo.* }
+
+Plh_1 { (alcançar o recipiente) }

@@ -1,0 +1,95 @@
+Plh_51 { Você vai me vender a relíquia? }
+
+Plh_55 { Muito bem. Me dê a relíquia. (entrega $GVAR:QuestVars_TheLiesOfLocke_Config.PriceForRelic$ moedas) }
+
+Plh_52 { Você realmente quer isso, não quer? }
+
+Plh_53 { Não vale exatamente tanto assim. Mas tentar roubá-la vai te custar $GVAR:QuestVars_TheLiesOfLocke_Config.PriceForRelic$ moedas. }
+
+Plh_58 { *sorri* Bem, isso não foi tão difícil, foi? Não se preocupe, vou esquecer disso. }
+
+Plh_57 { Então traga moedas suficientes! }
+
+Plh_27 { O velho precisa de uma pele de urso, mas a Femke não quer vendê-la. }
+
+Plh_28 { Ele ainda está afirmando que estrangulou o urso com as próprias mãos? Que nada. Ele ganhou a pele jogando. Esse covarde nunca pôs os pés na selva. Ele sempre compra suas mercadorias de caçadores. }
+
+Plh_29 { Eu acho que ele nem realmente tem uma pele de urso... }
+
+Plh_31 { Onde ele guarda a pele de urso? }
+
+Plh_36 { Ele realmente possui uma pele de urso? }
+
+Plh_30 { Oh, ele tem uma, sim. Ele a mantém escondida em sua barraca, e sempre que quer se exibir, ele a tira e conta sua história de fantasia. }
+
+Plh_32 { Você quer roubá-la? Você percebe como eles punem severamente o roubo em Nemeton... }
+
+Plh_34 { Não, claro que não. }
+
+Plh_35 { *estreita os olhos* Não acredito em você. Apenas não me envolva. Se você roubar qualquer coisa, eu não sei de nada. }
+
+Plh_37 { Sim. Ele anda com ela o tempo todo. Provavelmente a manteve na barraca, como nós todos fizemos. }
+
+Plh_7 { Quando a última remessa de armas desapareceu... Onde você estava, exatamente? }
+
+Plh_39 { Você por acaso tem uma relíquia dos Coisas Passadas? }
+
+Plh_40 { Como você sabe disso!? }
+
+Plh_42 { Isso significa "Sim"? }
+
+Plh_43 { Hm. Pode ser. Mas se eu tivesse uma, você acha que eu a venderia? }
+
+Plh_48 { ... É deslumbrante... }
+
+Plh_45 { O quê? }
+
+Plh_46 { Oh, nada. }
+
+Plh_47 { Eu não posso te ajudar. Pergunte a outra pessoa. }
+
+Plh_5 { Ei, você é novo aqui? }
+
+Plh_6 { Meu nome é Enya. Bem-vindo a Nemeton. Eu posso te vender o que for colhido dos campos ou encontrado na natureza. }
+
+Plh_24 { Eu te vi conversando com o velho. Ele te contou sobre seus feitos heroicos nos velhos tempos? Assim que ele começa a falar, você não consegue fazê-lo parar... }
+
+Plh_25 { Eu deveria pegar algumas coisas para ele... }
+
+Plh_26 { E você vai? Que gentil da sua parte. Ele gosta de maçãs... Aqui, leve quatro delas. Mas não diga a ele que são minhas. }
+
+Plh_49 { Você estava tentando roubar meu copo, não estava? Você é louco!? }
+
+Plh_8 { O quê? Por que você me suspeita? Não tenho nada a ver com isso. }
+
+Plh_23 { O Kendrick te colocou em cima de mim, não foi? Esse maluco não nos deixa em paz! }
+
+Plh_10 { Eu encontrei alguns cabelos vermelhos onde as armas desapareceram... }
+
+Plh_11 { Aha! Cabelos vermelhos. E é claro que isso significa que foi a Enya, certo? Sempre são as ruivas. O mau tempo, mordidas de rasgadores e a queda dos Coisas Passadas! }
+
+Plh_12 { Kendrick e Angus só gostariam de saber o que aconteceu... }
+
+Plh_13 { Você não tem nada a esconder, certo? Onde você estava quando a entrega chegou? }
+
+Plh_14 { É claro que eles têm... }
+
+Plh_16 { Naquela noite, eu fui à taverna. Estive lá a noite toda. Vamos dizer que foi uma noite de cerveja... }
+
+Plh_17 { Quem mais estava lá? }
+
+Plh_18 { Então suponho que eu tenha que acreditar em você. }
+
+Plh_19 { Algumas pessoas. Mas finalmente falei com a Palina, logo antes de eu sair. }
+
+Plh_20 { Feliz? Melhor perguntar ao Harvey ou ao Swenn. }
+
+Plh_15 { *piscando* Eu posso te dizer. }
+
+Plh_60 { Onde posso encontrar o Harvey ou o Swenn? }
+
+Plh_59 { Você deve encontrá-los perto do armazém. Leve as mercadorias para lá. }
+
+Plh_61 { Mas, por outro lado... Eu não vejo o Harvey há um tempo. Talvez você o encontre em sua cabana perto do alojamento. }
+
+Plh_62 { Eu preciso voltar ao trabalho. }

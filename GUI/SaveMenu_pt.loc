@@ -1,0 +1,39 @@
+Save { Salvar }
+
+Load { Carregar }
+
+PlayTime { Tempo de Jogo }
+
+GameSaved { O jogo foi salvo. }
+
+NotSaveable { Você não pode salvar o jogo agora. }
+
+Title_HeroSelect { Personagem }
+
+SlotType_Quick { Slot de Salvar Rápido }
+
+SlotType_Auto { Salvamento Automático $SAVE:SlotType$ }
+
+SlotType_Normal { Slot de Salvamento $SAVE:SlotType$ }
+
+deleteSavegamePopUp { Você realmente deseja excluir este jogo salvo? }
+
+overwriteHeroPopUp { Você atingiu o número máximo de personagens que pode ter. Escolha um personagem para sobrescrever. }
+
+Title_OverwriteHero { Sobrescrever qual personagem? }
+
+Button_Overwrite { Sobrescrever }
+
+NotLoadable { Você não pode carregar o jogo agora. }
+
+Corrupted_00 { Jogo salvo corrompido }
+
+Corrupted_PopUp_Desc { Este jogo salvo está corrompido e não pode ser carregado. }
+
+ToMainMenuPopUp_Desc { Você realmente quer voltar ao menu principal? }
+
+ToMainMenuPopUp_Restricted_Desc { O jogo não pode ser salvo agora, você ainda deseja retornar ao menu principal? }
+
+QuitPopUp_Desc { Você realmente quer fechar o jogo? }
+
+QuitPopUp_Restricted_Desc { O jogo não pode ser salvo agora, você ainda deseja fechar o jogo? }

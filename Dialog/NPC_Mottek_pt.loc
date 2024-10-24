@@ -1,0 +1,303 @@
+Plh_0 { Jola me mandou. Você pode me levar ao Poço? }
+
+Plh_193 { Estou pronto para o Poço. }
+
+Plh_170 { O que você quer dizer com que Levin recompensa trabalhadores diligentes? }
+
+Plh_172 { Levin está no Poço. Ele é responsável pela prata. Então você tem que se destacar lá. Não importa como. Levin precisa ver que você é valioso. }
+
+Plh_171 { Se você quiser ter sucesso aqui, precisará do apoio de Levin. Isso abrirá muitas portas. A que leva ao Quarteirão Superior, por exemplo. }
+
+Plh_146 { Preciso de um tempo para mim. Vou ser rápido. }
+
+Plh_3 { Fique perto. É perigoso aqui. }
+
+Plh_97 { *olha para você com mau humor* O que você quer? }
+
+Plh_54 { Obrigado por me trazer aqui. }
+
+Plh_55 { Está tudo bem com você? }
+
+Plh_56 { Sobre aqueles bandidos... aqui está minha parte. (entrega $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ moedas) }
+
+Plh_99 { De nada. }
+
+Plh_102 { Claro. Apenas ocupado. }
+
+Plh_103 { Está tudo realmente bem com você? }
+
+Plh_104 { Vou deixar você em paz. }
+
+Plh_100 { Eu também detesto a maneira como Adalgis pega as moedas de todos assim — e ninguém faz nada a respeito! Mas eu pensei que estamos juntos! }
+
+Plh_105 { Mas eu não deveria dizer nada! }
+
+Plh_107 { Aqui está minha parte das moedas. ($GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$) }
+
+Plh_106 { Acho que você se enganou. }
+
+Plh_108 { ... }
+
+Plh_110 { Esqueça. }
+
+Plh_109 { Oh, bem... Acho que me enganei, então. Desculpe. Neste lugar, você tem que ter cuidado com quem confia. Já vi um amigo se tornar um inimigo. }
+
+Plh_111 { Tenho certeza de que você está certo. Preciso voltar ao trabalho... }
+
+Plh_101 { Você deveria ter ficado. Por sua causa, perdi todas as minhas moedas. Mas eu pensei que estávamos juntos! }
+
+Plh_113 { *desvia o olhar* }
+
+Plh_165 { Olhe para isso — os lutadores da arena treinam aqui. }
+
+Plh_166 { Um dia, serei eu que estará lá. Espada na mão. De Hewer a lutador. }
+
+Plh_168 { Você foi um Hewer uma vez? }
+
+Plh_167 { *sorri* Eu descobri a Mina Profunda. Levin recompensa os Hewers que trabalham duro. E agora, eu avancei para um verdadeiro lutador. }
+
+Plh_159 { Eu fui o melhor Hewer que já pisou no acampamento dos Remanescentes. Eu poderia talhar montanhas inteiras até não restar nada. }
+
+Plh_160 { Mas estou fora disso. Não sou mais um Hewer, mas um lutador pelos Remanescentes. }
+
+Plh_192 { Siga-me, então. }
+
+Plh_174 { Ah, alguém novo para o Poço! Posso levá-lo até lá. É um pouco de caminhada. }
+
+Plh_175 { Preciso passar por Jola por um segundo antes de irmos. Você tem tudo o que precisa no Poço? }
+
+Plh_189 { Estou pronto. }
+
+Plh_190 { Vou precisar de um momento. Estarei de volta logo. }
+
+Plh_191 { Vou esperar. }
+
+Plh_177 { Ah, Hewers para o Poço! Quando levei alguns Hewers para a mina outro dia, os bandidos não estavam por perto. Vamos ver como será hoje. }
+
+Plh_176 { Jola, somos os únicos aqui? }
+
+Plh_178 { Nenhum lenhador vem aqui mais. E qualquer outra pessoa que venha agora está trabalhando no Poço como Hewer. }
+
+Plh_179 { Fui até Cengiz. Ele está com tudo sob controle. }
+
+Plh_180 { Eu estive lá, mas quase ninguém ficou. }
+
+Plh_184 { Bom ouvir isso. Mas ainda poderíamos usar os trabalhadores. }
+
+Plh_186 { Nós oferecemos nossa ajuda, mas eles preferiram trabalhar com o Nemeton. Eles fizeram sua cama, então agora podem deitar nela. }
+
+Plh_182 { Estamos indo embora. Fique comigo. }
+
+Plh_183 { Cuide-se. }
+
+Plh_185 { Confiar em alguém no Nemeton e você está ferrado. }
+
+Plh_5 { Estamos do lado de fora do acampamento dos Remanescentes. Agora temos que ter cuidado. }
+
+Plh_81 { Estou impressionado com o que os Antigos construíram aqui. Eles escavaram as montanhas e ergueram essas estátuas. Como uma civilização assim poderia simplesmente desaparecer? }
+
+Plh_82 { É isso que eu amo em ficar por perto nas minas. Eu meio que sinto falta. Já deve ter passado tempo demais desde que estive lá embaixo. }
+
+Plh_83 { Por que você sente falta das minas? }
+
+Plh_84 { Como você conseguiu subir de Hewer a lutador? }
+
+Plh_85 { Vamos seguir em frente. }
+
+Plh_87 { Eu trabalhei nas minas toda a minha vida. Essa era minha rotina, e eu a desfrutava. Eu fazia algo que eu era bom. Um dos melhores. *sorri* }
+
+Plh_88 { Acho que tive sorte. No Poço, descobri uma passagem que leva a um túnel com uma enorme veia de prata. Essa é uma das razões pelas quais temos tanta prata em primeiro lugar. }
+
+Plh_89 { A notícia se espalhou, então Levin ficou sabendo, e ele me mandou para Kilian. E agora, aqui estou. *sorri* }
+
+Plh_86 { Ainda temos um longo caminho pela frente. }
+
+Plh_8 { Aqui vai um conselho: Não siga a estrada que vai para o norte. Muitos daqueles snaptors estão vagando por lá. Sem equipamento decente, você não vai durar muito. }
+
+Plh_90 { Os snaptors são tão fortes assim? }
+
+Plh_91 { O que há com o santuário aqui? }
+
+Plh_92 { Vamos seguir em frente. }
+
+Plh_95 { Eu consigo enfrentar um único snaptor. Dois ou mais podem ficar complicados. Que pena que eles estão sempre viajando em bandos. }
+
+Plh_94 { Não faço ideia. É dos Antigos. }
+
+Plh_139 { Embora eu não saiba exatamente para que serve este santuário, geralmente deixo uma oferenda aos deuses dos Antigos para que eles me protejam nas minas. Até agora, nada nunca aconteceu comigo. }
+
+Plh_187 { Ouvi que se você deixar apenas a oferta certa, ganhará a favor desses deuses passados... Mas eu não sei o que preciso sacrificar para que isso aconteça. Pode ser uma mentira, de qualquer forma. }
+
+Plh_140 { Quase pronto. Apenas olhe ao redor por um momento, se você quiser. }
+
+Plh_117 { Tivemos sorte. Às vezes há bandidos por perto, tentando roubar suas moedas. Vamos nos apressar. }
+
+Plh_9 { Ah, droga. Cuidado. Fique atrás de mim. Eu cuido disso. }
+
+Plh_14 { O que está acontecendo? }
+
+Plh_15 { Tudo bem. }
+
+Plh_17 { Apenas fique quieto e não diga nada. }
+
+Plh_12 { Oh, se não é Mottek! Que coincidência te encontrar aqui. Ouvi que você fez um nome para si. E que agora faz parte dos Remanescentes. Não talhando mais? *sorri* }
+
+Plh_18 { Ei, Adalgis, o que você está fazendo aqui? Uh... Eu não quero problemas. Eu trouxe as $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ moedas comigo. Vou entregá-las a você. }
+
+Plh_19 { Você achou que estaríamos fora, não é? *suspira* Confie em mim, eu também preferia não estar aqui. }
+
+Plh_114 { Você sabe como é. Enquanto você pagar, não vamos te machucar. Mas você trouxe alguém com você, eu vejo. Isso vai custar $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer$ moedas no total. }
+
+Plh_119 { Ei, Adalgis... se essa cara não parecer familiar... }
+
+Plh_120 { Hm? }
+
+Plh_121 { *olha para você* Eu diria que devemos seguir em frente. Você nunca mais ouvirá de nós. }
+
+Plh_122 { Não sei o que você fez com eles, mas deve ter sido algo. }
+
+Plh_21 { Não vamos pagar nada. }
+
+Plh_22 { Uh, você nunca quis mais do que 50 moedas antes. }
+
+Plh_24 { Tudo está ficando mais caro. E você está com os Remanescentes. Então você deve ser muito mais solvente. E você não está sozinho... }
+
+Plh_26 { Aqui está minha parte. (entrega $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ moedas) }
+
+Plh_27 { Não vamos pagar nada para ladrões como vocês. }
+
+Plh_115 { Eu já paguei a vocês moedas. }
+
+Plh_29 { Uh, claro. $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer$ moedas. Isso é muito, mas... sim. *olha para você* }
+
+Plh_35 { Vá em frente. Entregue as moedas ou vamos buscá-las! }
+
+Plh_36 { Ah, aqui estão elas. Felizmente, eu tenho moedas suficientes. }
+
+Plh_31 { Aqui estão as moedas. Agora nos deixe passar. }
+
+Plh_32 { Fácil. Eu vou manter minha palavra. Só preciso verificar se são realmente $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer$ moedas. }
+
+Plh_39 { *suspira* Parece legítimo. Sinto muito, Mottek, mas precisamos desesperadamente dessas moedas. Boa sorte no Poço. }
+
+Plh_40 { Hm. Uh, obrigado... }
+
+Plh_41 { *sussurra para você* Vamos nos apressar. }
+
+Plh_30 { Tudo bem, obrigado. Eu cuido disso. }
+
+Plh_79 { Então vamos buscar as moedas. }
+
+Plh_80 { Ei, não queremos nada — }
+
+Plh_195 { Ugh. Deveria ter visto isso chegando. Não se preocupe, eu cuido disso. }
+
+Plh_116 { Você viu? Acho que minha memória não é tão boa. Por que você não me paga de novo, só para ter certeza? Caso contrário, vamos buscá-las. }
+
+Plh_28 { Ei, o que te dá a ideia de que estamos falando com você? }
+
+Plh_78 { Ei, tudo bem. Mas normalmente você não quer mais do que $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ moedas, certo? }
+
+Plh_133 { Uau, que luta. Eu não pensei que conseguiríamos. Vamos seguir em frente rapidamente. Antes que mais deles apareçam. }
+
+Plh_134 { Pegamos nossa parte. Você pode passar. }
+
+Plh_135 { *franze a testa e murmura* Vamos... embora. }
+
+Plh_10 { Aqui estamos. Finalmente. Este é o Poço. }
+
+Plh_43 { *boceja* De jeito nenhum! Mottek! O que você está fazendo aqui? Eu pensei que nunca mais te veríamos! Você faz parte de nós agora, eu vejo. }
+
+Plh_123 { Bom te ver. Chegamos aqui com segurança. Obviamente, você se livrou dos bandidos. }
+
+Plh_127 { Eu passei por lá antes e derrotei os bandidos. }
+
+Plh_130 { Estou realmente ansioso pelo Poço. Finalmente, estar debaixo da terra novamente... }
+
+Plh_60 { Primeiro vou te levar até Levin. Te vejo por aí, Esdert. }
+
+Plh_61 { *olha para você* Bem, Bem-vindo ao Poço então. Não fique brincando, não cause desabamentos, e então seremos todos amigos aqui. }
+
+Plh_52 { Minha companhia aqui já deu uma surra nos bandidos. Eles nunca mais mostrarão suas caras! }
+
+Plh_63 { *olha para você surpreso* Muito bem. Isso tira um peso das minhas costas. As pessoas podem dizer o que quiserem sobre você, Mottek, mas um grande lutador você não é. Você teve sorte! }
+
+Plh_131 { Se você os derrotar, também receberá uma recompensa. }
+
+Plh_66 { Aqui estão algumas moedas pela sua ajuda. Se você nos ajudar, nós pagaremos. }
+
+Plh_67 { Bem, se isso não é um começo auspicioso. Estou realmente ansioso pelo Poço. Já faz tempo demais desde que estive lá. }
+
+Plh_69 { Obrigado. }
+
+Plh_70 { Para onde eu tenho que ir em seguida? }
+
+Plh_64 { Eu mal fiz algo. Mas no passado, costumava haver uma recompensa. O que aconteceu com isso? *sorri* }
+
+Plh_65 { Só um momento... }
+
+Plh_46 { Bom te ver, Esdert. No caminho até aqui, fomos atacados por bandidos. Eu pensei que você tinha se livrado deles. }
+
+Plh_47 { O que? Nós fizemos, mas aparentemente eles voltaram? Droga, isso não pode estar acontecendo... }
+
+Plh_132 { Eles saíram correndo assim que nos avistaram! *sorri* Eles não voltarão tão cedo. }
+
+Plh_62 { Como vejo, você não veio sozinho. Quem é essa? }
+
+Plh_49 { *sorriso desaparece* Alguém para talhar. E para ser talhado. }
+
+Plh_53 { Chegamos. Eu fiz minha parte. Você está no Poço agora. *se afasta de você* }
+
+Plh_50 { Alguém para talhar. E para ser talhado. Salvou minha pele quando os bandidos estavam atrás das minhas moedas. }
+
+Plh_71 { Levin está logo à frente. Ele é quem está no comando aqui, e você deve agradá-lo. Se você quiser se juntar aos Remanescentes em algum momento, precisará do voto dele. }
+
+Plh_72 { Como eu consigo o voto de Levin? }
+
+Plh_75 { Obrigado. Vou falar com Levin. }
+
+Plh_73 { Esse é o problema. Ele vai te ver como nada mais do que apenas mais um Hewer comum. Eu descobri a Mina Profunda, e Levin ficou sabendo disso. É por isso que estou usando esta armadura agora. *sorri* }
+
+Plh_74 { Você faça isso. Ah, e aqui vai mais um conselho. }
+
+Plh_188 { Uma vez que você estiver no Poço, preste atenção na maneira como empunha seu machado. Você não quer destruir a preciosa prata. Golpeie com cuidado e mantenha um ritmo constante. }
+
+Plh_76 { Obrigado pelo conselho. }
+
+Plh_141 { Você está pronto? }
+
+Plh_142 { Vamos ao Poço. }
+
+Plh_151 { O que essas palavras sobre os Antigos significam? }
+
+Plh_143 { Preciso de mais tempo. }
+
+Plh_93 { Vamos seguir a estrada e depois cruzar um caminho batido, depois atravessar a água. A ponte desabou há algum tempo. Venha, siga-me. }
+
+Plh_152 { Minha mãe me ensinou. Nós dizíamos isso para nossas Divindades, mas não pode ser errado falar as mesmas palavras para os deuses dos Antigos. }
+
+Plh_144 { Tudo bem, eu vou esperar aqui. }
+
+Plh_136 { Esquerda, direita, ambos nós, vamos manter o ritmo! Aqueles bandidos não vão mexer conosco de novo. }
+
+Plh_137 { Tudo dói, e é tudo sua culpa. O que você quer? }
+
+Plh_157 { Você pode me mostrar alguns truques sobre mineração? }
+
+Plh_162 { Isso vai te custar uma boa moeda. $GVAR:EVars_Mottek.PriceToLearnMining$ moedas. }
+
+Plh_163 { Aqui, pega. (entrega $GVAR:EVars_Mottek.PriceToLearnMining$ moedas) }
+
+Plh_145 { A mina está me esperando. }
+
+Plh_150 { Estou à sua disposição. }
+
+Plh_149 { Eu te mantenho. }
+
+Plh_148 { Cuide de mim. }
+
+Plh_147 { Proteja-me. }
+
+Plh_196 { Por que eu iria querer ir ao Quarteirão Superior? }
+
+Plh_197 { Sem acesso ao Quarteirão Superior, é impossível se juntar aos Remanescentes. Kilian decidiu que você será aceito, e ele nunca sai. }

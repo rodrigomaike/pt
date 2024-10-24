@@ -1,0 +1,117 @@
+Plh_44 { O trabalho não vai se fazer sozinho. }
+
+Plh_6 { Boa sorte nas minas! }
+
+Plh_7 { Ei, amigo! }
+
+Plh_8 { Ouvi que você conversou com o chefe da fossa. Quer muita prata? Ouvi algo! }
+
+Plh_9 { Mas deve haver uma pegadinha... }
+
+Plh_10 { Fale logo. }
+
+Plh_11 { Não estou interessado. }
+
+Plh_12 { Nenhuma pegadinha. Eu só preciso de mais alguém para isso... }
+
+Plh_13 { Vamos lá! Eu vou te mostrar! }
+
+Plh_14 { Claro que você está interessado! É sobre prata! }
+
+Plh_15 { Ah, você finalmente está aqui. Então agora há... }
+
+Plh_17 { ... prata. *sorri* }
+
+Plh_19 { Sério? Você quer me enganar? }
+
+Plh_20 { Então apenas pegue a prata. (entrega $GVAR:EVars_Emko_Config.AmountOfSilverForScam$ prata) }
+
+Plh_21 { Você não vai tirar nada de mim! }
+
+Plh_22 { Não era pessoal, amigo. O Mursel tira prata de nós toda noite também. É assim que as coisas funcionam aqui. }
+
+Plh_23 { E você simplesmente aceita que o Mursel te explora? }
+
+Plh_26 { Não temos escolha. Bem, temos — o Mursel vai pegar nossa prata ou nossas cabeças em uma bandeja... }
+
+Plh_30 { Se nos unirmos, teremos uma chance contra ele... }
+
+Plh_69 { Nós somos apenas Cortadores tímidos. }
+
+Plh_66 { Se ficarmos juntos, ele estará em desvantagem. }
+
+Plh_33 { Mmmmmmh... }
+
+Plh_34 { Droga, você realmente está certo. Por que estamos aceitando isso? Ele não terá chance se estiver em desvantagem! }
+
+Plh_68 { Bom. Todos juntos. Agora! }
+
+Plh_27 { Não leve isso para o lado pessoal, amigo. A vida nas minas é dura. Cada um por si. }
+
+Plh_67 { Boa sorte nas minas! }
+
+Plh_28 { Você está brincando? Você não tem prata suficiente! }
+
+Plh_29 { Então, acho que não há outra maneira. }
+
+Plh_35 { Mursel! Já chega! Estamos fartos de te dar prata em troca de sono! }
+
+Plh_36 { Por que você está agindo assim? Você andou bebendo? }
+
+Plh_37 { Já chega! }
+
+Plh_38 { Isso acabou! }
+
+Plh_39 { Nós, os Cortadores, vamos dormir aqui de graça a partir de agora! (luta contra Mursel) }
+
+Plh_40 { Mursel, não devemos suportar essa porcaria! (luta contra Emko) }
+
+Plh_41 { Vamos ver isso. Agora vamos! }
+
+Plh_42 { *sorri* De nada. }
+
+Plh_43 { Você está me zoando? Grrr... }
+
+Plh_49 { Já chega, Mursel! Você não vai nos enganar mais! }
+
+Plh_53 { Você recebeu o que merecia, Mursel! }
+
+Plh_54 { Você não vai receber mais da minha prata, seu bastardo. }
+
+Plh_55 { *morde o lábio* Vocês, pirralhos, realmente acham que podem sair impunes com isso? }
+
+Plh_56 { Espere até ter que lidar com os Remanescentes — eles são muito mais duros. }
+
+Plh_50 { Agora, vamos dormir aqui sem entregar mais prata. Entendeu? }
+
+Plh_57 { Sim. Agora não me importo. Faça o que quiser. }
+
+Plh_58 { Obrigado por nos ajudar. E desculpe por querermos te enganar, amigo. Às vezes, fica realmente difícil aqui embaixo. }
+
+Plh_59 { Esqueça isso. }
+
+Plh_60 { Eu nunca vou te perdoar por isso. }
+
+Plh_61 { *se esfrega o pescoço* Foi errado da minha parte. }
+
+Plh_63 { Então, agora podemos trabalhar. Para nós mesmos, não para os outros. Te vejo por aí! }
+
+Plh_62 { Sinto muito. Mas não pode ser ajudado. }
+
+Plh_46 { Essa foi uma ideia realmente brilhante... *geme* }
+
+Plh_65 { E agora você sabe seu lugar novamente! De volta ao trabalho! }
+
+Plh_70 { Seu covarde, você simplesmente saiu correndo. Vá embora! }
+
+Plh_51 { Você ganhou. Vamos deixar você em paz. }
+
+Plh_52 { Não tem nada a ver com você, amigo. A vida aqui é dura. }
+
+Plh_45 { Obrigado pela sua ajuda. Agora podemos dormir em paz. }
+
+Plh_48 { Você tem uma boca suja. Saia daqui! }
+
+Plh_47 { *sorri* Você escolheu o lado errado, amigo. }
+
+Plh_71 { Eu já dei um soco no Mursel uma vez, mais um não vai machucá-lo. Vamos. }

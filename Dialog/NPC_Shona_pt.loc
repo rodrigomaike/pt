@@ -1,0 +1,167 @@
+Plh_73 { Você tem um pouco de musgo-rustico para o canário? }
+
+Plh_70 { O que você está fazendo aqui? }
+
+Plh_71 { Há quanto tempo você está aqui? }
+
+Plh_5 { Sobre a carne... }
+
+Plh_12 { Eu trouxe a carne para você. (Dar $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ pedaços de carne fibrosa) }
+
+Plh_90 { Agnessa parece estar em péssimas condições. Como podemos ajudá-la? }
+
+Plh_91 { *suspiros* Ela é tão teimosa. Já lhe dei algo para comer, e agora ela está descansando aqui na minha casa. }
+
+Plh_92 { Mas ela precisa de remédio. Cogumelos sombrios poderiam ajudar. Estas são plantas pequenas que têm propriedades curativas. }
+
+Plh_93 { $GVAR:QuestVars_INeedToWorkAgain_Config.AmountOfTüften$ cogumelos sombrios devem ser suficientes. Talvez você encontre alguns enquanto trabalha. }
+
+Plh_72 { *agarrando a cabeça* Falco! Eu completamente esqueci de você! }
+
+Plh_74 { Falco é muito exigente. Ele prefere passar fome a comer algo que não gosta. }
+
+Plh_75 { Bicho teimoso... }
+
+Plh_79 { Quando eu o vi mais cedo, ele parecia bastante faminto. }
+
+Plh_80 { Dê algo para alimentá-lo! }
+
+Plh_76 { Aqui, dê a ele algumas frutas. Ele adora isso. Você não pode encontrá-las aqui, mas ainda tinha algumas sobrando. }
+
+Plh_77 { Merik deveria me trazer mais. }
+
+Plh_78 { Apresse-se. Vá até Falco antes que ele morra de fome! }
+
+Plh_42 { Certifique-se de que não haverá um motim aqui! }
+
+Plh_86 { Eu estava apenas brincando, mas você está meio certo. Eu forneço boa comida. Isso ajuda a manter a moral. *sorri feliz* }
+
+Plh_44 { Não muito tempo... algo em torno de dois anos. Antes disso, eu estava em algum tipo de fazenda, mas não gostei muito de lá. }
+
+Plh_85 { Eu deveria cortar madeira lá. Não era minha praia. E aqui no acampamento dos Remnants eles precisavam de um cozinheiro. Sorte minha. }
+
+Plh_45 { Os Hewers estão famintos. Por isso, quase não saio mais do Pit. }
+
+Plh_15 { Primeiro, deixe-me cozinhar em paz. }
+
+Plh_0 { Você sente isso? }
+
+Plh_20 { Claro. }
+
+Plh_22 { Não. }
+
+Plh_23 { Faz sua boca salivar, não faz? }
+
+Plh_25 { Você parece querer comer algo que nunca experimentou antes! }
+
+Plh_28 { O que você está aprontando? }
+
+Plh_27 { Eu prefiro comer algo que eu conheço. }
+
+Plh_29 { Os Remnants sempre me trazem os mesmos ingredientes. Mais um dia e nada mudou... }
+
+Plh_81 { Hora de uma mudança! }
+
+Plh_31 { Ajude-me a criar um prato único e novo, e então você poderá prová-lo! }
+
+Plh_32 { Então, o que você quer que eu faça por você? }
+
+Plh_2 { Não tenho tempo para isso agora. }
+
+Plh_3 { *limpa a garganta* Mas claro... }
+
+Plh_30 { É só uma questão de tempo até você mudar de ideia. }
+
+Plh_24 { Então seu nariz deve estar quebrado. }
+
+Plh_7 { Você quer me ajudar afinal? Eu só preciso de $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ pedaços de carne crua para tentar a nova receita. }
+
+Plh_39 { Por que você não está caçando os porcos de escavação você mesmo? }
+
+Plh_8 { Tudo bem, eu trarei a carne. }
+
+Plh_9 { Eu tenho outras coisas para cuidar. }
+
+Plh_40 { Eu só corto coisas se elas já estão mortas. }
+
+Plh_84 { Eu não sou muito bom em lutar. }
+
+Plh_10 { Ótimo! Traga-me $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ pedaços de carne fibrosa. Isso deve ser o suficiente para tentar o novo prato. }
+
+Plh_41 { Ah, e se o porco de escavação for muito forte, então apenas fuja. Eles perdem o interesse rapidamente. }
+
+Plh_87 { Caso contrário, apenas corra em direção aos guardas. Boa sorte nas minas! }
+
+Plh_11 { Que pena. Volte se a perspectiva de uma comida deliciosa despertar seu interesse. }
+
+Plh_6 { A sopa é uma boa comida. As pessoas aqui geralmente recebem pão e sopa de vegetais, por isso preciso de um ingrediente com mais sabor. }
+
+Plh_82 { Comida que é revigorante aumenta a moral. }
+
+Plh_35 { Há alguns porcos de escavação no Pit. Eles vão ignorá-lo se você os ignorar. }
+
+Plh_83 { Mas quando eles ficam agressivos... Bem, alguns Hewers já acabaram em seus estômagos. }
+
+Plh_36 { Mas funciona nos dois sentidos! Traga-me $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ pedaços da carne fibrosa deles! }
+
+Plh_38 { E aí? }
+
+Plh_4 { Plh_4 }
+
+Plh_19 { Ah, bom te ver. *sorri* }
+
+Plh_13 { Ah, muito bom! }
+
+Plh_46 { Isso não parece tão ruim. }
+
+Plh_14 { Vou começar a preparar tudo. }
+
+Plh_17 { Esses porcos de escavação são horríveis, mas você pode fazer algo tão delicioso com eles! Você quer provar? }
+
+Plh_47 { Eu adoraria. }
+
+Plh_48 { Eu preferiria não. }
+
+Plh_49 { *mergulha na concha e te entrega* Aqui está. }
+
+Plh_53 { *você toma um gole da sopa da concha. Ela tem gosto de repolho, cebolas e ervilhas em um molho viscoso e azedo, com um pouco de carne no final* }
+
+Plh_54 { (coma toda a sopa da concha) }
+
+Plh_55 { (devolva a concha) }
+
+Plh_57 { *você sorve ansiosamente o resto da concha* }
+
+Plh_56 { E aí? Você gostou? }
+
+Plh_59 { Estava realmente delicioso! }
+
+Plh_60 { Não é bem minha praia. }
+
+Plh_61 { E É ISSO que você me mandou buscar? }
+
+Plh_62 { *os olhos dela brilham* Isso simplesmente me deixa tão feliz quando as pessoas gostam da minha comida. }
+
+Plh_65 { Hewers e guerreiros igualmente — eles simplesmente não conseguem o suficiente da minha comida. E quando até Mursel está cortando a fila, isso realmente diz muito. }
+
+Plh_88 { Até o rabugento Murtagh gosta de vir aqui. Seus olhos brilhariam se ele soubesse que havia carne na refeição de hoje! }
+
+Plh_68 { Aqui. Não é muito, mas você deve ter um token da minha gratidão. }
+
+Plh_94 { E aqui está outra refeição. Você merece. }
+
+Plh_69 { Por favor, venha novamente! Você sabe onde me encontrar se ficar com fome! *sorri cordialmente* }
+
+Plh_63 { *estreita os olhos* Felizmente, esta é apenas uma opinião. }
+
+Plh_64 { *os olhos dela estão brilhando* Isso não é razão para me falar assim. }
+
+Plh_58 { *você entrega a Shona a concha quase cheia* }
+
+Plh_50 { Nada disso teria sido possível sem você! Apenas uma mordida! }
+
+Plh_51 { Ok, tudo bem. }
+
+Plh_52 { Não, realmente não. }
+
+Plh_66 { Bem, faça o que quiser. Os outros ficarão encantados. *sorri* }

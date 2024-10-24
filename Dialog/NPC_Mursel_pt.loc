@@ -1,0 +1,169 @@
+Plh_50 { Ajuda com a missão... }
+
+Plh_20 { Agnessa precisa relaxar. Deixe-a descansar por alguns dias. }
+
+Plh_51 { Você sabia que há uma cama secreta no Poço? }
+
+Plh_52 { Hm. Ah, e a propósito — se você cavar bem fundo no Poço, encontrará uma saída secreta de Drova. }
+
+Plh_53 { Mas... }
+
+Plh_54 { Eu não tenho tempo para suas histórias de fadas. Vá trabalhar! }
+
+Plh_4 { Ei, você. Dia difícil? Você parece exausto. }
+
+Plh_82 { Nós construímos um alojamento aqui para vocês Hewers. É quente e aconchegante lá dentro. Deite-se e descanse um pouco. Depois, o trabalho será muito mais fácil. }
+
+Plh_0 { Eu adoraria isso... }
+
+Plh_1 { Qual é a pegadinha? }
+
+Plh_2 { Não agora. }
+
+Plh_27 { Apenas encontre uma cama e durma um pouco. }
+
+Plh_5 { Sem pegadinha. Aqueles que trabalham merecem descansar. Apenas relaxe. }
+
+Plh_6 { Tudo bem. Você pode voltar sempre que estiver cansado e precisar dormir. }
+
+Plh_55 { Ei. Você ainda me deve moedas! Você não vai escapar disso de novo! }
+
+Plh_68 { Haha, você viu aqueles idiotas deitados na terra? }
+
+Plh_69 { Você tomou a decisão certa. E como Mursel é um cara legal, você pode dormir aqui de graça agora. }
+
+Plh_70 { E você, Emko, vai pagar em dobro. *sorri* }
+
+Plh_71 { Você é a pior escória do mundo. }
+
+Plh_73 { Você trouxe isso sobre si mesmo. }
+
+Plh_72 { Se você não tivesse tentado me enganar, isso teria se desenrolado de maneira muito diferente. }
+
+Plh_74 { *vira-se vermelho* Você... VOCÊ...! }
+
+Plh_76 { Apenas desapareça. Tudo o que tinha que ser dito já foi. }
+
+Plh_59 { Esse Emko sempre foi um idiota. Mas temos que voltar ao trabalho. A prata não vai prospectar sozinha. Infelizmente. }
+
+Plh_75 { Olha, não foi nada pessoal. Somos todos amigos aqui embaixo! }
+
+Plh_77 { Ah, droga... }
+
+Plh_78 { Agora vocês dois ratos conhecem seu lugar! Minha prata pertence a MIM, e vocês não vão conseguir NADA dela! }
+
+Plh_79 { Tudo bem, calma... }
+
+Plh_80 { Obrigado por nada. }
+
+Plh_44 { Ugh. É você. }
+
+Plh_57 { Espero que você não fique pensando na surra quando dormir aqui. Você deveria relaxar, hehe. *sorri* }
+
+Plh_8 { Então, dormiu bem? *sorri* Isso vai custar $GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ prata. }
+
+Plh_28 { Você quer prata por dormir? Levin disse que teríamos um lugar para dormir. }
+
+Plh_45 { Não podemos fazer isso de outra forma? }
+
+Plh_29 { Você OBTEVE um lugar para dormir. Levin está aqui? Não. Então pague o velho Mursel, e continuaremos amigos. }
+
+Plh_60 { Que tal eu te dou $GVAR:QuestVars_YouLookTired_Config.FlatrateSleepingPrice$ prata e nunca mais precisar pagar? }
+
+Plh_62 { Tudo bem, aqui está $GVAR:QuestVars_YouLookTired_Config.FlatrateSleepingPrice$ prata. Você vai se afastar de mim a partir de agora. }
+
+Plh_9 { Ugh. Aqui, pela última noite. (entrega $GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ prata) }
+
+Plh_10 { Eu não tenho $GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ prata. }
+
+Plh_11 { De jeito nenhum! }
+
+Plh_61 { Julgando pela sua aparência, você não vai ficar aqui por muito tempo de qualquer forma. Vamos fazer assim. *sorri* }
+
+Plh_63 { *sorri amplamente* Ah, certo! Eu tenho esta mensagem de Levin dizendo que eu deveria fazer algum tipo de exceção para você. }
+
+Plh_65 { Você pode dormir aqui à vontade. Descanse sempre que precisar de um cochilo. *piscadinha para você* }
+
+Plh_64 { Você acha que está sendo engraçado ou algo assim? Traga prata suficiente! }
+
+Plh_13 { Isso é melhor. Você é um bom Hewer. Continue talhando. *sorri* }
+
+Plh_15 { Você deveria ter pensado nisso antes de dormir aqui. Agora eu vou levar o que é meu por direito. }
+
+Plh_16 { Então eu vou levar o que é meu por direito. }
+
+Plh_46 { Prata é a resposta para tudo. Entregue ou então. }
+
+Plh_84 { Primeiro você vem aqui fazendo barulho, tentando ser o manda-chuva, e depois simplesmente desiste. Bem patético. }
+
+Plh_85 { Vou deixar isso passar por agora... Vocês Hewers têm noções engraçadas às vezes. }
+
+Plh_86 { Você queria lutar ao meu lado contra aqueles Hewers estúpidos, e depois simplesmente desiste? }
+
+Plh_17 { Você não vai me provocar de novo. Ah, a propósito, eu já peguei a prata que me pertence. }
+
+Plh_95 { Você pode dormir tranquilo. }
+
+Plh_56 { Você, coitadinho, nem tinha prata com você. Agora suma e vá trabalhar. }
+
+Plh_18 { Ugh. *murmura* Tudo bem, você pode dormir aqui. }
+
+Plh_47 { Espero que você tenha aprendido a lição. Você não vai conseguir prata de mim. }
+
+Plh_48 { A partir de agora eu vou dormir aqui de graça, entendeu? }
+
+Plh_49 { Claro, claro. Eu entendi. }
+
+Plh_19 { Ugh. O que está acontecendo? }
+
+Plh_96 { O que está acontecendo? Vá talhar ou dormir. Não me importa. }
+
+Plh_34 { Você descanse. Eu cuidarei bem de vocês Hewers. }
+
+Plh_21 { O quê? Aquela velha ainda me deve um monte de prata que eu emprestei a ela para novos equipamentos. Como isso é meu problema se ela está se arrastando por dois dias porque está machucada? }
+
+Plh_22 { Eu preciso te dar uma surra de novo? }
+
+Plh_90 { Você não pode dar uma folga para Agnessa? Ela está com muita dor. }
+
+Plh_91 { Não podemos chegar a algum outro tipo de acordo sobre o problema da Agnessa? }
+
+Plh_30 { Se você não deixar a Agnessa em paz, você vai se arrepender. }
+
+Plh_33 { Deixe a Agnessa em paz já! (saca a arma) }
+
+Plh_35 { Quanto de prata a Agnessa te deve? }
+
+Plh_37 { Aqui, $GVAR:QuestVars_INeedToWorkAgain_Config.AgnessasDebt$ prata. Isso deve cobrir a dívida da Agnessa. }
+
+Plh_23 { Tudo bem. Apenas esqueça. (Fim da conversa) }
+
+Plh_24 { Ugh. Tudo bem. Você venceu. Eu vou dar uma folga para a Agnessa. Mas ainda vou querer minha prata de volta assim que ela puder trabalhar novamente! }
+
+Plh_89 { Esqueça. Se o boato se espalhar que eu fui condescendente com alguma garota boba chamada Agnessa, então ninguém vai me levar a sério de novo. }
+
+Plh_93 { De jeito nenhum. }
+
+Plh_92 { Claro. Há uma solução simples. }
+
+Plh_94 { Ela precisa devolver a prata que eu emprestei a ela. Então tudo ficará bem e dandy novamente. }
+
+Plh_31 { Você quer um pedaço de mim? }
+
+Plh_87 { Eu adoraria ver isso! }
+
+Plh_32 { Você está procurando por briga? A qualquer momento. }
+
+Plh_36 { Eu emprestei a ela $GVAR:QuestVars_INeedToWorkAgain_Config.AgnessasDebt$ prata. Depois ela veio implorando e estava tipo... }
+
+Plh_83 { *imita uma voz fininha* "Por favor, Mursel, por favor! Eu não consigo trabalhar assim! Vou te pagar de volta muito em breve!" }
+
+Plh_88 { E então ela é burra demais para talhar... }
+
+Plh_38 { *sorri amplamente* Isso é melhor. Tudo bem, eu vou deixar a Agnessa em paz. Assim ninguém pode dizer que eu não sou um cara razoável! }
+
+Plh_39 { E traga prata suficiente! }
+
+Plh_25 { Já está feito. }
+
+Plh_40 { Você de novo. *suspira* }

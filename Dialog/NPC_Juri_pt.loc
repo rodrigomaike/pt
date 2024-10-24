@@ -1,0 +1,29 @@
+Plh_13 { Ei, $GVAR:EVars_Player.Name$, é a sua vez. Entre na arena. }
+
+Plh_46 { Agora isso foi uma luta! Eu adoraria ver combates sendo realizados na arena todos os dias. Sempre há algo acontecendo entre os Marcados! }
+
+Plh_33 { Quem são os Marcados? }
+
+Plh_36 { Eu posso me tornar um lutador também? }
+
+Plh_35 { Eles são lutadores de Antonius Proximus. Lutadores de arena experientes, só os melhores. }
+
+Plh_37 { *te examina* Talvez, mas você teria que lutar bem. Proximus decide. }
+
+Plh_38 { Depois da luta entre Bady e Gra, mais combates serão realizados aqui. Se você se esforçar, também terá uma chance. }
+
+Plh_32 { No momento, há uma luta especial marcada entre Bady e Gra. Depois disso, a arena será reaberta para os Marcados. }
+
+Plh_42 { A batalha contra $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ vai ser intensa. Mas tome cuidado. Ela usa a névoa a seu favor. E nunca foi derrotada. Eu sempre apostaria nela. }
+
+Plh_43 { Eu vou vencer. }
+
+Plh_41 { Já vi $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ lutar várias vezes. Ela gosta de combate corpo a corpo. Então mantenha distância. Boa sorte. }
+
+Plh_44 { Ebru está sempre lutando com seus rasgadores. Derrotá-los não adianta, porque ele sempre pode trazê-los de volta. Acerte Ebru direto na boca. }
+
+Plh_40 { Apostas em você. Boa sorte hoje contra $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$. }
+
+Plh_31 { Já ouvi falar de você, $GVAR:EVars_Player.Name$. Os Marcados estão ganhando fama. Sangue e ferro! }
+
+Plh_30 { Se você quiser lutar na arena, vá falar com Antonius Proximus. Ele organiza as lutas lá. }

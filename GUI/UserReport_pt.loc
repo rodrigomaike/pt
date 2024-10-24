@@ -1,0 +1,41 @@
+Hud_Text {  }
+
+UserReport_Feedback { Feedback }
+
+UserReport_Bug { Erro }
+
+UserReport_Feedback_Error { Algo deu errado. Por favor, tente novamente. }
+
+UserReport_Feedback_Text { Obrigado pelo seu feedback! }
+
+Close { Fechar }
+
+Send { Enviar }
+
+Text_Placeholder { Clique aqui para digitar sua mensagem. }
+
+Title_Placeholder { Assunto }
+
+UserReport_Deadlock { Preso }
+
+dsgvo_accept { Aceitar }
+
+dsgvo_cancel { Recusar }
+
+DSGVO_Text { Ao usar nossa ferramenta de feedback, você concorda com o processamento dos seguintes dados.
+Os dados enviados são usados para melhorar o jogo Drova o máximo possível.
+Para isso, precisamos de algumas informações, que resumimos na visão geral a seguir e explicamos seu propósito <br><br>.
+Ao enviar um relatório, as seguintes informações são enviadas para nós <br>1.1 Captura de tela do jogo no momento em que você envia o relatório.
+<br>1.2. Seu jogo salvo atual, assim como o último salvamento automático executado.
+<br>1.3. Suas informações de sistema (sistema operacional, RAM, processador, placa gráfica, resolução, dispositivos de entrada usados (mouse, teclado, controle, ...).
+<br>1.4. O arquivo de log criado pelo jogo. Isso pode conter o nome usado pelo seu sistema operacional.
+<br>1.5. Os dados inseridos por você, bem como seu endereço de e-mail, que você inseriu no formulário.
+<br><br>
+2. Essas informações serão usadas apenas para fins de avaliação interna e para notificar o remetente, não sendo repassadas a terceiros ou exploradas comercialmente de outra forma.
+<br>Quando os dados enviados não forem mais necessários, eles serão excluídos. As informações são enviadas para o nosso servidor e armazenadas lá. O servidor é hospedado pela Netcup GmbH. }
+
+DSGVO_Title { GDPR }
+
+Popup_InvalidEmail { Seu e-mail está em um formato inválido. Verifique se o endereço de e-mail está no formato válido (nome@email.com). }
+
+Email_Header { Seu endereço de e-mail para que possamos lhe enviar um jogo salvo recuperado. }

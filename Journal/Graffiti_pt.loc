@@ -1,0 +1,9 @@
+Title { Paredes Vandalizadas }
+
+Entry_01 { Alguém está se esgueirando pelas ruas à noite, vandalizando pedras e paredes. Há uma recompensa de $GVAR:QuestVars_Graffiti_Config.Reward$ moedas por capturar o perpetrador. }
+
+Entry_02 { Eu peguei Adwin e o enviei para Gerdwin. Devo receber minha recompensa lá. }
+
+Entry_03 { Adwin parou o vandalismo, e em troca, eu o cubro com Gerdwin. Devo receber minha recompensa lá. }
+
+Entry_05 { Eu recebi minha recompensa. }

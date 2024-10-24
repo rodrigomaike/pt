@@ -1,0 +1,27 @@
+WellLadder_Name { Poço }
+
+Plh_0 { *Um poço profundo. Você olha para dentro dele. Só há escuridão.* }
+
+Plh_2 { Olá! }
+
+Plh_9 { $GVAR:EVars_Player.Name$ é incrível! }
+
+Plh_15 { Dê um soco nele, diz o Cortador... }
+
+Plh_11 { (jogar uma moeda) }
+
+Plh_4 { (examinar o poço) }
+
+Plh_8 { (descer) }
+
+Plh_3 { Olá... Olá... }
+
+Plh_10 { ... é isca... é isca... }
+
+Plh_16 { ... menos... menos... }
+
+Plh_13 { *Você joga uma moeda na escuridão e a observa desaparecer. Agora você está com uma moeda a menos.* }
+
+Plh_5 { *Você avista algo — parece água.* }
+
+Plh_6 { *Olhando dentro do poço, você consegue ver o fundo. Não é tão profundo. Você poderia descer.* }

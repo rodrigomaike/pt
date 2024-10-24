@@ -1,0 +1,9 @@
+Title { A Dívida Não É Real }
+
+Entry_01 { Lindon tem muitas dívidas. Eu devo conseguir a lista de devedores de Friedel, para que ele possa se riscar dela. Friedel mora nas grandes ruínas no Quartier Superior. }
+
+Entry_02A { Boris pode pegar a lista para mim. Eu dei a ele $GVAR:QuestVars_Debt_Config.ThirdPriceForBoris$ moedas, e posso pegar a lista com ele amanhã. }
+
+Entry_03 { Eu consegui a lista de devedores de Friedel. Agora tudo que eu preciso fazer é levá-la a Lindon. }
+
+Entry_04 { Lindon tem a lista e pode sair da dívida. Ele me recompensou pelos meus esforços. }

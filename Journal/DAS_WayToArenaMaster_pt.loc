@@ -1,0 +1,41 @@
+Title { Sangue e Ferro na Arena }
+
+Entry_00_Eugen { Eugen me diz que posso ganhar tanto glória quanto moedas na arena. Se estiver interessado, devo me reportar a Antonius Proximus. }
+
+Entry_00_Nemeton { Há uma arena no acampamento dos Remnants. Se eu quiser lutar, devo me reportar a Angus. }
+
+Entry_00_Nemeton_Start { Angus só me deixará lutar na arena depois que eu derrotar Kati e Fester. }
+
+Entry_00_Nemeton_Kati { Kati não foi um problema para mim. }
+
+Entry_00_Nemeton_Fester { Eu lutei com mais determinação do que Fester. Ele não teve chance. }
+
+Entry_01_Nemeton { Estou autorizado a lutar pelo Nemeton na arena. As batalhas estão sendo organizadas por Antonius Proximus. Devo me reportar a ele se quiser lutar. }
+
+Entry_01_A { Antes que eu possa lutar por Proximus na arena, terei que provar a ele que tenho capacidade. Devo derrotar Mog. Ele costuma treinar em algum lugar. }
+
+Entry_01_AA { Proximus me quer como lutador. Após a luta da noite, devo encontrá-lo do lado de fora da arena. }
+
+Entry_01_B { Agora pertenço aos lutadores de Proximus. Estou autorizado a lutar na arena somente depois de derrotar Carima, Blaan e Dark. }
+
+Entry_02 { A arma de duas mãos de Blaan não tinha força suficiente. A vitória foi minha. }
+
+Entry_03 { Carima não conseguiu se esconder atrás do escudo. Eu venci. }
+
+Entry_04 { Eu derrotei Mog. Devo avisar Proximus. }
+
+Entry_05 { Eu derrotei Dark. }
+
+Entry_07 { Finalmente! Estou autorizado a lutar na arena — na frente dos espectadores! Devo lutar contra Ebru e pagar minha taxa de entrada para Proximus. É $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ moedas. }
+
+Entry_08 { Minha primeira vitória. E todos viram! Meu próximo oponente é Liandra. Devo me preparar bem e pagar a taxa de entrada para Proximus. São $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ moedas. }
+
+Entry_09 { Eu derrotei Liandra, e agora devo enfrentar Sinistra. Mais um oponente antes de desafiar o campeão da arena. Proximus está esperando minha taxa de entrada de $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ moedas. }
+
+Entry_10 { A multidão estava torcendo! Finalmente — eu enfrentarei Ada, a campeã da arena. Eu consigo. Proximus está exigindo uma taxa de entrada de $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EndFightPrice$ moedas para essa batalha final. }
+
+Entry_11 { Eu sou o campeão da arena e derrotei a Invicta Ada. Agora estou no topo do mundo! }
+
+Entry_07_AcceptArenaFight { Eu paguei a taxa de entrada para Proximus. Devo estar na arena às 21h do dia seguinte. }
+
+Entry_06_RepeatLose { Eu perdi e devo me reportar a Proximus para uma revanche. }

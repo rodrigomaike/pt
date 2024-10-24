@@ -1,0 +1,231 @@
+Plh_1 { (coletar moedas para Friedel) }
+
+Plh_17 { Sobre o trabalho como Hewer... }
+
+Plh_52 { Você consegue! }
+
+Plh_53 { Finalmente! Você está de volta! }
+
+Plh_0 { Dia bonito para ficar de bobeira, né? *sorrindo* }
+
+Plh_64 { Você parece tenso. Por que não segue meu exemplo? Eu, a boa e velha Meluna. }
+
+Plh_20 { O que você está fazendo aqui? }
+
+Plh_21 { Como você consegue isso? }
+
+Plh_22 { Bem, você não vê? Eu relaxo. *sorrindo* }
+
+Plh_23 { Eu sei, tudo em Drova é vida ou morte, todo mundo sempre está caçando ou lutando. E então há as Divindades... Deixe-me colocar dessa forma: eu tenho economias guardadas. }
+
+Plh_24 { As economias diminuem... }
+
+Plh_25 { Você quer dizer que tem um monte de moedas escondidas em algum lugar? }
+
+Plh_26 { Certo. Mas não hoje, e amanhã é um longo caminho. A vida é muito curta para se matar de trabalhar na Mina. }
+
+Plh_27 { *estreita os olhos* Por que você diria isso? Não há moedas em lugar nenhum por aqui. De jeito nenhum! }
+
+Plh_28 { E agora, se você não se importar, eu gostaria de voltar a relaxar. }
+
+Plh_4 { Plh_4 }
+
+Plh_15 { Some fora, seu rato sujo. }
+
+Plh_43 { Seu rato sujo! Estou indo, estou indo! Vou manter contato. Agora apenas me deixe em paz! }
+
+Plh_44 { Aí está você novamente. Então, aprendeu a lição? }
+
+Plh_54 { Um idiota roubou todas as minhas moedas! Agora eu vou ter que voltar para Friedel... droga! }
+
+Plh_16 { Ei. }
+
+Plh_8 { Nos encontramos novamente. }
+
+Plh_2 { Você de novo. Quer roubar mais moedas de mim? Você já não fez o suficiente? Você me arruinou! }
+
+Plh_48 { Por sua causa, tive que rastejar de volta para Friedel para que eles não pegassem minhas coisas! Agora eu tenho que me matar de trabalhar para mal conseguir sobreviver! }
+
+Plh_5 { Estou riscando você da lista de devedores dela. }
+
+Plh_3 { Isso significa que você está ganhando moedas para pagar sua dívida? Bem, então, Friedel manda um olá. }
+
+Plh_6 { ... o quê? VOCÊ tem essa lista? E agora você quer... me ajudar? Eu... oh, eu realmente não quero falar sobre isso. Obrigado... }
+
+Plh_10 { Você... você... maldito...! }
+
+Plh_65 { Você está trabalhando para ela também? Você não tem consciência? Então leve o que eu ganhei com sangue e lágrimas, e desapareça. }
+
+Plh_66 { Morra, vai! }
+
+Plh_9 { É hora de pagar suas dívidas. Friedel manda um olá. }
+
+Plh_7 { Sim, eu sei, eu sei. Eu deveria ter entregue isso dois dias atrás! Deixe-me fazer uma contagem rápida... Pronto. }
+
+Plh_11 { Boa garota. }
+
+Plh_12 { Espere um segundo. De acordo com a lista, você deve a Friedel $GVAR:QuestVars_Debt_Config.MoneyFromMeluna$ moedas. }
+
+Plh_13 { Me deixe em paz. Agora. }
+
+Plh_14 { Oh, bem, eu devia ter contado errado, então. Aqui está o resto. }
+
+Plh_18 { Jola está procurando novos Hewers para a Mina. }
+
+Plh_40 { Precisamos realmente fazer isso do jeito difícil? }
+
+Plh_45 { Hora de uma revanche! Para a Mina com você, vagabundo! }
+
+Plh_19 { Eu acho que é melhor você começar a trabalhar para Jola. }
+
+Plh_62 { Esqueça. }
+
+Plh_38 { Você está de volta para cobrar minha dívida? Eu sei que Jola está procurando trabalhadores. Não me importo. Não vou me matar na Mina assim. Ela pode esquecer isso. }
+
+Plh_29 { Eu sei. Mas os Hewers mal conseguem sobreviver. Eu não estou tão desesperado assim ainda... }
+
+Plh_41 { Eu não acho que temos outras opções... }
+
+Plh_46 { Você quer arriscar? Esqueça! Você vai para a Mina! }
+
+Plh_30 { Ah, é? Por que eu iria? *sorrindo* }
+
+Plh_32 { Suas economias encontraram um novo lar. Meus bolsos. }
+
+Plh_33 { *Tilinta as moedas em seus bolsos* }
+
+Plh_39 { Primeiro você cobra minha dívida, e agora você pilha minhas economias? Você não tem um pingo de decência? }
+
+Plh_67 { Devolva minhas moedas agora! }
+
+Plh_35 { Ser um dos Hewers de Jola pode funcionar para você. }
+
+Plh_36 { Você pode tentar recuperá-las... Ou se apresentar a Jola para o trabalho como Hewer. }
+
+Plh_37 { Você vai se arrepender disso. Você é do mesmo tipo de rato que todo mundo aqui. Ah, droga... }
+
+Plh_34 { Você é o vagabundo! Devolva minhas moedas imediatamente! }
+
+Plh_49 { Você... Sério, você pegou minhas economias... minhas moedas... Por que você está sorrindo assim? ... Você as pegou? }
+
+Plh_63 { Algo errado? Tanto faz. }
+
+Plh_50 { Por Jero! }
+
+Plh_51 { Eles estão de volta! }
+
+Plh_68 { Eu sei o que está acontecendo entre Bady e você. }
+
+Plh_69 { O quê? Como... Nós somos apenas, uh, amigos... }
+
+Plh_76 { Pense nos braços dele e me diga que não há nada mais entre vocês dois. }
+
+Plh_75 { *fica vermelha* Eu não consigo! }
+
+Plh_78 { ... }
+
+Plh_79 { Eu ainda estou nisso. }
+
+Plh_80 { Droga! Todo mundo está ficando tonto vendo esses braços. }
+
+Plh_81 { Você gostaria de ver... meus braços? }
+
+Plh_82 { Então, o que está acontecendo entre vocês dois? }
+
+Plh_83 { *te avalia* Bem... por que não? Vamos vê-los! }
+
+Plh_85 { Legal. Não emocionante, mas legal. Não leve isso para o lado errado, mas você precisará fazer muito melhor antes de conseguir rivalizar com Bady. }
+
+Plh_84 { *te avalia* Nah, não se incomode. Posso ver à primeira vista que nem suas coxas seriam fortes o suficiente para rivalizar com Bady. }
+
+Plh_86 { *suspira* Certo. Mas não espalhe isso por todo o acampamento. }
+
+Plh_87 { Se você tiver algum cérebro, manterá isso para si. Bady segue o código. Ele não pode ter relacionamentos. }
+
+Plh_88 { Se ele descobrir que você sabe sobre nós, ele provavelmente vai te espancar até a morte. }
+
+Plh_89 { Eu não respondo bem a ameaças. }
+
+Plh_90 { Vou ficar quieto. Por moedas. }
+
+Plh_91 { Sem preocupações. Eu manterei isso para mim. }
+
+Plh_92 { Considere isso uma ameaça, se isso te faz sentir melhor. Mas eu quis dizer isso como um aviso. }
+
+Plh_93 { Seu imundo! Aqui, é tudo o que posso te dar. }
+
+Plh_94 { Isso seria o melhor para todos nós. }
+
+Plh_74 { Seu verme insidioso! Eu pensei que tínhamos um acordo? Você não deveria contar a ninguém sobre Bady e eu! }
+
+Plh_95 { Como você se atreve a espalhar tais mentiras?! Bady estava aqui. Ele estava gritando comigo alto o suficiente para todo o acampamento ouvir. }
+
+Plh_97 { Era importante que Bady perdesse hoje. }
+
+Plh_98 { Bady não acredita em você? }
+
+Plh_99 { É igualmente importante que você seja punido por suas mentiras. }
+
+Plh_100 { Puxe sua arma. Vamos resolver isso agora. }
+
+Plh_96 { Eu não consegui nem dizer uma palavra. E agora todo mundo no acampamento dos Remnants teve a ideia errada sobre mim. }
+
+Plh_101 { Saia da minha vista! }
+
+Plh_102 { Seus braços? }
+
+Plh_103 { Eu também tenho. }
+
+Plh_104 { Eu também tenho. }
+
+Plh_105 { Claro. Bem... mostre-me. }
+
+Plh_106 { ... sim ... é bonito. }
+
+Plh_107 { (contraindo bíceps) }
+
+Plh_108 { Oh! Eu tenho que dar uma ... olhada mais de perto nisso. }
+
+Plh_109 { Sim ... aquele se sente bom ... tão forte ... }
+
+Plh_110 { (contraindo bíceps MUITO) }
+
+Plh_111 { OH! Eu não esperava que isso ficasse ASSIM grande! }
+
+Plh_112 { O bíceps tem que estar exatamente LÁ. Bom. E agora ... mova-se ... }
+
+Plh_113 { (mova-se para a esquerda) }
+
+Plh_114 { (mova-se para a direita) }
+
+Plh_115 { Não, não isso, o outro lado! }
+
+Plh_116 { (mova-se para o outro lado) }
+
+Plh_117 { Sim ... assim ... }
+
+Plh_118 { Diga ... você pode contrair outras coisas também? }
+
+Plh_119 { (contraindo outras partes) }
+
+Plh_120 { Isso é o que eu quis dizer ... }
+
+Plh_121 { Muito bom ... continue ... }
+
+Plh_122 { *exausta* Eu ... eu nem sabia que fazer algo assim com um braço era possível! }
+
+Plh_123 { As divindades devem ter beijado seus braços. }
+
+Plh_124 { Bady nem chega perto ... }
+
+Plh_125 { Venha ... é mais confortável na cama. }
+
+Plh_126 { Eu gosto disso! }
+
+Plh_127 { Pensando bem, vamos deixar isso de lado. }
+
+Plh_128 { Tudo bem. Você acha que seus braços são bons demais para mim, certo? Pff. }
+
+Plh_129 { Eu tenho malhado, você quer ver meus bíceps agora? }
+
+Plh_130 { Eu precisava disso, bom trabalho *pisca*. Mas agora eu preciso de um descanso. }

@@ -1,0 +1,161 @@
+Key_Shift { Shift }
+
+control_mousebutton_left { Clique Esquerdo }
+
+control_mousebutton_right { Clique Direito }
+
+control_keycode_space { ESPAÇO }
+
+control_keycode_control { Ctrl }
+
+control_keycode_tab { TAB }
+
+control_keycode_return { ENTER }
+
+control_keycode_alt { Alt }
+
+control_keycode_up { Cima }
+
+control_keycode_down { Baixo }
+
+control_keycode_left { Esquerda }
+
+control_keycode_right { Direita }
+
+action_MoveX_Pos { Mover para a direita }
+
+action_MoveX_Neg { Mover para a esquerda }
+
+action_MoveY_Pos { Mover para cima }
+
+action_MoveY_Neg { Mover para baixo }
+
+action_LookX_Pos { Olhar para a direita }
+
+action_LookX_Neg { Olhar para a esquerda }
+
+action_LookY_Pos { Olhar para cima }
+
+action_LookY_Neg { Olhar para baixo }
+
+action_Attack_Primary { Atacar }
+
+action_Block { Ação da Mão Secundária }
+
+action_Attack_And_Interaction { Interagir (posição normal) / <br>Atacar (posição de combate) }
+
+action_Block_And_Perception { Modo de Investigação (posição normal) / <br> Ação da Mão Secundária (posição de combate) }
+
+action_Dodge { Esquivar }
+
+action_DrawWeapon { Sacar/Guardar arma }
+
+action_GameMenu { Menu do Jogo }
+
+action_PauseMenu { Pausa }
+
+action_Interact { Interagir }
+
+action_Inventory { Inventário }
+
+action_LootAll { Pegar tudo }
+
+action_Journal { Diário }
+
+action_PerceptionMode { Modo de Investigação }
+
+action_QuickSave { Salvar Rápido }
+
+action_QuickLoad { Carregar Rápido }
+
+action_SwapWeaponSet { Trocar conjunto de armas }
+
+action_Walk { Andar }
+
+action_Trade_All { Trocar tudo }
+
+action_Trade_Ten { Trocar dez }
+
+action_Screenshot { Captura de Tela }
+
+action_ReportBug { Reportar erro }
+
+action_UseSpell { Usar Habilidade }
+
+action_RingMenu { Menu Circular }
+
+action_OpenMap { Mapa }
+
+action_MarkObject { Marcar Objeto }
+
+action_TalentMenu { Talentos }
+
+action_MarkAsGarbage { Marcar como Lixo }
+
+action_Flow_1 { Habilidade 1 }
+
+action_Flow_2 { Habilidade 2 }
+
+action_Flow_3 { Habilidade 3 }
+
+action_Flow_4 { Habilidade 4 }
+
+action_Flow_5 { Habilidade 5 }
+
+action_Flow_6 { Habilidade 6 }
+
+action_Flow_7 { Habilidade 7 }
+
+action_Flow_8 { Habilidade 8 }
+
+action_Quickbar_1 { Barra Rápida 1 }
+
+action_Quickbar_2 { Barra Rápida 2 }
+
+action_Quickbar_3 { Barra Rápida 3 }
+
+action_Quickbar_4 { Barra Rápida 4 }
+
+action_QuickslotAssignment { Atribuir à Barra Rápida }
+
+action_DeleteQuickbarItem { Esvaziar Barra Rápida }
+
+action_PrevPanel { Aba Anterior }
+
+action_NextPanel { Próxima Aba }
+
+action_Lockpick_Left { Minijogo esquerda }
+
+action_Lockpick_Right { Minijogo direita }
+
+action_GuiScrollY { Rolagem de Interface }
+
+action_PlayNote_1 { Nota 1 }
+
+action_PlayNote_2 { Nota 2 }
+
+action_PlayNote_3 { Nota 3 }
+
+action_PlayNote_4 { Nota 4 }
+
+action_MoveX { Movimento }
+
+action_MoveY { Movimento }
+
+action_LookX { Olhar ao Redor }
+
+action_lookY { Olhar ao Redor }
+
+action_HelpUp { Ajudar }
+
+action_Abilities { Habilidades }
+
+action_Squat { Agachar }
+
+action_DialogSkip { Pular Diálogo }
+
+action_CraftingMenu { Menu de Criação }
+
+action_ToggleGarbageVisibility { Exibir/ocultar Lixo }
+
+action_UIDelete { Excluir }

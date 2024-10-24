@@ -1,0 +1,113 @@
+Plh_12 { Que tipo de poção você está fazendo? }
+
+Plh_33 { O que exatamente está faltando para completar sua poção? }
+
+Plh_36 { Onde posso encontrar uma erva dessas? }
+
+Plh_48 { Aqui está uma raiz de basalto. }
+
+Plh_34 { *sorri* Encontrei um texto antigo que afirma que a poção vai melhorar sua força permanentemente. Uma poção muito poderosa, mas os ingredientes são muito difíceis de encontrar. }
+
+Plh_11 { Uma raiz de basalto. Não é fácil de encontrar. }
+
+Plh_32 { Só a raiz de basalto já te deixa mais forte, mas como uma poção vai te deixar muito mais forte! }
+
+Plh_35 { Tenha certeza de pegá-la se encontrar uma! }
+
+Plh_37 { Existem muitas ervas poderosas. A raiz de basalto cresce apenas em cavernas profundas. }
+
+Plh_38 { Eu não sou um lutador, então não posso ir até lá. E ninguém aqui vende isso. }
+
+Plh_39 { Há um comerciante em Nemeton que a vende, mas... Bem... Eles não me deixam entrar em Nemeton. }
+
+Plh_40 { Se você me trouxer essa erva, pode ficar com a poção. Eu só quero descobrir se ela funciona. }
+
+Plh_41 { Você não tem certeza se a poção vai funcionar? }
+
+Plh_45 { Isso me parece um pouco suspeito. }
+
+Plh_42 { Posso dar uma olhada por aí. }
+
+Plh_43 { Bem, eu nunca tentei pessoalmente... Mas os textos são bem claros sobre isso. Claro que ainda pode... }
+
+Plh_44 { ...não ser bom para você. }
+
+Plh_46 { Pense bem — essas coisas sempre têm algum risco. *sorri* }
+
+Plh_47 { Lembre-se, a raiz de basalto cresce em cavernas. }
+
+Plh_49 { Ahh, isso parece muito bom. }
+
+Plh_52 { Venha comigo... }
+
+Plh_53 { Misturando... Mandrágora... Fervendo. }
+
+Plh_54 { Isso parece muito bom. }
+
+Plh_55 { Isso deve resolver. Agora só precisamos descobrir se funciona. }
+
+Plh_56 { Continue trazendo mais! }
+
+Plh_57 { Você acha que a poção está misturada corretamente? }
+
+Plh_59 { Prefiro passar. }
+
+Plh_61 { *Você sente um calor dentro de si. O poder flui pelo seu corpo. Você se sente mais forte e renovado.* }
+
+Plh_63 { E então? }
+
+Plh_65 { Eu me sinto invencível. }
+
+Plh_64 { Parece que está funcionando. }
+
+Plh_66 { Calma. Pode até ter te deixado mais forte, mas o Eugen ainda pode te nocautear. }
+
+Plh_67 { O texto parece verdadeiro, e há mais plantas assim. Posso te vender as receitas, se quiser. }
+
+Plh_58 { Alguém colocou isso no papel uma vez, mas pode ser tudo mentira. Não posso te garantir nada. }
+
+Plh_60 { Então eu vou tentar! }
+
+Plh_62 { Eu me sinto incrível! Funcionou! }
+
+Plh_14 { O que exatamente você está fazendo? }
+
+Plh_13 { Você pode me mostrar como fazer tudo isso sozinho? }
+
+Plh_18 { Se você me ensinar como fazer isso, eu te pago. }
+
+Plh_29 { Aqui estão as moedas. ($GVAR:QuestVars_AlrauneForAidan_Config.AidanOffer$) }
+
+Plh_15 { Eu posso fazer todo tipo de coisa, mas adoro preparar poções. }
+
+Plh_16 { Claro que tudo está à venda também — você pode ganhar muitas moedas assim. *sorri* }
+
+Plh_17 { Se eu te mostrar, você poderá sair por aí vendendo isso sozinho. Esqueça. }
+
+Plh_22 { *resmunga* Eu poderia usar algumas moedas... }
+
+Plh_23 { Viu só! Que tal algumas moedas? ($GVAR:QuestVars_AlrauneForAidan_Config.PlayerOffer$) }
+
+Plh_27 { Por essas moedas eu fico feliz em sacrificar algum tempo para te ensinar algo. ($GVAR:QuestVars_AlrauneForAidan_Config.AidanOffer$) }
+
+Plh_30 { Ahh, moedas! Maravilhoso! }
+
+Plh_31 { Então, o que você quer saber? }
+
+Plh_51 { Posso te ensinar a fazer armadilhas, bombas e munições. Ou você pode preparar pomadas e poções. }
+
+Plh_20 { *sorri* Olhe ao redor. }
+
+Plh_5 { De jeito nenhum! }
+
+Plh_68 { Eu tinha isso antes... Por que parou de funcionar? }
+
+Plh_6 { O que há de errado, velho? }
+
+Plh_8 { *se encolhe* Você me assustou! Não vê que estou trabalhando? }
+
+Plh_10 { O que você está fazendo aqui? }
+
+Plh_9 { Mexendo. Estou desenvolvendo uma poção para melhorar minha própria força. Mas de alguma forma, não está funcionando direito... Como se algo importante ainda estivesse faltando. }
+
+Plh_21 { Tenho coisas para fazer. O que você quer? }

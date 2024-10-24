@@ -1,0 +1,219 @@
+Plh_136 { Você vai me vender o diamante? }
+
+Plh_138 { Tudo bem, me dê o diamante. (pague $GVAR:QuestVars_TheLiesOfLocke_Config.PriceForDiamond$ moedas) }
+
+Plh_137 { Eu posso te vender o diamante. Ou você o leva por $GVAR:QuestVars_TheLiesOfLocke_Config.PriceForDiamond$ moedas ou pode esquecer isso. }
+
+Plh_139 { Não quero ser difícil. Por uma pequena doação para o Nemeton, eu vou ignorar isso. }
+
+Plh_141 { Pegue o diamante e saia. }
+
+Plh_158 { Sem moedas, você não vai conseguir nada! }
+
+Plh_126 { Eu tenho uma arma que precisa ser afiadas. }
+
+Plh_143 { Aqui, pegue as moedas e afie a arma. (pague $GVAR:QuestVars_KarottesWeapon_Config.PriceForRepair$ moedas) }
+
+Plh_142 { Isso vai te custar $GVAR:QuestVars_KarottesWeapon_Config.PriceForRepair$ moedas. }
+
+Plh_144 { Deixe-me ver. }
+
+Plh_127 { Espere um minuto, eu conheço essa arma — o cabo, as decorações, o padrão na lâmina, as marcas... }
+
+Plh_159 { Essa é a espada do Karotte! Não é? }
+
+Plh_130 { Karotte me mandou aqui com ela. }
+
+Plh_131 { Não sei. Eu paguei. Posso pegar a arma agora? }
+
+Plh_177 { Você pode ou não pode consertar a arma? }
+
+Plh_133 { Aquele garotinho. Ele balança a espada como um idiota, bate em tudo que aparece e nem se dá ao trabalho de consertá-la... }
+
+Plh_155 { Na próxima vez que ele vier aqui, eu realmente vou dar uma lição nele! }
+
+Plh_128 { Felizmente, eu sei meu ofício... }
+
+Plh_129 { Pronto. Tudo melhorado. Dê-lhe os meus MELHORES VOTOS. E diga a ele para praticar direito. }
+
+Plh_178 { Você não vai encontrar um trabalho como este em nenhum outro lugar de Drova. Então, cuide bem da sua arma. }
+
+Plh_176 { Eu ainda decido se quero ou não consertar uma arma. Esta arma parece familiar. E eu não te conheço. }
+
+Plh_132 { Posso consertá-la? }
+
+Plh_156 { Posso consertar qualquer coisa, sou o melhor ferreiro de Drova. }
+
+Plh_157 { Eu vou te mostrar o que é possível uma vez que você domine seu ofício. }
+
+Plh_140 { Sem moedas, sem afiação. É simples assim. Volte quando tiver moedas suficientes. }
+
+Plh_71 { Eu pertenço a você agora. A Molvina acha que eu deveria pegar uma arma. }
+
+Plh_104 { Eu vi que você precisa de armadilhas. }
+
+Plh_105 { Verdade. Três armadilhas para ursos. Você tem alguma? }
+
+Plh_107 { Sim. Aqui. }
+
+Plh_108 { Você vai precisar delas com frequência? }
+
+Plh_183 { Então talvez você precise de alguém para fabricá-las? }
+
+Plh_68 { Ainda estou trabalhando nisso. }
+
+Plh_110 { Hm. Elas parecem utilizáveis. Eu poderia fazer isso melhor, mas estas estão boas por enquanto. }
+
+Plh_111 { Aqui estão suas moedas. }
+
+Plh_109 { Eu preciso constantemente de armadilhas para conseguir materiais. Se eu fosse construir todas por conta própria, não teria tempo para a ferreiro. }
+
+Plh_184 { Claro, eu gostaria. No entanto, não conheço ninguém que faça armadilhas decentes... }
+
+Plh_113 { Traga-me as armadilhas assim que as tiver, e você receberá suas moedas. }
+
+Plh_69 { O que você precisa? }
+
+Plh_57 { Você pode me ensinar a ser ferreiro? }
+
+Teach_Power { A Rura disse que você pode me ensinar algumas coisas. Que tal? }
+
+Plh_83 { Ensine-me algo sobre seu ofício. }
+
+Plh_61 { Eu não perco meu tempo com novatos. Procure Rura e pergunte se ela vai te ensinar alguma coisa. }
+
+Plh_181 { Primeiro, prove-me que você tem o que é preciso. }
+
+Plh_179 { Se a Rura foi quem te mandou, então você está pronto. }
+
+Plh_82 { Você provou que é digno. Eu vou te ensinar. }
+
+Plh_84 { Você carece de experiência. }
+
+Plh_173 { Se você quer algo de mim, venha até mim quando eu estiver na forja. }
+
+Plh_168 { Você realmente encontrou três delas? Deixe-me ver. }
+
+Plh_169 { Hmm, sim, isso deve funcionar. Que tipo de armadura você quer que eu faça para você? }
+
+Plh_174 { Uma obra-prima. Ninguém em Nemeton usa esta armadura. *sorri* }
+
+Plh_175 { A armadura é única... E parece muito boa. Deveria te dar mais proteção. }
+
+Plh_86 { Gradan era um dos caras bons. Ele não precisava ter morrido. O Mombert deveria ter feito um trabalho melhor cuidando dele. }
+
+Plh_95 { Calma aí, Chunnaic. Essas coisas acontecem; todos sabemos disso. Esse destino pode acontecer com qualquer lutador. Agora Gradan está banqueteando-se com os Divinities. }
+
+Plh_96 { *murmura baixinho* }
+
+Plh_98 { Gradan morreu honoravelmente. Você deveria ter orgulho dele. }
+
+Plh_100 { Então ele recebeu um lugar entre os Divinities. }
+
+Plh_101 { Provavelmente é verdade. }
+
+Plh_102 { Aproveite o Festival do Fogo — nós honramos a Divindade. }
+
+Plh_4 { *uma pessoa musculosa se coloca na sua frente, inicialmente te ignorando* }
+
+Plh_10 { Eu sou Chunnaic, mestre ferreiro em Nemeton. Ninguém pode forjar como eu. }
+
+Plh_87 { Minhas armas são feitas do melhor aço de toda Drova. }
+
+Plh_115 { Caspara? Eu pensei que você estava em Georgefarm... }
+
+Plh_116 { Você não ouviu como se tornou perigoso lá? E além disso, você parece precisar de um especialista em armadilhas, não parece? }
+
+Plh_117 { Exatamente. Mas você poderia ter apenas passado por aqui... }
+
+Plh_124 { Eu teria, mas os guardas não me deixaram passar — mas agora estou aqui. }
+
+Plh_118 { Aqui, suas moedas. Caspara será uma grande ajuda. Tenho certeza de que ela poderia te ensinar uma ou duas coisas sobre armadilhas. }
+
+Plh_119 { Sim, mas você não vai conseguir me superar. }
+
+Plh_134 { Você está tentando roubar um diamante de mim, seu vermes? Você deveria estar feliz que eu não corto seus dedos. }
+
+Plh_70 { Ah, nossa nova chegada. Se você precisa de equipamento, venha até mim. }
+
+Plh_16 { Fale. }
+
+Plh_37 { Aqui, eu tenho as garras do urso. (entregue) }
+
+Plh_40 { Então vamos dar uma olhada. }
+
+Plh_92 { As garras de um urso adulto. Bom trabalho! }
+
+Plh_43 { Então, você vai me ensinar a ser ferreiro agora? }
+
+Plh_44 { Não foi fácil. }
+
+Plh_46 { Você não evita tarefas difíceis e trabalho duro — eu gosto disso. }
+
+Plh_49 { Bom. Então eu vou te ajudar a melhorar suas habilidades de ferreiro. Você já deve conhecer o básico, porém. Eu não preciso de amadores. }
+
+Plh_182 { Reporte-se à Rura para aprender o básico primeiro. Uma vez que você saiba, volte até mim. }
+
+Plh_48 { Eu espero. Deveria ser um desafio. }
+
+Plh_18 { Como posso te provar que sou digno? }
+
+Plh_19 { A ferreiro é uma questão de vontade. Sua força e coragem devem se tornar mais fortes do que o ferro. }
+
+Plh_21 { Força, paciência e virtude devem se fundir em você, para que você possa dobrar o ferro à sua vontade. }
+
+Plh_23 { Parece simples. }
+
+Plh_22 { Como posso provar que sou capaz de fazer isso? }
+
+Plh_25 { *franze a testa* Falar assim não vai te levar muito longe na bigorna. }
+
+Plh_26 { Traga-me as garras de um urso adulto. }
+
+Plh_27 { Não me traga garras de ripper, também! Eu sei como elas parecem. }
+
+Plh_28 { Onde posso conseguir garras de urso? }
+
+Plh_29 { Parece simples. }
+
+Plh_31 { Hm, deixe-me pensar... }
+
+Plh_90 { Talvez de ovelhas? }
+
+Plh_123 { *murmura* O que isso deveria ser? }
+
+Plh_30 { *franze a testa* }
+
+Plh_32 { Eu ouvi o suficiente de você. E você sabe o que deveria fazer. }
+
+Plh_33 { Então faça. }
+
+Plh_72 { Se a Heiress do Moor assim quiser, assim será feito. Que tipo de arma você quer? }
+
+Plh_74 { Um machado. }
+
+Plh_75 { Uma espada. }
+
+Plh_120 { Uma adaga. }
+
+Plh_73 { Uma lança. }
+
+Plh_76 { Aqui. Isso deve servir para você. }
+
+Plh_121 { Agora você faz parte da família. Isso significa que você vai receber apenas as melhores armas. }
+
+Plh_122 { Se você precisar de mais alguma coisa, pode comprar várias armas, armadilhas ou materiais de fabricação comigo. Rura, minha aprendiz, também vende itens úteis. }
+
+Plh_162 { Deixe-me ver. }
+
+Plh_163 { Eu nunca vi nada parecido... O trabalho manual — é incrível. }
+
+Plh_164 { Quase melhor do que o meu. }
+
+Plh_165 { Com isso, eu poderia fazer uma armadura para você, mas para fazer isso, eu preciso de mais material. Se você me trazer... }
+
+Plh_166 { ...três dessas peças, eu poderia fazer uma armadura com isso. Uma armadura que seria melhor do que qualquer coisa que eu já vi. }
+
+Plh_185 { Mas eu só posso fabricar a armadura para você se você pertence a Nemeton. }
+
+Plh_186 { Eu só forjo armaduras para membros de Nemeton. }

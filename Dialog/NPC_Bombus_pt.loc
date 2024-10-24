@@ -1,0 +1,181 @@
+Plh_19 { Você quer ir para Nemeton? }
+
+Plh_24 { Você também é apicultor? }
+
+Plh_61 { O que o futuro reserva para o Acampamento dos Cortadores de Madeira? }
+
+Plh_65 { Para onde Larea estava indo? }
+
+Plh_101 { Que tipo de abelhas você estava cantando? }
+
+Plh_113 { Birka diz que precisa de mel de você. }
+
+Plh_102 { A besta está morta. Era um urso. }
+
+Plh_20 { Tradicionalmente, minha rota termina aqui. Eu conheço cada canto de Drova — as partes bonitas e as perigosas! E agora minha rota está perfeita! Nos últimos cinco verões, consegui viajar por toda a terra sem nenhum encontro ruim. }
+
+Plh_131 { Bom para os negócios, mas também bom para a minha vida! }
+
+Plh_80 { *canta* Minhas abelhas, minhas abelhas! Elas me dão mel! Me fazem sentir tão sortudo! Eu amo minhas abelhas, minhas abelhas! }
+
+Plh_23 { Estou em paz comigo mesmo. *fecha os olhos e respira fundo* }
+
+Plh_66 { *solta um suspiro profundo* Havia mais alguma coisa? Oh, não era isso que você queria dizer. Estou esperando aqui até que a ponte seja reparada. Sob nenhuma circunstância pretendo desviar da minha rota testada e aprovada, apenas para me deparar com alguns bichos nojentos. Ou suas garras. }
+
+Plh_21 { Eu prefiro ouvir meu instinto! E conhecer pessoas novas como você! Bem, novas pessoas que não querem me entregar uma pá ou algo horrível assim! }
+
+Plh_25 { O melhor amigo das abelhas em todo Drova! Meus apiários estão espalhados por todo lugar. Em cada rota, cuido das ocupadas zumbidoras e colho seu mel. }
+
+Plh_62 { Eu as conheço há muito tempo e... estou preocupado com elas. Seus números estão diminuindo constantemente. Elas são boas pessoas, todas elas, mas sua confiança está diminuindo... Cengiz tem muito o que fazer, e agora ele tem que se preocupar com Larea também. Ela deveria ter voltado há muito tempo. }
+
+Plh_63 { Eu também sinto falta dela. *sorri* Ela é uma com a Floresta da Floodplain, mas de uma maneira muito diferente da minha. Ela se funde com a selva, como se não precisasse de ninguém. Oh, eu gostaria de poder fazer isso também... }
+
+Plh_64 { Ela é uma caçadora. Queria caçar ratos d'água ao norte daqui. Normalmente ela fica por lá alguns dias. Mas depois do terremoto, os ratos provavelmente se espalharam em todas as direções... }
+
+Plh_4 { A fadiga pesa sobre minha alma e meu corpo. Deixe-me em paz... minha alma precisa de paz... }
+
+Plh_10 { Saudações, ser amigo! Você tem um rosto amigável. Eu posso ver isso imediatamente! }
+
+Plh_76 { Eu sou Bombus. Comerciante viajante, apicultor, curandeiro. Minhas mãos carregam a luz do sol, e meus olhos estão umedecidos com orvalho. Drova não é um lugar maravilhoso? }
+
+Plh_77 { O que eu não sou, no entanto, é um leitor de mentes, então você terá que me contar quem você é, da maneira muito antiga! }
+
+Plh_105 { Espera um pouco... Apicultor? }
+
+Plh_11 { Eu sou $GVAR:EVars_Player.Name$. }
+
+Plh_12 { Não sei se devo revelar isso a você... }
+
+Plh_13 { Talvez seja melhor esperar até que você possa ler mentes... }
+
+Plh_106 { Claro! Meus apiários estão espalhados por todo Drova. Sem mim, a natureza teria perecido aqui há muito tempo! }
+
+Plh_14 { Ah, então por favor aceite minhas saudações, $GVAR:EVars_Player.Name$. É sempre um prazer conhecer novas pessoas que as Divindades consideram dignas de embelezar este lugar! }
+
+Plh_17 { Na verdade, eu deveria estar em Nemeton. Mas um descanso como este pode fazer maravilhas. Eu até vi uma borboleta! }
+
+Plh_68 { *fica olhando sonhadoramente para o espaço* }
+
+Plh_69 { Felizmente, minhas ervas secas de cura duram bastante tempo. Em algum momento, eles vão consertar a ponte. Enquanto minha mão não precisar empunhar um martelo, estou bem. }
+
+Plh_15 { Oh, eu gosto de segredos! Mas tome cuidado para não permanecer muito misterioso. Afinal, todos precisamos de bons amigos, não precisamos? }
+
+Plh_16 { E isso pode acontecer em breve! Ontem, descobri uma nova espécie de cogumelos. Eles são azuis. Pensamentos também são azuis, certo? Tudo que preciso fazer agora é cozinhá-los! Os cogumelos, quero dizer. }
+
+Plh_117 { Deve haver muito mais lá dentro! O urso comeu muito do meu mel... Ai! }
+
+Plh_118 { Sim, uh, urso mau. }
+
+Plh_119 { Eu preciso confessar algo, Bombus... Fui eu. }
+
+Plh_120 { Como sempre digo: Me dê, me dê, me dê cerveja — as coisas estão indo pra baixo agora aqui! }
+
+Plh_121 { Bem, fico feliz que ele prefira comer mel ao invés de mim. }
+
+Plh_124 { Bombus tomou precauções. Sou o único que sabe onde todos os meus apiários estão localizados. Eles contêm mais do que mel suficiente, supondo que você saiba onde procurar. *pisca* }
+
+Plh_122 { Você? Mas $GVAR:EVars_Player.Name$! Isso — tão — Bombus não fica bravo tão facilmente, mas A AUDÁCIA! EU... EU... }
+
+Plh_123 { Agora, não fique tão nervoso. Não é tão ruim assim. Espero que tenha gostado. }
+
+Plh_81 { *canta* Fui embora por muito tempo, mas papai estará de volta em breve! }
+
+Plh_132 { A boa Larea está de volta! Se eu não a tivesse conhecido, eu não teria querido continuar minha rota. Isso tirou um peso das costas de Bombus! }
+
+Plh_133 { Eu usei sua pomada curativa para salvá-la. Mas você não deve contar a ninguém! }
+
+Plh_135 { No final, tudo ficou bem. }
+
+Plh_136 { O que você esperava? Larea é uma caçadora habilidosa. }
+
+Plh_137 { Eu pensei que você tinha algo a ver com isso! }
+
+Plh_138 { Não se preocupe, Bombus é o melhor guardião de segredos de Drova. Meus lábios estão selados! }
+
+Plh_139 { Que fortuito! Oh, as coisas ruins que imaginei acontecendo... }
+
+Plh_141 { Meus velhos ossos estão me dizendo que alguém não estava totalmente alheio a isso... }
+
+Plh_140 { Eu ainda posso aprender um truque ou dois com Larea, de fato! }
+
+Plh_9 { Saudações! }
+
+Plh_107 { Eu me apresentei como apicultor. Você tinha esquecido? *pisca* }
+
+Plh_109 { Algum animal está atacando minhas colmeias atrás do celeiro. É terrível! }
+
+Plh_125 { Minhas abelhas vão tremer de medo! Nãooooo! O mel que elas produzirão nesse estado será intragável! }
+
+Plh_108 { Talvez você possa matar a besta? Isso certamente as deixaria felizes. }
+
+Plh_116 { O urso que entrou nas colmeias? Já está morto. }
+
+Plh_110 { Oh, realmente? Impressionante, realmente impressionante! Por favor, aceite meus sinceros agradecimentos! E dos meus abelhas também, claro! }
+
+Plh_111 { Agora, o mel pode começar a fluir para a taverna novamente! Ou eu vou aproveitar a vista aqui por mais um tempo... Vamos ver, vamos ver. }
+
+Plh_128 { Sem problemas. }
+
+Plh_129 { Vou ver o que posso fazer. }
+
+Plh_130 { Bom ouvir isso! }
+
+Plh_114 { *murmura* Sim, sim, eu gostaria disso! Bombus, Bombus, você se meteu em encrenca novamente. }
+
+Plh_6 { Você disse que é um curandeiro? }
+
+Plh_73 { Oh sim! A natureza em Drova tem tantas coisas maravilhosas para oferecer. Aqui, dê uma olhada! }
+
+Plh_126 { Uma erva avermelhada pode expulsar toxinas do corpo. }
+
+Plh_127 { Outra erva, uma roxa, pode deixar alguém azul. Há até algumas ervas que iluminam a mente. Não é absolutamente maravilhoso? }
+
+Plh_28 { Você sabe de algo que possa curar a ferida inchada de uma mordida de ripper? }
+
+Plh_29 { Eu preciso ajudar alguém que está ferido... }
+
+Plh_2 { Ripper. Hmm... perigoso. As presas deles causam mais do que meras feridas. Uma poção especial de cura pode contrabalançar os efeitos, mas é difícil de produzir... }
+
+Plh_75 { Quão grave é a lesão? }
+
+Plh_34 { É uma ferida pulsante. }
+
+Plh_42 { Está causando fraqueza. }
+
+Plh_37 { Ah, pulsante. Não é bom. Então a mordida já tem algumas horas, e o que os rippers depositaram na ferida vai se espalhar. Não é bom, não é bom. Você não pode arriscar esperar que cicatrize... }
+
+Plh_38 { Mas não desespere! Pode soar ruim, e a vida dessa pessoa misteriosa pode estar por um fio, mas você encontrou Bombus. Bombus, o curandeiro! }
+
+Plh_46 { Ouça. Eu posso fazer uma pomada curativa que tratará adequadamente a mordida de ripper. Para isso, eu vou precisar de $GVAR:QuestVars_OnlyOneThingHelps_Config.AmountOfHealthPlant$ plantas curativas e uma raiz-terra. Mas pelo bem da pessoa ferida, não espere muito. }
+
+Plh_47 { Vou te trazer tudo. }
+
+Plh_48 { Raiz-terra? Isso vai ajudar? }
+
+Plh_49 { Já tenho os ingredientes. }
+
+Plh_50 { O que você está esperando? }
+
+Plh_52 { A raiz-terra em si é venenosa e NUNCA deve ser colocada diretamente em uma ferida. Mas quando você cozinha e combina com os ingredientes certos, ela tem um efeito completamente diferente! Mas só então! }
+
+Plh_78 { E se você secá-la e misturá-la com a quantidade certa de erva de cachimbo, você pode descobrir como o pôr do sol tem gosto e ouvir as estrelas passando! }
+
+Plh_8 { Muito bem. Você cria a pomada curativa da seguinte maneira: Corte a raiz-terra e esprema para extrair o suco. Mas não toque, se você quiser manter seus dedos. }
+
+Plh_53 { Jogue a raiz-terra na panela e ferva junto com os outros ingredientes. Não muito tempo. Então retire a raiz-terra cozida. }
+
+Plh_59 { Tudo que você precisa fazer é aplicar a pomada viscosa na ferida. Deve fazer efeito rapidamente. Caso contrário, o paciente sofrerá um destino muito diferente, e nós mortais não podemos mudar isso, infelizmente. }
+
+Plh_39 { Fraqueza... Não está melhorando. Não é bom, não é bom. Eu não quero dizer que é o começo do fim, mas você não deve esperar. }
+
+Plh_30 { Então traga-os aqui! }
+
+Plh_32 { Essa pessoa não quer que ninguém saiba de sua ferida. }
+
+Plh_33 { Bem. Essa é a própria culpa dela. Quão avançada está a lesão? }
+
+Plh_7 { Eu trouxe as plantas curativas e a raiz-terra comigo. }
+
+Plh_55 { Eu fiz a pomada. }
+
+Plh_56 { Muito bom, mas o que você está fazendo aqui? Leve-a para a pessoa ferida! }

@@ -1,0 +1,97 @@
+Plh_0 { Sobre as missões... (nf) }
+
+Plh_1 { Você sabe algo sobre outras missões? (nf) }
+
+Plh_3 { Encerrar conversa }
+
+Plh_8 { Hm, não. }
+
+Plh_57 { Você não vai escapar de nós novamente! }
+
+Plh_4 { Ei, você! No caminho aí! Viajando sozinho? COMPLETAMENTE sozinho? Isso é ousado... É perigoso aqui. }
+
+Plh_10 { Estou indo para Nemeton. }
+
+Plh_11 { Eu não quero problemas... }
+
+Plh_12 { Isso não é da sua conta. }
+
+Plh_15 { Ah, Nemeton. Quão perigoso! Alguém foi roubado lá outro dia, não é mesmo, Jimmy? }
+
+Plh_6 { *grunhe* Yup. Foi espancado até ficar roxo. Mas ouvi dizer que já está andando novamente... Bem, mancando! }
+
+Plh_16 { Mas você é sortudo, pois somos nós que te encontramos. Você definitivamente vai querer nossa ajuda para chegar a Nemeton em segurança. }
+
+Plh_22 { Obrigado, eu poderia usar isso. }
+
+Plh_21 { Eu não preciso de ajuda. }
+
+Plh_24 { É bem simples. Basta seguir o caminho, e você chegará lá. }
+
+Plh_25 { *grunhe* Sim, apenas siga o caminho. }
+
+Plh_23 { Estamos aqui apenas para te avisar e ajudar. Pois há uma criatura má, muito má, à espreita no Brejo Vermelho. Ela ataca pobres e inocentes — pessoas exatamente como você! }
+
+Plh_44 { *cuspe uma meleca* Malévola, sim. Muuuito má! }
+
+Plh_26 { Ela consegue sentir o cheiro de moedas, essa criatura. Quanto mais alguém estiver carregando, mais agressiva ela fica. }
+
+Plh_27 { Isso soa horrível. Você pode me ajudar de alguma forma?! }
+
+Plh_28 { Que bom que não tenho moedas comigo. }
+
+Plh_29 { Heh? Eu sou para acreditar nisso? Não existe tal monstro. Deixe-me passar. }
+
+Plh_31 { Somos três. O monstro não atacaria a gente. Você, no entanto, é outra história. Nós também estamos indo para Nemeton agora. Dê-nos suas $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ moedas, e quando nos encontrarmos lá, nós as devolveremos a você. }
+
+Plh_45 { Vamos cuidar de suas moedas como se fossem nossas! *snifflando* }
+
+Plh_46 { Exatamente. Somos confiáveis e dignos de confiança. Você consegue ver isso, não consegue? }
+
+Plh_34 { Tudo bem... Parece ser a solução mais segura para mim (entrega $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ moedas). }
+
+Plh_35 { Como você sabe que eu tenho $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ moedas? }
+
+Plh_36 { Eu não tenho moedas comigo. }
+
+Plh_41 { Excelente. Basta seguir o caminho, e você eventualmente chegará a Nemeton. Estamos fazendo uma pequena pausa aqui. Vamos te alcançar ao amanhecer, e então você receberá suas moedas de volta. Até mais. E não deixe que algo te despedaçe. }
+
+Plh_42 { *grunhe* Cuide-se! }
+
+Plh_43 { Essas não são $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ moedas. Dê uma olhada mais de perto... }
+
+Plh_60 { Pare com a besteira. }
+
+Plh_30 { Aqui está a única coisa que vai acontecer aqui: você vai entregar aquelas moedas. Nós sabemos pelo Boris que você as tem. }
+
+Plh_39 { O Jimmy sempre tem um bom faro para isso. Ele nunca errou. }
+
+Plh_40 { *grunhe* Nunca! }
+
+Plh_47 { E é assim que sabemos que você tem $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ moedas com você. Estamos muito preocupados com você, sabe? Isso é perigoso! }
+
+Plh_32 { O que você quer dizer, sem moedas? }
+
+Plh_37 { *sniffs* Huh? Eu quase posso sentir. Você tem $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ moedas. }
+
+Plh_38 { O Jimmy sempre sabe quando alguém está mentindo. Por que você está mentindo para nós? Nós só queremos ajudar! }
+
+Plh_17 { Problemas? Você não vai ter nenhum. Andar sozinho por aqui pode ser muito perigoso. }
+
+Plh_18 { É perigoso aqui. Eu chamo de brejo dos mortos! }
+
+Plh_19 { Como se isso fosse da nossa conta, seu pirralho. }
+
+Plh_20 { Calma, Jimmy. Estou certo de que eles não queriam fazer mal. Seria bem estúpido ficar bravo se você quer entrar no brejo sozinho. Você poderia muito bem ir chutar o urso. }
+
+Plh_48 { *rubs his arm* Tudo bem, você venceu... }
+
+Plh_52 { Como você sabia sobre as moedas? }
+
+Plh_54 { Nós apenas ouvimos em algum lugar... }
+
+Plh_56 { Tudo bem, tudo bem... *gemendo* }
+
+Plh_49 { Faça um caminho! Nós conseguimos o que queríamos. }
+
+Plh_50 { Até mais em Nemeton, então. Estaremos esperando na entrada. }

@@ -1,0 +1,7 @@
+RipperHuntTitle { Para todos que querem ganhar algumas moedas! }
+
+Text { <br>Atualmente, um grande bando de ripper está saqueando a região e matando minhas ovelhas. Já perdi algumas delas. Estou procurando alguém que possa resolver esse problema.<br><br>A recompensa por matar o líder do bando é de $GVAR:QuestVars_HuntTheRippers_Config.Reward$ moedas. Traga-me a cabeça da besta para provar que você a matou.<br><br>Reporta-se a mim no balcão para mais informações.<br><br>Olaf, taberneiro da taverna }
+
+HuntChapter3Title { Para todos que querem ganhar algumas moedas!<br> }
+
+Chapter3Text { <br>O problema dos rippers está piorando a cada minuto! Eu preciso urgentemente de qualquer lutador disposto a cuidar dessas bestas!<br><br>Quem me livrar do líder do bando ganhará $GVAR:QuestVars_HuntTheRippers_Config.Reward$ moedas! Traga-me a cabeça da besta como prova!<br><br>Reporta-se a mim no balcão para mais informações.<br><br>Olaf, taberneiro da taverna }

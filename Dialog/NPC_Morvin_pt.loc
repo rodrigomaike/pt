@@ -1,0 +1,515 @@
+Plh_261 { Eu gostaria de pegar meus ganhos. }
+
+Plh_153 { Eu gostaria de apostar na próxima batalha. }
+
+Plh_22 { Eu gostaria de apostar na batalha do Bady. }
+
+Plh_162 { Como exatamente isso funciona com a arena? }
+
+Plh_237 { Não vejo mais o Bady — o que aconteceu com ele? }
+
+Plh_303 { Seu nome soa incomum. De onde é? }
+
+Plh_52 { Gra e Bady estão prontos para sua batalha. }
+
+Plh_154 { Claro. $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ lutará contra $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. A aposta é de $GVAR:DAS_ArenaSystem.MainFight_DefaultBetAmount$ moedas. Em quem você quer apostar? }
+
+Plh_156 { Vou apostar em $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$. }
+
+Plh_157 { Vou apostar em $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. }
+
+Plh_252 { Se você fizer suas apostas corretamente, poderá pegar seus ganhos esta noite, após a batalha da arena. Se não... não poderá. }
+
+Plh_375 { Se você não aparecer, suas moedas serão perdidas. }
+
+Plh_258 { Você já fez suas apostas. Você saberá os resultados da batalha assim que terminar. }
+
+Plh_276 { Hoje você lutará na arena, e já peguei sua aposta. Você não pode apostar em si mesmo! }
+
+Plh_155 { Você quer fazer uma aposta? Então venha me ver depois. Não estou fazendo isso aqui. }
+
+Plh_372 { Em breve haverá batalhas na arena todos os dias. Você não vai querer perder isso. }
+
+Plh_371 { Há uma batalha especial na arena. Bady contra Gra! Apenas depois dessa continuaremos com meu próprio povo. }
+
+Plh_161 { Quando o sol lançar seus últimos raios do dia sobre Drova, haverá uma batalha na arena. Meus lutadores estarão prontos para competir! Você pode apostar em quem vai ganhar... e ganhar moedas. }
+
+Plh_253 { A aposta é de $GVAR:DAS_ArenaSystem.MainFight_DefaultBetAmount$ moedas. Em alguém lutando na arena. Se você ganhar, haverá um grande pagamento. }
+
+Plh_163 { Dê uma boa olhada no meu povo. Eles treinam o dia todo na arena. Mas apenas os melhores têm permissão para competir na batalha principal! }
+
+Plh_239 { Depois de sua derrota nas mãos de Gra, ele estava indo para fazer mais treinamento. Não tenho certeza de onde. }
+
+Plh_238 { Bady saiu em busca de um oponente. Mas ele voltará. Drova não é tão grande, e os melhores lutadores estão bem aqui. }
+
+Plh_304 { Meu nome ecoa a glória desta arena. Os Antigos construíram este lugar. Um lugar de lendas. Lendas de inúmeras lutas gloriosas. }
+
+Plh_263 { A batalha está prestes a começar. Eu ainda preciso preparar algo. }
+
+Plh_365 { Você precisa de um incentivo? Algumas pessoas apostaram em você! }
+
+Plh_5 { Eu sou Antonius Proximus! Mestre da arena! Nós somos os Marcados. E você pode fazer suas apostas comigo! }
+
+Plh_4 { *murmura em sua barba* É, isso pode funcionar... Talvez eu deva omitir "invicto"... }
+
+Plh_2 { O que você está fazendo aqui? }
+
+Plh_6 { Posso lutar também? }
+
+Plh_3 { Quando a batalha vai começar? }
+
+Plh_7 { *te examina* Você pode. Por alguns segundos. Depois disso, você será enforcado, puxado e esquartejado. Se você tem um desejo de morte, pode se matar em outro lugar. }
+
+Plh_8 { *exala com força* A batalha já deveria ter começado! Mas Gra e Bady simplesmente não apareceram! }
+
+Plh_10 { Por que você não vai descobrir o que está atrasando eles? }
+
+Plh_9 { Você não pode simplesmente deixar este lugar, pode? }
+
+Plh_11 { Eu tenho que configurar tudo e aceitar as apostas. Então? Você vai encontrá-los para mim? }
+
+Plh_13 { Se você garantir que Bady e Gra apareçam, você testemunhará a batalha da sua vida! Gra quer restaurar sua antiga glória, então ele vai competir contra o vencedor perpétuo — Bady. }
+
+Plh_14 { Então, vamos lá! Temos que proporcionar uma boa batalha! }
+
+Plh_15 { Por que eu deveria te ajudar? }
+
+Plh_17 { Porque tenho certeza de que você vai querer ver essa batalha por conta própria. Tudo bem, tá bom... faça uma aposta e eu colocarei $GVAR:QuestVars_BetThat_Config.ExtraReward$ moedas a mais do meu bolso. }
+
+Plh_18 { Perfeito! Bady provavelmente está treinando, e Gra tem murmurado algo sobre orar às Divindades. Talvez no templo a leste da Praça do Mercado. }
+
+Plh_367 { Fale com os dois. Certifique-se de que eles estejam prontos. E então me informe. }
+
+Plh_20 { Se você cuidou disso, me informe. }
+
+Plh_12 { Finalmente, alguém está pensando à frente! Eu não posso deixar este lugar. Mas você pode! }
+
+Plh_21 { Bady e Gra ainda não apareceram. Você vai me ajudar já? }
+
+Plh_142 { A batalha entre $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ e $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$ terminou! O vencedor é $GVAR:DAS_ArenaSystem.MainFight_WinnerName$! }
+
+Plh_281 { Imagino que suas contusões transmitam a você por que Ada é a mestre da arena. }
+
+Plh_282 { Bem, suas moedas agora se foram. Se você quiser tentar novamente — sabe onde me encontrar. }
+
+Plh_283 { Quero lutar amanhã. }
+
+Plh_336 { Tão cedo de novo? Esse é o espírito. }
+
+Plh_279 { Sinistra mostrou a você! Ela é simplesmente uma das minhas melhores lutadoras. }
+
+Plh_266 { Boa batalha. Mas Liandra foi superior a você. }
+
+Plh_280 { Ebru não é exatamente uma pessoa sociável. A menos que ele possa lançar alguém pela arena. }
+
+Plh_333 { Debug Perder / IGNORE }
+
+Plh_291 { Os espectadores estavam simplesmente delirando! Tanto você quanto Sinistra se saíram bem. E você ganhou! }
+
+Plh_329 { Nós fizemos um monte de moedas. Claro que você receberá sua parte. }
+
+Plh_295 { Você derrotou todos eles. Exceto Ada. Agora podemos ter a batalha principal. }
+
+Plh_290 { Bem lutado! Você desviou rapidamente e os encurralou! Os espectadores ficaram empolgados com isso. }
+
+Plh_294 { Você pode ir contra Sinistra. Liandra é quase tão forte quanto ela, mas até agora Sinistra sempre se manteve vitoriosa. Acho que ela está segurando a barra. Isso vai ser emocionante! }
+
+Plh_292 { Você atraiu os espectadores muito rápido — não é tão difícil fazer isso se você estiver enfrentando Ebru. Ninguém realmente gosta dele, de qualquer forma. }
+
+Plh_296 { Liandra está morrendo de vontade de enfrentá-lo. Então, você pode seguir em frente. Mas tenha cuidado... Ela não é Ebru. }
+
+Plh_334 { Debug Ganhar / IGNORE }
+
+Plh_332 { Debug Cabeça1 / IGNORE }
+
+Plh_305 { Eu derrotei Carima, Blaan e Dark. }
+
+Plh_245 { Quero lutar contra Ebru. }
+
+Plh_268 { Quero lutar contra Liandra. }
+
+Plh_269 { Quero lutar contra Sinistra. }
+
+Plh_270 { Quero lutar contra Ada. }
+
+Plh_307 { Sério? Tudo bem... Eu realmente poderia usar carne fresca para a arena. }
+
+Plh_308 { Vamos ver como você se sai. }
+
+Plh_310 { Se você quiser se tornar o mestre da arena, terá que subir nas classificações. Depois de Ebru, você terá que lutar contra Liandra, Sinistra e, finalmente, Ada. A INVICTA Ada. }
+
+Plh_311 { Vou fazer você lutar contra Ebru. Você precisará de $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ moedas. Dependendo de quem você lutar e como os espectadores estão apostando, você receberá seus ganhos. }
+
+Plh_312 { E se eu não tiver as moedas? }
+
+Plh_313 { Estou pronto para a batalha. }
+
+Plh_315 { Então vá ganhar algumas, em algum lugar. Não me importa como. }
+
+Plh_316 { Você tem as $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ moedas para a batalha? }
+
+Plh_271 { Isso está parecendo bom. Amanhã à noite você entrará na arena. Estou curioso para ver que tipo de figura você fará. Ou que parte da sua figura será cortada. }
+
+Plh_318 { Se você quiser aprender como seus oponentes operam, deve assisti-los lutar. Esse conselho é de graça. }
+
+Plh_319 { Você começará amanhã. Descanse. Vá tomar uma bebida na taverna. Amanhã você terá que estar no seu melhor. }
+
+Plh_274 { Você derrotou todos eles. Apenas Ada está sobrando. Ela tem observado você com muita atenção. Vai ser uma batalha divertida, haha! }
+
+Plh_320 { Vai ser a batalha principal. Muitas coisas a se preparar, então terá que ser mais caro. Vamos dizer $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EndFightPrice$ moedas. Mas você também ganhará mais lucro. }
+
+Plh_321 { Quero lutar. }
+
+Plh_366 { Se você vai lutar contra Ada, deve estar bem preparado. }
+
+Plh_323 { Informe-me. }
+
+Plh_330 { Quase ninguém apostou em você, haha! Isso significa que haverá um grande pagamento. E muitas moedas significam muita cerveja. Excelente! }
+
+Plh_297 { A invicta Ada... foi derrotada! $GVAR:EVars_Player.Name$ reivindica a vitória na arena! }
+
+Plh_348 { Você lutou bem. }
+
+Plh_337 { Invicta... Bem... }
+
+Plh_350 { O que significa ser mestre da arena? }
+
+Plh_349 { Eu estava simplesmente confiante demais. Um descuido. Droga... }
+
+Plh_338 { Foi apenas uma batalha! *ranger os dentes* }
+
+Plh_339 { Você terá que encarar os fatos aqui. Você não é mais a invicta Ada. Em vez disso, você é... }
+
+Plh_340 { A Ada chorona. }
+
+Plh_341 { A quase invicta Ada. }
+
+Plh_343 { Ela não precisa de um apelido. Ada está bem. }
+
+Plh_344 { Isso funciona. }
+
+Plh_345 { *murmura* Vou treinar ainda mais para compensar esse descuido... }
+
+Plh_346 { Você lutou bem e ganhou esse capacete. Apenas o vitorioso na arena pode usar este capacete. }
+
+Plh_351 { Hm, eu não tenho um oponente para você hoje. Alguém tem que se apresentar primeiro. }
+
+Plh_354 { O que, sem mais lutadores? }
+
+Plh_355 { Gra largou seu machado. }
+
+Plh_356 { E há Bady, mas ele não está mais com os Remanescentes. Ele pode até estar morto, pelo que sei. }
+
+Plh_357 { De qualquer forma. Você deve celebrar! Você mesmo! Sua vitória! }
+
+Plh_69 { Você acredita em milagres? }
+
+Plh_70 { E o vencedor e eterno vitorioso: Baaaaaaaaaaaaaaaaaaady! Que batalha! }
+
+Plh_72 { Todos que fizeram a aposta certa podem vir me ver e receber seu pagamento. E se você estava errado — melhor sorte na próxima vez! }
+
+Plh_74 { Heh heh, passe meu prêmio então, Proximus. Bem, quem está rindo agora? }
+
+Plh_75 { *ranger os dentes* Pegue. E suma. }
+
+Plh_79 { *vira-se para você* E você! Você apostou em Gra também. Aqui. Ugh. }
+
+Plh_109 { Eu não esqueci que você me ajudou a consertar aquela batalha. E prometi a você algo... }
+
+Plh_85 { *sorri para você* Aqui, para você. Você fez um bom trabalho. Gra ganhou, e meus bolsos estão cheios de moedas. }
+
+Plh_118 { Eu cantarei suas louvações a Boris. }
+
+Plh_119 { Aqui está sua parte. Prazer em fazer negócios com você. *sorri* }
+
+Plh_87 { Ei, seu cabeça de osso, você queria consertar aquela batalha! Você não fez nada! Vou avisar Boris sobre você... }
+
+Plh_88 { Ah, droga... Saia do meu caminho! }
+
+Plh_83 { *vira-se para você* Bem, isso é uma pena. Você ganha algumas, perde algumas. *sorri* Melhor sorte na próxima vez. }
+
+Plh_80 { Proximus! Seu filho da mãe! Velho escroto! }
+
+Plh_81 { Quando você aposta, pode perder. Você deve estar ciente disso. E, como você sabe, pagar dívidas de jogo é uma questão de honra. }
+
+Plh_82 { *vira-se para você* E você! Você apostou em Bady, também. Aqui. Ugh. }
+
+Plh_71 { Ninguém poderia ter previsto isso. Ninguém acreditou nele. Mas hoje o vencedor é: GRAAAAAAAAA! }
+
+Plh_278 { A arena foi reaberta. E isso significa que haverá lutas de punhos toda noite! E isso significa que haverá apostas e ganhos também — até para você! }
+
+Plh_144 { Você tem um gancho bem decente, mas vai ter que trabalhar na sua cobertura! }
+
+Plh_170 { Apenas agitar suas armas não vai te levar muito longe. Tampouco cortar e esfaquear cegamente. Você também precisa ter inteligência nessa cabeça! }
+
+Plh_171 { Um noogie é o que você precisa. }
+
+Plh_174 { Você lutou bem na arena. Os espectadores estão torcendo! É assim que eu gosto! }
+
+Plh_175 { Eu, eu gosto de moedas. }
+
+Plh_176 { Sim, isso é Nemeton para você... nada além de moedas para um cérebro. Isso é sobre algo mais! }
+
+Plh_177 { Cuidado com o que está dizendo. Caso contrário, não vou segurar a barra na minha próxima batalha. }
+
+Plh_178 { Por que vocês não relaxam? Tem alguém aqui. }
+
+Plh_179 { Eu sou $GVAR:EVars_Player.Name$. De agora em diante, vou lutar com você. }
+
+Plh_181 { O homem não vive só de amor, também precisamos de moedas. }
+
+Plh_186 { Nemeton, hein? Incrível que você ouse aventurar-se além de suas paredes... }
+
+Plh_187 { Ha! Blaan! De jeito nenhum! Nós o conhecemos do Acampamento do Lenhador! Acho que eles te inspiraram a lutar, hein? *sorri* }
+
+Plh_233 { Graças a você, eu recuperei Snaga. Você pode ficar. }
+
+Plh_188 { Mais lutadores, mais treinamento. Vamos brindar a isso! }
+
+Plh_190 { Isso tem uma boa queima descendo. }
+
+Plh_331 { Recomendo que você tome um bom trago, $GVAR:EVars_Player.Name$... }
+
+Plh_191 { Por que você recomendaria isso? }
+
+Plh_192 { Você é uma mão de escudo agora. E você precisa ser reconhecido como tal imediatamente. É por isso que vamos marcar seu corpo. }
+
+Plh_196 { Com o símbolo de sangue e ferro. Todos os lutadores estão usando isso. }
+
+Plh_193 { Nesse caso, passe a bebida... }
+
+Plh_210 { Quero testemunhar tudo. Vamos começar. }
+
+Plh_194 { Que tipo de ideia maluca é essa? }
+
+Plh_195 { Não. De jeito nenhum. }
+
+Plh_213 { Eu realmente não quero fazer isso. }
+
+Plh_197 { Beba! Então vai queimar muito menos. }
+
+Plh_203 { Eu sou Ada, a Invicta, e aceitaremos você em nossa comunidade. Sente-se aqui. }
+
+Plh_200 { (senta-se) }
+
+Plh_199 { (bebe mais uma vez) }
+
+Plh_204 { Feche os olhos e abrace a dor. Sua nova vida começa... agora. }
+
+Plh_206 { POR TODAS AS MALDITAS DIVINDADES, ISSO DÓI! }
+
+Plh_209 { Você agora está marcado. Abra os olhos, mão de escudo. }
+
+Plh_212 { Agora você é um de nós. }
+
+Plh_216 { Marcados! Vamos comer e beber; pois amanhã lutaremos. É assim que eu gosto! }
+
+Plh_217 { Ao $GVAR:EVars_Player.Name$! }
+
+Plh_218 { O que exatamente significa ser uma mão de escudo? }
+
+Plh_185 { Blaan, Dark e Carima são mãos de escudo como você. Vocês vão se enfrentar no treinamento e na batalha. Quem avançar pode lutar na arena. }
+
+Plh_219 { Você é uma lâmina que ainda precisa de seu acabamento final. Cega por enquanto, mas depois: mortal. }
+
+Plh_220 { Nós dois lutaremos amanhã. Com o machado de duas mãos. Isso vai ser divertido! }
+
+Plh_221 { Apenas continue bebendo! Isso só vai facilitar para mim. }
+
+Plh_222 { Mal posso esperar. }
+
+Plh_223 { Um fanfarrão! Eu gosto disso! }
+
+Plh_224 { Guarde suas provocações para a luta. }
+
+Plh_225 { Celebre. Beba. Aproveite este dia. Enquanto você puder andar ereto na arena e brandir uma arma. Sangue e ferro! }
+
+Plh_234 { Eu não gosto do cheiro de Nemeton aqui... }
+
+Plh_236 { Eu sinto apenas sua derrota amanhã! }
+
+Plh_227 { *vira-se para você* Você ainda tem mais treinamento a fazer antes que eu permita que você apareça diante dos espectadores. Eles esperam um show. }
+
+Plh_361 { O clamor dos espectadores, a emoção da vitória... Isso tudo faz algo com você. Você verá. }
+
+Plh_228 { Parece que você já conseguiu lutar? }
+
+Plh_229 { Não vai demorar. }
+
+Plh_230 { Eu não vou desapontá-lo. }
+
+Plh_231 { *sorri felizes* Há muito, muito tempo. De volta ao Nemeton. Não tínhamos uma arena naquela época. Os Antigos provavelmente construíram essa. }
+
+Plh_232 { Eu acredito em você. Treine com Carima e Blaan. }
+
+Plh_363 { Assim que você derrotar esses dois, será permitido desafiar Dark. Por que ele não está aqui agora, de qualquer forma? Provavelmente atolado de trabalho. }
+
+Plh_364 { Uma vez que você derrotou todos os outros, vou considerar mandá-lo para a arena. Mas isso está longe de acontecer. }
+
+Plh_235 { Sangue e ferro! }
+
+Plh_215 { Você está bebendo mais do que eu! Não exagere — caso contrário, você vai dormir com as Divindades. }
+
+Plh_211 { Você vai se arrepender disso! }
+
+Plh_201 { Na arena, somos todos irmãos e irmãs. Esta é nossa marca. }
+
+Plh_202 { Ninguém é forçado a exibir seu vínculo com os outros. É sua escolha. }
+
+Plh_214 { A maneira como você luta na arena decidirá se há um lugar para você lá. }
+
+Plh_183 { Finalmente! Alguém mais está dizendo isso por uma vez! }
+
+Plh_184 { $GVAR:EVars_Player.Name$ agora vai lutar por nós. Ele já derrotou Mog. Isso diz muito. }
+
+Plh_150 { Eu derrotei Mog! }
+
+Plh_164 { Não é nada mal! Talvez você tenha o que é preciso para a arena. }
+
+Plh_243 { Estou acabado por hoje. Como você derrotou Mog, pode ser hora de você se juntar aos Marcados. }
+
+Plh_143 { Nós, lutadores da arena, somos uma comunidade de Marcados. Não nos importamos de onde você é. Aqueles que estão marcados foram renascidos. }
+
+Plh_240 { Não importa se você é de Nemeton ou do Acampamento dos Remanescentes. }
+
+Plh_241 { A arena é tudo que importa para nós. A batalha. A vontade. O feito. }
+
+Plh_242 { Você será um de nós. Venha, deixe-me apresentá-lo a seus irmãos e irmãs. }
+
+Plh_145 { Você não estava conosco ontem. Mas hoje você estará. }
+
+Plh_327 { Agora, vou distribuir as moedas. Mas você não vai receber nada. }
+
+Plh_277 { Você não apareceu para a batalha. Eu distribuí as moedas para os outros. Melhor aparecer na próxima vez! }
+
+Plh_152 { *grita* Esta noite $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ enfrentará $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. Todas as apostas estão abertas! }
+
+Plh_275 { Hoje você lutará. Esteja pronto. }
+
+Plh_125 { Se você quiser apostar: aceito apostas na minha casa. Em nenhum outro lugar. }
+
+Plh_255 { Sua aposta foi paga. Aqui estão suas $GVAR:DAS_ArenaSystem.MainFight_BetAmountRewardForPlayer$ moedas. }
+
+Plh_257 { A próxima batalha está marcada para amanhã. Se você quiser multiplicar seu ouro, pode apostar novamente. }
+
+Plh_259 { Você não ganhou nada. }
+
+Plh_59 { A batalha da arena pode agora começar. }
+
+Plh_56 { A luta começará à noite. E a multidão ficará encantada. Vamos ver juntos. }
+
+Plh_61 { A batalha que todos estavam esperando! }
+
+Plh_62 { O Grande Bady enfrentará o herdeiro do sangue — Gra! }
+
+Plh_63 { Gra conseguirá encontrar sua força? Ou Bady permanecerá superior? Descubra — somente aqui! Somente esta noite! Vai ser um banho de sangue! }
+
+Plh_64 { Não leve para o lado pessoal, Gra. Hoje é meu dia. Para uma batalha justa e honrosa! }
+
+Plh_65 { Eu tenho meu Snaga de volta, Bady. Você deveria fugir enquanto ainda pode! }
+
+Plh_120 { *bate um braço no peito* WRRAAAAGH! SANGUE E FERRO! }
+
+Plh_68 { Você pode ouvir, povo? Aquele silêncio, antes que o aço se encontre com o aço? Antes que a lâmina bata e o sangue jorre? Em breve... em breve... }
+
+Plh_67 { ... A batalha começa AGORA! }
+
+Plh_66 { Para uma batalha justa e honrosa! Sangue e ferro! }
+
+Plh_53 { Ambos se reportaram para mim. Obrigado. Está começando em breve. Então o sangue será derramado novamente. }
+
+Plh_54 { Finalmente! O sangue deve ser derramado! }
+
+Plh_55 { Vou voltar mais tarde. }
+
+Plh_57 { Não posso adiar a batalha mais. E após toda sua ajuda, você não pode perder também! Vou fazer uma exceção. Me avise quando estiver pronto. }
+
+Plh_132 { Eugen me enviou. Ele acha que eu qualificaria para a arena. }
+
+Plh_377 { Boris me enviou. Quero lutar na arena. }
+
+Plh_133 { Eu vim de Nemeton. Angus acha que eu poderia lutar na arena. }
+
+Plh_114 { Posso lutar na arena? }
+
+Plh_141 { Eu derrotei Mog. Posso lutar na arena agora? }
+
+Plh_134 { Eugen? Isso significa muito. Ele poderia lutar aqui também, mas ele não sangra a menos que bata em algo quando está bêbado. Que desperdício... }
+
+Plh_136 { Não posso ter qualquer um lutando na minha arena. Você precisa provar seu valor. Demonstre que você não é um covarde. }
+
+Plh_137 { Mog é um cara decente. Ele também é um pouco novo por aqui, e um pouco explosivo. Mas ele tem coragem, e é exatamente isso que espero! }
+
+Plh_138 { Enfrente-o. Se você derrotá-lo, eu admitirei você nas minhas fileiras. }
+
+Plh_376 { Hm. Boris falou comigo. Não sei como me sentir sobre permitir que um de seu povo lute. }
+
+Plh_378 { Posso te dar uma chance. }
+
+Plh_135 { Não me importo de onde você é, desde que você lute bem e não desmaie ao ver sangue. Seu ou de qualquer outra pessoa. }
+
+Plh_139 { Mas já que você é de Nemeton, você obviamente já segurou uma arma antes. }
+
+Plh_127 { Apenas os melhores de Drova lutam por mim! Primeiro e acima de tudo, você vai precisar de um equipamento decente. E da atitude certa. Volte depois. }
+
+Plh_116 { Ouvi que você fez uma boa luta. Tudo bem — você terá sua chance. Venha até mim esta noite. Depois da batalha principal. }
+
+Plh_23 { Claro, claro. Quanto você gostaria de apostar? }
+
+Plh_24 { $GVAR:QuestVars_BetThat_Config.LowBetAmount$ moedas. }
+
+Plh_25 { $GVAR:QuestVars_BetThat_Config.MediumBetAmount$ moedas. }
+
+Plh_26 { $GVAR:QuestVars_BetThat_Config.HighBetAmount$ moedas. }
+
+Plh_40 { Eu não quero apostar, afinal. }
+
+Plh_29 { Apostas baixas. Hm. }
+
+Plh_30 { A maioria das pessoas está apostando no Bady. Apenas alguns malucos estão colocando seu dinheiro no Gra. Em quem você gostaria de apostar? }
+
+Plh_31 { Bady. }
+
+Plh_32 { Gra. }
+
+Plh_35 { Você quer apostar $GVAR:QuestVars_BetThat_Config.LowBetAmount$ moedas no Bady. Você deseja fazer essa aposta? }
+
+Plh_38 { Sim. }
+
+Plh_39 { Não, eu quero mudar minha aposta. }
+
+Plh_44 { Tudo bem! Agora tudo que você precisa fazer é entregar as moedas. }
+
+Plh_47 { Excelente. *conta as moedas* Volte para mim assim que a batalha terminar. }
+
+Plh_49 { Oh — ouvi de ambos os lutadores. Vou adicionar 50 moedas além da sua aposta. Como prometido. }
+
+Plh_45 { Sem problemas. Quanto você gostaria de apostar? }
+
+Plh_46 { Ugh. Tudo bem. Faça como quiser. }
+
+Plh_36 { Você quer apostar $GVAR:QuestVars_BetThat_Config.MediumBetAmount$ moedas no Bady. Você deseja fazer essa aposta? }
+
+Plh_37 { Você quer apostar $GVAR:QuestVars_BetThat_Config.HighBetAmount$ moedas no Bady. Você deseja fazer essa aposta? }
+
+Plh_41 { Você quer apostar $GVAR:QuestVars_BetThat_Config.LowBetAmount$ moedas no Gra. Você deseja fazer essa aposta? }
+
+Plh_42 { Você quer apostar $GVAR:QuestVars_BetThat_Config.MediumBetAmount$ no Gra. Você deseja fazer essa aposta? }
+
+Plh_43 { Você quer apostar $GVAR:QuestVars_BetThat_Config.HighBetAmount$ no Gra. Você deseja fazer essa aposta? }
+
+Plh_27 { Alguém está se sentindo sortudo hoje. }
+
+Plh_28 { Ousado. Ou tolo. Vamos ver. }
+
+Plh_380 { Ei, você. Eu ouvi sobre você. Você fez bastante nome para si. Eu poderia usar alguém como você. }
+
+Plh_381 { Eu poderia tentar. }
+
+Plh_383 { Confie em mim — uma vez que você estiver na arena, você nunca vai querer sair. }
+
+Plh_384 { Ei, calma aí. Não se preocupe. Pense nisso. Apenas vá falar com Mog e treine com ele. }
+
+Plh_379 { Use esta armadura com orgulho. }
+
+

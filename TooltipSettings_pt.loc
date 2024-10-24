@@ -1,0 +1,125 @@
+healingText { Restaura [MaxStack] de vida ao longo de [StackTime] segundos. }
+
+damage { Dano }
+
+attack { Dano de Ataque }
+
+flowgain { Foco }
+
+physicalblock { Bloqueio Físico }
+
+magicalblock { Bloqueio Mágico }
+
+physicalresistance { Armadura }
+
+magicalresistance { Resistência Mágica }
+
+flowcosts { Custos de Foco }
+
+strength { Força }
+
+dexterity { Destreza }
+
+mind { Mente }
+
+health { Vida }
+
+healing { Restaura [VALUE] da sua vida máxima. }
+
+learningpoints { LP }
+
+talentlearned { Aprendido }
+
+talentcannotlearned { Não pode ser aprendido ainda }
+
+talentcanbelearned { Aprendível }
+
+unknownteacher { Desconhecido }
+
+talentnotknown { Você ainda não descobriu esse talento. }
+
+foodText { Regenera lentamente a vida até que [MaxStack] de vida tenha sido curada. Se sua barra de vida estiver cheia, a cura será suspensa. }
+
+recipe_requirements { Requerido: }
+
+buffAdditionalDescription { (Novo alimento substitui o efeito de saciedade) }
+
+maxHealth { Vida Máxima [VALUE] }
+
+flowGain { Foco [VALUE] }
+
+magicDamage { Dano Mágico [VALUE] }
+
+bleedingChance { Chance de Sangramento [VALUE] }
+
+weaponDamage { Dano de Armas [VALUE] }
+
+movementSpeed { Velocidade de Movimento [VALUE] }
+
+poiseDamage { Dano de Posição [VALUE] }
+
+magicResistance { Resistência Mágica [VALUE] }
+
+staminaReg { Regeneração de Estamina [VALUE] }
+
+flowReg { Regeneração de Foco [VALUE] }
+
+armor { Armadura [VALUE] }
+
+healAdditionalDescription { (Item semelhante substitui o efeito de buff) }
+
+flowPhysical { Habilidade }
+
+flowMagical { Feitiços }
+
+flowOneTime { Pergaminho de Feitiço }
+
+learnspell { Use este item para aprender a habilidade }
+
+learnrecipe { Use este item para aprender a receita }
+
+alreadylearned { Já aprendido }
+
+trashtotrade { Adiciona sucata ao valor dos bens }
+
+craftingItem { Material de Criação }
+
+saleitem { Item de Venda }
+
+weaponDamage_single { Dano de Armas [VALUE] }
+
+critchance { Chance Crítica }
+
+critchance_Value { Chance Crítica [VALUE] }
+
+orientationpoint { Foco Base [VALUE] }
+
+stat_change_str { +$STATCHANGE:PhysDmg$ de dano físico }
+
+stat_change_dex { +$STATCHANGE:CritChance$ crítico. }
+
+stat_change_mind { +$STATCHANGE:MagDmg$ de dano mágico + $STATCHANGE:Focus$ de foco base }
+
+helmet_cosmetics { (Os capacetes são puramente cosméticos e não têm efeito sobre seu personagem.) }
+
+mainHandWeapon { Arma de Uma Mão }
+
+offHandWeapon { Mão Secundária }
+
+twoHandedWeapon { Arma de Duas Mãos }
+
+munition { Munição }
+
+drug_description { Embaça seus sentidos }
+
+LearnSpell { Ensina habilidade de arma }
+
+flowText { Gera [HealValue] de foco ao longo de [StackTime] segundos. }
+
+needrunestone { Precisa de Pedra Rúnica }
+
+strength_value { Força [VALUE] }
+
+dex_value { Destreza [VALUE] }
+
+mind_value { Mente [VALUE] }

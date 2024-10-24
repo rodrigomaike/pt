@@ -1,0 +1,139 @@
+Plh_5 { Eu preciso cuidar da comida. Podemos conversar depois. }
+
+Plh_15 { Como você está? Está muito machucada? }
+
+Plh_69 { Ei, Bruna — o que você está fazendo aqui? }
+
+Plh_50 { Precisamos escapar. E, tipo, agora! }
+
+Plh_112 { Ei, Bruna! Como você está hoje? }
+
+Plh_114 { Gentil da sua parte perguntar, $GVAR:EVars_Player.Name$... Estou me sentindo mais ou menos bem novamente. Ainda dói um pouco quando me movo, mas sou mais forte do que pareço. }
+
+Plh_115 { Ai, ahh minha costela... }
+
+Plh_116 { Vá devagar. Seu corpo precisa de tempo para se curar. }
+
+Plh_117 { Você não parece tão forte para mim. }
+
+Plh_118 { Você está certo... }
+
+Plh_119 { Vou descansar um pouco. É melhor você se pôr a trabalhar — talvez hoje você realmente encontre o que eles estão procurando. }
+
+Plh_14 { *gemendo* Ah... Estou... Estou bem. Nada quebrado — eu acho. Por favor, não se preocupe. }
+
+Plh_16 { Desculpe por não ter chegado mais cedo. }
+
+Plh_18 { Vou me vingar de Lanzo por isso... }
+
+Plh_26 { *sorrindo* Não é culpa sua... }
+
+Plh_27 { Eu... preferiria fazer isso sozinha... }
+
+Plh_70 { *sorrindo* É bom te ver. Tudo está diferente agora... Eu saí para Nemeton — estou livre. E eu deveria estar feliz, mas... }
+
+Plh_72 { Você e Dalin... Vocês dois estão trabalhando juntos agora? }
+
+Plh_73 { Qualquer coisa é melhor do que estar presa na caverna. }
+
+Plh_74 { Dalin disse que poderíamos tentar a sorte em Nemeton. Por que não...? }
+
+Plh_75 { Isso mesmo. Eu ainda preciso me recuperar de tudo isso também — foi uma provação. Obrigado por tudo. }
+
+Plh_29 { Por que você não tem que ir para o Poço como todo mundo? }
+
+Plh_34 { Como você acabou aqui? }
+
+Plh_30 { Eles me mandaram cuidar das provisões, mesmo que eu saiba usar uma picareta muito melhor do que alguns daqueles fracos. Mas pelo menos aqui não é perigoso. }
+
+Plh_120 { Se você quiser algumas provisões também, venha me ver depois do seu turno. }
+
+Plh_46 { *suspirando* É apenas o destino. }
+
+Plh_47 { Que destino? }
+
+Plh_36 { Eu estava vagando pelo Red Moor com meu irmão Liam. Não tínhamos mais comida, e havia moscas-sangue por toda parte. E Liam, bem... }
+
+Plh_37 { Nós nos defendemos, e Liam colocou toda a sua força nisso. Então encontramos esses homens aqui. Eles nos ajudaram... deram comida... }
+
+Plh_38 { Pensamos que estávamos seguros... }
+
+Plh_40 { Eles não parecem exatamente confiáveis. }
+
+Plh_41 { Esse foi um erro. }
+
+Plh_42 { Estávamos no nosso limite e não tínhamos escolha... }
+
+Plh_107 { Eles queriam nos arrastar para esta caverna. Eu estava exausta e não conseguia mais ficar de pé. Então Liam lutou com sua última força, gritando que não ia aceitar isso... }
+
+Plh_43 { Ele se defendeu, mas eram muitos... }
+
+Plh_108 { Ele era uma boa pessoa. Sempre cuidando de todos. Ele defendia os fracos... }
+
+Plh_121 { Estou fazendo tudo isso por ele. Sua força não deve ser perdida para este mundo. }
+
+Plh_44 { Sim. Mas já era tarde demais... }
+
+Plh_7 { *pisca* Eu não desejo nada mais, mas sem armas, somos impotentes... }
+
+Plh_52 { O depósito contém algumas armas, mas Mali está sempre por lá. }
+
+Plh_55 { Talvez possamos fazer algo a respeito. Diga a Mali que eu estou piorando. Ela cuidou de mim ontem, então provavelmente fará isso novamente... e estaria distraída. }
+
+Plh_58 { Mas você ainda terá que abrir a porta de alguma forma... Eu não tenho a chave. }
+
+Plh_122 { Eu só quero sair daqui... }
+
+Plh_12 { Então você... cuidou da comida... }
+
+Plh_13 { Obrigada... }
+
+Plh_19 { Aqui... Essa é sua porção para hoje. }
+
+Plh_99 { ... }
+
+Plh_20 { Seu segundo dia, já. Parece que você está pegando o jeito, hein? É melhor não se afastar muito de Hasso. Pode ficar perigoso nessas ruínas... }
+
+Plh_68 { *inspira profundamente* *tosse* }
+
+Plh_110 { Como você está, Bruna? }
+
+Plh_111 { Nunca estive melhor. Talvez algumas dores e desconfortos, mas vale mais do que estar livre novamente. Preciso de um tempo para mim agora. Obrigada por tudo, $GVAR:EVars_Player.Name$. }
+
+Plh_80 { Lanzo, o que eu devo cozinhar se você não me trouxer nada? Ensopado de pedra e musgo? }
+
+Plh_81 { Se enchesse meu estômago, eu até comeria isso. Mas os estômagos deles não conseguem lidar com nada. $GVAR:EVars_Player.Name$ pegará alguns cogumelos deliciosos hoje. Talvez você consiga até um pouco de carne de um porquinho de escavação. }
+
+Plh_106 { Espero que você não desmaie. Caso contrário, teremos que usar nossas provisões. E ninguém quer fazer isso. Definitivamente não. }
+
+Plh_82 { Coletar cogumelos é perigoso. Um de vocês deveria fazer isso — não temos armaduras ou armas! }
+
+Plh_83 { Cuidado, Bruna. É melhor manter seu conselho para si mesma. $GVAR:EVars_Player.Name$ vai conseguir. Se não... não é uma perda. }
+
+Plh_84 { Maldito escroto... Eu o odeio... Ele QUER que soframos! }
+
+Plh_85 { Está perigoso lá fora, então fique atenta. }
+
+Plh_87 { Eu vou conseguir, não se preocupe. }
+
+Plh_88 { Agora estou um pouco assustada. }
+
+Plh_86 { A última pessoa enviada lá disse isso também — bem antes de desaparecer no ar. }
+
+Plh_90 { Espera, eu tenho algo aqui que Lanzo não encontrou... }
+
+Plh_89 { Leve isso com você. Pode te salvar se você se meter em apuros. }
+
+Plh_93 { Vamos torcer para que eu não precise disso... }
+
+Plh_92 { E o que exatamente eu devo trazer para você? }
+
+Plh_94 { Eu também espero... }
+
+Plh_95 { Traga-me $GVAR:BanditMineBrutus_Day03.CountMushrooms$ cogumelos sombrios e $GVAR:BanditMineBrutus_Day03.CountCaveMushrooms$ cogumelos de caverna. Isso deve ser suficiente para todos. }
+
+Plh_96 { Carne seria ótima também, mas não vale o risco. Apenas volte em uma peça. }
+
+Plh_97 { É só ir até Kolina. Você a encontrará quando for para o sul das acomodações. Ela está de plantão. }
+
+Plh_91 { Deixe-me te dar um conselho: leve apenas o que precisamos, e volte direto. Sem riscos desnecessários. }

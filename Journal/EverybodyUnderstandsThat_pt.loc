@@ -1,0 +1,13 @@
+Entry_01 { Olga e Luten precisam de extrato de callashroom para confeccionar um talismã que desejam dar a Helma. Humbert pode me dizer onde encontrar esses cogumelos. }
+
+Entry_03 { Humbert me disse que ele precisa de $GVAR:QuestVars_EverybodyUnderstandsThat_Config.AmountOfCallashrooms$ callashrooms para fazer o extrato. Eu devo encontrá-los fora de Nemeton, no Red Moor. }
+
+Entry_04 { Eu consegui o extrato. Agora só preciso levá-lo a Olga e Luten. }
+
+Entry_05 { Olga e Luten receberam o extrato de callashroom e conseguiram confeccionar o talismã. Eles estão me esperando do lado de fora da Cabana, para que possamos entregá-lo a Helma juntos. }
+
+Entry_06 { O presente de Olga e Luten foi bem recebido. }
+
+Title { Um Talismã para Helma }
+
+Entry_07 { O Festival do Fogo acabou. }

@@ -1,0 +1,53 @@
+Plh_5 { Bem, bem, um rosto novo por aqui. }
+
+Plh_26 { Bem-vindo a bordo. Lembre-se sempre — por aqui, nada supera uma boa noite de sono, e para isso você precisa de uma boa cama. Um lugar para descansar acabou de abrir. Como se fosse feito sob medida para você. }
+
+Plh_27 { Que sorte, devo dizer... }
+
+Plh_28 { Onde fica essa cama? }
+
+Plh_29 { E qual é a armadilha? }
+
+Plh_30 { Certo? *sorri* }
+
+Plh_31 { Está bem ali. }
+
+Plh_7 { Bom, me mostre a cama. }
+
+Plh_8 { Não, não estou nem um pouco cansado. }
+
+Plh_9 { Como quiser. Mas você vai ficar cansado eventualmente, então volte para mim se quiser a cama. }
+
+Plh_33 { Ninguém aqui pode oferecer um lugar mais confortável para dormir. Ninguém mais pode oferecer nenhum tipo de cama. }
+
+Plh_32 { Que armadilha? Você quer dormir, eu tenho uma cama. Que tipo de armadilha poderia haver? }
+
+Plh_46 { Tudo bem, siga-me. }
+
+Plh_6 { Aqui está a cama. Vai custar apenas $GVAR:EVars_Blanda.PriceBed$ moedas. }
+
+Plh_10 { Tudo bem, aqui estão. (dá $GVAR:EVars_Blanda.PriceBed$ moedas) }
+
+Plh_11 { Mudei de ideia. Não preciso de uma cama afinal. }
+
+Plh_16 { Eu te dou $GVAR:EVars_Blanda.HalfPriceBed$ moedas por isso. }
+
+Plh_13 { O quê, pagar? Mas há toneladas de camas aqui. }
+
+Plh_17 { Dormir bem pago é o melhor sono! }
+
+Plh_25 { Você está tentando me enrolar? Você não tem quase o suficiente! }
+
+Plh_39 { Esqueça. E pare de perder meu tempo. }
+
+Plh_14 { Agora que andamos todo esse caminho aqui. Eu te mostrei tudo e expliquei, e então... }
+
+Plh_34 { ... ENTÃO você decide que não quer? Ou seu cérebro não está funcionando porque você está tão cansado, ou você simplesmente não está prestando atenção. Última chance, ou vou dar isso a outra pessoa. }
+
+Plh_12 { Certo. Você pode dormir em qualquer lugar. Mas acredite em mim — depois que você dorme em uma CAMA ADEQUADA, você acorda se sentindo muito melhor. }
+
+Plh_35 { Ou apenas se jogar em algum monte de palha mofada. Melhor do que nada, mas se você realmente quiser descansar, compre uma cama. }
+
+Plh_47 { Você quer? Eu te dou. }
+
+Plh_48 { Então não perca meu tempo também. }

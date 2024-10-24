@@ -1,0 +1,57 @@
+Plh_5 { Você precisa de Musgo Ferrugento? }
+
+Plh_31 { O que você está fazendo aqui? }
+
+Plh_32 { O que você acha que estou fazendo? }
+
+Plh_33 { Trabalhando, conversando, fumando um pouco de Musgo Ferrugento de vez em quando, enxaguando e repetindo. As coisas que se faz como Hewer. }
+
+Plh_29 { A Divindade precisa ficar atenta. }
+
+Plh_30 { Sim! Por Jero! Por nossa liberdade! Pela Torre Vermelha! }
+
+Plh_23 { *boceja* O que foi? }
+
+Plh_6 { Sim! Você está fazendo recados para Boris? Estou esperando por coisas novas há dias! }
+
+Plh_34 { Eu não tenho mais nada. }
+
+Plh_7 { Sim, mas é apenas uma vez. }
+
+Plh_8 { Exatamente. E eu carrego as melhores coisas que você já experimentou. }
+
+Plh_35 { Já acabou tudo? Droga! }
+
+Plh_9 { Não me importo! O principal é que há mais suprimento! }
+
+Plh_11 { Quanto você quer por isso? }
+
+Plh_13 { Me pague $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ moedas, e você tem um acordo. }
+
+Plh_14 { Isso é realmente bom. Eu te dou um por $GVAR:QuestVars_JobForBoris_Config.ScamPricePerJoint$ moedas. }
+
+Plh_15 { As coisas estão ficando mais caras a cada minuto. Aqui, leve. }
+
+Plh_22 { É isso que torna toda a miséria válida. Obrigado. }
+
+Plh_16 { O quê? Isso é duas vezes mais do que da última vez! Não me faça de otário. }
+
+Plh_17 { Tudo bem, fine, o preço real é $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ moedas. }
+
+Plh_18 { Está ficando mais difícil conseguir essa coisa. Leve ou eu ofereço a alguém. }
+
+Plh_21 { Não tente me enganar! Caso contrário, contarei ao Boris sobre seu "preço ajustado." }
+
+Plh_19 { *grunhe* Esse Boris... }
+
+Plh_20 { Primeiro ele quase dá o Musgo Ferrugento de graça, e agora eu mal posso pagar por isso. }
+
+Plh_24 { Tudo bem, me passe antes que acabe. }
+
+Plh_10 { É isso que pessoas como você sempre dizem quando querem empurrar algo. }
+
+Plh_12 { Ei! Ouvi que você está vendendo Musgo Ferrugento fresco para o Boris! Você tem algum para mim? }
+
+Plh_27 { *GRITA* }
+
+Plh_28 { Inacreditável — a Divindade foi derrotada! }

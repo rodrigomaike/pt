@@ -1,0 +1,219 @@
+Plh_28 { Eu encontrei Hansi. Ele não parece bem. }
+
+Plh_77 { Sobre a pedra de glifo... }
+
+Plh_109 { Sobre as ovelhas... }
+
+Plh_110 { Você tem as $GVAR:QuestVars_RipperAmbush.SheepCosts$ moedas? }
+
+Plh_119 { Sobre os sapos... }
+
+Plh_120 { Você tem as $GVAR:QuestVars_RipperAmbush.YCosts$ moedas? }
+
+Plh_60 { Olá, meu amigo. Eu sou Gawan. Notei que você e esse Faol caçaram os rippers ao norte daqui. Bom trabalho! }
+
+Plh_61 { A cerveja é por minha conta! }
+
+Plh_62 { Continue assim! (bebe cerveja) }
+
+Plh_63 { O que você quer de mim? }
+
+Plh_64 { Você mereceu. Esses malditos rippers estão causando tanto problema. }
+
+Plh_65 { Diga... Estou procurando Hansi. Você não aconteceu de encontrar um cadáver onde estavam os rippers? Um com uma estranha pedra de glifo amarela? }
+
+Plh_72 { Espere, sobre o que se trata? }
+
+Plh_8 { Hansi e eu estávamos a caminho de Nemeton do acampamento dos Remnants. Fizemos bons negócios lá. *sorri* }
+
+Plh_56 { Fomos atacados por rippers no caminho. Eu mal consegui me defender, mas... }
+
+Plh_9 { Hansi não conseguiu. Ele foi dilacerado. Eu consegui salvar minhas coisas, mas Hansi tinha a pedra de glifo com ele. Essa era a razão pela qual fomos a Nemeton em primeiro lugar. }
+
+Plh_59 { Aqueles seres arrastaram Hansi até a colina. Eles dificilmente comeriam a pedra de glifo, então ela deve estar com ele. Se você a trouxer para mim, eu vou vendê-la em Nemeton. E você receberá uma parte. }
+
+Plh_10 { O que a pedra de glifo faz? }
+
+Plh_11 { O que exatamente aconteceu com Hansi? }
+
+Plh_14 { Seu amigo está morto, e isso não te incomoda?! }
+
+Plh_18 { Talvez eu pudesse procurar a pedra de glifo? }
+
+Plh_58 { Eu não quero ter nada a ver com isso. }
+
+Plh_12 { É uma pedra muito antiga. Hansi encontrou um comerciante em Nemeton que queria nos dar uma carga de moedas por ela. }
+
+Plh_66 { Traga-me a pedra, e eu a venderei em Nemeton. Trabalhando juntos, podemos ganhar algumas boas moedas. }
+
+Plh_13 { Eu te disse que ele a comprou! Isso não é suficiente? Você quer que eu te explique como eles o esventraram? }
+
+Plh_15 { Bem, amigo... ou devo dizer, idiota. Eu sou quem teve que trabalhar com ele. Ele está morto e eu estou quebrado. Ótimo, simplesmente ótimo. }
+
+Plh_20 { Eu sabia na hora que podia contar com você! Espero que a pedra ainda esteja com Hansi... }
+
+Plh_34 { Pense nisso. Se conseguirmos a pedra de glifo, seremos ricos. }
+
+Plh_29 { Ninguém vai parecer tão bem depois de ser dilacerado. De qualquer forma, e quanto à pedra de glifo? }
+
+Plh_30 { Não estava no corpo dele. (mentir) }
+
+Plh_31 { Aqui está a pedra de glifo. }
+
+Plh_74 { Não tenho certeza. Vou ter que olhar mais um pouco. }
+
+Plh_32 { Que história! Obrigado por nada. Agora vou ter que ver onde posso ficar... }
+
+Plh_78 { E quanto a uma recompensa? }
+
+Plh_79 { Boa sorte. }
+
+Plh_80 { Estou quebrado! Não tenho nada para te dar! }
+
+Plh_81 { Que pena... }
+
+Plh_33 { Não posso acreditar! Pelas Divindades! Você me salvou! Você nos deixou ricos! }
+
+Plh_37 { Ah, a recompensa... bem... Assim que eu vender a pedra de glifo, você receberá sua parte. E então seremos ricos! Você tem a minha palavra! }
+
+Plh_38 { Então fique de olho em mim em Nemeton! Agora vá, siga seu caminho! }
+
+Plh_75 { Se encontrarmos a pedra de glifo, seremos ricos! }
+
+Plh_76 { Você tem a pedra de glifo? }
+
+Plh_73 { *murmura* Me deixe em paz... }
+
+Plh_130 { Trabalhamos bem juntos, mas agora devemos seguir caminhos separados. }
+
+Plh_121 { Aí está você! Eu sou fiel à minha palavra, ou meu nome não é Gawan. }
+
+Plh_132 { Eu vendi a pedra de glifo. Rendeu tantas moedas quanto eu esperava. Investi tudo de imediato em um novo negócio, que fará as moedas se multiplicarem. }
+
+Plh_133 { Faça algo valioso com sua parte também. *sorri* }
+
+Plh_122 { Enfrentei vários problemas. Nem tudo saiu exatamente como eu queria, mas ainda tenho uma boa quantia de dinheiro para você. *sorri* }
+
+Plh_123 { Então eu vou receber minhas moedas agora? }
+
+Plh_124 { Qual é o truque? }
+
+Plh_151 { Dê uma olhada nos meus novos amigos. Hansi e $GVAR:EVars_Player.Name$. Eu os comprei com todas as minhas moedas. Valeu a pena cada centavo! }
+
+Plh_152 { O sapo um é nomeado — por mim? Não sei o que dizer... }
+
+Plh_153 { E as moedas? }
+
+Plh_125 { Você deve se sentir honrado! Um símbolo da minha apreciação pela sua ajuda! Para você eu tenho... }
+
+Plh_126 { $GVAR:QuestVars_RipperAmbush.YMoney$ moedas! }
+
+Plh_128 { Agora estamos realmente bem! }
+
+Plh_129 { Um prazer fazer negócios com você. Mas agora devemos seguir caminhos separados. Pense em mim ao gastar essas moedas. }
+
+Plh_127 { $GVAR:QuestVars_RipperAmbush.SheepMoney$ moedas! }
+
+Plh_154 { Uh, sim, claro. Estritamente negócios, não é? Para você eu tenho... }
+
+Plh_113 { Estive procurando você! Tenho ótimas notícias! }
+
+Plh_114 { A fazenda de ovelhas foi um sucesso completo! Nós ganhamos uma fortuna em moedas! }
+
+Plh_115 { Então entregue-as! }
+
+Plh_139 { Mas poderíamos triplicar nossas moedas! Recebi um conselho de alguém sobre como fazer isso... }
+
+Plh_140 { Sapos! }
+
+Plh_141 { Sapos...? }
+
+Plh_142 { Em toda a Grande Charneca, há tesouro perdido a ser encontrado. Mesmo na água. Ninguém se atreve a olhar lá. Mas quem vai? }
+
+Plh_143 { Sapos! }
+
+Plh_146 { Isso é brilhante! }
+
+Plh_144 { Espere... Sapos podem procurar tesouro para nós? }
+
+Plh_145 { Isso é realmente estúpido. }
+
+Plh_147 { Oh sim! }
+
+Plh_149 { Como isso vai funcionar? }
+
+Plh_150 { Vou comprar alguns sapos. Eles procuram tesouro na Grande Charneca e nos trazem. Há um grande lago, ao norte da Georgefarm. É lá que vou começar. Ficaremos ricos rápido! }
+
+Plh_116 { As ovelhas geraram um lucro decente, mas não é o suficiente. Eu ainda preciso de $GVAR:QuestVars_RipperAmbush.YCosts$ moedas. Você está dentro? }
+
+Plh_148 { Toda nova ideia é estúpida, certo? Toda mudança é ruim, certo? Mas uma visão pode mudar todo o mundo! }
+
+Plh_131 { Eu vendi a pedra de glifo por muitas moedas e comprei ovelhas, e então eu vendi as ovelhas! }
+
+Plh_83 { Ah, aí está você! Ótimo te ver! }
+
+Plh_84 { Você trouxe minhas moedas? }
+
+Plh_85 { O que você está fazendo aqui com as ovelhas? }
+
+Plh_86 { Okay... então... Ouça-me. Consegui vender a pedra de glifo e conseguir muitas moedas por isso. }
+
+Plh_87 { Mas você tem que gastar moedas para fazer moedas. Então, fiz um acordo com Gerion que vai te surpreender. Então segure o chapéu. As moedas... }
+
+Plh_88 { NÓS AS DOBRAREMOS! }
+
+Plh_90 { Eu só quero minhas moedas, como combinamos. }
+
+Plh_91 { Como isso vai funcionar? }
+
+Plh_89 { Você vai recebê-las. Mas ouça... }
+
+Plh_92 { Comprei as ovelhas de Gerion a um preço muito baixo. Vou administrar uma fazenda de ovelhas. }
+
+Plh_137 { Então você vai ser — um pastor? }
+
+Plh_135 { Não, você precisa pensar fora da caixa. Veja o quadro geral. Ovelhas são puro ouro. Ovelhas GERAM ouro real. }
+
+Plh_138 { Você enfia grama em uma ovelha, e a ovelha cresce lã, que eu transformo em moedas. E onde eu consigo grama? Bem? ELA CRESCE SOZINHA! SIMPLES ASSIM! }
+
+Plh_93 { Mas para começar meu... uh, NOSSO empreendimento de fazenda de ovelhas, preciso de mais algumas moedas. Já coloquei minha parte. Mas você deve ter algumas moedas...? }
+
+Plh_95 { Quantas você precisa? }
+
+Plh_96 { Não sei... }
+
+Plh_97 { Escute, eu só preciso de $GVAR:QuestVars_RipperAmbush.SheepCosts$ moedas. }
+
+Plh_98 { Sim, eu sei. É mais do que algumas. Mas eu já te expliquei. Quantidades infinitas de grama. Quantidades infinitas de lã... }
+
+Plh_99 { DOBRE AS MOEDAS! }
+
+Plh_108 { Tenha paciência. Eu ainda não tenho as moedas. }
+
+Plh_52 { Ei, você aí. Eu sou Gawan. Estou procurando pessoas para me ajudar com meu negócio. E você parece que já tem algumas batalhas nas costas. Negócios também é uma batalha. Quer ganhar algumas moedas? }
+
+Plh_53 { Sempre. Qual é o negócio? }
+
+Plh_54 { Não, obrigado. }
+
+Plh_55 { Você não pode estar falando sério. Todo mundo precisa de moedas. Pelo menos me ouça... }
+
+Plh_6 { *murmura* O que você quer? }
+
+Plh_117 { Eu estou dentro. (Dê $GVAR:QuestVars_RipperAmbush.YCosts$ moedas) }
+
+Plh_101 { Deixe-me pensar sobre isso. }
+
+Plh_102 { Não quero ter nada a ver com isso. Estou fora. }
+
+Plh_106 { Nós vamos ganhar moedas mais rápido do que podemos gastá-las. Eu te aviso quando for hora de colher. *sorri* }
+
+Plh_103 { Não demore muito. A oferta não ficará na mesa para sempre. }
+
+Plh_104 { Então suma. Eu preciso apenas de pessoas que acreditam em mim. Vou encontrar outra pessoa. }
+
+Plh_100 { Eu estou dentro. (Dê $GVAR:QuestVars_RipperAmbush.SheepCosts$ moedas) }
+
+Plh_155 { *cospe no chão* Eu não quero ter nada a ver com você. Suma. }
+
+Plh_156 { Tive uma nova ideia de negócio, mas não consegui encontrar você em lugar algum. Tive que investir minhas próprias moedas. }

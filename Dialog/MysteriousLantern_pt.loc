@@ -1,0 +1,9 @@
+Plh_0 { *Você está diante de um pedestal bizarro. Um esqueleto se projeta dele. Você vê algum tipo de objeto deitado sobre ele. O pedestal parece quase vivo...* }
+
+Plh_5 { (pegar objeto) }
+
+Plh_1 { (tocar cuidadosamente o esqueleto) }
+
+Plh_3 { *Ao remover o objeto do pedestal, você ouve um suspiro de alívio. O esqueleto no pedestal parece relaxar.* }
+
+Plh_4 { *Lentamente, você move sua mão em direção ao esqueleto. No momento em que a ponta dos seus dedos toca um osso, uma dor repentina atravessa seu corpo. Instintivamente, você puxa a mão de volta.* }

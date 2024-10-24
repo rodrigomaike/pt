@@ -1,0 +1,9 @@
+Title { Ajuda no Bosque }
+
+Entry_01 { Kerr quer que eu capture $GVAR:QuestVars_ButterfliesAllAround_Config.AmountOfButterfliesNeeded$ borboletas especiais no Bosque Sagrado. Aparentemente, posso reconhecê-las pelas suas asas especiais. }
+
+Entry_02 { Eu trouxe todas as borboletas comigo. }
+
+Entry_03 { Kerr ficou feliz com a minha ajuda e me deu uma recompensa. }
+
+Entry_00 { Um druida no Bosque Sagrado precisa de ajuda com algo. O Bosque Sagrado fica ao norte de Nemeton. Posso chegar lá atravessando a ponte a leste, perto do armazém. }

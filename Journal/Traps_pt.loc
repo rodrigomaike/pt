@@ -1,0 +1,7 @@
+Title { Armadilhas para Chunnaic }
+
+Entry_01 { No momento, Chunnaic não tem ninguém capaz de fabricar armadilhas, por isso está disposta a pagar bem por armadilhas de urso. Se eu lhe trouxer três armadilhas de urso, ela me pagará $GVAR:QuestVars_Traps_Config.Reward$ moedas. }
+
+Entry_02 { Conversei com Caspara, que sabe lidar com armadilhas. Tenho certeza de que Chunnaic aceitará a ajuda dela. }
+
+Entry_03 { Chunnaic me deu minha recompensa. }

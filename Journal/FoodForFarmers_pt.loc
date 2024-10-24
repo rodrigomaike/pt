@@ -1,0 +1,17 @@
+Entry_01 { Delani quer que eu prepare uma "Refeição do Fazendeiro" para os trabalhadores dela. Os ingredientes estão listados na receita que ela me deu. Posso encontrar os itens mais importantes no baú. Mas devo retirar ingredientes suficientes para apenas sete refeições. Nada mais! }
+
+Entry_02 { Eu preparei a comida. Agora, tudo o que resta para eu fazer é entregá-la a todos. }
+
+Entry_03 { Eu dei uma porção a Jurek e outra a Jerzy. }
+
+Entry_04 { Dylara e Mirron também estão satisfeitos agora. }
+
+Entry_05 { Raya e Fleur também receberam sua comida. }
+
+Entry_06A { Delani está satisfeita com meu trabalho. Ela vai relatar a Georg, que também deve me pagar. }
+
+Entry_06B { Delani percebeu que eu peguei algo do baú. Ela vai contar a Georg sobre minha ajuda, mas eu devo aceitar o que roubei como minha recompensa. Ela está realmente chateada. }
+
+Title { Comida para os Trabalhadores }
+
+Entry_04B { Eu trouxe uma refeição para Dylara. }

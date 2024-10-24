@@ -1,0 +1,585 @@
+Plh_13 { Está tudo bem com a Bertine? }
+
+Plh_311 { Espere, você não negocia com moedas? }
+
+Plh_320 { O Tristan disse que você encontrou um caminho através da Chama Negra. }
+
+Plh_322 { O que é essa coisa zumbindo ao seu redor o tempo todo? }
+
+Plh_301 { Você está vendendo algo? }
+
+Plh_96 { O que você estava conversando com os outros agora há pouco? }
+
+Plh_34 { Seu Wayward não será mais um problema. }
+
+Plh_126 { Cay e eu coletamos os cogumelos. }
+
+Plh_217 { Estou com fome. Vamos comer. }
+
+Plh_0 { Eu sou suposto para pegar um pouco de comida para os porquinhos de vocês. }
+
+Plh_247 { O Diemo não veio aqui com você? Não o vejo em lugar nenhum. }
+
+Plh_267 { O Diemo me atacou. }
+
+Plh_268 { O Diemo está... morto. }
+
+Plh_312 { Que uso teríamos para moedas? Temos o Grande Javali e os porquinhos. Isso é mais do que suficiente. }
+
+Plh_321 { Sim, isso é verdade, nossas centelhas nos protegem dele. Mas, você sabe, geralmente estou aqui de qualquer forma, então... }
+
+Plh_323 { Oh, você se refere à minha centelha? É como meu familiar. Cada um de nós Bonded tem uma. Ela repele a Chama Negra e ilumina nosso caminho. }
+
+Plh_291 { Eu tenho algumas coisas da floresta e algumas que o Anatoli encontrou. Mas eu só negocio. Não queremos moedas de outras pessoas aqui. }
+
+Plh_345 { Eu peguei tudo o que consegui carregar quando fugimos. Dê uma olhada. }
+
+Plh_22 { Vamos conversar mais tarde. }
+
+Plh_4 { _ToDo_ }
+
+Plh_339 { E agora uma besta descontrolada. Isso é DOIS criaturas que não pertencem aqui. }
+
+Plh_82 { Eu odeio dizer isso, mas aquela "aparição" ainda está à espreita na floresta, Diemo. }
+
+Plh_83 { Eu sei disso, Roarke. A Bertine tem que cuidar disso, agora que o Anatoli... }
+
+Plh_84 { A Bertine pode fazer isso! Eu acredito nela! }
+
+Plh_85 { O Grande Javali nos guiará. Eu acredito nisso. }
+
+Plh_77 { *murmura* Diemo sabe o que está fazendo. }
+
+Plh_23 { *nota você* Ei, você é novo aqui no acampamento?! }
+
+Plh_335 { Raramente acontece que alguém consiga passar pela Chama Negra. Mas agora que você está aqui, diga... }
+
+Plh_336 { Você gostaria de experimentar minha nova receita? Você não conhece as minhas outras coisas, então pode ser totalmente imparcial. }
+
+Plh_42 { Esqueça. Qualquer coisa pode estar nisso! }
+
+Plh_43 { Tudo bem, vou tentar. (aproximar) }
+
+Plh_44 { Você está perdendo, estou dizendo! Minhas iguarias não estão disponíveis em nenhum outro lugar! Elas dão cabelo grosso e um espírito ensolarado! }
+
+Plh_29 { Oh, isso me lembra, eu esqueci de me apresentar! O nome é Roarke. Sou responsável pelo conforto das criaturas no Refúgio. }
+
+Plh_314 { E qualquer um que não gostar da minha comida vai levar uma surra! }
+
+Plh_108 { Onde eu acabei agora? }
+
+Plh_107 { Como exatamente você sobrevive à Chama Negra? }
+
+Plh_109 { Na Floresta Primeval. Isso não deve ter passado despercebido para você. Nós adoramos o Grande Javali desta floresta. O fato de você ter chegado aqui sem uma centelha é... impressionante. }
+
+Plh_99 { É provavelmente melhor se você primeiro se reportar ao Diemo. }
+
+Plh_110 { *te olha confuso* Olha, eu tenho uma centelha. A centelha nos protege da Chama Negra. O Grande Javali nos deu a todos uma centelha para nos proteger. }
+
+Plh_310 { Vá em frente. Eu gostaria de conversar com você um pouco mais, mas... }
+
+Plh_45 { É do jeito que eu gosto. Aqui, e me diga imediatamente o que você acha disso. A impressão inicial é que conta! }
+
+Plh_112 { *Você experimenta a sopa. Ela tem um gosto intenso de sal e calor. Depois de engolir, um retrogosto langoroso permanece, como você nunca havia experimentado antes.* }
+
+Plh_78 { Bem salgado... }
+
+Plh_79 { Isso é realmente bom! }
+
+Plh_80 { Hm. Então talvez eu deva cortar um pouco o suor. Mas está indo na direção certa... }
+
+Plh_114 { Obrigado por me deixar experimentar. }
+
+Plh_113 { Espera... suor? }
+
+Plh_115 { Fico feliz em ajudar, Wayward. }
+
+Plh_294 { Fico feliz em ajudar, Wayward. }
+
+Plh_116 { Bem, o sal é raro na Floresta Primeval. O Tristan, o comerciante, não teve nenhum em estoque por um longo tempo. E o suor dos porquinhos também é salgado. }
+
+Plh_118 { Eu gostaria de ter sabido disso antes! }
+
+Plh_119 { Eu deveria te bater na cabeça com sua concha! }
+
+Plh_120 { Por que você faria isso? }
+
+Plh_121 { Agora fique calmo. É apenas o sal que está te deixando agitado. Isso vai passar. }
+
+Plh_81 { Sério? Quem diria que o suor é um ótimo substituto para o sal? }
+
+Plh_325 { Ei, $GVAR:EVars_Player.Name$! }
+
+Plh_300 { VOCÊ! Pelos Divinities! Por que você, de todas as pessoas! }
+
+Plh_241 { Parabéns pela sua centelha. Não é nada mal! }
+
+Plh_242 { Estou fazendo a antiga favorita do Anatoli: deliciosa sopa de cogumelos! }
+
+Plh_218 { Obrigado por me parabenizar. }
+
+Plh_222 { Sopa de cogumelos? }
+
+Plh_220 { *sorri* De nada. }
+
+Plh_221 { Já adicionei todos os ingredientes. Bem, exceto pelos cogumelos. É por isso que... }
+
+Plh_224 { Entendi. Você quer que eu colete esses cogumelos. }
+
+Plh_225 { Eu não quero coletar cogumelos agora. }
+
+Plh_226 { Eu sei, isso foi totalmente inesperado! }
+
+Plh_228 { Há um problema com isso. Os cogumelos estão debaixo da terra. Você tem que farejá-los. E é para isso que você precisa do Cay. }
+
+Plh_229 { Como o Cay deve me ajudar com isso? }
+
+Plh_231 { Não há outra maneira? }
+
+Plh_232 { Aquele pequeno danado é mais capaz do que você pode pensar. }
+
+Plh_234 { O Cay tem um senso incrível para encontrar os melhores cogumelos. Quando você o alimenta, ele geralmente sai correndo imediatamente para conseguir mais. Você poderia levá-lo e encontrar alguns? }
+
+Plh_235 { Tudo bem, eu vou trazer cogumelos para você. }
+
+Plh_236 { Vou ver se consigo encontrar tempo para isso... }
+
+Plh_237 { Eu sabia que podia contar com você! Se você me conseguir três cogumelos, estaremos prontos. }
+
+Plh_238 { Você faria um grande favor para as pessoas aqui. Desde que o Anatoli morreu, todo mundo está um pouco nervoso. Especialmente a Bertine. }
+
+Plh_334 { Três cogumelos seriam suficientes para eu preparar uma refeição que você nunca esquecerá. }
+
+Plh_233 { O Cay já está muito amigável com você! Você não vai se arrepender! }
+
+Plh_227 { Vamos lá, você faz parte dos Bonded. Faça isso em homenagem ao Anatoli! }
+
+Plh_223 { Confie em mim, você vai adorar! }
+
+Plh_123 { Você faz parte dos Bonded. Parabéns! }
+
+Plh_280 { Saia da minha frente. Você nos traiu! }
+
+Plh_326 { Prazer em vê-lo. E bom ter você com os Bonded! }
+
+Plh_244 { A Floresta Primeval... nosso lar... tudo perdido. }
+
+Plh_246 { E o Diemo... Isso não pode estar acontecendo... }
+
+Plh_285 { Vamos lá, velho. Deixe-me cantar outra música para você! Isso vai levantar seu ânimo. }
+
+Plh_286 { A última coisa que preciso agora é do seu grito. Mesmo que eu tivesse moedas, preferiria gastá-las em uma cerveja gelada no Olaf's do que em você. }
+
+Plh_287 { Eu sou subestimado aqui! }
+
+Plh_340 { É só isso que você se importa?! Pare de me atormentar com essa conversa. }
+
+Plh_288 { ... Eu tenho outras coisas com que me preocupar agora. }
+
+Plh_341 { Não estou interessado em você — me deixe em paz. }
+
+Plh_346 { Espero que encontremos um novo lar... }
+
+Plh_15 { *sorri para você e parece orgulhoso* }
+
+Plh_14 { Aí está você, a alma perdida que nunca foi perdida! }
+
+Plh_16 { Ei, Roarke, eu consegui! }
+
+Plh_17 { Você sabe por que eu já recebi minha centelha? }
+
+Plh_19 { Vejo você no acampamento. }
+
+Plh_18 { Nós nunca vimos nada parecido. Você acaba de chegar e já tem uma centelha. }
+
+Plh_329 { A Birka está aqui desde sempre, e ela está recebendo a dela só agora. Nada mal! }
+
+Plh_20 { Porque a Divindade decidiu assim. Isso é tudo que preciso saber. E você também. }
+
+Plh_21 { Claro. Venha quando quiser cozinhar comigo! }
+
+Plh_97 { Hm? Oh, no momento há algumas coisas erradas com nossa floresta... }
+
+Plh_46 { Outro dia, quando eu estava coletando cogumelos para a ninhada do Taron, ouvi arranhões altos e um rugido assustador. Deve ser um Wayward... }
+
+Plh_302 { E não quero dizer Wayward como você. Você não os ouviria arranhando e rugindo. É provavelmente algum animal perigoso que está perturbando a tranquilidade da floresta. Um urso, se meus ouvidos não me enganam. }
+
+Plh_296 { Alguém realmente precisa cuidar desse Wayward. O Diemo estava prestes a fazer a Bertine cuidar disso, mas ela não está deixando ninguém falar com ela agora. }
+
+Plh_88 { Diemo? }
+
+Plh_50 { O que é um Wayward? }
+
+Plh_48 { Ninguém mais pode cuidar do Wayward? }
+
+Plh_89 { Esse é o cara com quem acabei de falar. Nos velhos tempos, ele e eu nos estabelecemos na Floresta Primeval. Este Refúgio — nós construímos tudo isso juntos. }
+
+Plh_51 { Você é um Wayward também. Alguém que não pertence à Floresta Primeval, mas está aqui mesmo assim. Normalmente, eles não são pessoas, mas monstros ou animais. }
+
+Plh_52 { Ninguém aqui realmente sabe lutar. A Bertine, possivelmente, mas ultimamente ela não tem sido exatamente... útil. }
+
+Plh_54 { *te observa* E você? Você parece capaz de lutar. }
+
+Plh_55 { Bem, eu já mandei alguns monstros para sua próxima encarnação. }
+
+Plh_56 { Depende do que há para mim. }
+
+Plh_57 { Talvez o Grande Javali tenha te guiado até nós para que você nos ajudasse. *olha para o céu* }
+
+Plh_59 { O que é o Grande Javali? }
+
+Plh_94 { Você não tem moedas? }
+
+Plh_98 { Vou cuidar do Wayward para você. }
+
+Plh_60 { O Grande Javali guarda a Floresta Primeval. Sem sua proteção, não teríamos sobrevivido aqui tanto tempo. }
+
+Plh_95 { Para que você precisa de moedas, quando você tem a bênção do Grande Javali? Ajudamos nossos Bonded sem esperar nada em troca. }
+
+Plh_28 { Você realmente quer ajudar? Excelente! }
+
+Plh_297 { Eu coletei os cogumelos perto daquela clareira a leste daqui — onde o Taron geralmente deixa os porquinhos passearem. O rugido veio de dentro da floresta. Por favor, tenha cuidado quando estiver lá fora! }
+
+Plh_313 { Mais uma coisa: Se você ver Chama Negra como a que está ao lado do acampamento, é melhor ficar longe dela! Olha... ali. }
+
+Plh_328 { Sem uma centelha, eles vão te matar antes que você possa dizer "Grande Javali." }
+
+Plh_331 { Tenha cuidado quando você entrar na floresta. }
+
+Plh_33 { Todos nós fazemos. Mas se você encontrar o Wayward mesmo assim... }
+
+Plh_58 { Não temos moedas aqui, mas tenho certeza de que o Grande Javali vai te recompensar. }
+
+Plh_87 { Diga... Você pode lutar, pode? }
+
+Plh_35 { Pelo Grande Javali! Provavelmente era um urso, não era? Essas malditas criaturas estão ficando mais audaciosas a cada dia! }
+
+Plh_36 { Em nome do Grande Javali... Você prestou um grande serviço à Floresta Primeval. Precisamos garantir que esses Wayward não perturbem o equilíbrio da floresta. }
+
+Plh_69 { Fico feliz em poder ajudar. }
+
+Plh_70 { E quanto a uma recompensa real? }
+
+Plh_71 { Vá direto ao assunto, velho. }
+
+Plh_72 { *sorri* Tenho certeza de que o Grande Javali já percebeu seu feito. }
+
+Plh_37 { Nós te forneceremos um teto, bastante comida quente e um propósito. Seja parte da floresta e viva em harmonia com a Divindade. }
+
+Plh_319 { Mas, é claro, somente se você conhecer e respeitar nossas virtudes. }
+
+Plh_100 { Como posso me tornar um de vocês? }
+
+Plh_101 { Mal posso esperar para deixar você e este lugar esquisito para trás. }
+
+Plh_102 { *sorrindo* É bom ver que você está aberto às nossas maneiras. }
+
+Plh_104 { Aqui na Floresta Primeval, vivemos por três virtudes, para que a Divindade nos aceite como parte de sua floresta e de seu mundo. Ouça e aprenda sobre uma das virtudes. }
+
+Plh_38 { A unanimidade é a pedra angular da convivência com as Divindades. Se isso for perturbado, não importa como, devemos agir nós mesmos — e para isso, precisamos da virtude da coragem. }
+
+Plh_75 { Vá com a bênção do Javali e carregue essa virtude em seu coração. }
+
+Plh_103 { É uma comunidade livre. Se você não gostar daqui, pode ir embora a qualquer momento. }
+
+Plh_106 { Mas eu já te disse que não temos moedas. *parece confuso* }
+
+Plh_73 { *te observa perplexo e levanta uma sobrancelha* Nós não temos moedas. }
+
+Plh_131 { *bate palmas repetidamente e chama* JUNTE-SE! HORA DA COMIDA! }
+
+Plh_137 { Meu querido Bonded. Para honrar nosso estimado Anatoli, preparei sua refeição favorita. E tive uma grande ajuda ao fazer isso. Agora eu gostaria de pedir a todos que digam algumas palavras. }
+
+Plh_195 { *segura o pescoço com a palma* Uh, bem, como todos sabem, Anatoli e eu não éramos exatamente melhores amigos. Mas ele não merecia o que aconteceu com ele. Que você encontre paz em sua jornada. }
+
+Plh_138 { Anatoli sempre foi muito legal comigo. Sempre que eu tinha dúvidas sobre algo, Anatoli me encorajava e me fazia sentir seguro. Que você encontre paz em sua jornada. }
+
+Plh_139 { *olha para todos* Com Anatoli fora, uma parte importante de nossa comunidade está faltando. Ninguém pode substituí-lo. Ele era meu terceiro olho dentro da Floresta Primeval. Que você encontre paz em sua jornada. }
+
+Plh_140 { *evita o olhar de todos e olha para baixo* Eu... }
+
+Plh_196 { Como todos vocês podem ficar aqui se empanturrando? Aquela coisa AINDA ESTÁ LÁ FORA! A coisa que o despedaçou! Vocês estão manchando o nome do Anatoli! }
+
+Plh_141 { Bertine! Espere! }
+
+Plh_197 { *olha ao redor confusamente* Ela simplesmente saiu... }
+
+Plh_198 { Ela provavelmente voltará em breve. Assim que ela se acalmar. Vamos continuar. Nós devemos. *olha para você esperando* }
+
+Plh_199 { (levantar) }
+
+Plh_200 { (permanecer sentado) }
+
+Plh_201 { *você se levanta, e todos estão olhando para você esperando* }
+
+Plh_203 { Que você encontre paz em sua jornada. }
+
+Plh_205 { *você fica envergonhado e permanece sentado* }
+
+Plh_208 { Anatoli era um membro de nossa comunidade. Todos nós ficamos chocados e desolados com sua morte. Que você encontre paz em sua jornada, velho amigo. Para Anatoli! }
+
+Plh_209 { E agora vamos comer! }
+
+Plh_210 { Você se superou, Roarke. Se o Anatoli ainda estivesse aqui, ele teria comido metade do caldeirão todo por conta própria. }
+
+Plh_212 { Eu tive ajuda competente! Alguém é rápido de entendimento! *sorri* }
+
+Plh_214 { *para você* Anatoli teria se dado bem com você. }
+
+Plh_216 { Obrigado por virem, todos. Estou feliz que pudemos prestar nossas homenagens juntos. Para muitos mais verões na Floresta Primeval! }
+
+Plh_211 { Anatoli provavelmente teria mencionado o leve gosto amargo. Mas é a intenção que conta! }
+
+Plh_213 { Eu acho que suas habilidades culinárias ainda precisam de aprimoramento. }
+
+Plh_215 { *para você* Só brincando! }
+
+Plh_207 { *Roarke faz uma cara desapontada e se vira novamente.* }
+
+Plh_202 { *Você permanece sentado. Alguns te olham perplexos, mas parecem estar esperando algo de você.* }
+
+Plh_143 { Vamos ver. *ele examina os cogumelos em suas mãos* }
+
+Plh_144 { Parecem bons. Talos grossos e crescimentos na pele. Como deveria ser! Bem, vou começar a preparar o caldo e as cebolas. Enquanto isso, você lida com os cogumelos. }
+
+Plh_145 { Você quer que eu cozinhe com você? }
+
+Plh_146 { Como eu preparo os cogumelos? }
+
+Plh_147 { Prefiro deixar o cozinhar para você. }
+
+Plh_148 { Claro! Cozinhar é uma experiência de união! E estamos todos sobre a união aqui! *lambe a mão pegajosa* }
+
+Plh_330 { Uma experiência realmente gloriosa! }
+
+Plh_149 { Agora ouça! O próximo passo é muito importante. }
+
+Plh_151 { Então, você pega os cogumelos e divide os talos cerca de metade para cima da parte inferior. Então você corta a metade inferior do talo. }
+
+Plh_298 { Você então pressiona os dois lados do talo cortado contra sua faca para que fique coberto com a seiva do cogumelo. }
+
+Plh_152 { Então você corta o restante do talo, corta a tampa do cogumelo. }
+
+Plh_299 { Corte a tampa ao meio até ter oito pedaços. Então você pressiona esses com o lado plano da sua faca até que a camada externa do cogumelo saia. }
+
+Plh_153 { Agora não faça uma cara! É realmente simples! Vamos lá, experimente! }
+
+Plh_154 { Sim, realmente simples. Corte os talos ao meio, amasse-os e corte-os. }
+
+Plh_155 { ... mais uma vez, por favor? }
+
+Plh_156 { Exatamente, é isso. Não se esqueça da tampa, porém! Sente-se ali na mesa. Eu vou preparar tudo aqui. }
+
+Plh_159 { (Coloque sua faca na parte inferior, divida o talo cerca de metade para cima da parte inferior) }
+
+Plh_158 { (Corte o talo completamente) }
+
+Plh_161 { *Você coloca sua faca na parte inferior do talo e a divide cerca de metade para cima do meio do talo* }
+
+Plh_162 { (Pressione o talo dividido contra os dois lados de sua faca) }
+
+Plh_163 { (Pressione o talo inteiro contra um lado da faca) }
+
+Plh_164 { (Pressione o talo juntos acima da tampa) }
+
+Plh_165 { *Você pressiona o talo dividido contra os dois lados da sua faca.* }
+
+Plh_176 { Você está pegando o jeito? }
+
+Plh_177 { Brincadeira de criança! }
+
+Plh_178 { Não estou totalmente certo ainda. }
+
+Plh_179 { Bom ouvir isso. Eu também estarei pronto em um momento. }
+
+Plh_168 { (Jogue fora o talo e corte a tampa em pedaços) }
+
+Plh_169 { (Corte o talo e corte a tampa em oito pedaços iguais) }
+
+Plh_170 { *Você joga o talo fora da mesa e começa a cortar a tampa) }
+
+Plh_173 { (Pressione o lado plano da sua faca contra os pedaços da tampa e dê-os a Roarke) }
+
+Plh_172 { (Dê o cogumelo cortado a Roarke) }
+
+Plh_174 { *Você pressiona os lados da faca contra os pedaços até que a pele do cogumelo saia. Então você entrega a Roarke seus cogumelos cortados.* }
+
+Plh_181 { Como se você não tivesse feito nada a vida toda! Bom trabalho! Agora os cogumelos podem desenvolver todo seu sabor! }
+
+Plh_183 { Agora adicionamos todos os ingredientes ao meu caldeirão e rapidamente selamos os cogumelos. Eles não devem encolher — caso contrário, eles ficarão muito doces. Venha comigo. }
+
+Plh_184 { *Roarke dá mais algumas mexidas na sopa antes de jogar o tempero final. Ele coloca um pouco de sopa em duas tigelas e te entrega uma.* }
+
+Plh_185 { Prove isso! }
+
+Plh_307 { (Provar) }
+
+Plh_308 { (Faça uma cara de desgosto e prove mesmo assim) }
+
+Plh_186 { Mh, isso é realmente bom. }
+
+Plh_187 { Isso realmente não é a minha xícara de... sopa. }
+
+Plh_188 { Mesmo se eu estivesse morrendo de fome, não comeria isso. }
+
+Plh_189 { Não é mesmo? O velho Roarke ainda consegue preparar algumas iguarias. }
+
+Plh_192 { Eu escrevi a receita. Aqui, leve-a! Desta forma, você pode fazer a sopa sozinho enquanto pensa em seu velho amigo Roarke. }
+
+Plh_193 { Espero que você consiga decifrar minha caligrafia. }
+
+Plh_194 { Uma vez que você estiver com fome, podemos reunir todos e compartilhar uma refeição. }
+
+Plh_129 { Vamos comer! }
+
+Plh_130 { Talvez mais tarde. }
+
+Plh_132 { Sem problemas. Espero que você esteja com fome! }
+
+Plh_190 { Pah, você só precisa adquirir esse gosto particular! Ou estar com fome o suficiente! }
+
+Plh_191 { Essa é exatamente a piada que o Anatoli teria feito também. Não é ruim! }
+
+Plh_182 { Isso não parece certo. Desta forma, o prato terá um leve gosto amargo. Mas não se preocupe, será delicioso mesmo assim! }
+
+Plh_175 { *Isso foi, certo? Você dá a Roarke os cogumelos cortados.) }
+
+Plh_171 { *Meticulosamente, você corta o talo. Depois disso, continua cortando a tampa até ter oito pedaços iguais.* }
+
+Plh_180 { Vá em frente! Isso vai ficar bom! Eu confio em você! }
+
+Plh_166 { *Você lentamente pressiona o talo contra um lado da faca.* }
+
+Plh_167 { *Você segura o talo sobre a tampa e pressiona com a mão até que um pouco da seiva goteje sobre a tampa.* }
+
+Plh_160 { *Um corte rápido, e você separou o talo da tampa.* }
+
+Plh_157 { *parece perplexo* Tudo bem. }
+
+Plh_150 { Ah, vamos lá, junte-se a mim. Vai ser divertido, confie em mim! }
+
+Plh_1 { O Taron deve ter te enviado. Eu enriqueci um pouco de ração com cogumelos. Isso deve ajudar a ninhada a recuperar suas forças. }
+
+Plh_315 { Uma espécie de cogumelo revigorante que cresce apenas aqui, na Floresta Primeval. Se isso não ajudar, eu não sei o que ajudará. }
+
+Plh_2 { Dê uma porção a cada um deles! Nem mais, nem menos! }
+
+Plh_5 { Tudo bem, obrigado. }
+
+Plh_3 { Quatro porções? O Taron mencionou apenas três porquinhos. }
+
+Plh_7 { Os porquinhos vão te amar por isso. *sorri* }
+
+Plh_6 { Hm? Ele me disse que precisa de algo revigorante para uma ninhada de quatro porquinhos. É melhor perguntar ao Taron para ter certeza. }
+
+Plh_8 { Ah, Bertine. Ela tem lidado com isso bem. Anatoli era como um pai para ela. Ela deve estar muito solitária. }
+
+Plh_61 { Isso me lembra da vez em que eu queria cortar um pouco de repolho para meu ensopado. O repolho estava muito solitário e não queria ser cozido todo sozinho. Ele se recusou a me deixar cortá-lo. }
+
+Plh_24 { Errar é... repolho. }
+
+Plh_25 { E o que você fez com o repolho solitário? }
+
+Plh_26 { Pode ser que você esteja faltando algumas... facas na sua gaveta? }
+
+Plh_27 { Bem, eu fui e consegui um segundo repolho. Um repolho rabugento não vai ter um gosto muito bom, afinal! }
+
+Plh_30 { Tudo tem sentimentos. Tudo está vivo. Um dia, você também aprenderá isso. Pelo menos quando estiver sendo cozinhado por conta própria. }
+
+Plh_90 { De qualquer forma... a refeição com os dois repolhos foi particularmente deliciosa. *dá um sorriso torto* }
+
+Plh_10 { O que você está dizendo? }
+
+Plh_11 { Sua cabeça está realmente bagunçada. }
+
+Plh_91 { De qualquer forma... vá até a Bertine e seja o segundo repolho dela! Ela sozinha não pode salvar o ensopado, mas com sua ajuda, vocês podem fazer isso juntos! }
+
+Plh_92 { Um repolho também tem uma cabeça. Você já considerou isso? }
+
+Plh_32 { E mesmo que eu estivesse faltando uma faca, eu apenas conseguiria outra! }
+
+Plh_248 { Diemo... está... }
+
+Plh_249 { Eu mal o reconheço mais. Ele parece ter ficado completamente louco. }
+
+Plh_270 { *te observa* Além disso, ele te amaldiçoou. Ele disse que é toda a sua culpa. Se você não tivesse chegado ao Refúgio, nada disso teria acontecido. }
+
+Plh_273 { É verdade? É sua culpa? }
+
+Plh_271 { Sim. Nós lutamos contra o Grande Javali. }
+
+Plh_272 { Não. Eu não tenho nada a ver com isso. }
+
+Plh_274 { Então Diemo estava certo afinal... }
+
+Plh_275 { Por quê? O que fizemos a você? Não aceitamos você? Tratamos você como um de nós? Diga-me! }
+
+Plh_276 { Eu não sabia o que meu povo estava planejando fazer com isso. }
+
+Plh_277 { Não preciso me justificar a você. }
+
+Plh_278 { Você, por um momento, se preocupou conosco? Com os porquinhos? A Mãe? Você é tão nefasto? }
+
+Plh_279 { Você não deveria conseguir mais olhar-nos nos olhos. Nós oferecemos nossa mão em amizade, e não só você a afastou, mas brutalmente a cortou! }
+
+Plh_281 { Espero que nunca mais cruzemos caminhos... }
+
+Plh_253 { Diemo... aguente firme. Por favor. }
+
+Plh_284 { Eu estava errado sobre você. Você deixa nada além de destruição em seu caminho. Você não sabe nada sobre compaixão, de misericórdia. }
+
+Plh_282 { E eu devo acreditar nisso? O que você pensa, eu sou estúpido? É CLARO que você teve algo a ver com isso! }
+
+Plh_289 { Desde que a Floresta Primeval foi destruída, não conseguimos encontrar Diemo. }
+
+Plh_250 { Ele deve ainda estar na Floresta Primeval. Ele estava dizendo algo sobre centelhas. }
+
+Plh_251 { Havia rippers sombrios e todos os tipos de outros monstros. Nós fugimos e devemos ter perdido Diemo pelo caminho. }
+
+Plh_252 { Nenhum de nós tem vigor suficiente para voltar à Floresta Primeval para procurá-lo... }
+
+Plh_255 { O quê? Faça com que ele veja a razão! Precisamos dele aqui! }
+
+Plh_256 { Tenha cuidado. Em seu estado de espírito, quem sabe do que ele é capaz? }
+
+Plh_254 { O quê...? }
+
+Plh_257 { Diemo está... morto? }
+
+Plh_258 { Ele está me culpando por tudo. Não ouviu nem mesmo a mim. }
+
+Plh_259 { Ele me atacou, e eu tive que me defender. }
+
+Plh_260 { Eu entendo... }
+
+Plh_262 { Diemo não merecia nada disso. Ele sempre teve um bom coração. Mas o destino nunca retribuiu sua bondade... }
+
+Plh_265 { Pelo menos agora eu sei o que aconteceu... }
+
+Plh_264 { Diemo sempre disse que é preciso saber perdoar. É por isso que eu vou fazer isso... }
+
+Plh_342 { Eu perdoo você, $GVAR:EVars_Player.Name$. O velho Diemo não gostaria que eu não o perdoasse. }
+
+Plh_343 { Mas não posso perdoar seus erros e suas transgressões. Apenas as Divindades podem fazer isso. Uma vez que você esteja enterrado no solo, elas te julgarão, como fazem com todos nós. Até lá, você terá que viver com as decisões que tomou. }
+
+aboutOtherQuests { Sobre o Diemo... }
+
+Plh_347 { Coragem para enfrentar o perigo. Coragem para questionar nossas próprias maneiras. Coragem é a força em nossos corações que nos mostra o que deve ser feito. }
+
+Plh_348 { Eu tenho algo mais para você. Você pertence a nós agora. Eu fui até a floresta e fiz este adereço para você. }
+
+Plh_349 { É para mostrar que você está ligado a nós e ao Grande Javali. }
+
+Plh_350 { Obrigado, Roarke. (coloca o adereço) }
+
+Plh_352 { Uh, eu não quero um adereço. }
+
+Plh_351 { Eu não preciso de nada assim. }
+
+Plh_354 { Claro! Você é um de nós. }
+
+Plh_353 { *sorri* Eu apenas vou te dar, de qualquer forma. Você pode fazer o que quiser com isso. }
+
+Plh_357 { Estou aqui para te avisar. Meu acampamento quer capturar o Grande Javali! }
+
+Plh_356 { Ninguém pode ferir o Grande Javali. Ele é um com esta floresta. Não sentimos medo nem preocupações dele. Não se preocupe. }

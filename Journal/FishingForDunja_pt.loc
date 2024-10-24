@@ -1,0 +1,7 @@
+Title { Peixes para Dunja }
+
+Entry_01 { Dunja precisa de $GVAR:QuestVars_FishingForDunja_Config.AmountFish$ peixes para a sopa de peixe dela. Supostamente, há alguns perto do pomar. }
+
+Entry_02 { Eu trouxe os peixes para Dunja. Amanhã, vou receber minha sopa de peixe em troca. }
+
+Entry_03 { A sopa de peixe está pronta. }

@@ -1,0 +1,27 @@
+Title { Esquadrão de Boris }
+
+Entry_01 { Boris é um dos Lâminas de Jero, e eu preciso conquistar ambos os Lâminas se eu quiser me juntar aos Remanescentes. Dizem que Boris possui uma pequena cabana ao sul da taverna de Bernold. }
+
+Entry_01A { Para me juntar a Boris, vou precisar conquistar duas pessoas do esquadrão dele. No entanto, ele não quer me dizer quem pertence ao esquadrão dele. Vou ter que descobrir isso por conta própria. }
+
+Entry_03 { Boris me fez uma oferta. Se eu pagar $GVAR:QuestVars_VoteFromBoris_Config.VoteMoneyValue$ moedas, não precisarei mais conquistar ninguém. }
+
+Entry_06 { Ester faz parte do esquadrão de Boris. Se eu ajudá-la, Boris ficará sabendo. }
+
+Entry_07 { Gera faz parte do esquadrão de Boris. Se eu ajudá-lo, Boris ficará sabendo. }
+
+Entry_08 { Lindon faz parte do esquadrão de Boris. Se eu ajudá-lo, Boris ficará sabendo. }
+
+Entry_10 { Já me juntei a uma facção. }
+
+Entry_11 { Lindon vai falar bem de mim para Boris. }
+
+Entry_12 { Gera vai falar sobre mim para Boris. }
+
+Entry_13 { Ester vai elogiar-me para Boris. }
+
+Entry_14 { Boris quer que eu me junte ao esquadrão dele. Devo me reportar a Kilian assim que conseguir o voto de Eugen e quiser me juntar aos Remanescentes. }
+
+Entry_FailedEster { Ester não votará em mim. }
+
+Entry_FailedLindon { Lindon não votará em mim. }

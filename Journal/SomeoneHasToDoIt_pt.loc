@@ -1,0 +1,7 @@
+Title { Alguém Tem Que Fazer Isso! }
+
+Entry_01 { Por necessidade, Agilo está encarregado da comida. Ele precisa que eu pegue maçãs do poço de armazenamento para que ele possa continuar o trabalho. Posso encontrar os poços de armazenamento na colina a nordeste de Agilo. }
+
+Entry_02 { Aparentemente, alguém estava mexendo nos poços de armazenamento, e Agilo está bem irritado com isso. Ele diz que na noite passada havia muito mais suprimentos. Agora a comida está escassa, e eu devo trazer para ele $GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfPlants$ frutas. }
+
+Entry_03 { Agilo agora está trabalhando na ponte. }

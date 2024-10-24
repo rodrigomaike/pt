@@ -1,0 +1,387 @@
+Plh_184 { Sobre os poços de armazenamento... }
+
+Plh_147 { Por que você tem que cozinhar, afinal? }
+
+Plh_148 { Por que as pessoas estão saindo daqui? }
+
+Plh_9 { Sobre Gero... }
+
+Plh_10 { Eu encontrei Gero. }
+
+Plh_34 { Estou procurando Kora. Você sabe onde ela está? }
+
+Plh_263 { Eu tentei a coisa com a raiz-terra... }
+
+Plh_149 { Eu não TENHO QUE cozinhar. Mas sou o único cuja comida não volta de onde veio. Ou você está vomitando ou está trabalhando, como dizem. }
+
+Plh_150 { Temos laços estreitos com Nemeton. Mas então o terremoto aconteceu, a ponte quebrou, e estamos isolados uns dos outros. E você acha que Nemeton ainda está enviando ajuda? De jeito nenhum... }
+
+Plh_307 { Alguns de nós não queriam acabar como comida de ripper, então foram para o acampamento dos Remanescentes. Qualquer um que trabalhe lá sem causar problemas é muito bem-vindo... }
+
+Plh_193 { Melhor falar com Cengiz. Você o encontrará na tenda grande. Ele te dirá como você pode nos ajudar. }
+
+Plh_346 { Gero e eu temos conversado mais aqui agora. Até agora, não tem sido tão ruim — enquanto eu continuar pagando Mursel por um lugar para dormir. }
+
+Plh_347 { Vamos ver como vou me sair na Mina. Talvez eu encontre Gero! }
+
+Plh_318 { Que monte de porcaria! Se isso continuar, ninguém de Nemeton estará aqui na próxima vez — e todos nós seremos comida de ripper! }
+
+Plh_319 { Eu nem quero imaginar isso... }
+
+Plh_100 { Os Remanescentes precisam de mais Mineiros. Quer conversar com Jola? }
+
+Plh_320 { Além disso, você está bem? }
+
+Plh_323 { Talvez você pudesse cozinhar algo para todos? Para relaxar. }
+
+Plh_321 { Além disso? Como se eu alguma vez tivesse estado bem! Na verdade, não poderia estar pior! Eu preciso do meu braço para cortar lenha! }
+
+Plh_324 { *te olha feio* Nunca mais vou ficar naquele caldeirão de novo. Prefiro trabalhar através da dor. }
+
+Plh_326 { *respira com dificuldade, segurando o braço* Eu preciso de uma pausa. }
+
+Plh_317 { Temos que acabar com essas criaturas. Deve haver mais delas. }
+
+Plh_88 { *ranger de dentes* Desde o ataque, realmente não tem sido seguro aqui. E se já estão procurando por pessoas... }
+
+Plh_89 { Você poderia ganhar suas próprias moedas com Jola... só para você. }
+
+Plh_92 { Há algo nisso. Tantos fugiram. E não estão pior, pelo que ouvi. Muito pelo contrário... }
+
+Plh_94 { Ótimo! Está decidido! *engole em seco e arqueia as costas* }
+
+Plh_348 { Vou falar com Jola! Cengiz vai me odiar, mas eu preciso começar um novo capítulo! Só para mim! }
+
+Plh_140 { O que é agora? Eu te disse que não estaria pronto antes de — }
+
+Plh_188 { *olha para cima* Quem diabos você é? }
+
+Plh_141 { Não tenha medo. Não vou te machucar. }
+
+Plh_142 { Meu nome é $GVAR:EVars_Player.Name$. }
+
+Plh_313 { Medo? Você acha que ME assusta? }
+
+Plh_143 { Novo por aqui, hein? Está olhando ao redor como um bobo. }
+
+Plh_189 { Eu sou Agilo. Lenhador de profissão. Bem, eu era. Agora sou cozinheiro. *murmura para si mesmo* Alguém tem que garantir que todos nós não morramos de fome. }
+
+Plh_284 { Na verdade, Gero deveria estar cozinhando. O ratinho. Um pequeno terremoto, e ele sumiu no ar! }
+
+Plh_285 { E agora quem tem que manusear a faca de cozinha em vez de um machado? EU! }
+
+Plh_144 { *olha sonhadoramente para o horizonte* Eu poderia cortar tanta lenha — tanta lenha... }
+
+Plh_191 { E o que está cozinhando? }
+
+Plh_192 { Maldição, as coisas estão queimando de novo! Pare de me distrair! Se não tiver um bom sabor, vou ouvir o choramingo de todo mundo! }
+
+Plh_136 { Cengiz disse que você deve ajudar com a ponte. }
+
+Plh_194 { *sorri* E quanto mais você o distrai, mais ele me deixa em paz. }
+
+Plh_314 { Você inventou isso, não foi? Bem, todos precisam ser chamados de algo. }
+
+Plh_196 { *bufa* O que devo fazer agora, levar toda a lenha para Nemeton sozinho? E pegar uma Divindade enquanto estou nisso? }
+
+Plh_197 { Ele pode esquecer. As pessoas aqui precisam da comida. }
+
+Plh_198 { Precisa de ajuda? }
+
+Plh_199 { Mas a ponte também está precisando desesperadamente de reparos... }
+
+Plh_202 { A última carne de Larea já está no pote. Podemos acelerar o cozimento. Vá até a colina onde ficam nossos poços de armazenamento. Você sabe o que é isso, não sabe? Hm. Talvez não, julgando pela expressão vazia... }
+
+Plh_286 { Um poço. Para armazenar coisas. Construído no chão. Suba a colina, e você encontrará os poços de armazenamento. A maioria deles está vazia, mas um ainda tem algumas maçãs. Traga-as para mim. Então eu também poderei ir para a ponte. }
+
+Plh_349 { Anote no seu diário se está preocupado em esquecer. Sempre é bom manter o controle das coisas, de qualquer forma. Você pode sempre conferir seu diário para ver o que precisa fazer. }
+
+Plh_203 { O que é um poço de armazenamento, mesmo? }
+
+Plh_204 { E eu posso simplesmente pegar algo dos poços de armazenamento? }
+
+Plh_205 { Vou cuidar disso. }
+
+Plh_206 { Não tenho tempo para isso. }
+
+Plh_137 { Aqui estão $GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfApples$ maçãs. }
+
+Plh_114 { Eu já te disse. UM MALDITO BURACO NO CHÃO. Com comida dentro. Precisa de algum auxílio visual? }
+
+Plh_115 { Então, mais uma vez: Suba a colina a leste daqui, e você encontrará os poços de armazenamento. Se não, então abra seus olhos. Pegue algumas maçãs. Traga-as para mim. Não deveria ser pedir demais... }
+
+Plh_208 { Claro que não! Mas agora eu te dei permissão. Então não teremos que cortar sua mão fora. Provavelmente. }
+
+Plh_116 { Muito bem, então... Se mexa! }
+
+Plh_207 { Ah, temos coisas mais importantes para fazer? Acho que eu NÃO vou para a ponte então. Cengiz provavelmente não vai gostar disso também. Então pense bem se você vai trazer essas maçãs. }
+
+Plh_351 { O quê? Então, você simplesmente pegou as maçãs dos poços de armazenamento. De qualquer forma. O importante é que estão aqui agora. }
+
+Plh_210 { $GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfApples$ maçãs? }
+
+Plh_329 { O que eu devo fazer com isso? Essas poucas maçãs podem afastar o curandeiro, mas dificilmente fazem uma refeição. }
+
+Plh_211 { Fiz o que você pediu. }
+
+Plh_212 { O que devo fazer? Não havia mais nada nos poços de armazenamento. Dê uma olhada você mesmo. }
+
+Plh_214 { Maldição. Cengiz suspeitava que alguém estava roubando dos poços de armazenamento. Ele provavelmente está certo. Ontem, havia muito mais neles... }
+
+Plh_219 { Um ladrão? }
+
+Plh_221 { O que devo fazer agora? }
+
+Plh_220 { Não importa — Eu já cuidei disso. Cengiz quer que você vá para a ponte agora. }
+
+Plh_222 { Cengiz disse que alguém tem andado por aí à noite. Mas quem seria tão desprezível a ponto de roubar da comunidade? Inacreditável. }
+
+Plh_223 { Mil rippers uivantes, que desastre! }
+
+Plh_224 { Deixe-me pensar... }
+
+Plh_288 { Já sei! As frutas vermelhas nas proximidades! Gero sempre colheu algumas. Claro, elas não fazem uma refeição completa, mas são melhores do que nada. }
+
+Plh_225 { Primeiro maçãs, agora frutas vermelhas? }
+
+Plh_226 { Gero não sabe cozinhar também? }
+
+Plh_229 { Essa sua cabeça serve para mais do que só enfiar num capacete! }
+
+Plh_227 { Espero que você precise me trazer... $GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfPlants$ frutas vermelhas. Vai até sobrar um pouco para você. }
+
+Plh_230 { *suspiro* Tudo bem. E onde eu encontro essas frutas vermelhas? }
+
+Plh_138 { Aqui estão suas frutas vermelhas. Vai precisar de mais alguma coisa, chefão? }
+
+Plh_231 { Eu cuido disso. }
+
+Plh_232 { Qualquer lugar fora do acampamento. Não é difícil de achar. Mas tenha cuidado ao ir para o sul. Há uma matilha de rippers por lá, e você não vai querer mexer com eles. Nós os deixamos em paz, e eles fazem o mesmo. }
+
+Plh_127 { Finalmente! Comida! }
+
+Plh_283 { *joga as frutas vermelhas na panela* Lá vão! }
+
+Plh_235 { Uh, você não deveria cortá-las antes? }
+
+Plh_237 { E tem certeza de que todas são comestíveis? }
+
+Plh_236 { (...) }
+
+Plh_239 { Eu sei o que estou fazendo! Eu observei o Gero o suficiente, e tenho certeza de que ele fez exatamente assim. }
+
+Plh_238 { *mexe a panela com a concha* Está cheirando bem. Deve ter um bom sabor também. E se ninguém morrer, então eu fiz certo. }
+
+Plh_240 { *pega a concha e lambe um pouco* Hmmm... *tosse* Bem, pelo menos está quente... }
+
+Plh_290 { Phew! Uhh... Bem, isso ficou ótimo. Só causa uma dor de estômago leve. Quer provar? }
+
+Plh_245 { *te oferece a concha cheia de um líquido marrom escuro que cheira a água de pântano* }
+
+Plh_242 { Não, obrigado, acabei de comer. }
+
+Plh_243 { Claro. Lá vai! (bebe o líquido) }
+
+Plh_244 { Ah, acha que é bom demais para a minha comida? Hmph. Isso significa mais para nós, então. }
+
+Plh_327 { Aqui está. Obrigado pela ajuda. }
+
+Plh_328 { É a receita do Gero. Não acho que fiz direito. Mas está bom. Se você estiver perto de uma fogueira, pode fazer isso por conta própria também. }
+
+Plh_357 { Lembre-se: Você pode se curar rapidamente com pomadas, plantas ou poções de cura, mas um estômago cheio faz maravilhas para sua vida. Não funciona tão rápido, mas é mais sustentável a longo prazo. Alguns alimentos também revigoram você — dependendo do que você cozinhar. }
+
+Plh_252 { Tudo bem, então. Não posso fazer mais nada. Vou arrumar minhas coisas e ir para a ponte. Você pode avisar Cengiz. }
+
+Plh_246 { E então? }
+
+Plh_247 { Está perfeito! }
+
+Plh_248 { Poderia ter um pouco mais de cravo. }
+
+Plh_249 { Acho que vou vomitar... }
+
+Plh_250 { Hm. Será que eu poderia ser um bom cozinheiro de verdade, e talvez...? Não, meu coração pertence ao meu machado! }
+
+Plh_251 { Não quero ouvir reclamações! Contanto que você acorde amanhã, a comida cumpriu seu propósito! }
+
+Plh_234 { *joga as frutas vermelhas e a maçã na panela* Lá vão! }
+
+Plh_228 { Gero é um dos covardes que fugiram para os Remanescentes. Por que você acha que eu tenho que continuar mexendo essa panela horrível, em vez de cortar lenha — toda aquela lenha maravilhosa... }
+
+Plh_201 { E comida não é importante? Se eu digo que vai ter comida, então vai ter comida. }
+
+Plh_200 { Melhor se fazer útil. Caso contrário, todo mundo aqui vai acabar com o estômago vazio! }
+
+Plh_355 { Eu fui aos poços de armazenamento. }
+
+Plh_356 { Então pare de falar e me dê o que você encontrou. }
+
+Plh_209 { Os poços de armazenamento estavam vazios. }
+
+Plh_216 { O quê?! Você olhou direito? Em TODOS os poços de armazenamento? }
+
+Plh_217 { Bem... Eu encontrei $GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfApples$ maçãs. }
+
+Plh_218 { Os poços de armazenamento que eu encontrei estavam vazios. }
+
+Plh_12 { A comida de Gero sempre foi deliciosa. Eu não sei como ele fazia isso... }
+
+Plh_261 { Ei, me faça um favor. Você vai passar pelo acampamento dos Remanescentes. Talvez eles não te deixem entrar, mas se deixarem... }
+
+Plh_291 { Gero e eu éramos bons amigos, e eu ficaria feliz de saber como ele está agora. Pode verificar isso para mim? Tem ficado bem perigoso por aqui desde... }
+
+Plh_13 { O que eu ganho com isso? }
+
+Plh_255 { Pode me contar mais sobre os Remanescentes? }
+
+Plh_14 { Onde posso encontrar os Remanescentes? }
+
+Plh_15 { Perigoso? }
+
+Plh_16 { Vou ficar de olho nele. }
+
+Plh_262 { Quando eu chegar ao acampamento dos Remanescentes, vou perguntar sobre ele. }
+
+Plh_18 { O que você acha que um simples lenhador como eu tem a oferecer? Hmph. Já te dei a receita secreta do Gero. Não tenho mais nada. Se vire com isso. }
+
+Plh_256 { Sabe, nem todos em Drova têm tanta certeza de que Nemeton pode se tornar a Terra das Lendas. Qualquer um que não acredita mais nisso fugiu para o acampamento dos Remanescentes. }
+
+Plh_292 { Talvez eu também esteja melhor por lá. Ouvi dizer que se você realmente se dedicar, pode ter uma vida muito boa. E nós gostamos de trabalho duro — eu e meu machado, é claro. }
+
+Plh_19 { Siga para o oeste. Apenas siga o caminho. Se você ver ruínas, está no caminho certo. }
+
+Plh_293 { Mais uma vez: siga o caminho! Não vá se aventurar pela selva! A menos que não queira sair vivo. }
+
+Plh_20 { Exatamente! Para todos os idiotas lá fora, pelo menos! Eu ainda não sei se você é um deles. }
+
+Plh_22 { Ótimo. Ficaria mais tranquilo se ouvisse de Gero novamente... }
+
+Plh_23 { Se você chegar lá, provavelmente o encontrará perto de algum caldeirão, preparando algo — como ele fazia aqui. }
+
+Plh_26 { E então? Ele ainda está com os Remanescentes? O que ele disse? Como ele está? }
+
+Plh_27 { Ele está ralando na Mina no acampamento dos Remanescentes. }
+
+Plh_28 { Trabalha duro? Então... Ele não cozinha? Ele realmente usa as mãos? Isso é engraçado. Na verdade, tudo o que ele sempre quis foi cozinhar. }
+
+Plh_29 { Ele disse que queria ganhar algumas moedas primeiro. }
+
+Plh_30 { Moedas? O que o Gero — ah, espere um minuto. Ele sempre falava sobre como queria ter sua própria taverna e cozinha. Provavelmente é mais fácil conseguir isso no acampamento dos Remanescentes do que por aqui... }
+
+Plh_294 { De qualquer forma, obrigado por verificar como ele está. Talvez eu deva sair daqui se surgir uma oportunidade... }
+
+Plh_176 { Você voltou. Vamos ver o que está acontecendo aqui. }
+
+Plh_281 { Ah, Larea... Pobrezinha. Mas o que posso fazer — tenho que continuar trabalhando. }
+
+Plh_153 { Você pegou as coisas dos poços de armazenamento? }
+
+Plh_174 { Finalmente, trabalho de verdade novamente! Nada de mais brincadeiras com o caldeirão! }
+
+Plh_4 { *resmunga* Não é uma boa hora. O que é agora? }
+
+Plh_36 { Na verdade, estou procurando por Kora, mas Cengiz disse que você poderia me ajudar com algo... }
+
+Plh_37 { Kora? Ela não está aqui. Ela foi para o acampamento dos Remanescentes. Hmph. Talvez eu deva fazer isso também... }
+
+Plh_39 { Você sabe como tratar feridas adequadamente? }
+
+Plh_40 { Tenho uma pergunta sobre uma ferida. Você sabe algo sobre isso? }
+
+Plh_41 { Claro, eu sei tudo sobre feridas. A resposta é... }
+
+Plh_297 { Sim...? }
+
+Plh_298 { Cerveja! }
+
+Plh_309 { O quê?! }
+
+Plh_300 { Ah, eu não faço ideia de como tratar feridas adequadamente. Mas já reposicionei um ombro algumas vezes, então posso te mostrar como fazer isso. Primeiro, só precisamos deslocar seu ombro, mas isso é fácil. }
+
+Plh_44 { Vamos supor — hipoteticamente — que alguém foi mordido por um ripper. O que pode ser feito? }
+
+Plh_48 { Larea se machucou. Mas ela não quer voltar ao acampamento, porque todos verão o ferimento dela. }
+
+Plh_45 { Mordido por um ripper? Isso é bem doloroso. Você só vai ter que aguentar. E qualquer um que tenha sido estúpido o suficiente para chegar tão perto de um ripper mereceu isso. }
+
+Plh_46 { O que pode ajudar a aliviar a dor? }
+
+Plh_47 { Larea está com uma dor EXTREMA — e ela precisa urgentemente de algo para tratar isso. }
+
+Plh_50 { Um ripper? Malditas criaturas, com suas garras afiadas. Hmmm... }
+
+Plh_51 { Havia uma coisa... }
+
+Plh_53 { Uma vez, Kora fez uma pomada que funcionou bem em feridas. Eu não sei o que foi usado, mas... Earthroot (raiz da terra) era um dos ingredientes, disso eu me lembro. Então deve ajudar com algo assim. }
+
+Plh_52 { Você pode amarrar um pouco de earthroot na ferida. Isso pode ajudar. Parece provável, já que está na pomada também. }
+
+Plh_55 { Tem certeza disso? }
+
+Plh_60 { Onde posso encontrar earthroot? }
+
+Plh_56 { Obrigado. Vamos ver... }
+
+Plh_57 { Como eu poderia ter certeza? Tudo o que sei fazer é reposicionar ossos. E estou com fome! Larea deveria se apressar com a carne! }
+
+Plh_62 { Tudo o que posso dizer é que Kora estava mexendo com earthroot enquanto fazia a pomada. Eu não sei o que essa coisa faz, e não estou disposto a testá-la em mim. }
+
+Plh_61 { Onde quer que haja água. Você pode cortar um pouco e amarrar na ferida. Cura bem rápido. Acho que sim. }
+
+Plh_58 { Então vá fazer isso. }
+
+Plh_59 { Não tão rápido. Tem algo errado aqui... Posso sentir. Então, fale logo! }
+
+Plh_63 { Eu estava só curioso. }
+
+Plh_64 { Não é da sua conta. }
+
+Plh_65 { Larea está ferida, mas não quer que ninguém saiba disso. }
+
+Plh_67 { Curiosidade é perigosa em Drova. A curiosidade pode te matar. Então... tenha cuidado com onde você enfia o nariz. }
+
+Plh_66 { Ei, devagar. Você perguntou para MIM, lembra? Hmph. }
+
+Plh_49 { Larea? Ela não sente dor. Ela apenas ignora coisas assim. Ela devia se apressar com a carne. }
+
+Plh_54 { Então ela deveria engolir o orgulho e vir aqui. Caso contrário, ninguém será capaz de ajudá-la. Uma lesão realmente não é nada para se envergonhar... }
+
+Plh_70 { Então vá. }
+
+Plh_38 { Depende do que você quer. }
+
+Plh_266 { E então? Funcionou? }
+
+Plh_267 { Eu tratei Larea com earthroot, mas... Não funcionou. Ela morreu. }
+
+Plh_268 { Eu fiz o que você recomendou. Agora Larea está morta. Por causa de você! }
+
+Plh_269 { Não fez nada. O earthroot não teve efeito. }
+
+Plh_270 { O-o quê? Larea está — morta? Como...? }
+
+Plh_311 { Você tem certeza de que earthroot era o remédio certo? }
+
+Plh_303 { Sim! Bem — pelo menos eu achava... Mas por que ela não veio até nós se estava em um estado tão terrível? }
+
+Plh_275 { Era importante para ela que ninguém visse o quão gravemente ferida ela estava... }
+
+Plh_276 { A ferida infligida a ela pelo ripper parecia horrível. Talvez simplesmente não houvesse como salvá-la... }
+
+Plh_277 { *olha para baixo* O mundo é cruel. Ela poderia ter vindo a nós em busca de ajuda. Não, Larea só pode culpar a si mesma. Eu... Preciso voltar ao trabalho... }
+
+Plh_278 { Você não quer falar sobre isso? }
+
+Plh_280 { Não. Agora, vá. Me deixe em paz. }
+
+Plh_271 { Não ouse tentar jogar a culpa em MIM! Eu não sou curandeiro! }
+
+Plh_312 { Foi você que me disse para usar earthroot. }
+
+Plh_305 { E eu também disse que não sabia quais eram os efeitos disso! Como ela poderia simplesmente morrer por causa disso... }
+
+Plh_306 { Alguém certamente teria ajudado — se ela tivesse vindo até nós... }
+
+Plh_272 { Hm. Bem, eu não sou curandeiro. Estranho, porém, que não tenha tido efeito nenhum... }
+
+

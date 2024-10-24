@@ -1,0 +1,9 @@
+Title { Madeira para Adwin }
+
+Entry_01 { Adwin, no Bairro dos Artesãos, precisa urgentemente de $GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$ toras de madeira. Devo buscá-las com Swenn na Praça do Mercado. }
+
+Entry_02 { Eu consegui a madeira — Jennifer e Swenn quase começaram uma briga por causa dela. Agora preciso levá-la para Adwin. }
+
+Entry_03 { Adwin recebeu a madeira, e eu recebi minhas moedas. }
+
+Entry_04 { Agora tenho coisas melhores para fazer. }

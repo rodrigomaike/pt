@@ -1,0 +1,191 @@
+Plh_9 { Então você precisa de alguém que saiba lutar? }
+
+Plh_17 { Tudo bem, eu vou com você até os sapos. }
+
+Plh_29 { Os sapos no sul estão mortos. }
+
+Plh_79 { Então é VOCÊ quem pegou toda a raiz enferrujada! Devolva! }
+
+Plh_60 { O que você está fazendo aqui? }
+
+Plh_74 { A ponte está segura novamente. }
+
+Plh_63 { Como é? }
+
+Plh_64 { Estamos esperando. }
+
+Plh_66 { O que vocês estão esperando? }
+
+Plh_65 { Eu percebi. }
+
+Plh_67 { Por guerreiros de Nemeton. }
+
+Plh_69 { A ponte para o Acampamento dos Cortadores de Madeira está insegura novamente. Não sei o que está acontecendo lá, mas as pessoas continuam desaparecendo. }
+
+Plh_70 { Eu não quero desaparecer! }
+
+Plh_72 { Enquanto não estiver seguro, vamos ficar aqui mesmo. Delani não quer nos enviar e perder mais uma entrega. }
+
+Plh_68 { Você sabe o que você não percebeu? }
+
+Plh_75 { Sério? }
+
+Plh_76 { Podemos seguir em frente amanhã! }
+
+Plh_77 { E finalmente ganhar um pouco mais de moedas! }
+
+Plh_36 { Ei! Eu estava prestes a pegar isso. Eu! }
+
+Plh_5 { Vamos lá. }
+
+Plh_78 { Agora chega! Isso é MEU! }
+
+Plh_38 { O que você quer com isso? }
+
+Plh_40 { Eu realmente não sei. O que você quer com a raiz enferrujada? }
+
+Plh_43 { Se você realmente quer, pode levar. (entrega $GVAR:QuestVars_FrogsAndRustmoss.AmountOfRustmossKlepped$x raiz enferrujada) }
+
+Plh_80 { Eu não tenho mais a coisa. }
+
+Plh_37 { Que pena. Eu cheguei aqui primeiro. }
+
+Plh_39 { O que eu quero com raiz enferrujada? Hm? Fumar! O que mais?! }
+
+Plh_41 { Você acabou de chegar em Drova ontem ou algo assim? A raiz enferrujada é transformada em Musgo Enferrujado. E fumar Musgo Enferrujado faz você esquecer todas as suas preocupações e medos. Boa coisa. }
+
+Plh_42 { E agora me dê a maldita raiz enferrujada. }
+
+Plh_45 { Obrigado! Eu preciso vender isso, se eu vou conseguir me sustentar. }
+
+Plh_46 { Quem paga por coisas assim? }
+
+Plh_50 { Isso nunca foi sobre a Charneca e as ovelhas, foi? }
+
+Plh_47 { Tanto faz. Eu preciso ir. }
+
+Plh_48 { Delani. Trabalha na Fazenda George. Ela sempre precisa de raiz enferrujada e paga boas moedas por isso. }
+
+Plh_51 { Que me importam as ovelhas? Você não pode fumar elas. }
+
+Plh_82 { Embora... }
+
+Plh_52 { Eu tenho coisas a fazer. Te vejo por aí. }
+
+Plh_49 { Não me deixe parar. }
+
+Plh_44 { *sua expressão escurece* Deixe-me em paz... }
+
+Plh_110 { Eu não preciso mais daquela máscara de sapo. Você pode ficar com ela. }
+
+Plh_108 { Ribbit! Ribbit!! Isso não soa certo. }
+
+Plh_106 { Por que você está usando uma máscara de sapo? }
+
+Plh_7 { Você não parece exatamente capaz de lutar. Mas bem... Talvez eu também não pareça. }
+
+Plh_8 { Estou ocupado, então faça rápido. }
+
+Plh_24 { Ali estão os sapos. Prepare-se, vamos mostrar a eles! }
+
+Plh_25 { Pegue-os! }
+
+Plh_26 { Vamos acabar logo com isso. }
+
+Plh_27 { Agora! }
+
+Plh_32 { O que, em nome de...? Eles já estão mortos. Eu poderia jurar que ainda estavam aqui antes. }
+
+Plh_33 { Oh, você quer dizer esses sapos aqui? Fui eu. }
+
+Plh_53 { Claro que foi! Porque toda a raiz enferrujada cresce aqui. }
+
+Plh_54 { Você pegou toda a raiz enferrujada aqui! Devolva! }
+
+Plh_35 { *sorri* Finalmente posso... uh, os sapos não podem mais prejudicar as ovelhas. Ou qualquer outra coisa, para esse assunto! }
+
+Plh_21 { ... você os matou todos sozinho? Finalmente, os bichos estão mortos! }
+
+Plh_22 { Aqui, você prestou um grande serviço à Charneca. Obrigado. }
+
+Plh_103 { Vocês, Remanescentes, só conseguem resolver seus problemas com violência! }
+
+Plh_98 { Se você quiser chegar ao Brejo Morboso, deve ir para o sul, longe de Nemeton. Fique atento a criaturas perigosas, mas a partir desse ponto, você deve chegar em segurança. }
+
+Plh_99 { Em algum momento, o caminho sobe para Nemeton, mas se você seguir para o leste, chegará ao Brejo Knawd. Eu nunca estive lá também, mas é onde seu povo queria ir. }
+
+Plh_100 { Oh, já que você pagou, vou te dar uma dica. Se você estiver no Brejo Vermelho e continuar indo para o leste, eventualmente encontrará um menhir estranho. É uma grande pedra em pé. Lugar mágico. Talvez seja do seu interesse. }
+
+Plh_102 { Cuide-se — já houve corpos demais no Brejo Vermelho. }
+
+Plh_83 { *arrota* Isso foi bom. }
+
+Plh_84 { Havia um grupo de Remanescentes aqui, indo para o Brejo Vermelho? }
+
+Plh_85 { Estávamos com medo de que fossem nos atacar. Um deles parecia um urso. Mas tudo o que eles queriam era saber a melhor maneira de atravessar o Brejo Vermelho. }
+
+Plh_87 { Eles pagaram bem, e finalmente posso beber em paz. }
+
+Plh_86 { Você é um deles? }
+
+Plh_88 { Onde exatamente eles foram? }
+
+Plh_89 { Se você quer a informação, vai custar $GVAR:QuestVars_LoadCrystals_Config.PriceInformationMoorlagerhof$ moedas. }
+
+Plh_90 { Você já conseguiu algumas moedas, então me diga. }
+
+Plh_91 { Pare de ser engraçadinho. Eu posso tirar isso de você. }
+
+Plh_92 { Ei, ei, fique calmo. Eu dei a informação a alguém, mas se você quiser, simplesmente vai custar. Justo. }
+
+Plh_93 { Tudo bem, aqui estão as $GVAR:QuestVars_LoadCrystals_Config.PriceInformationMoorlagerhof$ moedas. Agora me diga. }
+
+Plh_94 { Último aviso. E a última chance para você. }
+
+Plh_95 { Eu já tive o suficiente. Acho que algumas surras te farão bem. }
+
+Plh_101 { Você realmente não tem moedas. Tudo bem, eu vou te dar uma folga desta vez... }
+
+Plh_97 { Vamos lá, está tudo certo... }
+
+Plh_96 { Ei, mas isso foi... }
+
+Plh_30 { Esses sapos estão poluindo a vizinhança com seu cheiro. }
+
+Plh_31 { Foi um bom trabalho com esses bichos. }
+
+Plh_81 { Qual é o problema? Você vai tentar pegar minha raiz enferrujada de novo? Vá embora já! }
+
+Plh_59 { Se você não precisa de nada, me deixe em paz. Esses bens não vão se entregar sozinhos. }
+
+Plh_61 { Ah, é você. }
+
+Plh_62 { Hm? O que você quer? }
+
+Plh_73 { Estou feliz que alguém cuidou da ponte. Agora poderei trabalhar novamente. }
+
+Plh_10 { Exatamente! }
+
+Plh_104 { Em breve esses malditos sapos vão devorar todas as ovelhas na Charneca. Outro dia, eles engoliram uma das ovelhas inteira! }
+
+Plh_105 { Em breve, você nem conseguirá usar as trilhas sem que algum sapo estúpido te cuspa! }
+
+Plh_11 { Mas eu vou detê-los. Eu! Eu só preciso de alguém que me proteja. }
+
+Plh_20 { Os sapos perto do lago no sul? Eles estão mortos. }
+
+Plh_12 { Eu posso te proteger. }
+
+Plh_13 { Então espero que você encontre alguém. }
+
+Plh_14 { *te avalia* Hm. Acho que os sapos são mais numerosos que você. Mas você poderia distraí-los enquanto eu os mato. }
+
+Plh_28 { Nemeton não vai me ajudar — agora eu tenho que ver isso até o fim. }
+
+Plh_16 { Pense nas pobres ovelhas! Você as salvaria! E você não irá embora de mãos vazias. }
+
+Plh_15 { Você! Você poderia distraí-los! Você não precisaria fazer nada você mesmo! }
+
+Plh_18 { Finalmente! Eu já estou aqui esperando há bastante tempo. }
+
+Plh_19 { Vamos não perder mais tempo. }

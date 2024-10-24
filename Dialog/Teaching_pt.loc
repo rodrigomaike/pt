@@ -1,0 +1,119 @@
+Strength1 { Você ficou mais forte. Posso ver isso na sua estatura e nos seus braços. Bom trabalho! }
+
+Strength2 { Acho que agora você é capaz de desferir socos decentes em batalha. }
+
+Strength3 { A força vem de dentro. Concentre-se nos seus golpes e mantenha uma postura segura. }
+
+Skill1 { Você já se tornou mais ágil. Continue assim. }
+
+Skill2 { Agachar-se torna você mais ágil. Não fique parado! }
+
+Skill3 { A velocidade é o que importa! Se você for ágil o suficiente, ninguém pode te ferir! }
+
+Mind1 { Você se tornou mais focado. }
+
+Mind2 { Aponte sua mente. Torne-se um com você mesmo. Você deu um passo mais perto de si mesmo. }
+
+Mind3 { Se você se concentrar na sua respiração, será mais fácil bloquear o que é desnecessário. }
+
+Generic { Você aprendeu esse talento. }
+
+Axe_01_00 { Combater com o machado é tudo sobre força e técnica. No começo, você precisa aprender que seu golpe deve vir do seu braço e ombro. }
+
+Axe_02_00 { Se você executar seus ataques em combinação da seguinte maneira, você se posicionará para desferir um devastador terceiro ataque. Experimente! }
+
+Axe_03_00 { Para melhorar, você precisa se tornar um com seu machado. Sinta cada resistência, cada gota de sangue e cada corte — como se você mesmo fosse o machado. }
+
+Axe_BattleFrenzy_00 { O segredo do machado está em sua inércia. Use o peso da lâmina e notará como o Foco dos seus ataques melhora. }
+
+Sword_Axe_Reduce_StaminaCost { Ao se preparar para um ataque, relaxe seus músculos. Caso contrário, você se cansará mais rápido que um ripper correndo! }
+
+Axe_FinalGrace_00 { Se seus oponentes perderem o equilíbrio, aproveite a oportunidade para deixar seu machado infligir danos devastadores neles! }
+
+Sword_01_00 { Até agora, você estava segurando sua espada de forma errada. Aqui — sempre que você não estiver atacando, segure-a com uma mão. Assim, você poderá atacar a qualquer momento! }
+
+Sword_02_00 { Você também pode estocar com sua espada. Olhe! Isso é especialmente útil quando você alinha corretamente seus dois primeiros ataques. }
+
+Sword_03_00 { Se você quiser se tornar um mestre espadachim, deve abraçar sua espada como parte de você. Sua espada é sua vida! }
+
+Sword_Accuracy_00 { Estude os movimentos do seu oponente com cuidado. Dessa forma, você poderá detectar pontos fracos. Use-os para infligir grandes danos com sua espada! }
+
+Sword_Chancer_00 { Use o impulso que você ganha de um golpe crítico com sua espada. Depois, suas habilidades especiais virão naturalmente. }
+
+Dagger_01_00 { Lembre-se, quanto mais Foco você tiver ao esfaquear com as adagas, mais dano você infligirá. Nenhum outro tipo de arma é tão rápida e flexível. }
+
+Dagger_02_00 { Use suas adagas de forma rápida e precisa. Mantenha-se relaxado, mas golpeie com propósito. Dessa forma, você derrotará seus oponentes em um instante! }
+
+Dagger_03_00 { Abrace totalmente suas adagas. Sinta-as como se fossem parte de você. Dessa forma, você será capaz de derrotar até mesmo o oponente mais forte! }
+
+Daggers_GoingWithTheFlow_00 { Ataques especiais podem ser combinados de forma fluida com ataques de adagas. Nenhuma outra arma requer e proporciona esse tipo de Foco. }
+
+Daggers_EfficientStrikes_00 { Adagas são armas leves. Ataque de forma precisa e com propósito, e você nunca precisará se preocupar com sua resistência. }
+
+Daggers_SurpriseAttack_00 { A defesa é o melhor ataque! Esquive-se dos ataques do seu oponente antes de desferir golpes direcionados com suas adagas e infligir danos devastadores! }
+
+Spear_01_00 { Segure a lança de forma solta. Relaxe seus ombros. Pratique, e logo você estará dando porrada em seus oponentes! }
+
+Spear_02_00 { Ao ajustar sua postura de combate, você pode atacar com sua lança ainda mais rapidamente. Rápido e preciso — seus oponentes nem saberão o que os atingiu. }
+
+Spear_03_00 { Sinta a lança como uma extensão do seu braço. Se você souber onde ela está mesmo com os olhos fechados, então você dominou a lança! }
+
+Spear_PeakPerformance_00 { Com certeza você já notou a ponta da sua lança? AQUILO é a chave para a vitória. Você infligirá mais dano se conseguir usá-la para desferir um golpe de precisão. }
+
+Spear_FocusedStrikes_00 { A lança é a arma da precisão. Direcione seus ataques para um oponente, e você notará um aumento em seu Foco. }
+
+Spear_Agility_00 { Uma lança é perfeita para o uso de venenos. Vou te mostrar uma maneira fácil de fazer isso — tudo que você precisa fazer é desferir um bom golpe. }
+
+Sling_01_00 { Tente se manter relaxado enquanto atira. Dessa forma, será mais fácil desequilibrar seu oponente. }
+
+Sling_02_00 { Tente sentir a ressonância da sua funda e deixe seus músculos seguirem. Dessa forma, você atirará magistralmente! }
+
+Sling_Concussion_00 { Se você desequilibrar seu oponente com um tiro preciso, aproveite a oportunidade e ataque! Dessa forma, você infligirá muito mais dano! }
+
+Sling_DoubleTheLoad_00 { De vez em quando, você poderá carregar duas pedras na sua funda. Nenhum oponente espera por isso. }
+
+Shield_01_00 { Durante o bloqueio, relaxe seu ombro e seu braço. Caso contrário, isso custará toda a sua resistência. Esteja relaxado, mas pronto. }
+
+Shield_02_00 { Relaxe sua mão durante o bloqueio. Segurar seu escudo muito apertado custará preciosas reservas de resistência. }
+
+Shield_BalanceBreaker_00 { Se você repelir um ataque no último momento, você desequilibrará seu oponente. Dessa forma, você poderá evitar danos e aproveitar a oportunidade para infligir mais danos! }
+
+Shield_IsThatAllYouGot_00 { Se você for atacado, mantenha a calma. Use seu escudo para bloquear e aumentar seu Foco. }
+
+Bow_01_00 { Se você passar muito tempo mirando, perderá sua força. Tente mirar apenas até ter alinhado seu alvo, depois solte a flecha. Você notará que sua flecha infligirá muito mais dano dessa forma. }
+
+Bow_02_00 { Ao mirar, você não deve vacilar — caso contrário, você se tensionará. Mantenha seus dedos relaxados até que abram por conta própria. Essa é a verdadeira arte do arqueiro. }
+
+Bow_Bullseye_00 { Com o arco, o truque é encontrar e explorar pontos fracos. Se você conseguir fazer isso, você infligirá danos pesados. }
+
+Bow_Quickdraw_00 { Se você mantiver uma flecha pronta antes de desviar de um ataque, você pode dispará-la imediatamente depois! }
+
+Crafting_01_00 { Você tem o que é necessário para se tornar um grande artesão! Continue assim! }
+
+Crafting_02_00 { Você dominou sua arte! Desde que tenha a receita correta, você pode criar qualquer coisa! }
+
+Sneaking_00 { Ao inicialmente andar com a ponta do pé, você diminuirá o som de seus passos. Se continuar praticando isso, ninguém ouvirá você se aproximando! }
+
+TearClaw { Faça pequenas incisões com uma faca para soltar as garras e, em seguida, puxe-as para fora — rapidamente e com força! }
+
+Skinning { Usando uma adaga afiada, corte cuidadosamente a pele do corpo. Mas tenha cuidado para não estragá-la! }
+
+ExtractSecretion { Para extrair o ichor, você precisa apertar a extremidade da glândula. Traga a pressão mais próxima da abertura, mas não aperte muito! Caso contrário, a glândula se romperá e você não obterá nada. }
+
+BrewPotion { Usando pilão e almofariz, empregando o calor certo e medindo cuidadosamente... agora você é capaz de fazer tudo isso. Mas o mais importante de tudo é uma boa receita! }
+
+LearnIntro { O que você gostaria de aprender? }
+
+CantTeachAnymore { Não tenho mais nada para te ensinar. }
+
+CantTeachAnymore1 { Você aprendeu tudo que posso te ensinar. }
+
+CantTeachAnymore2 { Você terá que encontrar outro professor. Não tenho mais nada para te ensinar. }
+
+ComeBackSoon { Volte quando estiver pronto. }
+
+ComeBackSoon1 { Volte quando estiver a fim de aprender algo. }
+
+Plh_34 { Você aprendeu o suficiente comigo. Apenas Farlan pode te ensinar mais sobre esgrima agora. Você o encontrará no Quarteirão Superior. }
+
+LockPick { Se você tentar abrir uma fechadura difícil, apenas tenha certeza de ser muito cuidadoso com seu gancho. Tente sentir a resistência da fechadura e contrabalançar gentilmente. É meio como amor: Forçá-lo não te levará a lugar algum. }

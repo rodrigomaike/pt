@@ -1,0 +1,73 @@
+Plh_25 { *franze a testa* Eu não teria pensado que você teria tantas moedas. }
+
+Plh_30 { Bem, então... não há nada no manifesto de carga. }
+
+Plh_31 { O que você quer dizer com que não há nada no manifesto de carga? O que isso significa? }
+
+Plh_32 { Foi para isso que eu te dei moedas?! }
+
+Plh_34 { Nós nunca recebemos armas, o que significa que os artesãos nunca nos entregaram armas. O que significa que as armas ainda devem estar com eles. Ou seja lá o que for... }
+
+Plh_35 { Se você quer descobrir onde estão essas armas, deveria dar uma olhada no quarteirão deles. }
+
+Plh_36 { Eu fiz minha parte, e agora eu tenho que voltar ao trabalho. }
+
+Plh_33 { Ei, calma. Se não há nada no manifesto de carga, então nada chegou. }
+
+Plh_27 { Ei, eu não quero problemas! Eu te conto qualquer coisa. }
+
+Plh_57 { E quanto a essas armas? Estão no acampamento? }
+
+Plh_4 { [LOCA] Chave não encontrada: Plh_4. Caminho: Diálogos/TemplateDeDiálogo }
+
+Plh_5 { Eu tenho coisas para fazer. Encontre outra pessoa para conversar. }
+
+Plh_12 { Você viu armas sendo trazidas para o armazém? }
+
+Plh_13 { Finalmente. Um descanso. Isso é música para os meus ouvidos. }
+
+Plh_17 { Faça como quiser. Você sabe onde me encontrar. }
+
+Plh_18 { Aqui estão suas moedas. Agora, o que está no manifesto de carga? }
+
+Plh_23 { Finalmente, um dia de folga. Sem trabalho. Você se saiu bem! *sorrir* }
+
+Plh_38 { *suspira* Você está bisbilhotando aqui ou o que? Não é da sua conta. }
+
+Plh_39 { Fiaa disse que há um manifesto de carga. Isso deve conter um registro. }
+
+Plh_40 { Verdade. Mas ainda não é da sua conta. Você está surdo? }
+
+Plh_42 { Eu só queria saber o que está acontecendo com as armas. }
+
+Plh_43 { Eu quero me juntar a Nemeton e preciso provar meu valor. }
+
+Plh_44 { $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ moedas. }
+
+Plh_45 { $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ moedas e eu te darei uma dica. Isso deve ajudar. }
+
+Plh_46 { O quê? $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ moedas? }
+
+Plh_47 { Você está louco? }
+
+Plh_48 { Eu não tenho tantas moedas. }
+
+Plh_49 { Eu poderia simplesmente te espancar até você me dar a dica. }
+
+Plh_50 { Não estamos no acampamento dos Remnants. Se você colocar a mão em mim, os guardas vão te arrebentar. Pense bem. }
+
+Plh_51 { Aqui estão as moedas. (entregar $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ moedas) }
+
+Plh_52 { *murmura* Eu vou fazer um acordo com você. Estou trabalhando duro, e a Fia está colocando mais e mais pressão sobre mim. Se você não tiver moedas, pode pelo menos me ajudar com o trabalho. }
+
+Plh_53 { Você assume meu trabalho, descarrega toda a carga do carrinho nas caixas corretas e eu vou tirar um tempo para descansar. }
+
+Plh_54 { Assim que o trabalho estiver feito, eu mantenho minha promessa. *sorrir* }
+
+Plh_55 { Vou ajudar com seu trabalho. }
+
+Plh_56 { Basta pegar a prata do carrinho e armazená-la nas caixas. }
+
+Plh_58 { E quanto ao manifesto de carga? }
+
+Plh_59 { Se você simplesmente entregar as $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ moedas, você vai evitar muitos problemas. }

@@ -1,0 +1,13 @@
+Title { Sonhos de Outro Mundo }
+
+Entry_01 { Lorthiz se aproximou de mim na taverna e disse que tem sonhado comigo. Em seu sonho, ele também viu um estranho fóssil do qual fez um desenho. Talvez isso seja útil de alguma forma? }
+
+Entry_02 { Lorthiz sonhou comigo novamente. Ele estava tagarelando sobre como uma porta se abriu em algum lugar, e atrás da porta havia outro fóssil. Ele fez outro desenho de seu sonho — talvez isso me ajude a encontrar esse fóssil. }
+
+Entry_03 { Lorthiz parece estar ficando mais louco a cada minuto. Agora ele acha que me viu no Red Moor, carregando uma lanterna e dando um fóssil a criaturas estranhas que me deram um anel em troca. Não sei o que pensar disso... }
+
+Entry_End { Lorthiz estava certo sobre tudo. Agora eu tenho um anel peculiar. }
+
+Entry_FoundFossil { Encontrei outro fóssil. Talvez Lorthiz saiba o que fazer com ele. }
+
+Entry_NoDreamToday { Lorthiz não teve outro sonho ainda, e ele não pode me ajudar. Talvez eu deva voltar mais tarde. }

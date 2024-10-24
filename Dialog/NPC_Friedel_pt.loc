@@ -1,0 +1,159 @@
+Plh_24 { Quero pegar alguns moedas emprestadas. }
+
+Plh_57 { Quero quitar minhas dívidas. }
+
+Plh_104 { Não te devo mais nada. (sorriso) }
+
+Plh_25 { Quantas? }
+
+Plh_26 { Eu realmente preciso de muitas. }
+
+Plh_27 { Apenas algumas. }
+
+Plh_28 { Na verdade, não preciso de moedas no momento. }
+
+Plh_58 { Então, entregue-me $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ moedas. }
+
+Plh_98 { Tantas assim?! }
+
+Plh_66 { Aqui, leve-as. (Entregue $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ moedas) }
+
+Plh_62 { Oh, não tenho isso comigo agora. Vou trazer depois. }
+
+Plh_99 { Se você não gosta, não deveria ter pegado emprestado. Chega de conversa. Mostre-me o dinheiro! }
+
+Plh_63 { Excelente. Prazer em fazer negócios com você. *sorriso* }
+
+Plh_64 { É melhor você fazer isso. E seja rápido. Você não quer ter problemas comigo, acredite. }
+
+Plh_59 { Então, entregue-me $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ moedas. }
+
+Plh_100 { Isso é quase o dobro! Agiotagem! }
+
+Plh_61 { Aqui, leve-as. (entregue $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ moedas) }
+
+Plh_101 { Oh é? Se você não gosta, então não deveria ter pegado nada emprestado! Acredite, você não quer ficar do meu lado ruim. }
+
+Plh_105 { O quê? Seu nome está escrito na minha lista. Em letras grandes e pretas... *vasculha sua mesa* }
+
+Plh_106 { A lista... Eu a tinha bem aqui! Onde foi parar?! }
+
+Plh_108 { Como eu disse: Sem evidências, sem dívida! }
+
+Plh_109 { *morde os dentes* Se descobrir que você tem QUALQUER coisa a ver com isso, você vai se ver em apuros, meu amigo. Então você vai desejar que um ripper realmente TE tivesse despedaçado! }
+
+Plh_70 { Espero que Eugen traga todo mundo de volta em segurança dessa vez. Lindon é um dos meus melhores clientes. }
+
+Plh_71 { Se Lindon não voltar, vou ficar com a dívida dele. }
+
+Plh_72 { Eu juro, se ele morrer, eu mato ele. }
+
+Plh_73 { Droga! Onde está Lindon? }
+
+Plh_75 { Ele... Ele não conseguiu. }
+
+Plh_76 { Lindon está morto. A Divindade pegou ele. }
+
+Plh_77 { Não!? Não pode ser! Ele não pode morrer ainda! }
+
+Plh_78 { Ele pegou uma montanha de moedas emprestadas de mim. E QUASE sempre pagou tudo de volta. Agora eu tenho que encontrar outro idiota... }
+
+Plh_80 { Essa maldita Divindade. }
+
+Plh_79 { O cara ainda me deve um MONTÃO de moedas. Nunca mais vou ver isso de novo. }
+
+Plh_74 { Isso é uma besteira. Lindon... Seu bastardo. }
+
+Plh_4 { *ignora você e anda de um lado para o outro* }
+
+Plh_95 { Ei, tire suas mãos da minha mesa! }
+
+Plh_7 { *te examina e faz uma careta* Você não precisa dizer nada. Muito ou pouco? }
+
+Plh_5 { ... sobre o que você está falando? }
+
+Plh_6 { Muito. }
+
+Plh_8 { Pouco. }
+
+Plh_9 { Eu sou Friedel, emprestadora de moedas. Você está aqui porque provavelmente precisa de algumas moedas. }
+
+Plh_10 { Eu estava apenas dando uma olhada. }
+
+Plh_11 { Quantas moedas você pode me emprestar? }
+
+Plh_19 { Você já fez isso. Você precisa de moedas agora ou não? }
+
+Plh_16 { Depende de quanto você quer dever à boa e velha Friedel. }
+
+Plh_17 { Eu preciso de muitas moedas. }
+
+Plh_18 { Eu só preciso de algumas moedas. }
+
+Plh_68 { Não preciso de moedas agora. }
+
+Plh_69 { Então pare de perder meu tempo. }
+
+Plh_12 { Você receberá $GVAR:QuestVars_Debt_Config.LowAmount$ moedas de mim. Nem mais, nem menos. }
+
+Plh_23 { *Friedel abre uma das gavetas da mesa. Ela pega uma lista e coloca na sua frente* Aqui, assine. }
+
+Plh_54 { (assina) }
+
+Plh_55 { Mudei de ideia. Não quero pegar moedas emprestadas. }
+
+Plh_97 { *Você assina, Friedel te entrega as moedas e sorri* }
+
+Plh_30 { Então, nossos negócios estão concluídos. *rapidamente faz a lista desaparecer na gaveta* }
+
+Plh_14 { Quero minhas moedas de volta em três dias, no máximo. Não depois. E recomendo fortemente que você me pague de volta a tempo. }
+
+Plh_56 { Se você não quer pegar nada emprestado, então pare de perder meu tempo. }
+
+Plh_13 { Aqui estão. $GVAR:QuestVars_Debt_Config.HighAmount$ moedas. Isso deve ser suficiente. }
+
+Plh_111 { Você derrubou o Snake. Você não vai receber uma única moeda de mim! Vá embora! }
+
+Plh_22 { Quantas você precisa? }
+
+Plh_103 { Minha lista de devedores! Droga! }
+
+Plh_29 { Lembre-se... Você me deve. }
+
+Plh_81 { *Você vê uma mesa meticulosamente organizada, com papéis arrumados; alguns estão abertos, outros enrolados juntos.* }
+
+Plh_82 { (examine os papéis na mesa) }
+
+Plh_83 { (abra a gaveta de cima) }
+
+Plh_90 { (abra a gaveta de baixo) }
+
+Plh_84 { *Os papéis parecem um contrato. Há uma linha na parte inferior para uma assinatura e várias linhas na parte superior detalhando os termos do acordo.* }
+
+Plh_85 { *Na gaveta, você encontra um cachimbo desgastado, uma pequena quantidade de Musgo Ferrugento e um punhado de moedas.* }
+
+Plh_86 { (pegar o Musgo Ferrugento e as moedas) }
+
+Plh_87 { (fechar a gaveta) }
+
+Plh_89 { *Você rapidamente guarda os itens nos bolsos.* }
+
+Plh_91 { *Um pergaminho contendo uma lista imediatamente chama sua atenção. Estão listados vários nomes e quantias de moedas.* }
+
+Plh_92 { (pegar a lista) }
+
+Plh_112 { Kilian me disse que você pode me ajudar a melhorar minha casa. }
+
+Plh_113 { Primeiro, pague suas dívidas, então nós conversaremos. }
+
+Plh_114 { Eu gostaria de ter uma cama melhor. (Dar $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$ moedas) }
+
+Plh_115 { Eu gostaria de ter uma bancada. (Dar $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ moedas) }
+
+Plh_116 { Eu gostaria de ter uma fornalha. (Dar $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$ moedas) }
+
+Plh_118 { Oh, Kilian te disse isso? Você mal chegou e já está conseguindo seus próprios aposentos! Mas se Kilian diz, ele deve ter suas razões. }
+
+Plh_119 { Em troca de moedas, estarei à disposição. }
+
+Plh_120 { Parece bom, estou nisso. Deve estar pronto até amanhã. }

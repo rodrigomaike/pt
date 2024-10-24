@@ -1,0 +1,33 @@
+Workbench { Bancada de Trabalho }
+
+Furnace { Fornalha }
+
+Fireplace { Fogueira }
+
+Personal { Pessoal }
+
+Recipes { Receitas }
+
+Title_Panel { Artesanato }
+
+Toggle_CraftableOnly { Exibir Apenas Receitas Fabricáveis }
+
+Foldout_Throw { Ferramentas }
+
+Foldout_Ammo { Munição }
+
+Foldout_Trinkets { Joias }
+
+Foldout_Food { Comida }
+
+Foldout_Heal { Cura }
+
+Foldout_Unsorted { Não Classificado }
+
+Title_CraftingStation { Área de Trabalho }
+
+Prefix_RequiredWorkbench { Necessário: }
+
+Foldout_Potion { Poções }
+
+Foldout_Crafting { Processamento }

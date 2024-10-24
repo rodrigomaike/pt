@@ -1,0 +1,13 @@
+MadWoman_Name { Mulher Louca }
+
+Percept_Skeleton_00 { Dois esqueletos estão aqui, abraçando-se. Um adulto e, aparentemente, uma criança. Esta deve ser a mãe. }
+
+Percept_Skeleton_01 { (Examinar os ossos da criança) }
+
+Percept_Skeleton_02 { *Você move os ossos para o lado. Debaixo deles, você descobre um interruptor* }
+
+Percept_Skeleton_03 { (ativar interruptor) }
+
+Percept_Grave_00 { Sinto muito. Eu deveria ter estado lá por você. }
+
+Percept_Grave_01 { A tábua está muito arranhada e ilegível. }

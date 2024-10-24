@@ -1,0 +1,1 @@
+Desc { Tente manter a agulha dentro da área azul. $INPUT:Lockpick_Left$: Mova a agulha para a esquerda $INPUT:Lockpick_Right$: Mova a agulha para a direita. Quando o medidor verde estiver cheio, você terá destrancado a fechadura. Quanto mais o medidor vermelho encher, maiores as chances de sua gazúa quebrar. }

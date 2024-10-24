@@ -1,0 +1,1 @@
+FishingTutorial { Tente manter a agulha dentro da área azul. <br>$INPUT:Lockpick_Left$: Mover agulha para a esquerda <br>$INPUT:Lockpick_Right$: Mover agulha para a direita.<br>Quando o medidor verde estiver cheio, você terá pescado o peixe. }

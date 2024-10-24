@@ -1,0 +1,41 @@
+Entry_Created { Nova entrada no diário }
+
+Entry_Updated { Diário atualizado }
+
+OthersUpdated { +$JOURNAL:Others$ Diversos }
+
+Tab_Quests_Finished { Completas }
+
+Tab_Quests_Running { Atuais }
+
+Tab_Letters { Cartas }
+
+Group_Bandits { Saqueadores de Ruínas }
+
+Group_Nemeton { Nemeton }
+
+Group_RuinCamp { Acampamento dos Remanescentes }
+
+Group_Tavern { Taverna }
+
+Group_Woodcamp { Lenhador }
+
+Group_World { Mundo }
+
+Group_Unsorted { Não Classificados }
+
+Group_Magielager { Refúgio }
+
+Group_RedTower { A Torre Vermelha }
+
+Group_Mine { O Poço }
+
+Group_MainQuest { Missão Principal }
+
+Group_Dungeon_Library { Biblioteca }
+
+Group_Dungeon_City { Cidade na Floresta Primordial }
+
+Group_Dungeon_Auwald { Colina na Floresta da Planície de Inundação }
+
+Group_TreasureMaps { Mapas do Tesouro }

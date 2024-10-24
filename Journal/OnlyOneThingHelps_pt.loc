@@ -1,0 +1,23 @@
+Title { Só Uma Coisa a Fazer }
+
+Entry_01 { Encontrei Larea perto dos madeireiros. Ela está em péssimas condições, mas tem orgulho demais para pedir ajuda. Ela não quer que ninguém saiba que está mal. Ela também mencionou que Kora, no Acampamento dos Madeireiros, sabe sobre cura. }
+
+Entry_02 { Cengiz disse que Agilo está cuidando dos feridos porque Kora está a caminho dos Remnants. Eu devo perguntar a ele. }
+
+Entry_04 { Agilo diz que raiz da terra pode ajudar. Essa planta é encontrada perto da água, mas ele não tem certeza. }
+
+Entry_05_A { Uma poção de cura poderia ajudar, mas essas são bastante valiosas. Bombus pode me mostrar como fazer unguento de cura, porém. Para isso, preciso de três plantas medicinais e uma raiz da terra. }
+
+Entry_05_B { Bombus explicou que eu devo fazer o unguento de cura perto do fogo. Com isso, Larea deve se recuperar rapidamente. }
+
+Entry_06 { Dei a Larea uma raiz da terra, mas sua condição só piorou. O que está acontecendo com ela? }
+
+Entry_07 { Depois de dar algo para tratar sua ferida, Larea conseguiu andar novamente. Eu devo checar se ela conseguiu voltar ao acampamento dos madeireiros em uma peça. }
+
+Entry_09_A { Larea está morta! Descanse em paz. Eu devo reportar isso a Cengiz. }
+
+Entry_09_B { Larea está se sentindo melhor. Ela diz que pode me ensinar a destripar animais. }
+
+Entry_09_C { Larea está se sentindo melhor, mas está bem chateada por eu ter contado a todos no acampamento sobre sua lesão. }
+
+Entry_09_AA { Cengiz ficou muito abalado com a morte de Larea. Agora ele sabe que ela nunca mais voltará. }

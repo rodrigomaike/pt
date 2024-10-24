@@ -1,0 +1,9 @@
+Plh_0 { *O homem morto nem sequer sacou sua arma. Parece que um monstro o pegou de surpresa. Ele tem uma bolsa com ele.* }
+
+Plh_1 { (revistar a bolsa) }
+
+Plh_2 { (ir embora) }
+
+Plh_3 { *A bolsa contém Musgo de Ferrugem e algumas outras plantas nativas da charneca. Você percebe que o nome "Fleur" foi costurado no interior da bolsa.* }
+
+Plh_4 { *A bolsa já está vazia. Você percebe que o nome "Fleur" foi costurado no interior da bolsa.* }

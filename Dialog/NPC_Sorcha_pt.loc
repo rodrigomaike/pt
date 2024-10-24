@@ -1,0 +1,67 @@
+Inf_DaWarNochWas { Você pode me contar algo sobre Conor? }
+
+Plh_8 { Você sabe algo sobre Eugen? }
+
+Plh_36 { Sobre Conor? Hm, vamos ver... }
+
+Plh_39 { Ele parece solitário. Toda noite, ele bebe perto da fogueira e parece infeliz. }
+
+Plh_40 { Não fala muito. }
+
+Plh_41 { Ele se senta sozinho perto da fogueira? }
+
+Plh_44 { O que você quer dizer com solitário? }
+
+Plh_42 { Sim, foi isso que acabei de dizer, certo? *ri* }
+
+Plh_43 { Ele provavelmente gostaria de companhia, mas, infelizmente, ele não fala comigo. }
+
+Plh_46 { Talvez você pudesse tentar. *sorri* }
+
+Plh_45 { Ele não deixa ninguém se aproximar. Pelo menos é isso que parece. }
+
+Plh_31 { Volte logo. }
+
+Plh_32 { Você voltou! Finalmente! }
+
+Plh_4 { Meu nome é Sorcha. *sorri* Como estão as coisas? }
+
+Plh_0 { Um dia maravilhoso. }
+
+Plh_1 { Está indo. }
+
+Plh_2 { Não quero falar sobre isso. }
+
+Plh_3 { ... enquanto você não desprezar Drova, sim. Haha. }
+
+Plh_7 { Um bom dia para relaxar... }
+
+Plh_6 { Você está vivo, eu estou vivo... As coisas poderiam ser piores, não poderiam? }
+
+Plh_37 { Dê uma olhada ao redor, se quiser. }
+
+Plh_10 { Eugen? Meio solitário. Sempre quer brigar ou beber. Ou os dois. }
+
+Plh_11 { Ele recentemente entrou na taverna cambaleando com a cabeça de um ripper arrancada. Então, escorregou no sangue que estava pingando dela. Nos dias seguintes, ele andou com um enorme galo na testa. Esse é o Eugen. }
+
+Plh_12 { Você pode me contar mais sobre ele? }
+
+Plh_13 { Obrigado. }
+
+Plh_14 { Não. Eu fico longe dele. Ele não é exatamente a melhor companhia. }
+
+Plh_15 { Ficarei feliz em fazer-lhe companhia. *sorri* }
+
+Plh_20 { Você não é a antiga paixão do Jendrik? }
+
+Plh_21 { Jendrik? Não ouvi esse nome há muito tempo. }
+
+Plh_22 { Sim, Jendrik e eu nos... conhecemos muito bem. Se você me entende. *pisca* }
+
+Plh_23 { Ele era um lutador decente. Mas queria um compromisso, e eu não estava pronta para isso. }
+
+Plh_27 { Bem, isso aconteceu. Não posso mudar isso. Preciso voltar ao trabalho agora. }
+
+Plh_29 { Faça-nos orgulhosos, Eugen! }
+
+Plh_30 { $GVAR:EVars_Player.Name$ voltou em segurança? }

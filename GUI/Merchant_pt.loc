@@ -1,0 +1,29 @@
+title_splitstack { Dividir Itens }
+
+popup_balanceMoney { Pagar com Moedas }
+
+popup_giveForFree { Tem certeza de que não quer nada em troca? }
+
+popup_valueAboveTrader { O valor dos seus bens é maior do que o que o comerciante está oferecendo. <br><br>Você gostaria de presenteá-lo com a diferença ou prefere que ele compense com moedas? }
+
+popup_valueBelowTrader { O comerciante espera uma compensação de pelo menos $TRADEVAR:RightTableValue$ moedas. }
+
+popup_generic { Gostaria de concluir a transação? }
+
+title { Troca }
+
+Value { Valor dos bens }
+
+Trader { Comerciante }
+
+Spend { Dar }
+
+Exchange { Trocar }
+
+ExchangeOnly { Apenas Troca }
+
+popup_valueAboveTrader_NoCurrency { O valor dos seus bens é maior do que o que o comerciante está oferecendo. <br><br>Você gostaria de presenteá-lo com a diferença? }
+
+Comment_NoCoins { Não aceito moedas. }
+
+SellWholeStack { Adicionar/remover pilhas de itens para troca. }

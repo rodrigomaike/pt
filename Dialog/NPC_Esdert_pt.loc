@@ -1,0 +1,67 @@
+Plh_24 { Eu tenho uma pergunta... }
+
+Plh_28 { Quem é Levin? }
+
+Plh_29 { *estreita os olhos* Ele é o chefe por aqui. Tenha cuidado para não deixá-lo bravo com você. Caso contrário, você vai se ver em apuros. Mas se ele gostar de você... }
+
+Plh_3 { Você parece cansado. }
+
+Plh_11 { Por que você foi forçado a fazer isso? }
+
+Plh_8 { Às vezes, não fazer nada é mais difícil do que o trabalho físico. Eu fui forçado a ficar de guarda aqui. }
+
+Plh_15 { Oh, como posso explicar... Eu talvez tenha dito algumas coisas sobre o Levin que não eram muito agradáveis. E ele pode ter estado atrás de mim e ouvido tudo. Agora tenho que ficar de guarda aqui, e nada está acontecendo. }
+
+Plh_41 { Nunca mais vou falar sobre Levin. Pelas Divindades, eu juro! }
+
+Plh_4 { *boceja e esfrega os olhos* O que é? }
+
+Plh_2 { *boceja* Ok, entre. Apenas não estrague tudo! }
+
+Plh_46 { O que seria estragar tudo? }
+
+Plh_5 { O que é este lugar? }
+
+Plh_6 { Eu vim de Jola e quero trabalhar na Fossa. }
+
+Plh_47 { Você vai perceber isso muito rapidamente se o fizer. }
+
+Plh_12 { Você entrou no Eterno Pomar de Maçãs. Aqui, as Divindades irão conceder seu poder a você. Aqui você nunca passará fome. Tudo o que você deve fazer é me derrotar, Esdert, o Vigia, em combate nobre! }
+
+Plh_18 { Então lute! }
+
+Plh_19 { Você deve estar brincando! }
+
+Plh_22 { Era apenas uma piada! Uau, você é ingênuo quando alguém fala de forma pomposa. }
+
+Plh_21 { *sorri* Aquela é a mina de prata. Sempre precisamos de novos Cortadores. Você pode ganhar muitas moedas aqui, além de comida e um teto sobre sua cabeça. Se você conseguir se esforçar, claro. }
+
+Plh_40 { Vá e se apresente a Levin. Ele está ao longo do caminho. Ele pode explicar tudo. }
+
+Plh_13 { Então você está no lugar certo. Eu sou Esdert, e guardo a entrada. Basta seguir o caminho e você encontrará Levin. }
+
+Plh_25 { Fui atacado por bandidos ao longo do caminho. }
+
+Plh_26 { Eu poderia cuidar dos bandidos. }
+
+Plh_27 { Os bandidos não serão mais um problema para você. }
+
+Plh_30 { Droga, eu pensei que já os tínhamos eliminado. Nós os afastamos há apenas alguns dias. Eles são piores do que uma praga de ratos. Vou lidar com eles mais tarde — assim que eu puder me afastar. }
+
+Plh_31 { *te avalia* Você? Sem as armas e equipamentos adequados? Sozinho? Não tenho certeza se quero estar ao seu lado na batalha, mas você é um cara engraçado. }
+
+Plh_32 { Deixe isso comigo. Se eu afastá-los, o que eu ganho com isso? }
+
+Plh_35 { Verdade, é melhor eu ficar de fora. }
+
+Plh_33 { Se você realmente afastar os bandidos, eu te darei $GVAR:QuestVars_BanditMine_Config.Reward$ moedas tilintantes. Um bom trabalho é sempre recompensado aqui. }
+
+Plh_34 { Mas as $GVAR:QuestVars_BanditMine_Config.Reward$ moedas não valem sua vida. E estaríamos perdendo um Cortador capaz. }
+
+Plh_36 { Você ainda tem algum bom senso, afinal. }
+
+Plh_37 { *te avalia* VOCÊ os eliminou?! Como fez isso? }
+
+Plh_38 { Talvez você gradualmente pare de duvidar de mim. }
+
+Plh_39 { *franze a testa* Então eu provavelmente subestimei você. Aqui estão as $GVAR:QuestVars_BanditMine_Config.Reward$ moedas. Você tirou um pouco de trabalho das minhas mãos. }

@@ -1,0 +1,295 @@
+Plh_34 { Sobre o extrato... }
+
+Plh_48 { Todos prontos? }
+
+Plh_94 { Luten ainda está se escondendo porque você quis brincar com ele. Você não quer procurá-lo? Então podemos finalmente partir para a casa da Helma. }
+
+Plh_135 { Olha, eu criei o talismã. }
+
+Plh_136 { Ohhhhh, eu nunca vi um talismã assim! }
+
+Plh_173 { Luten, Luten, venha, você precisa ver isso! }
+
+Plh_174 { *ele faz olhos bem grandes* Ohhhh! }
+
+Plh_175 { VOCÊ fez isso? }
+
+Plh_176 { Fiz sim! }
+
+Plh_177 { Sim. Mas somente com a sua ajuda. }
+
+Plh_179 { Quando eu crescer, quero criar um talismã tão bonito quanto esse. }
+
+Plh_180 { Você acha que podemos fazer isso também? }
+
+Plh_181 { Com certeza! Mas somente quando você crescer. }
+
+Plh_182 { Não era exatamente seguro. Pense bem sobre isso. }
+
+Plh_184 { De qualquer forma, não podemos sair de Nemeton antes disso. }
+
+Plh_188 { Um dia faremos um talismã como esse também! Então seremos tão fortes quanto $GVAR:EVars_Player.Name$! }
+
+Plh_189 { Nós vamos! }
+
+Plh_190 { Obrigado por nos mostrar o talismã novamente! }
+
+Plh_185 { N-não seguro? }
+
+Plh_186 { Mas uma vez que formos grandes e fortes, podemos fazer isso, Olga! }
+
+Plh_187 { S-sim, você está certa. }
+
+Plh_178 { Ah, mas acabamos de contar a você o que Helma nos ensinou! }
+
+Plh_137 { Olha, eu também tenho um talismã agora. }
+
+Plh_139 { Oh, ele é realmente bonito! *sorri e examina o talismã* }
+
+Plh_142 { Mas ainda não está brilhante! Um verdadeiro talismã tem que brilhar! }
+
+Plh_143 { Diga, Helma? }
+
+Plh_171 { O que foi, Olga? }
+
+Plh_170 { Por que o talismã de $GVAR:EVars_Player.Name$ não brilha como os dos outros adultos em Nemeton? }
+
+Plh_144 { Para brilhar, primeiro um talismã precisa receber seu brilho. }
+
+Plh_152 { Como? }
+
+Plh_145 { Através das bênçãos da mudança, da vida e da fonte. }
+
+Plh_157 { Me conte mais sobre as bênçãos da mudança. }
+
+Plh_156 { Quais são as bênçãos da vida? }
+
+Plh_155 { Como posso receber as bênçãos da fonte? }
+
+Plh_166 { Vou começar minha busca. Obrigado pela ajuda. }
+
+Plh_162 { Eu sei, eu sei! *agita os braços* }
+
+Plh_163 { Você gostaria de nos contar, Olga? }
+
+Plh_164 { As bênçãos da mudança estão aqui — uh, em um lugar assombrado por escuridão perpétua... Er, ainda assim mergulhado em luz? }
+
+Plh_165 { Você decorou isso muito bem, Olga. }
+
+Plh_191 { Dizem que o ciclo da mudança consiste em cinco fases da vida. }
+
+Plh_159 { Helma sempre diz que a água é o símbolo da vida. }
+
+Plh_160 { Isso mesmo, Olga. A água é até a própria vida. }
+
+Plh_161 { Dizem que o único lugar onde você receberá essas bênçãos é onde os pássaros pararam de cantar e a canção das rãs pode ser ouvida. Onde três fontes de vida se convergem. }
+
+Plh_147 { Como uma fonte pode ser uma bênção? Não é assim que funciona! }
+
+Plh_158 { Dizem que é encontrada em uma pequena ilha onde todos os pássaros pousam em uma rocha solitária, cantando, cercados pelas vozes do passado. }
+
+Plh_167 { Boa sorte! Mas uma vez que você fizer o talismã brilhar, você nos mostrará, sim? }
+
+Plh_168 { Sim, mostre-nos! }
+
+Plh_172 { Boa sorte. }
+
+Plh_82 { Eu adoraria ter um talismã bonito como o seu. }
+
+Plh_83 { Desculpe, mas não temos outro talismã. *olha para baixo* }
+
+Plh_109 { Diga, Olga... *cutuca ela* }
+
+Plh_110 { O que foi? }
+
+Plh_111 { E quanto ao nosso... }
+
+Plh_112 { *sussurra* Você quer dizer... o nosso... }
+
+Plh_113 { Seu...? }
+
+Plh_114 { O que os dois estão sussurrando ali? }
+
+Plh_115 { Oh, uh... nada! }
+
+Plh_116 { Os dois estão tramando algo, não estão? }
+
+Plh_117 { *faz uma expressão cética* }
+
+Plh_118 { Sim, deixa pra lá. }
+
+Plh_120 { Bem, Luten e eu começamos a fazer nosso próprio talismã... }
+
+Plh_121 { Posso te dar uma pedra para começar. Mas você vai ter que trabalhar muito para terminá-lo! }
+
+Plh_122 { Isso seria de grande ajuda. }
+
+Plh_123 { Eu não quero tirar isso de você... }
+
+Plh_124 { Mas você nos ajudou também! Por favor, faça um talismã muito bom com isso, certo? *olha para você com olhos de criança grandes* }
+
+Plh_130 { Mas sem um cordão de couro, não vai ser um verdadeiro talismã. }
+
+Plh_131 { Mas tenho certeza de que você pode pedir um à Rura. Ela já fez um para nós também. }
+
+Plh_132 { Obrigado. }
+
+Plh_133 { E uma vez que estiver pronto, você vai nos mostrar, sim? }
+
+Plh_125 { Mas você não vai! }
+
+Plh_127 { Faremos questão de te dar! }
+
+Plh_129 { Mas cuide bem disso, tá? Fazer isso levou um bom tempo pra nós! }
+
+Plh_87 { Oh sim! Eu começo a correr, e você me pega! }
+
+Plh_80 { Graças a você, Helma está usando nosso talismã! *sorri* }
+
+Plh_84 { Que festa! Por que eles não podem realizar o Festival do Fogo mais vezes? }
+
+Plh_88 { Oh, você já me pegou? }
+
+Plh_89 { Na próxima vez, você não me pegará! }
+
+Plh_103 { Oh, olá! }
+
+Plh_5 { *escuta hipnotizado e não nota você* }
+
+Plh_6 { Bom te ver aqui! Você poderia nos ajudar? }
+
+Plh_8 { Na verdade, meu prato já está bem cheio. }
+
+Plh_101 { Na verdade, eu queria brincar de pega-pega com você. }
+
+Plh_11 { Queremos fazer um talismã para Helma. Para o Festival do Fogo. Porque gostamos muito dela. Mas não podemos sair do acampamento porque somos muito jovens... Gente grande é uma chatice. }
+
+Plh_12 { E eu sou tãooooo forte! Olha meus músculos! }
+
+Plh_14 { Não é nada mal! Você provavelmente será um grande guerreiro um dia! }
+
+Plh_15 { Não seja um incômodo, Luten. }
+
+Plh_18 { Não somos permitidos a sair do acampamento a menos que vamos juntos com Helma. Mas então ela vai saber o que estamos fazendo! E deve ser uma surpresa! }
+
+Plh_19 { Um presente como um adulto! }
+
+Plh_20 { Queremos gotejar a seiva de um cogumelo vermelho no talismã. Eles crescem perto. Humbert diz que isso traz boa sorte nas expedições. }
+
+Plh_21 { Sim! Muita boa sorte para você! }
+
+Plh_22 { Onde posso encontrar esses cogumelos? }
+
+Plh_32 { Quem é Humbert? }
+
+Plh_26 { Por que você não pergunta ao Humbert você mesmo? }
+
+Plh_23 { Vou ajudar com seu talismã. }
+
+Plh_24 { Pergunte ao Humbert, ele sabe sobre essas coisas. Ele também pode te dizer onde esses cogumelos crescem! E ele sabe como podemos obter a seiva. }
+
+Plh_25 { Normalmente, ele está em seu jardim logo ao lado. Eu não sei o que ele faz lá o dia todo... ele é meio esquisito. }
+
+Plh_33 { Ele é o herbalista do nosso acampamento. O cara sabe das plantas! }
+
+Plh_27 { Uh... não temos muito tempo! }
+
+Plh_29 { Hm? NÓS TEMOS tempo! Mas ele é tão creepy! E ele sempre tem essa cara de mal-humorado. E o Angus diz que ele come crianças mal-comportadas! }
+
+Plh_30 { Isso é bobagem! }
+
+Plh_31 { Não mente! Você também o acha creepy! }
+
+Plh_28 { Sério? Obrigado! Muito obrigado! }
+
+Plh_16 { Na verdade, eu preferiria ser chef quando crescer... }
+
+Plh_10 { Por favor, por favor! Nós vamos te contar rapidinho! }
+
+Plh_102 { Oh sim, temos que fazer isso agora mesmo! Mas espere um momento... }
+
+Plh_95 { Ei, você deveria me pegar! Você simplesmente saiu correndo... }
+
+Plh_104 { Um dia eu serei mais rápido que você, e então você não vai mais me pegar! }
+
+Plh_76 { Aí está você! }
+
+Plh_35 { Você pegou a seiva do cogumelo? }
+
+Plh_36 { Obrigado pela sua ajuda! *sorri* Estou tão ansioso para o Festival do Fogo! }
+
+Plh_37 { Eu tenho o extrato! (entrega) }
+
+Plh_40 { Oh, obrigado! Muito obrigado! Agora podemos fazer o talismã para a Helma... *monta o talismã* }
+
+Plh_41 { Ela realmente vai gostar! }
+
+Plh_193 { Mas ainda falta algo... Algo pessoal. }
+
+Plh_194 { Você gostaria de desenhar algo no talismã? Você nos ajudou, afinal, e o talismã é um presente de nós três. }
+
+Plh_195 { Claro, com prazer. }
+
+Plh_196 { Talvez um de vocês devesse fazer o desenho. }
+
+Plh_198 { A Helma certamente vai gostar disso. }
+
+Plh_44 { Devemos levar isso para a Helma? }
+
+Plh_45 { Sim! Ela vai ficar super feliz! E você também tem que estar lá! }
+
+Plh_197 { Oh, que pena. Mas vamos pensar em algo legal. }
+
+Plh_49 { Claro! }
+
+Plh_50 { Helma! Helma! Olha o que fizemos para você! *ergue o talismã orgulhosamente e sorri amplamente* }
+
+Plh_51 { Oh! Não é lindo! }
+
+Plh_52 { Fizemos um talismã para você! Para o Festival do Fogo! Com extrato de cogumelo verdadeiro! }
+
+Plh_53 { *afaga gentilmente a cabeça de Luten* Onde você conseguiu isso? }
+
+Plh_54 { Tivemos um pouco de ajuda. Mas só um pouquinho! }
+
+Plh_55 { Oh. Isso é... perspicaz. Muito obrigado. *continua examinando o talismã* }
+
+Plh_56 { Vocês realmente ajudaram meus filhos? }
+
+Plh_57 { Eles pediram tão gentilmente. }
+
+Plh_58 { As crianças pegaram os cogumelos sozinhas. }
+
+Plh_60 { *sorri* Bem, isso diz muito sobre você. Nemeton seria um lugar melhor se mais pessoas estivessem dispostas a ajudar umas às outras. }
+
+Plh_62 { Você vai brincar conosco de vez em quando? }
+
+Plh_71 { Talvez. De vez em quando. }
+
+Plh_67 { Vamos ver. }
+
+Plh_72 { Incrível! Assim que você voltar, sim? }
+
+Plh_73 { E muito! }
+
+Plh_105 { Bem, divirtam-se, vocês três. }
+
+Plh_68 { Sim, vamos ver. *sorri* }
+
+Plh_69 { Até logo! *acena entusiasticamente* }
+
+Plh_70 { Sim, em breve vamos brincar novamente! }
+
+Plh_81 { E na próxima vez, faremos um para você! *sorri amplamente* }
+
+Plh_106 { Você não saiu do acampamento e os coletou você mesmo, saiu? }
+
+Plh_107 { Não, isso não é verdade! $GVAR:EVars_Player.Name$ nos trouxe alguns! }
+
+Plh_90 { Você não vai me pegar! }
+
+Plh_91 { Você é rápido demais! }
+
+Plh_92 { Hehehe, você não pode me pegar! }
+
+Plh_93 { Eu sou rápido como o vento! }

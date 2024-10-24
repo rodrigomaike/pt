@@ -1,0 +1,361 @@
+Plh_7 { Eu voltei da Floresta Primeval. Agora eu sei como passar pelo Blackflame. }
+
+Plh_69 { Estou pronto para a Torre Vermelha. }
+
+Plh_225 { Eu voltei da Floresta Primeval e trouxe o Cristal Divino. }
+
+Plh_237 { *examina o Cristal Divino* Parece que está tão vazio quanto os outros. Mombert estava certo sobre o Cristal Divino — precisamos carregá-lo. }
+
+Plh_226 { Você decidiu fazer isso sozinho. Como Herdeira do Brejo, eu não posso aprovar isso. Você pode ter tido nosso bem-estar em mente, mas precisamos trabalhar juntos. }
+
+Plh_227 { Eu vou te mostrar algo. Venha. }
+
+Plh_228 { (seguir) }
+
+Plh_232 { O vaso rúnico do Corvo. A fonte de paz em Nemeton. O Corvo cria tudo o que você pode ver. }
+
+Plh_233 { Aquilo que criamos é frágil. Mas estamos mais perto de nosso objetivo do que nunca... }
+
+Plh_240 { As pessoas na Floresta Primeval não recuperarão suas antigas vidas... }
+
+Plh_241 { Nemeton em breve poderá ser o lar de todos. }
+
+Plh_242 { Nem todos os fins justificam os meios. }
+
+Plh_243 { Eu não acho que teria sido fácil para mim. Mas o que fizemos com o Poderoso Javali foi necessário. }
+
+Plh_244 { Uma vez que entrarmos na Torre Vermelha, o passado se tornará irrelevante. O poder das Divindades prevalecerá, e toda Drova será transformada. Ela se tornará a Terra das Lendas para todos viverem em paz... }
+
+Plh_245 { Sacrifícios terão que ser feitos, mas nunca devemos perder de vista nosso objetivo. }
+
+Plh_234 { E os Cristais Divinos nos levarão até lá. Mombert estava certo. Precisamos carregá-los para que possam nos ajudar a alcançar a Torre Vermelha. }
+
+Plh_248 { Leve o Cristal Divino até Mombert. Ele está no Brejo Vermelho, procurando pela Divindade. Deve haver um lugar onde possamos imbuir todos os cristais com poder mágico. }
+
+Plh_249 { *pega o colar e afrouxa a corrente* Eu uso o símbolo de Nemeton. Este colar foi passado para mim por meu pai, Dorian. Foi ele quem fundou Nemeton... e com isso, o sonho de nosso futuro. }
+
+Plh_251 { Um sonho que agora pode se tornar realidade. Leve o símbolo. Ele irá protegê-lo. }
+
+Plh_252 { Uma vez que você tenha carregado os Cristais Divinos, estaremos prontos para fazer nossa parte. Nós prepararemos o ritual pelo qual entraremos na Torre Vermelha. }
+
+Plh_255 { Eu não irei desapontá-la. }
+
+Plh_246 { Você diria isso a alguém que está morrendo de fome? Alguém que está sendo despedaçado por monstros... porque eu hesitei? }
+
+Plh_247 { Não. Eu não devo recuar. }
+
+Plh_75 { Venha. }
+
+Plh_217 { Eu preciso de paz e tranquilidade. }
+
+Plh_155 { Primeiro, vá até Lio e pegue sua pedra rúnica. Então nós vamos conversar. }
+
+Plh_224 { Estou te dando uma última chance. Se você recuperar o Cristal Divino, perdoaremos sua traição. }
+
+Plh_318 { Molvina, eu fiz isso por Nemeton. }
+
+Plh_319 { Mombert me fez fazer isso. }
+
+Plh_320 { Eu não me importo porque você fez isso. Agora é sua chance. Aproveite. }
+
+Plh_313 { Já ouvi de Mombert que sua expedição foi bem-sucedida. Então Gradan não morreu em vão... }
+
+Plh_315 { Enquanto isso, nós preparamos o Festival do Fogo. Confiamos que vocês teriam sucesso. E estávamos certos. }
+
+Plh_314 { Agora você ganhou o direito de celebrar. }
+
+Plh_45 { O Festival do Fogo acontece apenas uma vez por ano. Você deve aproveitar. }
+
+Plh_39 { Encontre um jeito de passar pelo Blackflame. }
+
+Plh_321 { Perdemos Gradan, mas ganhamos você e Karotte. }
+
+Plh_322 { Criar uma Drova pacífica sempre foi importante para Gradan. Descubra onde estão os outros Cristais Divinos. Assim, nos aproximaremos do objetivo de Gradan. }
+
+Plh_164 { *sorrindo* Bem, espero que você tenha festejado bastante. Hoje é o seu grande dia. }
+
+Plh_165 { É hora de você pegar sua pedra rúnica. Lio e Karotte já estão esperando por você. }
+
+Plh_257 { Eu sabia que era perigoso lá. Mas ainda subestimei o perigo. Precisamos despachar novos guerreiros. }
+
+Plh_276 { Estou organizando uma nova expedição, mas para isso, vou precisar... }
+
+Plh_259 { Eu imbuí os Cristais Divinos com magia. (entregar) }
+
+Plh_260 { O quê? Você fez isso sozinho? Eu posso sentir o poder. Isso é... }
+
+Plh_261 { De jeito nenhum! Você conseguiu sair vivo? Primeiro a mandrágora, e agora você sobreviveu ao Brejo Knawd? Loucura! }
+
+Plh_265 { Eu também posso sentir o poder mágico. Isso deve funcionar. Temos o poder do Poderoso Javali, mais os Cristais Divinos... isso pode ser suficiente. Vou preparar tudo agora. }
+
+Plh_264 { $GVAR:EVars_Player.Name$, traga Mombert aqui. Imediatamente. Ele é necessário na Torre Vermelha. }
+
+Plh_266 { Mas Mombert está... Ele está... indisposto. Duvido que ele esteja pronto para o que está por vir. }
+
+Plh_267 { Não podemos esperar. Mas, por outro lado, não podemos ficar sem ele. Além disso, ninguém deseja mais ardentemente entrar na Torre Vermelha do que ele. }
+
+Plh_262 { Henik, prepare seus guerreiros. Vamos colocar os Cristais Divinos no lugar, e então — entraremos na Torre Vermelha. }
+
+Plh_263 { Mas... }
+
+Plh_268 { *ergue o queixo* Por Nemeton! }
+
+Plh_269 { $GVAR:EVars_Player.Name$, vá até Mombert. Ele provavelmente está descansando com os druidas. Diga a ele que ele é necessário aqui. }
+
+Plh_271 { Talvez Henik esteja certo, e Mombert esteja muito fraco. }
+
+Plh_275 { Uma vez que Mombert esteja aqui, estaremos prontos para partir. }
+
+Plh_273 { Não entraremos na Torre Vermelha sem Mombert. Não apenas porque vamos precisar de seu conhecimento, mas se o deixarmos para trás, ele vai nos esfolar vivos. }
+
+Plh_5 { Pare! Eu sou Molvina, Herdeira do Brejo. O que te dá a ideia de que você tem direito de estar aqui? }
+
+Plh_9 { Angus me mandou. Busco me juntar ao Nemeton. }
+
+Plh_10 { Sou digno de me tornar parte do Nemeton. }
+
+Plh_11 { Então você está aqui para fazer seu voto e se tornar parte da família. }
+
+Plh_14 { Bem, você convenceu Angus com suas habilidades. Diga-me — por que você quer se juntar a nós? }
+
+Plh_15 { Busco poder e desejo fazer algo acontecer. }
+
+Plh_16 { Solidariedade é importante. Quero fazer parte de uma comunidade. }
+
+Plh_17 { Poder e influência? Isso é algo que os lutadores podem oferecer a você. }
+
+Plh_19 { Você deseja pertencer a nós? Deve fazer o voto de lealdade. }
+
+Plh_20 { Repita o que a primeira Herdeira do Brejo uma vez disse... }
+
+Plh_21 { Eu juro servir ao Nemeton e colocar o bem-estar da família acima do meu. }
+
+Plh_23 { A palavra da Herdeira do Brejo é minha lei. }
+
+Plh_25 { Eu juro lealdade eterna. }
+
+Plh_27 { A Herdeira do Brejo ouviu suas palavras. Seu voto agora o liga ao Nemeton. Para sempre. }
+
+Plh_159 { Agora você é finalmente digno de vestir a armadura com o emblema de Nemeton, para que todos em Drova possam ver. Fale! Você luta com armadura leve ou pesada? }
+
+Plh_160 { Qual é a diferença? }
+
+Plh_161 { Eu gostaria de armadura leve. }
+
+Plh_162 { Eu gostaria de armadura pesada. }
+
+Plh_163 { A armadura pesada oferece melhor proteção contra golpes, mas a armadura leve facilita a esquiva. }
+
+Plh_29 { Lembre-se, os Nemeton são sua família agora. Se você prejudicar um membro, prejudicará toda a família. Para qualquer transgressão, existe apenas uma punição: Morte. }
+
+Plh_316 { Eu sou Mombert, o alto druida de Nemeton. Bem-vindo à nossa família. }
+
+Plh_183 { Então... eu tenho essa pedra que devo levar aos druidas em Nemeton. (entregar) }
+
+Plh_184 { Uma... pedra? }
+
+Plh_185 { *ergue uma sobrancelha* Isso é um cristal dos Bygones? }
+
+Plh_186 { Parece exatamente como os desenhos nos textos antigos. Não parece, Mombert? }
+
+Plh_187 { Um relicário dos Bygones... com isso, poderíamos... *Molvina e ele trocam olhares* }
+
+Plh_188 { Mas não sem uma Divindade. Este cristal... podemos usá-lo para focalizar a magia de uma Divindade. O Poderoso Javali— }
+
+Plh_30 { Quieto. Pura fantasia. Já perdemos pessoas boas demais para o Blackflame. }
+
+Plh_31 { Blackflame? }
+
+Plh_193 { A oeste daqui, perto da Taverna do Cabeça Cortada, é onde a Floresta Primeval começa. É onde o Blackflame queima. }
+
+Plh_194 { *olha para o horizonte* Queima profundamente dentro da Floresta Primeval. É lá que procuramos o Poderoso Javali. Muitos pereceram lá... meus amigos. }
+
+Plh_195 { Diemo e seu povo de fato vivem muito perto do Blackflame. Ele é um druida rebelde. Eu gostaria de saber como eles conseguem sobreviver. }
+
+Plh_197 { Dizem que um comerciante chamado Tristan negocia com Diemo regularmente. Então, talvez ele possa nos ajudar... }
+
+Plh_198 { Deve ser um sinal de que você agora está nos trazendo este cristal. E sua oportunidade de provar suas habilidades para nós... }
+
+Plh_199 { Encontre Tristan na taverna. Pergunte a ele como o grupo de Diemo consegue sobreviver na Floresta Primeval em meio ao Blackflame. }
+
+Plh_200 { Eu conheço Diemo bem. Inteligente, mas mal orientado. Ele deve ter encontrado uma maneira de submeter o Blackflame. }
+
+Plh_34 { Ele poderia estar usando magia? }
+
+Plh_201 { Talvez. Pode ser um feitiço, um ritual específico... Ou eles conhecem caminhos seguros pelas chamas. Isso é exatamente o que você precisa descobrir. }
+
+Plh_36 { Fale com Tristan. Se ele realmente estiver alcançando as pessoas na Floresta Primeval, então deve ser possível para nós também. }
+
+Plh_190 { Eu já estive na Floresta Primeval — eu sei como passar pelo Blackflame. }
+
+Plh_191 { O quê?! }
+
+Plh_43 { Não entre na Floresta Primeval a menos que esteja preparado. Verifique com Chunnaic no Quartel dos Crafters. Se você disser que eu mandei, ela lhe fornecerá uma boa arma. }
+
+Plh_192 { Angus está sempre à procura de pessoas que podem fazer o trabalho. Verifique o quadro de avisos. Como lutador do Nemeton, você encontrará empregos lá. }
+
+Plh_38 { E agora vá com a bênção da Herdeira do Brejo. Você faz parte do Nemeton. Mostre isso. Viva isso. }
+
+Plh_18 { Somos uma comunidade. E estamos convencidos de que somente unidos podemos construir algo em Drova que — até agora — só foi relatado em lendas. }
+
+Plh_13 { Isso não é para você decidir. Somente a Herdeira do Brejo pode fazer isso. }
+
+Plh_40 { Você não tem negócios aqui! }
+
+Plh_209 { Que tipo de criatura é essa ao seu lado? }
+
+Plh_210 { É uma centelha. Um elo com a Divindade. Sua luz repele o Blackflame. }
+
+Plh_152 { *inclina-se em direção à centelha* Eu senti esse poder antes... na Floresta Primeval... }
+
+Plh_216 { Com esse ser, poderíamos alcançar a Divindade. Ele poderia nos proteger do Blackflame — se $GVAR:EVars_Player.Name$ estiver dizendo a verdade. Molvina? }
+
+Plh_204 { Eu tenho dúvidas. Eu tremo ao pensar em quantas pessoas perdemos. E agora devemos acreditar que essa... centelha é suficiente para evitar que a história se repita? }
+
+Plh_205 { Não podemos simplesmente esperar e ver. Não, temos que olhar para frente. Outra expedição é uma empreitada ousada, com certeza, mas devemos empreendê-la. Dê-me sua bênção, Molvina. Por favor. }
+
+Plh_153 { *suspira* Você tem minha bênção. Se você acha que pode ser feito, não vou ficar no seu caminho, Mombert. Entre em contato com Angus. Ele reunirá um grupo de guerreiros para você. }
+
+Plh_206 { Você nutre dúvidas. Mas eu não irei desapontá-la, Herdeira do Brejo! Esta é nossa oportunidade única de alcançar a Divindade. E trazer paz para Drova. }
+
+Plh_207 { POR NEMETON! }
+
+Plh_220 { *pisca* Por Nemeton. }
+
+Plh_221 { POR NEMETON! }
+
+Plh_222 { Por Nemeton... }
+
+Plh_208 { Mombert... apenas tome cuidado. Volte se a centelha não tiver efeito. Eu não quero perder mais pessoas. Mas se você realmente puder alcançar a Divindade... }
+
+Plh_211 { Eu serei cuidadoso. }
+
+Plh_44 { E você... você está se juntando à expedição. Somente com seu conhecimento sobre o Blackflame e sua centelha você poderá fazê-lo. }
+
+Plh_213 { Eu não vou decepcioná-los. Por Nemeton. }
+
+Plh_214 { E o que acontece quando encontrarmos a Divindade? }
+
+Plh_218 { O que vai acontecer nesta expedição? }
+
+Plh_42 { Reporte-se a Angus no Quartel dos Lutadores. Esteja preparado! Muito preparado! }
+
+Plh_219 { A Divindade criou a Floresta Primeval. Precisamos estudar seu poder e aprender a... ser capazes de aproveitá-lo. }
+
+Plh_215 { Mombert está liderando um grupo de guerreiros, incluindo você, para a Floresta Primeval. Juntos vocês encontrarão a Divindade. }
+
+Plh_145 { O que você descobriu? }
+
+Plh_147 { As pessoas lá vivem em harmonia com a Divindade. Ela lhes concede uma centelha protetora. }
+
+Plh_148 { Uma centelha? O que é isso? }
+
+Plh_203 { É um elo com a Divindade. A centelha zune em torno de uma pessoa e repele o Blackflame. }
+
+Plh_150 { Então, uma centelha poderia nos permitir alcançar a Divindade sem ser feridos? }
+
+Plh_151 { Sim, eu já tenho uma. centelha! }
+
+Plh_291 { Jero! Isso não pode ser! }
+
+Plh_370 { Como isso poderia acontecer...? Estávamos tão perto... }
+
+Plh_307 { A batalha era inevitável! }
+
+Plh_282 { Meu irmão — o traidor de Nemeton — está morto... As Divindades guiaram minha mão... }
+
+Plh_285 { Jero, VOCÊ me levou a isso... tinha que ser feito. Por todos. Por Drova. }
+
+Plh_312 { Agora uma vida pacífica nos aguarda... Uma comunidade... }
+
+Plh_306 { O círculo rúnico — ele foi extinto?! O poder mágico não flui mais... Sua batalha deve ter perturbado isso... }
+
+Plh_371 { Jero está derrotado. Eu tenho a lei ao meu lado. Você deve ver isso também, Darwin. }
+
+Plh_283 { Molvina — nossa líder! }
+
+Plh_286 { Jero... nosso líder... Como isso pode ser a vontade das Divindades?! }
+
+Plh_288 { Eugen, deixe isso... }
+
+Plh_289 { Meus guerreiros tomaram o acampamento dos Remnants. Você perdeu. }
+
+Plh_284 { Joelho diante de mim. Jure sua lealdade a mim. }
+
+Plh_290 { Ou entre no ringue, se ousar desafiar minha autoridade — e junte-se a Jero com as Divindades! Eu confio em seu julgamento. }
+
+Plh_279 { Eu te desafio! Que as Divindades passem julgamento! }
+
+Plh_280 { (ajoelhar) }
+
+Plh_308 { O que aconteceu com o círculo rúnico? Ele não brilha mais. }
+
+Plh_299 { O que, em nome das Divindades, você está fazendo aí? Você perdeu a cabeça? }
+
+Plh_300 { Alguém está se levantando contra Molvina?! }
+
+Plh_301 { Você realmente se atreve? Então que assim seja. Que as Divindades pronunciem outro julgamento! }
+
+Plh_303 { *sussurra* Eu, a Herdeira do Brejo, prevalecerei... }
+
+Plh_294 { Fulk... $GVAR:EVars_Player.Name$... O que você está fazendo aí? }
+
+Plh_295 { O julgamento das Divindades foi decidido. Molvina agora nos liderará. }
+
+Plh_292 { Por Molvina! A Herdeira do Brejo é a governante de Drova! }
+
+Plh_296 { Os vasos rúnicos agora estão sob meu poder. Drova se tornará a Terra das Lendas. Levante-se, povo de Nemeton. A partir de hoje, todos nós somos um novamente. }
+
+Plh_297 { Sigam-me, Nemeton! Nós iremos até os vasos rúnicos. }
+
+Plh_309 { Isso não é bom, pode ser que — }
+
+Plh_310 { Silêncio! }
+
+Plh_311 { Joelho, e jure lealdade a mim! Aceite-me como seu líder. Então nós iremos comandar os vasos rúnicos. Drova se tornará o Nemeton que foi profetizado! }
+
+Plh_70 { Você tem certeza? Uma vez que começamos nossa missão, não haverá volta. }
+
+Plh_71 { Eu tenho certeza. }
+
+Plh_72 { Eu vou precisar de um momento. }
+
+Plh_73 { Vamos começar! Todos em posição! }
+
+Plh_324 { Henik, Mombert, Asmus, e $GVAR:EVars_Player.Name$... os melhores guerreiros de Nemeton. }
+
+Plh_372 { Vamos juntos até a Torre Vermelha. Nós iremos trazer paz para Drova! }
+
+Plh_325 { POR NEMETON! }
+
+Plh_328 { Por Drova! }
+
+Plh_329 { COMEÇAR! }
+
+Plh_373 { Estamos prontos. Não seremos capazes de sustentar isso por muito tempo, você deve... }
+
+Plh_374 { Comece, estamos prontos! }
+
+Plh_323 { Não sabemos exatamente o que nos aguarda na Torre Vermelha. Fique alerta. Esteja pronto para qualquer coisa. }
+
+Plh_375 { Nós — não conseguimos mantê-lo! }
+
+Plh_376 { PULL YOUR WEAPONS! }
+
+Plh_377 { Prepare-se! }
+
+Plh_74 { Prepare-se bem. E termine tudo o que você ainda quer terminar. }
+
+Plh_378 { O que você está fazendo?! }
+
+Plh_379 { Jero, há algo errado com o círculo rúnico! }
+
+Plh_381 { Eu não tenho escolha... }
+
+Plh_382 { PRECISAMOS ROMPER! }
+
+Plh_383 { Boa tentativa... }
+
+Plh_384 { Estou apenas aquecendo! }
+
+Plh_385 { Você não me deixa escolha, irmão. }

@@ -1,0 +1,61 @@
+Plh_50 { Aqui estão as moedas que ainda lhe devo. }
+
+Plh_9 { Ei, agora eu também estou lutando na arena. }
+
+Plh_30 { Vamos treinar. }
+
+Plh_14 { *olha com desdém* A essa altura, o Proximus está deixando entrar todo tipo de escória... }
+
+Plh_18 { Qual é o seu problema? }
+
+Plh_20 { Não é da sua conta. }
+
+Plh_21 { *sorri* Quer apostar? Como em um evento principal da arena! Quem perder tem que pagar 30 moedas. O que você acha? Ou você tem medo? }
+
+Plh_22 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$? Eu nem me levanto da cama por menos de $GVAR:QuestVars_DAS_WayToArenaMaster_Config.ComedicMoneyAmount$ moedas. Vamos fazer por $GVAR:QuestVars_DAS_WayToArenaMaster_Config.BigBet$! }
+
+Plh_23 { Por $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$ moedas, eu topo. }
+
+Plh_26 { Não tenho tantas moedas. }
+
+Plh_27 { Vamos apenas treinar. }
+
+Plh_25 { Soa bem, então vamos. }
+
+Plh_28 { Bem, encontre as moedas. Você pode trabalhar na Mina. }
+
+Plh_29 { Eu pareço precisar de treino? Sem moedas, sem batalha. Então você terá uma noção da arena. *sorri* }
+
+Plh_33 { VOCÊ esqueça isso! }
+
+Plh_16 { Como isso poderia me interessar? O que eu deveria fazer, dançar uma dança de alegria para você ou algo assim? }
+
+Plh_31 { Então, $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$ moedas? }
+
+Plh_5 { Ei, um rosto novo. }
+
+Plh_6 { Você está falando de mim? }
+
+Plh_7 { O que você quer? }
+
+Plh_8 { Plh_8 }
+
+Plh_35 { Boa luta! Você realmente pode ser algo! }
+
+Plh_45 { Aqui estão suas moedas. Tem mais de onde isso veio. Se você lutar na arena. }
+
+Plh_36 { Boa tentativa, mas você ainda tem muito a aprender. E me deve algumas moedas. }
+
+Plh_40 { Aqui estão suas moedas. }
+
+Plh_38 { Você não vai receber nada de mim. }
+
+Plh_39 { Não tenho moedas suficientes comigo. }
+
+Plh_43 { Você deveria ter considerado isso antes. Agora você verá o que consegue... }
+
+Plh_48 { Não vou lutar com você se você não tem moedas. Dívidas são uma questão de honra. *sorri* }
+
+Plh_41 { Eu gosto disso. Me avise se você quiser lutar de novo. }
+
+Plh_42 { Essas moedas não são suficientes. Cace-as! }

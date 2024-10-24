@@ -1,0 +1,19 @@
+Title_MainSpells { Habilidades }
+
+Title_ConsSpells { Pergaminhos de Feitiço }
+
+header_physicalAbilities { Habilidades }
+
+header_magicalAbilities { Feitiços }
+
+header_memory { Memória }
+
+Orientationpoint_Label { Foco Base: }
+
+Orientationpointtooltip_Header { Foco Base }
+
+Orientationpointtooltip_Description { Com o tempo, o foco será regenerado até este ponto. }
+
+MaxLeben { vida Máxima }
+
+StaminaCosts { Custo de Vigor }

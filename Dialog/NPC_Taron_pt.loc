@@ -1,0 +1,367 @@
+Plh_142 { Eu poderia usar sua ajuda com algo. }
+
+Plh_30 { Sobre os porquinhos... }
+
+Plh_104 { Roarke diz que deve haver um quarto porquinho. }
+
+Plh_8 { Você sabe como posso falar com a Bertine? }
+
+Plh_228 { Acho que sou um dos Ligados agora. }
+
+Plh_226 { É verdade. E estou feliz que você se juntou a nós. Talvez você possa me ajudar com a ninhada novamente algum dia. Ou, quem sabe... }
+
+Plh_240 { Talvez você tenha o talento para se tornar um semeador? }
+
+Plh_229 { Amigos dos porquinhos e do Grande Javali são meus amigos. Você sempre será bem-vindo aqui. }
+
+Plh_148 { O que há de errado com o Cay? }
+
+Plh_193 { Talvez minha centelha possa ajudar o Cay? }
+
+Plh_187 { Olaf diz que eu deveria deixar a Liesl com você. }
+
+Plh_188 { Claro, eu cuidarei da Liesl. Ela pode fazer companhia ao Cay e a mim. }
+
+Plh_140 { Não agora. }
+
+Plh_4 { Plh_4 }
+
+Plh_0 { Hm? Quem é você? Você é um Desviado? Nunca te vi aqui antes, e você também não tem uma centelha. }
+
+Plh_1 { Um o quê? }
+
+Plh_2 { Por que eu deveria ser um desviado? }
+
+Plh_3 { Eu sou $GVAR:EVars_Player.Name$. }
+
+Plh_5 { Sua centelha! Todo mundo tem uma! }
+
+Plh_105 { Bem, na verdade, eu preciso trabalhar agora. }
+
+Plh_6 { Não, você não é um desviado, você é UM Desviado. Porque você não tem uma centelha. }
+
+Plh_7 { Então, saudações, $GVAR:EVars_Player.Name$. É raro que estranhos passem por aqui, você sabe. }
+
+Plh_47 { *ele nota você, mas escolhe ignorá-lo visivelmente* }
+
+Plh_9 { O que você está fazendo aqui? }
+
+Plh_10 { Quem é você? }
+
+Plh_108 { Posso te ajudar de alguma forma? }
+
+Plh_110 { O que há com os porquinhos correndo por aqui? }
+
+Plh_111 { Tudo bem, vou embora então. }
+
+Plh_106 { Trabalhando. }
+
+Plh_107 { Alguém que está ocupado. }
+
+Plh_109 { Não. }
+
+Plh_112 { Você gosta de porquinhos? *sorri timidamente* }
+
+Plh_230 { Eles são incríveis. Eu cuido deles. }
+
+Plh_195 { Olhe para eles. Sem mim, eles não durariam muito. }
+
+Plh_231 { Meus pequenos filhotes. A Mãe os nutre, dá força a eles e os gera. O Grande Javali concede sua força à Mãe. Um ciclo da vida. }
+
+Plh_232 { Incrível... Eu nunca teria pensado que algo assim poderia existir... }
+
+Plh_233 { O quê, essa raiz gera porquinhos...? }
+
+Plh_234 { Há muitas coisas neste mundo que não podemos imaginar... Até termos encontrado. }
+
+Plh_57 { Meu nome é Taron. Eu sou o semeador. Então eu sou responsável por esses pequenos travessos. Até agora, eu sei tudo sobre esses porquinhos. }
+
+Plh_113 { Você os cria? }
+
+Plh_114 { Você parece saber muito sobre isso. }
+
+Plh_236 { Bem, estritamente falando, eu só cuido deles. É a Mãe que os cria. }
+
+Plh_117 { Antes tudo ia muito bem também. Os porquinhos ficaram maiores e mais fortes, e quase todos sobreviveram. Até Anatoli avistar aquela aparição... }
+
+Plh_58 { Uma aparição de caos e morte. A Mãe está contaminada e enfraquece minha semente de porquinho. E sem a semente, temos que temer a ira do Grande Javali. }
+
+Plh_196 { Diemo e eu fazemos o que podemos. Mas não é tão fácil... }
+
+Plh_118 { Quem é essa aparição? }
+
+Plh_119 { Então, dispense os porquinhos... }
+
+Plh_120 { Não sabemos o que é essa aparição ou de onde vem. Mas ela perturba a harmonia da Floresta Primeval e prejudica a semente dos porquinhos. }
+
+Plh_61 { Como a Mãe não consegue mais nutrir os porquinhos enquanto estiver contaminada, eu tento protegê-los. A Floresta Primeval se torna mais perigosa, e a semente dos porquinhos mais fraca. }
+
+Plh_123 { O que é a Mãe? }
+
+Plh_124 { A Mãe tem algo a ver com aquela raiz ali? }
+
+Plh_125 { A Mãe cria todas as raízes para a semente na Floresta Primeval. E o Grande Javali preenche a Mãe e a Floresta com vida. }
+
+Plh_136 { Tenho certeza de que a aparição contamina a Mãe. Diemo não acredita nisso. Mas sou eu quem cuida do porquinho, então eu deveria saber melhor! }
+
+Plh_121 { Parece que você precisa de ajuda. }
+
+Plh_122 { Você pode estar certo. }
+
+Plh_137 { Eu te disse! }
+
+Plh_126 { Você está ouvindo pela primeira vez! Ótimo. }
+
+Plh_197 { O quê?! De jeito nenhum! Precisamos fazer algo sobre essa aparição! }
+
+Plh_116 { *corando levemente* Estou fazendo isso há um tempo... }
+
+Plh_235 { Claro. Eles pertencem à Mãe. Sem suas raízes, já teriam desaparecido há muito. }
+
+Plh_115 { Hm. }
+
+Plh_139 { *batendo os pés nervosamente no chão* }
+
+Plh_138 { Parabéns. Você conseguiu afinal. Terminamos aqui, então? As sementes não se plantam sozinhas. }
+
+Plh_48 { Devemos esperar até que todos estejam aqui. }
+
+Plh_128 { Obrigado novamente por ajudar com os porquinhos. }
+
+Plh_227 { Meu amigo porquinho! Que bom que você se juntou a mim. }
+
+Plh_147 { Meus pequenos filhotes... todos se foram... }
+
+Plh_180 { Bea... Nea... Nenhum deles sobreviveu... }
+
+Plh_181 { *nota você* É você... }
+
+Plh_182 { Sem tempo agora. O pequeno Cay é o único filhotinho que me resta. Então quero passar o máximo de tempo possível com ele enquanto ainda posso. }
+
+Plh_179 { Saia. Eu não quero ver você. }
+
+Plh_185 { Tudo vai ficar bem, Cay. Taron está aqui. }
+
+Plh_49 { Terminamos, meus docinhos. Bea, Nea, Lea, Rea — corram para a floresta! }
+
+Plh_84 { *O porquinho levanta a cabeça para Taron* }
+
+Plh_85 { Não aja assim! Todos vocês sabem muito bem que precisam ir! }
+
+Plh_86 { *O porquinho olha para você* }
+
+Plh_53 { (acaricia) Cuide-se, pequeno. }
+
+Plh_54 { Agora saia. }
+
+Plh_87 { *O porquinho deixa-se acariciar, depois se vira para os outros recém-chegados* }
+
+Plh_88 { Eu vou sentir falta de todos vocês também... }
+
+Plh_91 { Nea, você consegue! Eu acredito em você! }
+
+Plh_204 { *Ele olha para Taron com os olhos arregalados* }
+
+Plh_205 { Eu também vou sentir sua falta, Nea. }
+
+Plh_206 { Foi difícil para todos vocês, eu sei. Mas correr livre, lá fora — é onde vocês pertencem. Junto com os outros javalis. }
+
+Plh_207 { *O porquinho inclina a cabeça, parecendo confuso, como se não entendesse.* }
+
+Plh_208 { Um dia você saberá o que quero dizer. Quando você for um javali grande e forte. Talvez nos encontremos novamente! *olha para você suplicante* }
+
+Plh_209 { (Aproxima-se dele e aperta seu ombro) Nea vai conseguir, Taron. Acredite em mim. }
+
+Plh_210 { Hora de deixar ir, Taron. O porquinho ficará bem. }
+
+Plh_211 { Sim, você está certo... }
+
+Plh_213 { *Abaixando-se, ele abraça o porquinho uma última vez, balançando-o suavemente de um lado para o outro* Tudo ficará bem, Nea. }
+
+Plh_214 { *Enquanto ele coloca cuidadosamente o porquinho de volta no chão, Nea brilha para ele cheio de esperança* }
+
+Plh_215 { Agora vá. Eu sei que você consegue! }
+
+Plh_216 { Oink! Oink! }
+
+Plh_92 { Aí estamos. Eles foram... }
+
+Plh_221 { E quanto ao Cay? Você não vai deixá-lo ir? }
+
+Plh_223 { Cay? Não, ele ficará conosco. Ele não é como os outros porquinhos. Além disso, ele nunca deixaria o lado da Birka. Ele é algo muito especial. }
+
+Plh_245 { O que torna o Cay tão especial? }
+
+Plh_246 { Eu entendo. }
+
+Plh_247 { Um dia, tenho certeza de que a Birka ficará feliz em te contar tudo sobre isso. Ela é melhor amiga do Cay. De qualquer forma, o Cay tem um vínculo especial com o Grande Javali. }
+
+Plh_224 { Espero que a ninhada prospere... }
+
+Plh_50 { É a primeira ninhada que soltei desde que a Mãe foi contaminada. Espero que eles consigam. }
+
+Plh_52 { Nós humanos possuímos grande poder, mas muitas vezes o usamos para as coisas erradas. Se o Grande Javali for nos aceitar, então devemos demonstrar compaixão. }
+
+Plh_257 { A compaixão é uma de nossas virtudes. Lembre-se disso, na próxima vez que falar com o Diemo. *olha para cima* }
+
+Plh_248 { Que o Grande Javali vigie meus pequenos. }
+
+Plh_93 { Obrigado, $GVAR:EVars_Player.Name$. }
+
+Plh_95 { Você pode ser novo por aqui, mas me ajudou. A floresta se lembrará. Hora de eu voltar para a Mãe. Tem que haver um jeito de purificá-la... Tem que haver... }
+
+Plh_94 { Obrigado, Desviado. }
+
+Plh_249 { Obrigado, Desviado. }
+
+Plh_212 { Só um momento. }
+
+Plh_55 { *olha para você com tristeza* Oink, oink! }
+
+Plh_145 { *te dá um olhar confuso e reprovador, mas não responde* }
+
+Plh_63 { A nova ninhada de sementes de porquinho está mais fraca que o normal. Roarke queria misturar um alimento reforçado para eles. E eu preciso descobrir a maneira mais rápida de purificar a Mãe. }
+
+Plh_130 { Resumindo, não tenho tempo para cuidar dos porquinhos adequadamente. Dói muito dizer isso, mas simplesmente não consigo fazer tudo ao mesmo tempo! Talvez você pudesse me ajudar? }
+
+Plh_134 { Parece que sou eu quem deve cuidar disso! }
+
+Plh_64 { Quando eu encontrá-los, verei o que posso fazer. }
+
+Plh_24 { Vou ajudar os porquinhos! }
+
+Plh_65 { *piscando* Isso seria incrível! }
+
+Plh_143 { Mas estamos sem moedas aqui... Então eu não tenho nada para te pagar... Espero que isso não seja um problema. }
+
+Plh_144 { O Grande Javali e a Floresta Primeval mostrarão sua gratidão. Tenho certeza disso. }
+
+Plh_131 { Você realmente quer me ajudar? Isso seria muito legal da sua parte. }
+
+Plh_251 { Os pequenos devem estar morrendo de fome. Roarke provavelmente já preparou algum alimento para eles. }
+
+Plh_26 { Ele está de pé ao lado do caldeirão borbulhante na entrada do acampamento. Se você puder pegar a comida dele para alimentar os porquinhos, seria uma grande ajuda. }
+
+Plh_237 { Uma vez que você a trouxe para eles, volte para mim. Estarei sempre aqui com a Mãe. }
+
+Plh_220 { Oh — você não precisa alimentar o Cay — ele não faz parte da última ninhada, apenas o pequeno que nunca deixa o lado da Birka. Ele é algo muito especial. }
+
+Plh_250 { Estou feliz que você também valorize tanto os porquinhos. Nós realmente os apreciamos, sabe? *sorri* }
+
+Plh_29 { Então... Eu realmente poderia usar alguma ajuda. Os porquinhos são extremamente importantes para nós. }
+
+Plh_31 { Eu já alimentei os porquinhos. }
+
+Plh_34 { Tudo bem, então. Em breve poderemos deixá-los ir para viver na Floresta Primeval. *examina todos os porquinhos e conta um por um* OK, então você, e você... }
+
+Plh_41 { Onde está a Rea, porém? }
+
+Plh_238 { O pequeno travesso. Você poderia, por favor, encontrá-la também e trazê-la aqui? }
+
+Plh_81 { A Rea é muito brincalhona. Ela provavelmente está se escondendo em algum lugar. Procure por toda parte! }
+
+Plh_133 { Droga! Eu esqueci de te dizer que você também tem que alimentar a Rea. Normalmente, ela fica ao meu lado, e eu queria cuidar dela. Mas simplesmente não tenho tempo... }
+
+Plh_43 { Todos os quatro porquinhos já comeram. }
+
+Plh_45 { Todos os meus filhotes estão com barrigas cheias agora. Vamos até a borda do acampamento e vê-los partir. }
+
+Plh_241 { Vamos lá. }
+
+Plh_242 { Taron... eles parecem tão fracos. Você tem certeza de que eles vão conseguir sozinhos? }
+
+Plh_103 { Vamos lá, pequenos! }
+
+Plh_244 { O fato de você se importar com eles me mostra que você é uma boa pessoa. Mas são eles que terão que fazer isso. A Mãe quer isso. Fizemos tudo o que pudemos por eles. Agora depende deles. }
+
+Plh_146 { *corando* ... Ah, certo! Como eu poderia ter esquecido de mencionar a Rea para você?! Você sabe, na verdade eu queria cuidar dela. Que bom que você prestou tanta atenção. }
+
+Plh_11 { Huh? Bertine? }
+
+Plh_239 { Nah, desde a morte do Anatoli, ela ficou um pouco — bem, maluca. Ela só fica sentada ou gritando com as pessoas. Ou os dois ao mesmo tempo. }
+
+Plh_13 { Mesmo assim, deve haver alguma maneira de chegar até ela... }
+
+Plh_14 { Eu sou bom apenas com animais. As pessoas são estranhas. É melhor você perguntar ao Roarke. De alguma forma, ele se dá bem com todo mundo. }
+
+Plh_15 { Tudo o que posso dizer é que a Bertine está sempre encarando o Cay. Como se ele tivesse feito algo para ela... Pequeno Cay... }
+
+Plh_150 { Se ao menos eu soubesse o que era, eu poderia ajudá-lo! }
+
+Plh_151 { Eu tentei de tudo. Ele deveria estar em ótima forma. Mas ele está aqui, definindo-se, sem um grama de força. }
+
+Plh_152 { *acaricia-o suavemente* Pobre Cay. Eu gostaria de poder ajudá-lo. }
+
+Plh_157 { O Grande Javali salvou o Cay uma vez antes. Mas agora ele se foi. E com ele, a Floresta Primeval. }
+
+Plh_184 { Estou com medo de que o fim esteja próximo para o Cay. Eu não sei o que mais posso fazer. Deve haver algo para dar a ele nova força, algo do Grande Javali. }
+
+Plh_160 { *Cay aninha a cabeça na mão de Taron, ofegando superficialmente* }
+
+Plh_158 { Estou aqui para você, Cay. Tudo vai ficar bem. }
+
+Plh_162 { Você recuperou sua centelha? }
+
+Plh_165 { *você pode sentir como sua centelha reage ao Cay — ela quer ajudá-lo* }
+
+Plh_166 { ... claro! }
+
+Plh_167 { Cay tem um vínculo especial com a Floresta Primeval! E sua centelha é tudo o que resta disso! }
+
+Plh_168 { Talvez seja assim que você pode ajudar o Cay?! Ele parece estar melhor sempre que a centelha está ao seu lado. }
+
+Plh_169 { Se isso ajudar o Cay, então minha centelha irá acompanhá-lo. }
+
+Plh_170 { É minha centelha. De ninguém mais. }
+
+Plh_254 { Tudo bem... Cay, aqui está. A centelha te dará força. }
+
+Plh_252 { *Cay se levanta animadamente enquanto a centelha voa para o seu lado* }
+
+Plh_255 { Oink! Oink! }
+
+Plh_171 { Não vi o Cay tão feliz desde que escapamos da Floresta Primeval! }
+
+Plh_256 { Obrigado, $GVAR:EVars_Player.Name$! Nunca esquecerei. E o Cay com certeza também não. *sorri* }
+
+Plh_172 { *para Cay* Viu, Cay? Tudo vai ficar bem. Te disse. }
+
+Plh_174 { Q-que? Você aparece aqui, nossa terra natal é devastada momentos depois, e agora você não vai levantar um dedo para ajudar o Cay, mesmo podendo?! }
+
+Plh_175 { Certo. A centelha deve permanecer ao lado do Cay. }
+
+Plh_176 { Esqueça. A centelha escolheu a MIM. Não o Cay. }
+
+Plh_177 { Você é uma besta sem coração. Uma... abominação. Saia! }
+
+Plh_67 { Como vocês todos sobrevivem aqui nesta floresta escura? }
+
+Plh_71 { O que é o Grande Javali? }
+
+Plh_83 { Todos vocês acreditam em algo que nem mesmo viram? }
+
+Plh_72 { Semente de porquinho... O que você quer dizer? }
+
+Plh_68 { Não pode ver a roupa que estou usando? A centelha ao meu lado? Nesta floresta habita o Grande Javali, uma das Divindades. }
+
+Plh_198 { Ele assumiu a forma de um javali selvagem. É por isso que nos adaptamos a seus modos e cuidamos dos porquinhos. Esperamos que ele nos aceite como parte da floresta. }
+
+Plh_69 { A nova semente de porquinho é parte disso também. Depois de criar os porquinhos aqui, nós os soltamos na Floresta Primeval para manter o Grande Javali feliz. }
+
+Plh_203 { E é por isso que descobrir como purificar rapidamente a Mãe é tão importante... }
+
+Plh_70 { Uma das Divindades. Um ser poderoso. Esta floresta é seu domínio. }
+
+Plh_199 { Chamamos de Grande Javali, porque presumimos que é um daqueles maraudadores de presas que vivem na floresta. Mas ninguém nunca o viu. }
+
+Plh_82 { Depois do que vivemos, nenhum de nós tem mais dúvida alguma. }
+
+Plh_200 { Como você acha que conseguimos sobreviver aqui? Apenas graças ao Grande Javali! }
+
+Plh_74 { Eu sou o semeador. Quando os porquinhos nascem da Mãe, eles permanecem com ela. Depois disso, eu cuido deles. }
+
+Plh_201 { Chamamos uma ninhada de porquinhos de semente de porquinho. }
+
+Plh_260 { Estou aqui para te avisar. Meu acampamento quer capturar o Grande Javali! }
+
+Plh_259 { Meros humanos não são capazes de ferir o Grande Javali. Eu não tenho tempo para suas histórias — preciso cuidar da nova semente. }

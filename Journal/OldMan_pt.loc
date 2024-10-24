@@ -1,0 +1,9 @@
+Title { O Velho no Mercado }
+
+Entry_01 { Conheci um velho que quer que eu traga várias coisas do mercado. Ele me pediu para conseguir $GVAR:QuestVars_OldMan_Config.AmountApple$ maçãs, $GVAR:QuestVars_OldMan_Config.AmountDagger$ faca de pão, $GVAR:QuestVars_OldMan_Config.AmountQuellWurz$ erva de primavera e pele de urso. Ele disse que posso comprar tudo isso no mercado. }
+
+Entry_02 { Femke não quer me vender a pele de urso. Ele disse que eu poderia enganar o velho com uma pele de ovelha, em vez da pele de urso. Ele não perceberia a diferença de qualquer maneira. }
+
+Entry_03 { Enya disse que Femke guarda suas peles debaixo de sua barraca. À noite, eu poderia querer visitar o local... }
+
+Entry_04 { Entreguei as coisas para o velho. Ele ficou muito feliz. }

@@ -1,0 +1,13 @@
+Entry_01 { A adega de Bernold está infestada de ratos, e ele precisa de alguém para ajudá-lo a se livrar deles. Ele me dará algumas moedas como recompensa. Isso deve valer a pena. }
+
+Entry_02 { Estou na adega. Agora tudo o que eu tenho que fazer é me livrar dos ratos. }
+
+Entry_03 { Os ratos na adega estão mortos. Bernold com certeza ficará feliz com isso. }
+
+Entry_03_A { Os ratos emergem de uma caverna e entram na adega de Bernold através de um buraco. Ele provavelmente ficaria feliz se eu cuidasse disso também. }
+
+Entry_03_B { Os ratos na caverna escondida estão mortos. Uma vez que eu tenha cuidado dos que ainda estão no porão, devo relatar a Bernold. }
+
+Entry_04 { Bernold cumpriu sua promessa. Ele me deu as moedas, e o problema dele foi resolvido. }
+
+Title { Ratos! }

@@ -1,0 +1,17 @@
+Title { Prosperidade }
+
+Entry_01 { No caminho para Nemeton, Hansi e Gawan foram atacados por rippers. Hansi perdeu a vida — e com ela, uma carga valiosa: uma pedra de glifo amarela. Gawan quer que eu traga essa pedra para ele, para que ele possa vendê-la em Nemeton. Gawan compartilhará o lucro comigo, e ele promete que nós dois seremos ricos. }
+
+Entry_02 { Eu dei a pedra de glifo a Gawan. Ele quer ir para Nemeton para vendê-la lá. Moedas, moedas, moedas! }
+
+Entry_03 { Gawan gastou as moedas que ganhou pela pedra de glifo em algumas ovelhas, e ele promete que o negócio de ovelhas fará com que minhas moedas dobrem em pouco tempo. Ele quer que eu invista $GVAR:QuestVars_RipperAmbush.SheepCosts$ moedas. }
+
+Entry_04 { Agora estou no negócio de ovelhas. Gawan acha que nós dois estaremos nadando em moedas em breve. }
+
+Entry_05 { Com rãs que buscam tesouros no pântano, Gawan quer TRIPLICAR nossas moedas! Se eu quiser entrar, precisarei investir $GVAR:QuestVars_RipperAmbush.YCosts$ moedas. }
+
+Entry_06 { Eu estou dentro! Gawan quer começar a busca perto de Georgefarm em breve. Espero que valha a pena. }
+
+Entry_07 { Eu recebi minha parte das moedas. Gawan estava certo. }
+
+Entry_Exit { Eu decidi não entrar no negócio com Gawan. }

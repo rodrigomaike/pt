@@ -1,0 +1,155 @@
+Plh_42 { Para que você precisa das moedas? Por que está fazendo isso? }
+
+Plh_41 { Uh, sim... Aleka? }
+
+Plh_43 { Isso não é da sua conta. }
+
+Plh_44 { Me diga agora, ou eu vou arrancar isso de você. }
+
+Plh_46 { Eu só quero saber por que você está roubando os Cortadores que estão indo para o Fosso. }
+
+Plh_47 { Ei, vá com calma. Não queremos encrenca com você. }
+
+Plh_49 { *suspira* Na verdade, vivemos nas montanhas. Mas nossa irmã Geli ficou doente. Fomos ao druida, e... }
+
+Plh_50 { Ei, Adalgis, isso é só entre nós. }
+
+Plh_52 { Quem é Geli? }
+
+Plh_53 { Então, vocês só querem ajudar Geli? }
+
+Plh_55 { Isso não é da sua conta. Cai fora! }
+
+Plh_48 { Esses pobres Cortadores! É ridículo — eles escolheram isso; ELES QUEREM ser explorados. Só Jero e seu pessoal se beneficiaram disso. }
+
+Plh_61 { A mulher fraca em sua tenda é sua irmã? }
+
+Plh_64 { *suspira* Geli está muito doente. Não sabemos o que ela tem. }
+
+Plh_65 { Fomos ao druida, e ele nos deu uma receita para uma poção de cura. Já conseguimos a maioria dos ingredientes, mas... }
+
+Plh_88 { Já chega. Isso é um assunto de família. Nos deixe em paz. }
+
+Plh_89 { Não vamos roubar mais nenhum Cortador, você tem nossa palavra. }
+
+Plh_91 { Fique longe de nós. }
+
+Plh_68 { Eu trouxe o que vocês estavam procurando. }
+
+Plh_67 { O-O quê? Como você sabe sobre isso!? }
+
+Plh_69 { Não importa de onde conseguimos. É realmente o coração de urso e esse lótus estranho? }
+
+Plh_70 { Tudo parece exatamente como o druida descreveu. Vou preparar um pouco rapidamente... }
+
+Plh_71 { Isso deve funcionar! }
+
+Plh_92 { Me dê, eu vou levar para Geli. }
+
+Plh_72 { Aqui, Geli, isso vai te ajudar... }
+
+Plh_93 { Devagar. Tem o suficiente. }
+
+Plh_73 { Está funcionando? Aleka? Geli? }
+
+Plh_94 { Ela está conseguindo manter, isso é um bom sinal. Como o druida disse, ela está mais calma, e a respiração está desacelerando. }
+
+Plh_96 { Obrigado. Acho que você salvou a vida da nossa irmã. Se não fosse por você... }
+
+Plh_97 { O que exatamente Geli tem? }
+
+Plh_101 { Fico feliz em poder ajudar. }
+
+Plh_98 { Ela sempre foi mais fraca que os outros. Não teve uma infância fácil. Ficava de cama, como está agora. }
+
+Plh_99 { Por isso Aleka e eu queríamos mostrar a floresta para ela. Saímos escondidos com ela. Nunca a vimos tão feliz. Ela nunca tinha saído da aldeia antes. }
+
+Plh_100 { Então, ficou tudo nebuloso, e nos perdemos. Foi assim que acabamos aqui. É nossa culpa ela estar aqui. Queríamos ajudá-la... }
+
+Plh_102 { Obrigado... Não temos muito, mas você salvou nossa irmã, e nada é mais importante para mim do que isso. }
+
+Plh_103 { Este é o símbolo da nossa tribo. Ele carrega um poder antigo. Significa muito para mim, e eu quero que você fique com ele. }
+
+Plh_104 { Obrigado por tudo. }
+
+Plh_105 { Obrigado pelo talismã. Vou guardá-lo bem. }
+
+Plh_106 { E cuide-se também. }
+
+Plh_75 { Tudo bem. Não vamos mais arrumar encrenca. }
+
+Plh_84 { Não queremos problemas. }
+
+Plh_87 { Você não vai escapar de nós de novo! }
+
+Plh_0 { Ei, não vi seu rosto antes. Para onde você está indo? }
+
+Plh_10 { Estou indo para o Fosso. }
+
+Plh_11 { Só estou olhando ao redor. }
+
+Plh_12 { Preciso ir. }
+
+Plh_13 { Então você está no lugar certo, está quase lá. Só seguir o caminho. }
+
+Plh_16 { Obrigado. Bom saber. }
+
+Plh_17 { É melhor eu voltar. }
+
+Plh_18 { Se quiser passar por aqui, terá que nos pagar $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ moedas. Não gostamos de fazer isso, mas precisamos das moedas. Ou você paga... }
+
+Plh_19 { Ou o quê? }
+
+Plh_21 { Aqui estão as $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ moedas. }
+
+Plh_22 { Não tenho moedas suficientes comigo. }
+
+Plh_20 { Não vou pagar nada para vocês. }
+
+Plh_24 { *franze a testa* Ou vamos simplesmente pegá-las. }
+
+Plh_40 { Tudo bem, você pode passar. Vai ganhar as moedas de volta rapidamente no Fosso. }
+
+Plh_25 { Fique calmo, só vamos verificar quantas moedas você tem, depois pegamos o que nos é devido. }
+
+Plh_26 { Nem pense nisso... }
+
+Plh_23 { Claro que você pode fazer isso, mas enquanto estiver aqui, vamos precisar de $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ moedas de você. Ou você paga... }
+
+Plh_14 { Então tenha cuidado. Há perigo à frente. Uma matilha de ripper caça por aqui. Você deveria comprar um equipamento melhor. Pode fazer isso no Fosso. Só seguir por ali. }
+
+Plh_15 { Ei, espere. Se continuar por aqui, você vai chegar ao Fosso. }
+
+Plh_107 { Geli está melhorando — graças a você. }
+
+Plh_6 { Ei, não queremos confusão. Estamos saindo. Certo? }
+
+Plh_7 { Saia deste lugar. }
+
+Plh_8 { Já estamos indo. Você não nos verá de novo. }
+
+Plh_4 { Cai fora. Você já pagou, agora pode passar. }
+
+Plh_28 { Saia daqui. }
+
+Plh_29 { Não há lugar para você aqui. }
+
+Plh_38 { Para que você precisa das moedas? }
+
+Plh_30 { Não podemos deixar este lugar. Precisamos das moedas. }
+
+Plh_32 { O que você quer fazer? }
+
+Plh_33 { Mostrar a vocês dois que sou mais forte que qualquer um de vocês. }
+
+Plh_34 { Vocês não vão roubar mais nenhum Cortador. }
+
+Plh_85 { Deixa para lá. }
+
+Plh_35 { Eu adoraria ver isso... }
+
+Plh_86 { Pode ir embora. }
+
+Plh_39 { Não seja tão curioso. Trate de seguir seu caminho. }
+
+Plh_9 { Ei, já acabou. O que mais você quer? }

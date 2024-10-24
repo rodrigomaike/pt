@@ -1,0 +1,9 @@
+Title { A Arma do Karotte }
+
+Entry_01 { Mais uma vez, Karotte estragou sua arma. Ele está envergonhado de aparecer com ela na Chunnaic. Prometi cuidar disso para ele, então ele me deu $GVAR:QuestVars_KarottesWeapon_Config.AmountOfMoney$ moedas. }
+
+Entry_02 { Chunnaic consertou a arma, mas imediatamente notou que era do Karotte. }
+
+Entry_03 { Karotte recebeu sua arma de volta. }
+
+Entry_04 { Karotte não precisa mais de sua arma. }

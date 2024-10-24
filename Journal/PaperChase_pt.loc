@@ -1,0 +1,27 @@
+Title { Meu Próprio Talismã }
+
+Entry_01 { Eu tenho um talismã bruto, mas está faltando um cordão de couro. As crianças disseram que Rura pode ajudar. }
+
+Entry_02 { Rura prendeu um cordão de couro ao meu talismã. Agora tudo que eu preciso fazer é purificar o talismã no Fogo Eterno de Nemeton. }
+
+Entry_03 { Com a ajuda de Myrte, consegui purificar o talismã. Mas agora eu preciso gravar algo. Myrte disse: "Siga as luzes da noite no círculo de pedras em Nemeton. Ouça sua melodia, e o próprio Corvo irá guiá-lo." O que isso deve significar? }
+
+Entry_04 { No talismã, pintei um símbolo que está conectado ao Grande Corvo. Eu terminei agora? Talvez eu devesse perguntar às crianças. }
+
+Entry_05 { O talismã recebeu todas as três bênçãos. Parece que agora está completo. }
+
+Entry_04B { As bênçãos da vida estão onde os pássaros pararam de cantar e o canto dos sapos pode ser ouvido. Onde três nascentes de vida convergem. }
+
+Entry_05A { O talismã — respondeu. Estas devem ser as bênçãos da mudança. }
+
+Entry_05C { Meu talismã começou a vibrar perto de um menir. Estas devem ser as bênçãos da nascente. }
+
+Entry_05B { Havia um lugar estranho no pântano. Desde que fui lá, meu talismã tem emitido um calor estranho. Estas foram as bênçãos da vida. }
+
+Entry_04A { As bênçãos da mudança estão em um lugar assombrado pela escuridão eterna, mas cercado pela luz. Cinco fases da vida formam o círculo da mudança. }
+
+Entry_04C { As bênçãos da nascente podem ser encontradas em uma pequena ilha onde todos os pássaros pousam em uma rocha solitária cantando, com as vozes do passado à sua volta. }
+
+Entry_03_Rejected { Myrte me ajudará apenas se eu fizer parte de Nemeton. Talvez eu consiga convencê-la a me ajudar de qualquer forma? }
+
+Entry_04_Hint { Um vaga-lume apareceu como resultado da minha música. Talvez ele me ajude a reconhecer o que eu preciso gravar no talismã. }

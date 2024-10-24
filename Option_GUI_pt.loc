@@ -1,0 +1,265 @@
+Control { Controles }
+
+GameMode { Modo de Jogo }
+
+default { Redefinir }
+
+save { Salvar }
+
+dont_save { Não Salvar }
+
+cancel { Cancelar }
+
+keyfield_popup { Suas configurações foram alteradas. Gostaria de salvar essa configuração? }
+
+keyfield_popup_conflict { Esta configuração contém conflitos de atalhos e não pode ser salva. Gostaria de continuar sem salvar? }
+
+world { Mundo }
+
+category_dialog { Diálogo }
+
+category_music { Música }
+
+category_guimenus { Menus de Interface }
+
+category_shotcuts { Diversos }
+
+Label_Volume_Master { Tudo }
+
+Label_Volume_Sound { Efeitos Sonoros }
+
+Label_Volume_Ambience { Ambiente }
+
+Label_Volume_UI { Interface do Usuário }
+
+Label_Volume_Music { Música }
+
+Options { Opções }
+
+gameplay { Jogabilidade }
+
+interface { Interface }
+
+video { Vídeo }
+
+audio { Áudio }
+
+Zoom { Zoom }
+
+ShowPlayerHealth { Exibir barra de vida do jogador, barra de foco e outras }
+
+ShowLootFeedback { Sempre que seu personagem pegar algo, aprender algo, ficar mais forte ou progredir em uma missão, informações adicionais serão exibidas no lado direito da tela. }
+
+ShowQuickbar { Exibir Barra Rápida }
+
+ShowBuffs { Exibir símbolos de efeitos de status }
+
+ShowHealthVignette { Exibir vinheta de vida }
+
+ShowOptions_Disclaimer { Ative todas para configurações recomendadas de jogo. }
+
+ShowDirectionFeedback { Mostrar indicador direcional }
+
+ShowHealthbars { Exibir barras de vida }
+
+ShowStaminaBar { Exibir barra de vigor e munição }
+
+Title_Gamepad { Controle }
+
+Title_KeyBinds { Controles }
+
+Language { Idioma }
+
+Toggle_ShowHelp { Exibir Tutoriais }
+
+AutosaveInterval { Intervalo de Salvamento Automático }
+
+Toggle_PickUpsToQuickbar { Atribuir itens automaticamente à Barra Rápida }
+
+Toggle_PickUpsToQuickbar_Heal { Itens de Cura }
+
+Toggle_PickUpsToQuickbar_Traps { Armadilhas }
+
+Toggle_AutoDrawWeapon { Sacar arma automaticamente }
+
+Toggle_AutoEquipArrows { Equipar munição automaticamente }
+
+Dropdown_Resolution { Resolução }
+
+Toggle_WindowMode { Modo Janela }
+
+Slider_FPS { Taxa de Quadros }
+
+Title_Effects { Efeitos }
+
+Slider_Screenshake { Intensidade da Vibração de Tela }
+
+Slider_ParticleAmount { Partículas }
+
+Toggle_DustParticles { Partículas de Poeira }
+
+Toggle_ShaderEffects { Efeitos de Sombreamento }
+
+Toggle_WindEffects { Efeitos de Vento }
+
+Toggle_Vibration { Vibração }
+
+Toggle_AutoAim { Mira Automática }
+
+State_Low { Baixo }
+
+State_Medium { Médio }
+
+State_High { Alto }
+
+Vsync { V-Sync }
+
+Unlimited { Ilimitado }
+
+Title_Keyboard { Teclado }
+
+Option_Generic_Off { Desativado }
+
+Autosave_Min3 { 3 minutos }
+
+Autosave_Min5 { 5 minutos }
+
+Autosave_Min10 { 10 minutos }
+
+Title_FontAndDialog { Texto e Diálogo }
+
+Toggle_PickUpsToQuickbar_Food { Comida }
+
+Toggle_PickUpsToQuickbar_Throwables { Arremessáveis }
+
+Toggle_PickUpsToQuickbar_Torches { Tochas }
+
+Dropdown_FontSize { Tamanho da Fonte }
+
+Dropdown_DialogSpeed { Velocidade de Exibição de Texto }
+
+FontSize_Small { Normal }
+
+FontSize_Medium { Grande }
+
+FontSize_Big { Muito Grande }
+
+DialogSpeed_Instant { Imediato }
+
+DialogSpeed_Fast { Rápido }
+
+DialogSpeed_Slow { Normal }
+
+Toggle_GroundFog { Névoa no Chão }
+
+Toggle_Rain { Chuva }
+
+Toggle_Clouds { Nuvens }
+
+Toggle_TextSounds { Sons ao exibir texto }
+
+Toggle_NPCDialogSounds { Sons dos Personagens }
+
+Toggle_ShowCompleteHUD { Exibir HUD Completo }
+
+Toggle_CharacterFeedback { Exibir Feedback do Personagem }
+
+ShowDirectionFeedback_Enemies { Exibir indicadores direcionais }
+
+ShowPoiseBar_Enemies { Exibir barra de postura dos inimigos }
+
+ShowMunition { Exibir munição }
+
+Toggle_SmartQuickbar { Barra Rápida Inteligente }
+
+Toggle_ShowItemChanges { Exibir itens obtidos/perdidos }
+
+Toggle_ShowDiaryChanges { Exibir atualizações no diário }
+
+Toggle_ShowNewSpells { Exibir feitiços, receitas e talentos recém-aprendidos }
+
+Toggle_ShowCharacterImprovements { Exibir avanço do personagem }
+
+Toggle_ChangeSticks { Inverter alavancas }
+
+Toggle_ChangeDirectionWithSticks { Inverter D-Pad e Botões de Ação }
+
+Toggle_ChangeTriggers { Inverter Botões de Ombro }
+
+Keybinding_Preset { Padrão }
+
+KeyPreset_LeftHanded { Canhoto }
+
+Toggle_ScrollAbilities { Alternar habilidade ativa com a roda do mouse }
+
+Parent_BasicHudElements { Elementos Básicos da HUD }
+
+Parent_CharacterFeedback { Feedback do Personagem }
+
+Title_ScreenHUD { Elementos de HUD na tela }
+
+Title_PlayerHUD { Elementos de HUD no personagem }
+
+Title_EnemyHUD { Elementos de HUD nos inimigos }
+
+ShowNPCNames { Exibir nomes dos personagens }
+
+KeyPresent_Standard { Padrão }
+
+KeyPresent_Azerty { Azerty }
+
+Title_General { Geral }
+
+Description_SmartQuickbar { Lembra o último item atribuído a um slot da barra rápida e o atribui novamente ao obter o mesmo item. }
+
+Toggle_CameraMode { Alinhar câmera com linha de visão }
+
+Description_CameraMode { A câmera sempre se moverá para onde o cursor está apontando. Se essa opção estiver desativada, a câmera será alinhada com a direção do movimento. }
+
+Toggle_FilterSellItems { Marcar itens de venda como lixo automaticamente }
+
+Description_FilterSellItems { Marca itens novos como lixo para venda automaticamente, fazendo com que apareçam no inventário apenas quando o filtro de lixo estiver ativado. }
+
+Dropdown_DisplayMode { Modo de Exibição }
+
+DisplayMode_Windowed { Modo Janela }
+
+DisplayMode_Borderless { Modo Janela Sem Bordas }
+
+DisplayMode_Fullscreen { Tela Cheia }
+
+Zoom_Near { Perto }
+
+Zoom_Far { Longe }
+
+Toggle_PickUpsToQuickbar_Potions { Poções }
+
+Description_AutoDrawWeapon { O personagem automaticamente sacará sua arma ao esquivar ou usar uma magia. }
+
+Title_WeatherEffects { Efeitos Climáticos }
+
+Toggle_WindMovements { Movimento do Vento }
+
+Toggle_Quickcast { Lançamento Rápido }
+
+AutoDrawWeapon_CombatAbilitiesOnly { Apenas Habilidades de Combate }
+
+Description_Quickcast { Ao pressionar uma das teclas de habilidade, a habilidade será trocada e, com o lançamento rápido habilitado, usada imediatamente. }
+
+Description_LookDirection { Durante o combate, uma seta nos pés do personagem indica a direção que ele está olhando. }
+
+Description_LookDIrection_NPCs { Durante o combate, uma seta nos pés do personagem indica a direção que ele está olhando. }
+
+popup_reset { Descartar }
+
+FontSize_Preview { Visualização }
+
+MapMarker_Player_Toggle { Mostrar posição no mapa } 
+
+PlayerDmgReceive { Dano recebido pelo jogador }
+
+PlayerDmgOutput { Dano adicional do jogador }
+
+Toggle_MiniGame { Desativar minijogos }
+
+MouseLock { Restringir mouse à janela }
