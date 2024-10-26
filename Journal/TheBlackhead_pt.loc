@@ -2,7 +2,7 @@ Title { Um Convidado Indesejado }
 
 Entry_01 { Agilo ficou surpreso com a pouca comida que restava na cova de suprimentos. Ele acha que alguém está furtando os suprimentos. Cengiz também insinuou algo assim — talvez ele saiba mais? }
 
-Entry_02 { Cengiz disse que viu alguém andando em direção às covas de suprimentos à noite. Ele supõe que alguém está secretamente se aproveitando dos suprimentos. Se eu descobrir quem é o ladrão, ele me recompensará. }
+Entry_02 { Cengiz disse que viu alguém andando em direção aos poços de armazenamento à noite. Ele supõe que alguém está secretamente se aproveitando dos suprimentos. Se eu descobrir quem é o ladrão, ele me recompensará. }
 
 Entry_03_Z { Merlind me disse que às vezes vê fumaça subindo do território dos rippers. Rippers não sabem fazer fogo, sabem? }
 
@@ -14,4 +14,4 @@ Entry_04_B { Eu disse a Cengiz que afugentei o ladrão. Ele está satisfeito com
 
 Entry_04_B1 { Owain não vai mais roubar nada. Devo contar a Cengiz. }
 
-Entry_04C { Owain é o ladrão da cova de suprimentos. Ele me disse que Cengiz tem algumas roupas de trabalho antigas em sua tenda. Talvez eu possa fazer uma visita noturna? }
+Entry_04C { Owain é o ladrão dos poços de armazenamento. Ele me disse que Cengiz tem algumas roupas de trabalho antigas em sua tenda. Talvez eu possa fazer uma visita noturna? }
