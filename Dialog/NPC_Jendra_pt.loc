@@ -1,374 +1,373 @@
-Plh_25 { They're paying you $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverForJendra$?! }
+Plh_25 { Eles estão te pagando $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverForJendra$?! }
 
-Plh_30 { Here, $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ should do it. (hand over) }
+Plh_30 { Aqui, $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ deve ser suficiente. (entregar) }
 
-Plh_32 { What if I offered you $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ pieces of silver? }
+Plh_32 { E se eu te oferecesse $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ peças de prata? }
 
-Plh_36 { Almar isn't coming today. }
+Plh_36 { Almar não vem hoje. }
 
-Plh_99 { What's the canary over there for? The one in the cage? }
+Plh_99 { Para que serve o canário ali? Aquele na gaiola? }
 
-Plh_217 { I want to go into the Deep Mine. }
+Plh_217 { Eu quero entrar na Mina Profunda. }
 
-Plh_26 { Of course. And they'll still leave the Deep Mine with a big, fat profit. That's why everyone is so eager to do it. }
+Plh_26 { Claro. E eles ainda vão sair da Mina Profunda com um grande lucro. É por isso que todos estão tão ansiosos para fazer isso. }
 
-Plh_27 { If you say so... }
+Plh_27 { Se você diz... }
 
-Plh_28 { That's downright theft! }
+Plh_28 { Isso é roubo descarado! }
 
-Plh_29 { You've still got to learn that things are done a little differently around here... }
+Plh_29 { Você ainda precisa aprender que as coisas funcionam de forma um pouco diferente por aqui... }
 
-Plh_179 { Well? }
+Plh_179 { E então? }
 
-Plh_31 { Mm. Well, that's a shame about Almar. But you've got your spot! Next time, I'll take you with me. Let me know as soon as you are ready. }
+Plh_31 { Mm. Bem, que pena sobre o Almar. Mas você conseguiu o seu lugar! Da próxima vez, eu te levo comigo. Me avise assim que estiver pronto. }
 
-Plh_89 { We can go into the Deep Mine. }
+Plh_89 { Podemos entrar na Mina Profunda. }
 
-Plh_90 { I still need some more time. }
+Plh_90 { Eu ainda preciso de mais tempo. }
 
-Plh_91 { Don't wait too long! }
+Plh_91 { Não demore muito! }
 
-Plh_33 { Actually, I have a deal with them. Ella's coming along in any case. Otherwise she won't be able to pay Laric, and then he'll come running to me. }
+Plh_33 { Na verdade, eu tenho um acordo com eles. Ella vai de qualquer jeito. Caso contrário, ela não poderá pagar Laric, e então ele virá atrás de mim. }
 
-Plh_62 { $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ pieces of silver. Take it or leave it. }
+Plh_62 { $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ peças de prata. Aceite ou deixe. }
 
-Plh_63 { Do you really want to miss out on that much silver? }
+Plh_63 { Você realmente quer perder toda essa prata? }
 
-Plh_64 { *frowns* Hmm. That's a lot. Could be worth Almar's spot... }
+Plh_64 { *franze a testa* Hmm. É muito. Pode valer o lugar do Almar... }
 
-Plh_75 { Well, if you can scrape up enough silver, you'll be on your way into the deep. Or rather... into the "depth." That's what we miners call it. }
+Plh_75 { Bem, se você conseguir juntar prata suficiente, você terá passagem para a mina profunda. Ou melhor... para a "profundeza". É assim que nós mineiros chamamos. }
 
-Plh_35 { What? But we've got to get going! Where can I round up another Hewer? }
+Plh_35 { O quê? Mas nós temos que ir! Onde posso encontrar outro Hewer? }
 
-Plh_67 { Well... }
+Plh_67 { Bem... }
 
-Plh_66 { *clears throat*... }
+Plh_66 { *limpa a garganta*... }
 
-Plh_180 { One's standing right in front of you. }
+Plh_180 { Tem um bem na sua frente. }
 
-Plh_181 { OPEN YOUR DAMN EYES! }
+Plh_181 { ABRA SEUS OLHOS, DROGA! }
 
-Plh_68 { *gnashes teeth* Fine. You may come along THIS TIME. Once Almar is back, he's on the job again. Let me know when you're ready. }
+Plh_68 { *trinca os dentes* Tudo bem. Você pode vir DESTA VEZ. Assim que Almar voltar, ele assume o trabalho novamente. Me avise quando estiver pronto. }
 
-Plh_224 { I'm ready to go into the Deep Mine. }
+Plh_224 { Estou pronto para entrar na Mina Profunda. }
 
-Plh_100 { Hm? You mean Falco? }
+Plh_100 { Hm? Você quer dizer o Falco? }
 
-Plh_101 { He's sensitive to the gases down below. If we find him dead on the cage floor, then we know we need to get out quickly. }
+Plh_101 { Ele é sensível aos gases lá embaixo. Se o encontrarmos morto no fundo da gaiola, saberemos que precisamos sair rápido. }
 
-Plh_102 { That bird looks pretty thrashed. }
+Plh_102 { Esse pássaro parece bem maltratado. }
 
-Plh_109 { You are aware of the fact that canaries aren't carnivores? }
+Plh_109 { Você sabe que canários não são carnívoros, né? }
 
-Plh_103 { Don't you think that's a bit mean? }
+Plh_103 { Você não acha que isso é um pouco cruel? }
 
-Plh_104 { At least the bird is making itself useful. }
+Plh_104 { Pelo menos o pássaro está sendo útil. }
 
-Plh_105 { Well, he's all cooped up in a cage, down in a mine. What do you expect? Shona occasionally brings him something. But I haven't seen her with him in a long time. }
+Plh_105 { Bem, ele está todo preso em uma gaiola, dentro de uma mina. O que você espera? Shona ocasionalmente traz algo para ele. Mas faz tempo que eu não a vejo com ele. }
 
-Plh_108 { I put a chunk of fish in Falco's cage — from the fish I caught on the way to the Pit. But he's not interested. }
+Plh_108 { Eu coloquei um pedaço de peixe na gaiola do Falco — do peixe que peguei no caminho para a Fossa. Mas ele não está interessado. }
 
-Plh_110 { Nah. But this is fish! }
+Plh_110 { Não. Mas isso é peixe! }
 
-Plh_106 { We can't escape Drova, and he can't escape his cage. Such is life. }
+Plh_106 { Não podemos escapar de Drova, e ele não pode escapar de sua gaiola. Essa é a vida. }
 
-Plh_107 { Yeah, he'll croak here before we do. }
+Plh_107 { Sim, ele vai morrer aqui antes de nós. }
 
-Plh_77 { No time. }
+Plh_77 { Sem tempo. }
 
-Plh_69 { That goes for you too — you are NOT coming along into the Deep Mine! }
+Plh_69 { Isso serve para você também — você NÃO vai entrar na Mina Profunda! }
 
-Plh_71 { What's the Deep Mine? }
+Plh_71 { O que é a Mina Profunda? }
 
-Plh_72 { I'm just here to look around. }
+Plh_72 { Estou aqui apenas para dar uma olhada. }
 
-Plh_73 { *sighs* Everyone wants to go there, because that's where you can find the most silver. But it's dangerous, which is why I don't take more than two Hewers along with me. }
+Plh_73 { *suspira* Todos querem ir lá, porque é onde se encontra mais prata. Mas é perigoso, por isso eu não levo mais do que dois Hewers comigo. }
 
-Plh_173 { Levin has assigned ME to go into the Deep Mine with a couple of Hewers. So I AM THE ONE who decides who's coming along. }
+Plh_173 { Levin me designou para ir na Mina Profunda com alguns Hewers. Então EU SOU QUEM decide quem vai. }
 
-Plh_8 { Remember my name: Jendra! Down in the ground, I'm the pit boss. Around here, whatever I say goes. Levin trusts me. *thrusts out chin* }
+Plh_8 { Lembre-se do meu nome: Jendra! No subsolo, eu sou o chefe. Aqui, tudo que eu digo é lei. Levin confia em mim. *empina o queixo* }
 
-Plh_9 { Isn't it called "down below"? }
+Plh_9 { Não se chama "lá embaixo"? }
 
-Plh_13 { I want to go into the Deep Mine. }
+Plh_13 { Eu quero entrar na Mina Profunda. }
 
-Plh_11 { I'm new around here. }
+Plh_11 { Eu sou novo por aqui. }
 
-Plh_12 { Right now, I'm just taking a look around. }
+Plh_12 { No momento, estou só dando uma olhada. }
 
-Plh_10 { *face reddens* That's what I said! Get the wax out of your ears! I'm not the pit boss for nothing. So show me the respect I'm entitled to. Got that? }
+Plh_10 { *rosto fica vermelho* Foi o que eu disse! Tire a cera dos ouvidos! Eu não sou o chefe da mina à toa. Então, me mostre o respeito que eu mereço. Entendeu? }
 
-Plh_14 { Obviously. Watch out that you don't do anything stupid. A lot of the guards in the Pit don't have much of a sense of humor. }
+Plh_14 { Obviamente. Cuidado para não fazer nada estúpido. Muitos dos guardas na Fossa não têm muito senso de humor. }
 
-Plh_15 { Then take a look around the shafts. There's still silver that has to be mined. }
+Plh_15 { Então dê uma olhada nos veios. Ainda há prata que precisa ser extraída. }
 
-Plh_74 { Ha! A Hewer who DOESN'T keep bugging me about the Deep Mine? }
+Plh_74 { Ha! Um Hewer que NÃO fica me importunando sobre a Mina Profunda? }
 
-Plh_97 { Believe me, you don't want that. Or are you keen on monsters, collapsing shafts, and darkness? That's just for people who were BORN into mining. }
+Plh_97 { Acredite em mim, você não quer isso. Ou você gosta de monstros, túneis desmoronando e escuridão? Isso é só para quem NASCEU na mineração. }
 
-Plh_17 { I've also made a deal with two Hewers. They pay me good silver, and then I take them along with me. }
+Plh_17 { Eu também fiz um acordo com dois Hewers. Eles me pagam boa prata, e eu os levo comigo. }
 
-Plh_18 { Levin didn't mention anything about Hewers having to pay to work. }
+Plh_18 { Levin não mencionou nada sobre Hewers terem que pagar para trabalhar. }
 
-Plh_23 { Take me into the Deep Mine. }
+Plh_23 { Me leve para a Mina Profunda. }
 
-Plh_19 { Well, now you know. Whoever offers the most can come along. Simple as that. }
+Plh_19 { Agora você sabe. Quem oferecer mais pode ir. Simples assim. }
 
-Plh_20 { And Levin has no problem with that? }
+Plh_20 { E Levin não tem problema com isso? }
 
-Plh_21 { So you're getting rich off the Hewers' backs... }
+Plh_21 { Então você está ficando rico às custas dos Hewers... }
 
-Plh_60 { As long as there's enough silver flowing into the Remnants' camp to him, he's satisfied. And there's plenty of it in the Deep Mine. }
+Plh_60 { Desde que haja prata suficiente fluindo para o acampamento dos Remanescentes para ele, ele está satisfeito. E há muito dela na Mina Profunda. }
 
-Plh_61 { Anyone who comes back up from the Deep Mine will have more silver in their pockets in one day than after several days anywhere else. That's more than fair. }
+Plh_61 { Quem voltar da Mina Profunda terá mais prata nos bolsos em um dia do que em vários dias em qualquer outro lugar. Isso é mais que justo. }
 
-Plh_98 { Forget it. }
+Plh_98 { Esqueça. }
 
-Plh_24 { Almar and Ella pay me $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverForJendra$ pieces of silver each. I can see that you don't carry that much. }
+Plh_24 { Almar e Ella me pagam $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverForJendra$ peças de prata cada. Eu vejo que você não carrega tanto. }
 
-Plh_4 { Damn digpigs. Those critters keep coming back again and again. }
+Plh_4 { Malditos digpigs. Esses bichos continuam voltando vez após vez. }
 
-Plh_111 { There's nothing more to prospect here. We've got to go deeper. Come on! }
+Plh_111 { Não há mais nada para prospectar aqui. Temos que ir mais fundo. Vamos! }
 
-Plh_112 { Those are silver veins. $GVAR:EVars_Player.Name$, you take the left side. Ella, you take the right. }
+Plh_112 { Esses são veios de prata. $GVAR:EVars_Player.Name$, você pega o lado esquerdo. Ella, você pega o direito. }
 
-Plh_210 { Yeah, it's not my first time here. }
+Plh_210 { Sim, não é a minha primeira vez aqui. }
 
-Plh_211 { Then you know that Levin wants the silver from here. The faster you hew the silver, the faster we can get out, and the happier Levin will be. }
+Plh_211 { Então você sabe que Levin quer a prata daqui. Quanto mais rápido você extrair a prata, mais rápido podemos sair, e mais feliz Levin ficará. }
 
-Plh_76 { Get started. }
+Plh_76 { Comece. }
 
-Plh_174 { Got it. }
+Plh_174 { Entendido. }
 
-Plh_212 { Get to work! }
+Plh_212 { Mãos à obra! }
 
-Plh_82 { What was that? }
+Plh_82 { O que foi isso? }
 
-Plh_114 { A... an earthquake? }
+Plh_114 { Um... um terremoto? }
 
-Plh_115 { Wh-what! No! We're cut off! }
+Plh_115 { O-o que! Não! Estamos isolados! }
 
-Plh_116 { The roof's collapsing! }
+Plh_116 { O teto está desabando! }
 
-Plh_259 { RUUUUUUNNNN! }
+Plh_259 { Coooorreeee! }
 
-Plh_83 { Dammit... }
+Plh_83 { Droga... }
 
-Plh_175 { Jendra! What is it? }
+Plh_175 { Jendra! O que foi? }
 
-Plh_235 { My arm — I can't move it. And my chest... *breathes heavily* }
+Plh_235 { Meu braço — Não consigo mexê-lo. E meu peito... *respira com dificuldade* }
 
-Plh_236 { I can hardly — can hardly breathe. }
+Plh_236 { Mal consigo — mal consigo respirar. }
 
-Plh_237 { That's it! Jendra can't fight any longer, and we're going to end up dead in this wretched hole. }
+Plh_237 { É isso! Jendra não pode mais lutar, e vamos acabar morrendo neste maldito buraco. }
 
-Plh_238 { Quit your yammering! I can still... }
+Plh_238 { Pare de reclamar! Eu ainda consigo... }
 
 Plh_176 { ARGH! }
 
-Plh_117 { You've got to see a healer, pronto! }
+Plh_117 { Você precisa ver um curandeiro, e rápido! }
 
-Plh_118 { There's no time. We've got to go, Jendra. }
+Plh_118 { Não há tempo. Precisamos ir, Jendra. }
 
-Plh_119 { Jendra needs a break. }
+Plh_119 { Jendra precisa de uma pausa. }
 
-Plh_120 { Just a... Just one moment... }
+Plh_120 { Só um... Só um momento... }
 
-Plh_267 { You've got to assume the leadership position... }
+Plh_267 { Você precisa assumir a liderança... }
 
-Plh_121 { Wh- what? I can't, dammit! You're the pit boss! Nobody else knows how to do it! We're only Hewers! We need you! }
+Plh_121 { O quê? Eu não posso, droga! Você é o chefe da mina! Ninguém mais sabe como fazer isso! Somos apenas Hewers! Precisamos de você! }
 
-Plh_124 { She's right. You've got to lead us out of here. }
+Plh_124 { Ela está certa. Você precisa nos liderar para fora daqui. }
 
-Plh_125 { Okay... I'll get us out of here, somehow. }
+Plh_125 { Tudo bem... Vou tirar a gente daqui, de algum jeito. }
 
-Plh_126 { I can't. And Ella can't either. You'll have to take over. }
+Plh_126 { Eu não posso. E Ella também não. Você vai ter que assumir. }
 
-Plh_128 { *groans* We need light. Remember your torches... }
+Plh_128 { *geme* Precisamos de luz. Lembrem-se das tochas... }
 
-Plh_129 { I still have some spell scrolls. Here, take them. Remember — you can use them to cast a spell if you're in danger. But only one per scroll. }
+Plh_129 { Eu ainda tenho alguns pergaminhos mágicos. Aqui, pegue-os. Lembre-se — você pode usá-los para lançar um feitiço se estiver em perigo. Mas apenas um por pergaminho. }
 
-Plh_177 { And some healing ointments too. They might come in handy. }
+Plh_177 { E algumas pomadas curativas também. Elas podem ser úteis. }
 
-Plh_204 { And a weapon, so you can defend yourself. }
+Plh_204 { E uma arma, para que você possa se defender. }
 
-Plh_239 { P-please, get us out of here. }
+Plh_239 { P-por favor, nos tire daqui. }
 
-Plh_240 { We can make it! The Deep Mine is dark and dangerous, but we can't be too far from the rest of the Pit. }
+Plh_240 { Nós conseguimos! A Mina Profunda é escura e perigosa, mas não devemos estar muito longe do resto da Fossa. }
 
-Plh_241 { If only we make it close enough to the other mine, the others might hear us. }
+Plh_241 { Se conseguirmos chegar perto o suficiente da outra mina, os outros podem nos ouvir. }
 
-Plh_242 { I'm sorry to say this, but please go on ahead, $GVAR:EVars_Player.Name$. I can't protect you anymore — you're our last hope. }
+Plh_242 { Lamento dizer isso, mas por favor, vá na frente, $GVAR:EVars_Player.Name$. Eu não posso mais te proteger — você é nossa última esperança. }
 
-Plh_130 { So... We're right behind you. I'll hold the critters off with my slingshot. You're not completely on your own. }
+Plh_130 { Então... Estamos logo atrás de você. Vou afastar os bichos com meu estilingue. Você não está completamente sozinho. }
 
-Plh_127 { *clutches chest* We don't have time for this... Go! }
+Plh_127 { *agarra o peito* Não temos tempo para isso... Vá! }
 
-Plh_243 { These damned critters are the last thing we needed right now... }
+Plh_243 { Esses malditos bichos são a última coisa que precisávamos agora... }
 
-Plh_244 { Maybe we can find a way around them. The less fighting we have to do, the better. }
+Plh_244 { Talvez possamos encontrar um jeito de contorná-los. Quanto menos lutarmos, melhor. }
 
-Plh_249 { There must be a way out somewhere along here! Otherwise, there'd be no air coming in here. }
+Plh_249 { Deve haver uma saída em algum lugar por aqui! Caso contrário, não haveria ar entrando aqui. }
 
-Plh_250 { Wh-what w-was that? An-another rockfall? }
+Plh_250 { O-o que foi isso? Um-outra queda de rochas? }
 
-Plh_251 { That didn't sound like a rockfall, I'm afraid. }
+Plh_251 { Eu temo que não tenha sido uma queda de rochas. }
 
-Plh_252 { Sounded bigger, like something we definitely don't want to encounter. }
+Plh_252 { Pareceu maior, como algo que definitivamente não queremos encontrar. }
 
-Plh_253 { $GVAR:EVars_Player.Name$, you go ahead. We'll be right behind you. }
+Plh_253 { $GVAR:EVars_Player.Name$, vá na frente. Nós vamos logo atrás. }
 
-Plh_262 { Wait. What's that? }
+Plh_262 { Espere. O que é aquilo? }
 
-Plh_263 { Is that...? CAREFUL! }
+Plh_263 { É...? CUIDADO! }
 
-Plh_86 { *looks at wall* The rock here seems unstable. And isn't that a draft of air? Maybe we can loosen the stones... }
+Plh_86 { *olha para a parede* A rocha aqui parece instável. E isso não é uma corrente de ar? Talvez possamos soltar as pedras... }
 
-Plh_87 { We've made it, finally! You saved us! }
+Plh_87 { Conseguimos, finalmente! Você nos salvou! }
 
-Plh_131 { If not for you, things would have gone very wrong. I never want to go back in there! }
+Plh_131 { Se não fosse por você, as coisas teriam dado muito errado. Eu nunca quero voltar lá! }
 
-Plh_154 { Jendra! She survived! }
+Plh_154 { Jendra! Ela sobreviveu! }
 
-Plh_155 { You're all right. Thanks be to the Divinities! How are you doing? }
+Plh_155 { Você está bem. Graças às Divindades! Como você está? }
 
-Plh_156 { *shaking* In one piece. }
+Plh_156 { *tremendo* Inteira. }
 
-Plh_158 { What happened? }
+Plh_158 { O que aconteceu? }
 
-Plh_159 { We survived. That's all that matters. I had an encounter with a rock and could no longer perform my duties. We wouldn't have made it out if it hadn't been for $GVAR:EVars_Player.Name$. }
+Plh_159 { Nós sobrevivemos. Isso é o que importa. Eu tive um encontro com uma pedra e não pude mais cumprir minhas funções. Não teríamos saído se não fosse por $GVAR:EVars_Player.Name$. }
 
-Plh_160 { But we did come across another access to the Deep Mine. Maybe with even more silver. }
+Plh_160 { Mas encontramos outro acesso à Mina Profunda. Talvez com ainda mais prata. }
 
-Plh_161 { We could have found it another way. You need to rest now. }
+Plh_161 { Poderíamos ter encontrado de outro jeito. Você precisa descansar agora. }
 
-Plh_162 { $GVAR:EVars_Player.Name$... you did well. }
+Plh_162 { $GVAR:EVars_Player.Name$... você fez um bom trabalho. }
 
-Plh_163 { We could use people who know what needs to be done when the going gets tough. Report to Kilian in the Remnants' camp. Tell him I sent you. And tell him that you're now permitted to enter the Upper Quarter. }
+Plh_163 { Precisamos de pessoas que sabem o que fazer quando as coisas ficam difíceis. Reporte-se a Kilian no acampamento dos Remanescentes. Diga a ele que eu te enviei. E diga que agora você tem permissão para entrar no Quarteirão Superior. }
 
-Plh_164 { We'll take care of your wounds, Jendra. }
+Plh_164 { Vamos cuidar dos seus ferimentos, Jendra. }
 
-Plh_171 { You've saved us. Report to Kilian and join us. We could use people like you. }
+Plh_171 { Você nos salvou. Reporte-se a Kilian e junte-se a nós. Precisamos de pessoas como você. }
 
-Plh_203 { Get us out of here. We're right behind you. }
+Plh_203 { Nos tire daqui. Estamos logo atrás de você. }
 
-Plh_78 { Start hewing the silver up here. I'll keep a lookout and make sure we don't get any nasty surprises from down there. }
+Plh_78 { Comece a extrair a prata aqui. Vou ficar de olho e garantir que não tenhamos surpresas desagradáveis de lá embaixo. }
 
-Plh_79 { We've hewed this place dry. }
+Plh_79 { Nós esgotamos esse lugar. }
 
-Plh_94 { I've run out of steam. }
+Plh_94 { Estou sem fôlego. }
 
-Plh_80 { You can count on me. }
+Plh_80 { Pode contar comigo. }
 
-Plh_81 { What?! You've all hardly hewed a thing. That's not good enough! }
+Plh_81 { O quê?! Vocês mal extraíram alguma coisa. Isso não é suficiente! }
 
-Plh_147 { There's nothing more here. We can't do anything about that. }
+Plh_147 { Não há mais nada aqui. Não podemos fazer nada sobre isso. }
 
-Plh_213 { Then we have to push deeper. Otherwise, we're going to have to answer to Levin. }
+Plh_213 { Então temos que ir mais fundo. Caso contrário, teremos que dar explicações ao Levin. }
 
-Plh_214 { Wh-what? Deeper? You yourself said it was too dangerous! }
+Plh_214 { O-o que? Mais fundo? Você mesmo disse que era muito perigoso! }
 
-Plh_215 { Pull yourself together. I'm here to protect you. All you've got to do is start hewing. }
+Plh_215 { Controle-se. Estou aqui para te proteger. Tudo o que você precisa fazer é começar a extrair. }
 
-Plh_148 { Is that really a good idea? }
+Plh_148 { Isso é realmente uma boa ideia? }
 
-Plh_150 { The deeper tunnels are not very well developed, and they're unstable. }
+Plh_150 { Os túneis mais profundos não são muito bem desenvolvidos e são instáveis. }
 
-Plh_216 { Did I ask for your opinion? }
+Plh_216 { Eu perguntei sua opinião? }
 
-Plh_151 { We've got no choice. If I bring back nothing but a sliver of silver, Levin's going to have my butt in a sling. Follow me. }
+Plh_151 { Não temos escolha. Se eu voltar com apenas um pedaço de prata, Levin vai me punir. Me siga. }
 
 Plh_152 { Jendra... }
 
-Plh_153 { If the pit boss tells you to go deeper, then you Hewers will go deeper! So get your asses in gear! }
+Plh_153 { Se o chefe da mina te manda ir mais fundo, então vocês Hewers vão mais fundo! Então, mexam-se! }
 
-Plh_95 { Here, take this. It ought to help. Now get back to work. }
+Plh_95 { Aqui, pegue isso. Deve ajudar. Agora volte ao trabalho. }
 
-Plh_96 { So do it. }
+Plh_96 { Então faça isso. }
 
-Plh_39 { We're waiting until Ella gets here. }
+Plh_39 { Estamos esperando até que Ella chegue. }
 
-Plh_42 { So, it's time. Break out your pickaxes and start hewing. }
+Plh_42 { Então, é hora. Peguem suas picaretas e comecem a extrair. }
 
-Plh_45 { *panting* Hey... Jendra... I'm here... ready to join you in the Pit... }
+Plh_45 { *ofegante* Ei... Jendra... Estou aqui... pronto para me juntar a você na Fossa... }
 
-Plh_46 { Not today, Almar. }
+Plh_46 { Não hoje, Almar. }
 
-Plh_59 { What? And what about all the silver I paid you? }
+Plh_59 { O quê? E o que acontece com toda a prata que eu te paguei? }
 
-Plh_143 { It is solely my discretion. Or are you questioning my authority? }
+Plh_143 { É unicamente minha decisão. Ou você está questionando minha autoridade? }
 
-Plh_144 { Of course not, but... }
+Plh_144 { Claro que não, mas... }
 
-Plh_145 { Then don't, or you'll never go into the Deep Mine again. Got it? }
+Plh_145 { Então não questione, ou você nunca mais entrará na Mina Profunda. Entendeu? }
 
-Plh_192 { We had an agreement! I give you silver, you let me into the Pit! }
+Plh_192 { Nós tínhamos um acordo! Eu te dou prata, você me deixa entrar na Fossa! }
 
-Plh_193 { And someone else gave me more silver. Deal with it. }
+Plh_193 { E outra pessoa me deu mais prata. Lide com isso. }
 
-Plh_194 { *gives you an venomous look* Then at least give me back my silver! }
+Plh_194 { *te olha com um olhar venenoso* Então, pelo menos, me devolva minha prata! }
 
-Plh_195 { Consider it a down payment for next time. }
+Plh_195 { Considere um adiantamento para a próxima vez. }
 
-Plh_196 { You... you... ARGH! }
+Plh_196 { Você... você... ARGH! }
 
-Plh_197 { You're the world's worst! }
+Plh_197 { Você é o pior! }
 
-Plh_198 { He's being difficult. }
+Plh_198 { Ele está sendo difícil. }
 
-Plh_199 { Well, you did rip him off. }
+Plh_199 { Bem, você o enganou. }
 
-Plh_200 { What a crybaby. }
+Plh_200 { Que chorão. }
 
-Plh_201 { Now you want to be difficult, too? Next time, he'll pay less silver. I didn't take anything from him. }
+Plh_201 { Agora você também quer ser difícil? Da próxima vez, ele pagará menos prata. Eu não tirei nada dele. }
 
-Plh_47 { Can we go? I'm ready. }
+Plh_47 { Podemos ir? Estou pronto. }
 
-Plh_48 { Just so that we're clear: I don't want any debates down there. If I tell you to do something, you do it. Got it? }
+Plh_48 { Só para ficar claro: eu não quero discussões lá embaixo. Se eu mandar você fazer algo, você faz. Entendeu? }
 
-Plh_135 { Got it. }
+Plh_135 { Entendi. }
 
-Plh_134 { Got it. }
+Plh_134 { Entendi. }
 
-Plh_138 { Be careful. We had some earthquakes a few days ago. }
+Plh_138 { Cuidado. Tivemos alguns terremotos há alguns dias. }
 
-Plh_139 { *squints her eyes* Don't you think I know that? }
+Plh_139 { *estreita os olhos* Você acha que eu não sei disso? }
 
-Plh_140 { Of course you do. *rolls her eyes* Good fortunes in the mines. }
+Plh_140 { Claro que sabe. *revira os olhos* Boa sorte nas minas. }
 
-Plh_137 { Sure, good fortunes in the mines. }
+Plh_137 { Claro, boa sorte nas minas. }
 
-Plh_202 { He'll get over it. He needs to get some more silver by no later than tomorrow, and then he'll come to me. }
+Plh_202 { Ele vai superar isso. Ele precisa conseguir mais prata até amanhã, e então ele virá até mim. }
 
-Plh_167 { All right, but if you work under me, I'm responsible for your safety. What should I call you? }
+Plh_167 { Certo, mas se você trabalhar sob minhas ordens, eu sou responsável pela sua segurança. Como devo te chamar? }
 
 Plh_168 { $GVAR:EVars_Player.Name$. }
 
-Plh_169 { Doesn't matter to me. Let's get going already. }
+Plh_169 { Não importa para mim. Vamos logo. }
 
-Plh_56 { Okay, $GVAR:EVars_Player.Name$. Let's go. }
+Plh_56 { Certo, $GVAR:EVars_Player.Name$. Vamos. }
 
-Plh_141 { Ella! Get ready to descend! }
+Plh_141 { Ella! Prepare-se para descer! }
 
-Plh_142 { Already...? I'm coming! }
+Plh_142 { Já...? Estou indo! }
 
-Plh_170 { Forget it, then. If I don't know your name, you won't be coming in. So? }
+Plh_170 { Então esqueça. Se eu não souber seu nome, você não entrará. Então? }
 
-Plh_245 { I hope these were the last of the critters. }
+Plh_245 { Espero que esses tenham sido os últimos bichos. }
 
-Plh_246 { Damn, I want to get out of here. }
+Plh_246 { Droga, quero sair daqui. }
 
-Plh_247 { I am Hewer, not a fighter! }
+Plh_247 { Eu sou Hewer, não um lutador! }
 
-Plh_248 { $GVAR:EVars_Player.Name$ is on top of things. }
+Plh_248 { $GVAR:EVars_Player.Name$ está no controle. }
 
-Plh_256 { The freaking critter is... dead. }
+Plh_256 { O maldito bicho está... morto. }
 
-Plh_257 { We did it! }
+Plh_257 { Conseguimos! }
 
-Plh_258 { The exit can't be far now! }
+Plh_258 { A saída não pode estar longe agora! }
 
-Plh_260 { I'm detecting a draft. }
+Plh_260 { Estou sentindo uma corrente de ar. }
 
-Plh_261 { The exit must be close! }
-
+Plh_261 { A saída deve estar perto! }
