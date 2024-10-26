@@ -12,11 +12,11 @@ Plh_371 { Eu não consegui encontrar nenhum ladrão do poço de armazenamento. }
 
 Plh_264 { Sobre Larea... }
 
-Plh_31 { Nós somos lenhadores. Devemos trabalhar para Nemeton, mas desde que a ponte foi destruída, alguns de nossos trabalhadores foram para o acampamento dos Remnants. }
+Plh_31 { Nós somos lenhadores. Devemos trabalhar para Nemeton, mas desde que a ponte foi destruída, alguns de nossos trabalhadores foram para o acampamento dos Remanescentes. }
 
-Plh_32 { Há alguns dias, houve um terremoto que causou bastante dano — especialmente na ponte. Se não conseguirmos consertá-la logo, não receberemos ajuda de Nemeton. Então mais pessoas vão nos abandonar para os Remnants... }
+Plh_32 { Há alguns dias, houve um terremoto que causou bastante dano — especialmente na ponte. Se não conseguirmos consertá-la logo, não receberemos ajuda de Nemeton. Então mais pessoas vão nos abandonar para os Remanescentes... }
 
-Plh_33 { Nemeton e o acampamento dos Remnants são os principais assentamentos. Eles são arqui-inimigos. Mas se você não quiser se juntar a nenhum dos dois acampamentos, vai se perder em Drova... }
+Plh_33 { Nemeton e o acampamento dos Remanescentes são os principais assentamentos. Eles são arqui-inimigos. Mas se você não quiser se juntar a nenhum dos dois acampamentos, vai se perder em Drova... }
 
 Plh_370 { Venha. }
 
@@ -108,9 +108,9 @@ Plh_421 { A ponte está consertada. As mortes deles não foram em vão. Os Nemet
 
 Plh_422 { Eu venho de Gerdwin, e sou responsável por protegê-los. Você pode contar comigo. }
 
-Plh_423 { Os Remnants também nos ajudaram. Não teríamos conseguido sem $GVAR:EVars_Player.Name$. Pelo menos, não vivos. Isso é certo. }
+Plh_423 { Os Remanescentes também nos ajudaram. Não teríamos conseguido sem $GVAR:EVars_Player.Name$. Pelo menos, não vivos. Isso é certo. }
 
-Plh_424 { Sem você, não teríamos conseguido — obrigado pela ajuda. Mas vamos tocar a partir daqui. Não precisamos de ninguém dos Remnants. }
+Plh_424 { Sem você, não teríamos conseguido — obrigado pela ajuda. Mas vamos tocar a partir daqui. Não precisamos de ninguém dos Remanescentes. }
 
 Plh_426 { Vamos beber por Merlind, Jalina e Colin, para que nunca os esqueçamos. }
 
@@ -156,15 +156,15 @@ Plh_139 { O que exatamente você está fazendo aqui? }
 
 Plh_65 { Estou procurando uma maneira de Nemeton... }
 
-Plh_278 { Para o acampamento dos Remnants. Claro, é em uma localização mais protegida, mas se você se juntar a eles, está abandonando toda esperança de que possamos realmente transformar Drova na Terra das Lendas... }
+Plh_278 { Para o acampamento dos Remanescentes. Claro, é em uma localização mais protegida, mas se você se juntar a eles, está abandonando toda esperança de que possamos realmente transformar Drova na Terra das Lendas... }
 
-Plh_69 { Você pode me contar mais sobre esse acampamento dos Remnants? }
+Plh_69 { Você pode me contar mais sobre esse acampamento dos Remanescentes? }
 
 Plh_72 { E tudo isso só por causa de uma ponte destruída? }
 
 Plh_70 { Posso ajudar de alguma maneira? }
 
-Plh_71 { Nemeton está em desordem. É liderada pela Herdeira do Brejo. Ela quer transformar Drova na Terra das Lendas. O irmão dela, Jero, não está convencido de que isso possa ser feito. Ele quer sair de algum jeito. Ele levou algumas pessoas com ele e fundou o acampamento dos Remnants — esses traidores. }
+Plh_71 { Nemeton está em desordem. É liderada pela Herdeira do Brejo. Ela quer transformar Drova na Terra das Lendas. O irmão dela, Jero, não está convencido de que isso possa ser feito. Ele quer sair de algum jeito. Ele levou algumas pessoas com ele e fundou o acampamento dos Remanescentes — esses traidores. }
 
 Plh_282 { Desde então, têm havido conflitos entre os acampamentos. Ambos os lados estão lutando por pessoas. Nós, lenhadores, estamos um pouco à parte, mas somos leais a Nemeton. E eles sabem o que encontraram em nós. }
 
@@ -258,7 +258,7 @@ Plh_261 { Tudo bem. (pegar moedas) }
 
 Plh_262 { Fique com as moedas. Seu agradecimento é o suficiente para mim. }
 
-Plh_260 { Aí está. Talvez você consiga comprar alguma armadura no acampamento dos Remnants. }
+Plh_260 { Aí está. Talvez você consiga comprar alguma armadura no acampamento dos Remanescentes. }
 
 Plh_450 { Agora é apenas uma questão de tempo até que a ponte seja reparada. Tempo demais, infelizmente. Se tivéssemos mais pessoas, seria terminado muito mais rápido. Mas não temos. }
 
@@ -268,7 +268,7 @@ Plh_201 { Primeiro a ponte precisa ser reparada. Isso é o mais importante. Depo
 
 Plh_202 { Você pode continuar usando a tenda. No momento, ninguém mais precisa dela. Descanse lá. }
 
-Plh_198 { E se você for ao acampamento dos Remnants, fique nos caminhos. Os monstros são bastante agressivos. E isso não vai mudar tão cedo, temo... }
+Plh_198 { E se você for ao acampamento dos Remanescentes, fique nos caminhos. Os monstros são bastante agressivos. E isso não vai mudar tão cedo, temo... }
 
 Plh_258 { Sério? Assim, desse jeito? Isso não acontece muito em Drova. Eu te devo uma. }
 
@@ -432,7 +432,7 @@ Plh_81 { Estou procurando Kora. Ela deve estar cuidando de algumas feridas. }
 
 Plh_98 { Sobre a ferida... }
 
-Plh_80 { Kora? Ela não está mais aqui. Pouco depois do terremoto, ela e os outros partiram para o acampamento dos Remnants. }
+Plh_80 { Kora? Ela não está mais aqui. Pouco depois do terremoto, ela e os outros partiram para o acampamento dos Remanescentes. }
 
 Plh_82 { Ela era nossa única curadora. Agora só temos Agilo para cuidar das feridas. Às vezes ele faz mais mal do que bem, mas não temos ninguém mais... }
 

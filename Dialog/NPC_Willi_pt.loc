@@ -54,7 +54,7 @@ Plh_48 { Eu não tenho tantas moedas. }
 
 Plh_49 { Eu poderia simplesmente te espancar até você me dar a dica. }
 
-Plh_50 { Não estamos no acampamento dos Remnants. Se você colocar a mão em mim, os guardas vão te arrebentar. Pense bem. }
+Plh_50 { Não estamos no acampamento dos Remanescentes. Se você colocar a mão em mim, os guardas vão te arrebentar. Pense bem. }
 
 Plh_51 { Aqui estão as moedas. (entregar $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ moedas) }
 

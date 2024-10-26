@@ -26,7 +26,7 @@ Plh_256 { *te observa* }
 
 Plh_258 { Aparentemente, você escolheu o Nemeton. Não foi uma boa decisão. }
 
-Plh_259 { Posso entrar no acampamento dos Remnants? }
+Plh_259 { Posso entrar no acampamento dos Remanescentes? }
 
 Plh_260 { O Nemeton me convém melhor. }
 
@@ -54,7 +54,7 @@ Plh_270 { Quero ver algumas lutas na arena. }
 
 Plh_271 { Sou um dos lutadores de Proximus. }
 
-Plh_280 { Você pode entrar. Mas preste atenção... os Nemeton não são amigos dos Remnants. }
+Plh_280 { Você pode entrar. Mas preste atenção... os Nemeton não são amigos dos Remanescentes. }
 
 Plh_274 { Eu conheço você. Você é $GVAR:EVars_Player.Name$! }
 
@@ -86,7 +86,7 @@ Plh_213 { Eu realmente preciso entrar no Nemeton. }
 
 Plh_234 { Sou novo em Drova, e estou procurando o Nemeton. }
 
-Plh_236 { Você está longe do Nemeton. Este é o acampamento dos Remnants. Qual é o seu interesse no Nemeton? }
+Plh_236 { Você está longe do Nemeton. Este é o acampamento dos Remanescentes. Qual é o seu interesse no Nemeton? }
 
 Plh_216 { Eu preciso mostrar esta pedra a um druida. }
 
@@ -96,9 +96,9 @@ Plh_239 { Então você não precisa passar pela Charneca Vermelha. Temos druidas
 
 Plh_219 { Bom saber. Onde posso encontrar seus druidas? }
 
-Plh_240 { Na Academia. Mas é só para os Remnants. }
+Plh_240 { Na Academia. Mas é só para os Remanescentes. }
 
-Plh_243 { Se você quiser se juntar aos Remnants, terá que convencer um dos Blades de Jero — Boris e Eugen — a aceitá-lo. Você também precisará pertencer a um de seus esquadrões. }
+Plh_243 { Se você quiser se juntar aos Remanescentes, terá que convencer um dos Blades de Jero — Boris e Eugen — a aceitá-lo. Você também precisará pertencer a um de seus esquadrões. }
 
 Plh_169 { Ei! Você agora é uma das pessoas de Eugen, certo? }
 
@@ -176,13 +176,13 @@ Plh_59 { Eles devem ser capazes de cortar. Isso é suficiente. }
 
 Plh_60 { Qualquer um vagando por aí sem fazer nada. Há muitas pessoas sem trabalho relaxando na taverna do Olaf. }
 
-Plh_61 { Você poderia persuadir Meluna no acampamento dos Remnants. Na verdade, ela costumava nos ajudar com o corte, mas está parada há um tempo. }
+Plh_61 { Você poderia persuadir Meluna no acampamento dos Remanescentes. Na verdade, ela costumava nos ajudar com o corte, mas está parada há um tempo. }
 
 Plh_62 { Muito bom! Como eu disse, quatro pessoas seriam o suficiente. Envie-as diretamente para mim. }
 
 Plh_252 { Há professores aqui que poderiam me treinar? }
 
-Plh_254 { Há muitos bons lutadores aqui, mas a maioria ensinará apenas se você pertencer aos Remnants. }
+Plh_254 { Há muitos bons lutadores aqui, mas a maioria ensinará apenas se você pertencer aos Remanescentes. }
 
 Plh_255 { Eu recomendo que você tente os lutadores da arena. Você os encontrará se passar pela taverna, em direção à arena. E leve algumas moedas com você. }
 
@@ -220,7 +220,7 @@ Plh_201 { Em outras palavras, o que Levin diz vai? }
 
 Plh_134 { Onde exatamente eu encontro Mottek? }
 
-Plh_136 { Mottek era um Cortador. Agora ele é um dos lutadores no acampamento dos Remnants. Ele descobriu uma veia de prata na Fossa e ganhou a simpatia de Levin. Agora ele é um de nós! }
+Plh_136 { Mottek era um Cortador. Agora ele é um dos lutadores no acampamento dos Remanescentes. Ele descobriu uma veia de prata na Fossa e ganhou a simpatia de Levin. Agora ele é um de nós! }
 
 Plh_202 { Levin determina se alguém pode entrar no Quarteirão Superior, mas seguimos Jero. Ele é nosso líder. Levin é o primeiro passo para chegar até ele. }
 
@@ -240,7 +240,7 @@ Plh_249 { Cuide de si mesmo e não seja assaltado. Se estiver em dúvida, procur
 
 Plh_130 { E você não quer ser um Cortador? Bem, então espero que você se saia melhor em outro lugar. E que ninguém corte sua garganta à noite. }
 
-Plh_0 { Você sempre ouve sobre quem entra e sai do acampamento dos Remnants, certo? }
+Plh_0 { Você sempre ouve sobre quem entra e sai do acampamento dos Remanescentes, certo? }
 
 Plh_23 { Você não pode apenas me dizer se viu Aldo? }
 
@@ -280,7 +280,7 @@ Plh_18 { Tudo bem. Você tem mais do que eu pensei... }
 
 Plh_211 { Você sabe onde me encontrar. }
 
-Plh_26 { Isso foi há alguns dias... Aldo deixou o acampamento à noite, indo para leste. Parecia que queria ir para os Remnants com outra pessoa. Ele parecia estressado e apressado. }
+Plh_26 { Isso foi há alguns dias... Aldo deixou o acampamento à noite, indo para leste. Parecia que queria ir para os Remanescentes com outra pessoa. Ele parecia estressado e apressado. }
 
 Plh_168 { Ele sempre é tão quieto, mas os dois obviamente tiveram uma discussão. }
 
@@ -290,7 +290,7 @@ Plh_28 { Quem era a outra pessoa? }
 
 Plh_31 { Você viu mais alguma coisa? }
 
-Plh_29 { Eles saíram do acampamento. Eu não vi mais nada. Ele costumava passear pelo acampamento dos Remnants com bastante frequência. Apenas siga a estrada para o nordeste, atravesse o rio e você os verá. }
+Plh_29 { Eles saíram do acampamento. Eu não vi mais nada. Ele costumava passear pelo acampamento dos Remanescentes com bastante frequência. Apenas siga a estrada para o nordeste, atravesse o rio e você os verá. }
 
 Plh_30 { Não sei. Ele estava usando um chapéu ou algo assim, e eu não consegui ver seu rosto. Era um homem... Tenho certeza disso. E os dois pareciam se conhecer de alguma forma. }
 
@@ -310,14 +310,14 @@ Plh_246 { Ele é nosso líder. Ele é nosso salvador. }
 
 Plh_106 { Por muito tempo, ele acreditou no Nemeton. Ele queria construir um país aqui, como foi profetizado. Mas logo viu que isso foi um erro. }
 
-Plh_247 { Ele convenceu outros de que tinham que se separar, e assim o acampamento dos Remnants foi fundado — um santuário para aqueles que não se deixarão cegar pelo Nemeton. }
+Plh_247 { Ele convenceu outros de que tinham que se separar, e assim o acampamento dos Remanescentes foi fundado — um santuário para aqueles que não se deixarão cegar pelo Nemeton. }
 
 Plh_113 { Em vez de correr atrás de um sonho impossível, Jero está fazendo tudo para garantir que possamos deixar Drova. E faremos tudo o que pudermos para garantir que ele tenha sucesso. }
 
 Plh_112 { UMA MENTIRA! Uma mentira que é oferecida a todos que vêm aqui, que até mesmo QUEREM vir aqui. Drova é uma prisão, e está abandonada. Mas ainda podemos escapar antes que tudo seja consumido pela Névoa da Morte... }
 
-Plh_100 { Quem são os Remnants? }
+Plh_100 { Quem são os Remanescentes? }
 
-Plh_94 { Em Drova, existem duas facções principais: os Remnants — somos nós — e o Nemeton. Não pretendemos viver nessas ruínas para sempre... Queremos sair daqui. Não apenas do acampamento dos Remnants, mas deste mundo! }
+Plh_94 { Em Drova, existem duas facções principais: os Remanescentes — somos nós — e o Nemeton. Não pretendemos viver nessas ruínas para sempre... Queremos sair daqui. Não apenas do acampamento dos Remanescentes, mas deste mundo! }
 
 Plh_237 { Para casa. Longe de Drova. Não podemos construir uma vida aqui. Jero nos salvará. Ele nos libertará. }

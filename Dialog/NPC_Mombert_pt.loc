@@ -32,7 +32,7 @@ Plh_774 { Como eu entro nas ruínas na Floresta Primeval? }
 
 Plh_775 { Por que você me arrastou para isso? }
 
-Plh_778 { A oeste do acampamento dos Remnants. O caminho já foi desobstruído. Agora que o Blackflame se foi, você dificilmente poderá perder as ruínas na Floresta Primeval. }
+Plh_778 { A oeste do acampamento dos Remanescentes. O caminho já foi desobstruído. Agora que o Blackflame se foi, você dificilmente poderá perder as ruínas na Floresta Primeval. }
 
 Plh_779 { Estamos partindo em uma expedição para o Pântano Vermelho. E vamos desobstruir um caminho através do Pântano Morto para você. Se tudo correr bem, encontraremos a Divindade e poderemos carregar os Cristais Divinos. }
 
@@ -56,7 +56,7 @@ Plh_788 { Eu valorizo sua honestidade... Estamos fazendo isso por Molvina. E pel
 
 Plh_805 { Vamos nos mudar em breve, então monte sua montaria. Diga suas despedidas, pegue suas armas e vamos pegar a estrada. }
 
-Plh_776 { Não tivemos escolha. Precisávamos do Cristal Divino dos Remnants. Caso contrário, não teríamos chance contra eles. }
+Plh_776 { Não tivemos escolha. Precisávamos do Cristal Divino dos Remanescentes. Caso contrário, não teríamos chance contra eles. }
 
 Plh_748 { Molvina, apenas me escute... }
 
@@ -96,13 +96,13 @@ Plh_763 { Dê-me alguns guerreiros e iremos para a Floresta Primeval. Se encontr
 
 Plh_769 { Você me traiu. Não sei se posso algum dia perdoá-lo. Mas se isso for verdade... }
 
-Plh_764 { Se eu enviar uma expedição para a Floresta Primeval, os Remnants considerarão isso uma declaração de guerra. }
+Plh_764 { Se eu enviar uma expedição para a Floresta Primeval, os Remanescentes considerarão isso uma declaração de guerra. }
 
 Plh_808 { $GVAR:EVars_Player.Name$, aqui está sua chance de se redimir por sua traição. Vocês dois parecem tão convencidos, então tragam-me o outro Cristal Divino. }
 
 Plh_765 { Se vocês forem pegos, podem dizer que estão agindo por iniciativa própria. }
 
-Plh_806 { Recupere o Cristal Divino da Floresta Primeval — assumindo que ele ainda esteja lá, em primeiro lugar. Você encontrará a floresta a oeste do acampamento dos Remnants. O Blackflame cercava as antigas ruínas lá. Elas devem ser acessíveis agora. }
+Plh_806 { Recupere o Cristal Divino da Floresta Primeval — assumindo que ele ainda esteja lá, em primeiro lugar. Você encontrará a floresta a oeste do acampamento dos Remanescentes. O Blackflame cercava as antigas ruínas lá. Elas devem ser acessíveis agora. }
 
 Plh_773 { Não sei se essa é uma boa ideia... }
 
@@ -134,11 +134,11 @@ Plh_575 { Isso não pode ser coincidência... Os escritos descrevem onde os Bygo
 
 Plh_576 { *franze a testa* Maldito Jero — Então é por isso que ele enviou batedores e guerreiros. Sempre um passo à frente... }
 
-Plh_580 { Guerreiros dos Remnants estão na Floresta de Alagamento? }
+Plh_580 { Guerreiros dos Remanescentes estão na Floresta de Alagamento? }
 
 Plh_581 { O que aconteceu enquanto eu estava fora? }
 
-Plh_583 { Alguns de nossos batedores avistaram um contingente de guerreiros dos Remnants indo em direção à Floresta de Alagamento. }
+Plh_583 { Alguns de nossos batedores avistaram um contingente de guerreiros dos Remanescentes indo em direção à Floresta de Alagamento. }
 
 Plh_584 { Jero atacou quando o ferro estava quente. Só agora descobrimos isso... }
 
@@ -158,7 +158,7 @@ Plh_590 { Não tenho mais nada a dizer. }
 
 Plh_596 { Sim, eu tenho que aceitar o fato de que Molvina está certa. Enviar uma expedição para a Floresta de Alagamento ocupada poderia provocar um ataque direto. }
 
-Plh_599 { No máximo, poderíamos enviar um único indivíduo para se esgueirar pelas tropas dos Remnants e pegar o cristal... }
+Plh_599 { No máximo, poderíamos enviar um único indivíduo para se esgueirar pelas tropas dos Remanescentes e pegar o cristal... }
 
 Plh_592 { Por que não apenas dizer que sou eu quem deve fazer isso. }
 
@@ -180,13 +180,13 @@ Plh_605 { Eu vou recuperar o cristal. }
 
 Plh_607 { Não gosto da ideia de agir pelas costas de Molvina... }
 
-Plh_798 { Espero que você consiga completar essa tarefa antes que os Remnants encontrem o Cristal Divino. }
+Plh_798 { Espero que você consiga completar essa tarefa antes que os Remanescentes encontrem o Cristal Divino. }
 
 Plh_609 { E eu ainda tenho que retribuir pelo que você fez na Biblioteca... }
 
 Plh_610 { Use os coins para aprender novos feitiços com Lio, ou para comprar armas com Chunnaic. Você precisa estar preparado para a tarefa à frente. }
 
-Plh_612 { Dê a maior distância possível aos guerreiros dos Remnants. Naquela época, os realmente bons ainda estavam sendo treinados por Angus. Isso significa que eles conhecem seu ofício e não mostrarão piedade. }
+Plh_612 { Dê a maior distância possível aos guerreiros dos Remanescentes. Naquela época, os realmente bons ainda estavam sendo treinados por Angus. Isso significa que eles conhecem seu ofício e não mostrarão piedade. }
 
 Plh_747 { Tudo pelo Nemeton! }
 

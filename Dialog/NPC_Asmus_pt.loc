@@ -96,9 +96,9 @@ Plh_358 { É assim que eu gosto! }
 
 Plh_419 { Nós não ficamos parados fazendo nada enquanto você estava fora. Empilhamos toda a madeira maldita para o grande fogo! }
 
-Plh_249 { *observa as chamas* Quando olho para as chamas, não consigo evitar pensar em como o tempo passa. Como tudo muda. Uma vez, nosso acampamento era muito maior. Antes que os Remnants se separassem... }
+Plh_249 { *observa as chamas* Quando olho para as chamas, não consigo evitar pensar em como o tempo passa. Como tudo muda. Uma vez, nosso acampamento era muito maior. Antes que os Remanescentes se separassem... }
 
-Plh_253 { Como era quando os Remnants ainda faziam parte do Nemeton? }
+Plh_253 { Como era quando os Remanescentes ainda faziam parte do Nemeton? }
 
 Plh_254 { Era melhor naquela época? }
 
@@ -120,7 +120,7 @@ Plh_421 { Aqui está para você, Asmus! }
 
 Plh_258 { Quem é Eugen? }
 
-Plh_259 { Eu conheci Eugen. No acampamento dos Remnants. }
+Plh_259 { Eu conheci Eugen. No acampamento dos Remanescentes. }
 
 Plh_293 { Me conte mais sobre as mulheres bonitas! }
 
@@ -184,7 +184,7 @@ Plh_277 { Não se preocupe, ele está bem. O pé dele ainda está preso. }
 
 Plh_272 { Oh não, ele sempre foi. }
 
-Plh_261 { Que as Divindades lancem uma tempestade sobre os Remnants... Eugen e eu costumávamos ser melhores amigos. }
+Plh_261 { Que as Divindades lancem uma tempestade sobre os Remanescentes... Eugen e eu costumávamos ser melhores amigos. }
 
 Plh_294 { Para ser honesto, não eram apenas mulheres. Mas deixe para lá. }
 
@@ -268,7 +268,7 @@ Plh_221 { Como você sabe disso? }
 
 Plh_222 { Ele me enviou para pegá-lo de você. }
 
-Plh_232 { Eu sou parte da facção. Você acha que eu não percebo todas as coisas que estão acontecendo no acampamento dos Remnants? }
+Plh_232 { Eu sou parte da facção. Você acha que eu não percebo todas as coisas que estão acontecendo no acampamento dos Remanescentes? }
 
 Plh_223 { Hmpf. Ele deveria ter fechado a boca até que eu o enviasse a ele... }
 
@@ -322,7 +322,7 @@ Plh_416 { Ei, ninguém sabe melhor do que eu sobre manter a verdade em segredo. 
 
 Plh_133 { Bem, como foi com Boris? Conseguiu as moedas? }
 
-Plh_135 { Então me diga, como eu chego até os Remnants? }
+Plh_135 { Então me diga, como eu chego até os Remanescentes? }
 
 Plh_137 { Entreguei o pacote. }
 
@@ -404,27 +404,27 @@ Plh_297 { Até logo. }
 
 Plh_165 { Volte quando tiver algumas moedas. }
 
-Plh_224 { Isso precisa chegar a Boris no acampamento dos Remnants, pronto. Ele já está esperando há tempo demais. Certifique-se de conseguir $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ moedas dele por isso, e depois traga de volta para mim. }
+Plh_224 { Isso precisa chegar a Boris no acampamento dos Remanescentes, pronto. Ele já está esperando há tempo demais. Certifique-se de conseguir $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ moedas dele por isso, e depois traga de volta para mim. }
 
 Plh_295 { Ajude-me com isso. Vamos ganhar um bom dinheiro, e valerá a pena, se você entender o que quero dizer. }
 
 Plh_298 { Oh, eu deveria te ajudar SOMENTE por um favor? }
 
-Plh_117 { Este pacote deve ir para o acampamento dos Remnants? Por quê? }
+Plh_117 { Este pacote deve ir para o acampamento dos Remanescentes? Por quê? }
 
 Plh_118 { Você está negociando com a outra facção? }
 
 Plh_299 { Exatamente. Bem, mais ou menos. Claro que vou te pagar. Trabalho duro será recompensado! }
 
-Plh_121 { É um mundo pequeno, e eu tenho bons contatos no acampamento dos Remnants. Isso é tudo o que você precisa saber. }
+Plh_121 { É um mundo pequeno, e eu tenho bons contatos no acampamento dos Remanescentes. Isso é tudo o que você precisa saber. }
 
 Plh_122 { *franze a testa* Você realmente precisa se preocupar com isso? Não complique tudo para nós. Apenas entregue o pacote para mim, mais as moedas. Então nós dois ficaremos felizes. }
 
 Plh_49 { Ótimo, o pacote está aqui. Boris deve a você $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ moedas por isso. $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ moedas! Não 100, não 199, mas $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$. Cuidado, ele gosta de trapacear. }
 
-Plh_50 { Se você quiser chegar ao acampamento dos Remnants, aqui está como: Ao sul de Nemeton, você encontrará um caminho que leva a oeste. Continue por esse caminho até chegar à taverna. Siga ao norte a partir daí. }
+Plh_50 { Se você quiser chegar ao acampamento dos Remanescentes, aqui está como: Ao sul de Nemeton, você encontrará um caminho que leva a oeste. Continue por esse caminho até chegar à taverna. Siga ao norte a partir daí. }
 
-Plh_51 { Boris mora no acampamento dos Remnants, em uma cabana em frente à taverna. }
+Plh_51 { Boris mora no acampamento dos Remanescentes, em uma cabana em frente à taverna. }
 
 Plh_128 { Farei isso. }
 
@@ -452,9 +452,9 @@ Plh_380 { Você está mentindo! }
 
 Plh_170 { *examina a carta, abre e lê balançando a cabeça* Oh, Delani... Tudo bem, obrigado por isso. Aqui, você ganhou isso. }
 
-Plh_203 { A carta ainda estava selada. Acho que posso confiar em você. Então... Delani e eu temos esse negócio. Fabricamos Rustmoss e entregamos aos Remnants. *olha ao redor freneticamente* }
+Plh_203 { A carta ainda estava selada. Acho que posso confiar em você. Então... Delani e eu temos esse negócio. Fabricamos Rustmoss e entregamos aos Remanescentes. *olha ao redor freneticamente* }
 
-Plh_204 { *quietamente* Nós fazemos um bom dinheiro vendendo para Boris. E isso enfraquece os Hewers no acampamento dos Remnants. Mas mantenha isso para você, entendido? }
+Plh_204 { *quietamente* Nós fazemos um bom dinheiro vendendo para Boris. E isso enfraquece os Hewers no acampamento dos Remanescentes. Mas mantenha isso para você, entendido? }
 
 Plh_463 { Pequenos. Você mal pode chamar isso de luta. }
 

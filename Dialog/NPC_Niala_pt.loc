@@ -14,7 +14,7 @@ Plh_19 { Mais ao sul, você encontrará os Artesãos. Com eles, você pode apren
 
 Plh_20 { A leste está o Quartel Perdido. Infelizmente, não há artesãos suficientes para manter todas as cabanas. }
 
-Plh_18 { Nemeton é o primeiro e maior acampamento aqui em Drova. Naquela época, os Remnants ainda faziam parte de Nemeton. Mas Jero nos deixou e fundou o acampamento dos Remnants, levando muitas boas pessoas com ele. }
+Plh_18 { Nemeton é o primeiro e maior acampamento aqui em Drova. Naquela época, os Remanescentes ainda faziam parte de Nemeton. Mas Jero nos deixou e fundou o acampamento dos Remanescentes, levando muitas boas pessoas com ele. }
 
 Plh_86 { O que eu preciso saber sobre Nemeton? }
 
@@ -40,9 +40,9 @@ Plh_96 { Em troca de uma pequena doação ao Nemeton, é claro. }
 
 Plh_84 { Ei. }
 
-Plh_54 { Eu pensei que alguém mais dos Remnants estava vindo aqui. }
+Plh_54 { Eu pensei que alguém mais dos Remanescentes estava vindo aqui. }
 
-Plh_56 { Atacou o acampamento dos Remnants? }
+Plh_56 { Atacou o acampamento dos Remanescentes? }
 
 Plh_55 { O que aconteceu aqui? }
 
@@ -52,7 +52,7 @@ Plh_58 { "A Floresta da Planície Alagada é nossa", disseram eles. Você tem qu
 
 Plh_59 { De alguma forma, eu tenho que chegar ao morro — você conhece um caminho? }
 
-Plh_61 { Para o morro? Os Remnants provavelmente querem ir lá também. Por que mais deveriam vir aqui? }
+Plh_61 { Para o morro? Os Remanescentes provavelmente querem ir lá também. Por que mais deveriam vir aqui? }
 
 Plh_62 { Jendrik já esteve lá em cima, mas isso foi há muito tempo. Se alguém souber, ele sabe. }
 
@@ -62,9 +62,9 @@ Plh_64 { Quase. Mas não, estamos ilesos. }
 
 Plh_53 { Já te vi antes? Você nos ajudou quando fomos atacados aqui! }
 
-Plh_67 { Este é um bom amigo. $GVAR:EVars_Player.Name$ nos ajudou a reparar a ponte. Apesar da armadura dos Remnants, $GVAR:EVars_Player.Name$ é uma boa pessoa. }
+Plh_67 { Este é um bom amigo. $GVAR:EVars_Player.Name$ nos ajudou a reparar a ponte. Apesar da armadura dos Remanescentes, $GVAR:EVars_Player.Name$ é uma boa pessoa. }
 
-Plh_68 { Não queremos ser arrastados para os problemas de Nemeton, ou nas dificuldades dos Remnants. O que você quer aqui? }
+Plh_68 { Não queremos ser arrastados para os problemas de Nemeton, ou nas dificuldades dos Remanescentes. O que você quer aqui? }
 
 Plh_69 { Temos guerreiros em toda a Floresta da Planície Alagada. Você não irá a lugar algum sozinho. }
 
@@ -74,7 +74,7 @@ Plh_66 { Eu não os vejo aqui. É só nós dois. }
 
 Plh_72 { Quero subir até o morro. Você sabe como posso chegar lá? }
 
-Plh_75 { Sua melhor aposta é se reportar a Jendrik. Embora você seja um dos Remnants, estamos profundamente endividados a você. }
+Plh_75 { Sua melhor aposta é se reportar a Jendrik. Embora você seja um dos Remanescentes, estamos profundamente endividados a você. }
 
 Plh_73 { Sem você, naquela época, não teríamos conseguido, e também estou em dívida com você. Não vou te prejudicar. }
 
@@ -82,7 +82,7 @@ Plh_74 { Não sabemos disso, e a floresta está infestada de guerreiros do Nemet
 
 Plh_9 { Gerdwin enviou reforços? Venha rápido. O Acampamento dos Lenhadores está sob ataque! }
 
-Plh_27 { Ei, você — mesmo que seja um dos Remnants — o Acampamento dos Lenhadores está sob ataque! Precisamos de ajuda! Venha rápido! }
+Plh_27 { Ei, você — mesmo que seja um dos Remanescentes — o Acampamento dos Lenhadores está sob ataque! Precisamos de ajuda! Venha rápido! }
 
 Plh_85 { Não faça nada estúpido. Então tudo pode correr muito bem para você por aqui. }
 
@@ -92,7 +92,7 @@ Plh_25 { Vou ficar aqui e vigiar. Vou contar a Gerdwin que fomos atacados, mas q
 
 Plh_28 { Obrigado pela sua ajuda, mas o Nemeton assumirá o controle a partir daqui. }
 
-Plh_26 { Estou relutante em dizer isso, mas precisávamos de cada lutador. Até mesmo alguém dos Remnants. }
+Plh_26 { Estou relutante em dizer isso, mas precisávamos de cada lutador. Até mesmo alguém dos Remanescentes. }
 
 Plh_24 { *gemendo* Colin não sobreviveu. Você lutou bem. }
 

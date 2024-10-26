@@ -1,6 +1,6 @@
 Title { O Bairro Sombrio }
 
-Entry_01 { Boris quer que eu consiga $GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$ moedas de Leyna. Ele me deu uma chave para o Bairro Sombrio. Em algum lugar na parte oriental do acampamento dos Remnants, deve haver uma entrada secreta. }
+Entry_01 { Boris quer que eu consiga $GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$ moedas de Leyna. Ele me deu uma chave para o Bairro Sombrio. Em algum lugar na parte oriental do acampamento dos Remanescentes, deve haver uma entrada secreta. }
 
 Entry_02 { Depois que vi Boris, Gera me interceptou para cobrar seu favor. Eu devo plantar um pouco de Musgo-Rustico cortado anteriormente na Leyna e depois delatá-la para Boris. }
 
