@@ -2,102 +2,102 @@ Movement_Gamepad { Pressione $MOVEMENT$ para se mover. }
 
 Movement_Keyboard { Pressione $MOVEMENT$ para se mover. }
 
-LookDirection { Olhe ao redor movendo o mouse. Sua linha de visão depende da direção em que você está caminhando. Se você se virar na direção oposta, seu personagem andará para trás e mais devagar. }
+LookDirection { Olhe ao redor movendo o mouse. Sua linha de visão depende da direção em que você está andando. Se você olhar para o lado oposto, seu personagem andará de costas, e de forma mais lenta. }
 
-LookDirection_Gamepad { A menos que você use $INPUTANIM:LookX$ para olhar ao redor, você se move na mesma direção que está encarando. Se você se virar na direção oposta, seu personagem andará para trás e mais devagar. }
+LookDirection_Gamepad { A menos que você use $INPUTANIM:LookX$ para olhar ao redor, você se moverá na mesma direção para a qual está olhando. Se estiver de costas, seu personagem andará de costas e mais lentamente. }
 
-Perception_01 { Mantenha pressionado $INPUTANIM:PerceptionMode$ para olhar mais de perto. Dessa forma, você pode olhar atrás de objetos ou através da névoa. }
+Perception_01 { Mantenha $INPUTANIM:PerceptionMode$ pressionado para olhar mais de perto. Dessa forma, você pode olhar atrás de objetos ou através da névoa. }
 
 Perception_01_Gamepad { Ative o modo de investigação pressionando $INPUTANIM:PerceptionMode$. Dessa forma, você pode olhar atrás de objetos ou através da névoa. }
 
-Perception_02 { Se você olhar mais de perto, pode revelar coisas que de outra forma seriam invisíveis. Pegadas, por exemplo. }
+Perception_02 { Se observar mais de perto, você pode revelar coisas que estariam invisíveis. Pegadas, por exemplo. }
 
-ChangeStance { Pressione $INPUTANIM:DrawWeapon$ para sacar ou guardar sua arma. Ataque com $INPUTANIM:Attack_Primary$ com sua arma sacada. }
+ChangeStance { Pressione $INPUTANIM:DrawWeapon$ para sacar ou guardar sua arma. Ataque com $INPUTANIM:Attack_Primary$ com sua arma em mãos. }
 
-EngageCombat { Somente se você tiver sacado sua arma, poderá atacar com $INPUTANIM:Attack_Primary$! }
+EngageCombat { Só se sua arma estiver em mãos você pode atacar com $INPUTANIM:Attack_Primary$! }
 
-Interact { Use $INPUTANIM:Interact$ para interagir com itens ou pessoas. Enquanto sua arma estiver sacada, você não pode interagir. <br> Guarde sua arma com $INPUTANIM:DrawWeapon$. }
+Interact { Use $INPUTANIM:Interact$ para interagir com itens ou pessoas. Com a arma em mãos, você não pode interagir.<br>Guarde sua arma com $INPUTANIM:DrawWeapon$. }
 
-Perception_03 { Alguns objetos podem ser examinados mais de perto. Mantenha pressionado $INPUTANIM:PerceptionMode$ até que o símbolo de olho sobre sua cabeça esteja completamente preenchido. }
+Perception_03 { Alguns objetos podem ser examinados mais de perto. Mantenha $INPUTANIM:PerceptionMode$ pressionado até que o símbolo de olho sobre sua cabeça se complete. }
 
-Dodge { Mantenha pressionado um botão de movimento e pressione $INPUTANIM:Dodge$ para desviar nessa direção. Desviar consome Estamina. A estamina é exibida abaixo do seu personagem. }
+Dodge { Segure um botão de movimento e pressione $INPUTANIM:Dodge$ para desviar naquela direção. Desviar consome a sua resistência. A resistência é mostrada abaixo do seu personagem. }
 
-Inventory { Pressione $INPUTANIM:Inventory$ para abrir seu inventário. Daqui, você pode arrastar itens para sua barra rápida, e pode equipar e usar itens. }
+Inventory { Pressione $INPUTANIM:Inventory$ para abrir seu inventário. A partir dele, você pode arrastar itens para a barra rápida e equipar ou usar itens. }
 
-SwitchWeapon { Você encontrou um novo tipo de arma! Existem vários tipos diferentes de armas em Drova. Experimente-os para descobrir qual se adapta melhor a você.<br>Há dois conjuntos de armas personalizáveis disponíveis. Você pode alternar entre eles com $INPUTANIM:SwapWeaponSet$. }
+SwitchWeapon { Você encontrou um novo tipo de arma! Existem alguns tipos diferentes de armas em Drova. Experimente para ver qual é a melhor para você.<br>Há dois conjuntos de armas personalizáveis disponíveis. Você pode alternar entre eles com $INPUTANIM:SwapWeaponSet$. }
 
 Perception_03_Controller { Ative o modo de investigação pressionando $INPUTANIM:PerceptionMode$. Para examinar um objeto, fique perto dele e use $INPUTANIM:LookX$ para olhar em sua direção. }
 
-Abilities_02 { Você aprendeu uma habilidade! Ela já foi equipada automaticamente. Pressione $INPUTANIM:SpellMenu$ para abrir o menu de habilidades e dar uma olhada mais de perto na sua nova habilidade ou movê-la para outro slot no menu radial. No jogo, você pode mudar uma habilidade ativa usando o menu radial ($INPUTANIM:RingMenu$). }
+Abilities_02 { Você aprendeu uma habilidade! Ela já foi equipada automaticamente. Pressione $INPUTANIM:SpellMenu$ para abrir o menu de habilidades, dar uma olhada mais de perto na sua nova habilidade ou movê-la para outro slot no menu radial. No jogo, você pode alterar uma habilidade ativa usando o menu radial ($INPUTANIM:RingMenu$). }
 
-Abilities_02_Controller { Você aprendeu uma habilidade! Ela já foi equipada automaticamente. Pressione $INPUTANIM:Inventory$ para abrir o menu e use $INPUTANIM:PrevPanel$ e $INPUTANIM:NextPanel$ para acessar a aba de habilidades. A partir daí, você pode dar uma olhada mais de perto na sua nova habilidade ou movê-la para outro slot no menu radial. No jogo, você pode mudar uma habilidade ativa usando o menu radial ($INPUTANIM:RingMenu$). }
+Abilities_02_Controller { Você aprendeu uma habilidade! Ela já foi equipada automaticamente. Pressione $INPUTANIM:Inventory$ para abrir o menu e use $INPUTANIM:PrevPanel$ e $INPUTANIM:NextPanel$ para acessar a aba de habilidades. Lá você pode examinar sua nova habilidade ou movê-la para outro slot no menu radial. No jogo, você pode trocar uma habilidade ativa usando o menu radial ($INPUTANIM:RingMenu$). }
 
-Abilities_03 { Você equipou sua primeira habilidade! Para trocar de habilidades, mantenha pressionado $INPUTANIM:RingMenu$ até selecionar a habilidade que deseja usar ativamente. }
+Abilities_03 { Você equipou sua primeira habilidade! Para trocar de habilidades, segure $INPUTANIM:RingMenu$ até selecionar a habilidade que deseja usar ativamente. }
 
-FoodAndHeal { Com o tempo, tanto os alimentos quanto os itens de cura restauram vida. Ao contrário dos itens de cura, os alimentos restauram vida mais lentamente, mas uma vez que sua barra de vida está cheia, o processo de regeneração é pausado. Além disso: Enquanto o buff estiver ativo, os alimentos também concedem efeitos adicionais. }
+FoodAndHeal { Com o tempo, tanto alimentos quanto itens de cura restauram sua Vida. Diferente dos itens de cura, alimentos restauram a Vida mais lentamente, mas, uma vez que sua barra de Vida esteja cheia, o processo de regeneração é pausado. Além disso: enquanto o buff estiver ativo, alimentos também concedem efeitos adicionais. }
 
-FirstHeal { Você encontrou uma planta de cura!<br>Pressione $INPUTANIM:Inventory$ para abrir seu inventário.<br>A partir daqui, você pode arrastar itens para sua barra rápida, ou equipar e consumir o item imediatamente usando $INPUTANIM:Interact$.<br>$ICON:Heal$ Itens de cura restauram sua vida ao longo do tempo. }
+FirstHeal { Você encontrou uma planta de cura!<br>Pressione $INPUTANIM:Inventory$ para abrir seu inventário.<br>A partir dele, você pode arrastar itens para a Barra Rápida ou equipar e consumir o item imediatamente usando $INPUTANIM:Interact$.<br>$ICON:Heal$ Itens de cura restauram sua Vida com o tempo. }
 
-BattleBuddies_Blocks { Mantenha pressionado $INPUTANIM:Block$ para bloquear. Cada golpe bloqueado reduz sua estamina em vez de sua vida. Uma vez que sua estamina se esgote, você não poderá mais bloquear. }
+BattleBuddies_Blocks { Mantenha $INPUTANIM:Block$ pressionado para bloquear. Cada golpe bloqueado reduz sua resistência em vez da Vida. Quando sua resistência acabar, você não poderá mais bloquear. }
 
-BattleBuddies_Blocks_Label { Bloqueios Bem-Sucedidos }
+BattleBuddies_Blocks_Label { Bloqueios Bem-sucedidos }
 
-BattleBuddies_Combos { Pressione $INPUTANIM:Attack_Primary$ no momento exato após atacar para atacar novamente. Usando combos, você geralmente pode atacar mais rápido e causar mais dano. }
+BattleBuddies_Combos { Pressione $INPUTANIM:Attack_Primary$ exatamente no momento certo após atacar para atacar novamente. Usando combos, você geralmente ataca mais rápido e causa mais dano. }
 
-BattleBuddies_Combos_Label { Combos Bem-Sucedidos }
+BattleBuddies_Combos_Label { Combos Bem-sucedidos }
 
-BattleBuddies_Spells { Conforme indicado pelas marcações de habilidade na barra de foco, você coletou foco suficiente para usar uma habilidade. Use a habilidade pressionando $INPUTANIM:UseSpell$. }
+BattleBuddies_Spells { Como indicado pelos marcadores de habilidade na barra de foco, você acumulou foco suficiente para usar uma habilidade. Use a habilidade pressionando $INPUTANIM:UseSpell$. }
 
-BattleBuddies_Spells_Label { Feitiços Bem-Sucedidos }
+BattleBuddies_Spells_Label { Habilidades Bem-sucedidas }
 
-BattleBuddies_GetFlow { A barra de foco abaixo da sua barra de vida exibe seu foco atual. Em combate, cada vez que você atinge um oponente com sucesso, você gera foco. Se você for atingido, perderá foco. Se não usar seu foco, ele se dissipará — exceto pelo seu foco base. }
+BattleBuddies_GetFlow { A barra de foco abaixo da sua barra de Vida exibe seu foco atual. Em combate, a cada golpe bem-sucedido que você acerta, você gera foco. Se for atingido, você perde foco. Se não usar seu foco, ele se dissipa — exceto pelo foco base. }
 
-FirstFood { Você encontrou comida!<br>Pressione $INPUTANIM:Inventory$ para abrir seu inventário.<br>A partir daqui, você pode arrastar itens alimentares para sua barra rápida ou consumi-los imediatamente usando $INPUTANIM:Interact$.<br><br>$ICON:Food$ Alimentos restauram sua vida ao longo do tempo. No entanto, a regeneração é pausada se sua barra de vida estiver cheia.<br><br>Certifique-se de estar bem alimentado a qualquer momento. Reúna receitas e prepare sua comida em uma fogueira. }
+FirstFood { Você encontrou comida!<br>Pressione $INPUTANIM:Inventory$ para abrir seu inventário.<br>A partir dele, você pode arrastar itens alimentares para a barra rápida ou consumi-los imediatamente usando $INPUTANIM:Interact$.<br><br>$ICON:Food$ Comida restaura sua Vida com o tempo. No entanto, a regeneração é pausada se sua barra de Vida estiver cheia.<br><br>Certifique-se de estar sempre bem alimentado. Encontre receitas e prepare sua comida em uma fogueira. }
 
-FirstGoodFood { Você consumiu comida rica.<br>Muitos pratos em Drova concedem efeitos passivos enquanto você está saciado.<br>Cuidado, porém! Se você consumir comida adicional, o efeito de saciedade será sobrescrito. É melhor esperar até que o efeito expire antes de comer novamente.<br><br>É aconselhável sempre estar saciado para aproveitar a regeneração passiva de vida. }
+FirstGoodFood { Você consumiu uma comida nutritiva.<br>Muitos pratos em Drova concedem efeitos passivos enquanto você está saciado.<br>Mas cuidado! Se consumir mais alimentos, o efeito de saciedade será substituído. É melhor esperar o efeito expirar antes de comer novamente.<br><br>Estar saciado concede regeneração passiva de Vida. }
 
-FirstWeapon { Você encontrou uma arma!<br>Pressione $INPUTANIM:Inventory$ para abrir seu inventário.<br>A partir daqui, você pode equipar sua arma usando $INPUTANIM:Interact$.<br><br>(Você pode personalizar dois conjuntos de armas; pressione $INPUTANIM:SwapWeaponSet$ para alternar entre eles.) }
+FirstWeapon { Você encontrou uma arma!<br>Pressione $INPUTANIM:Inventory$ para abrir seu inventário.<br>A partir dele, você pode equipar sua arma usando $INPUTANIM:Interact$.<br><br>(Você pode personalizar dois conjuntos de armas; pressione $INPUTANIM:SwapWeaponSet$ para alternar entre eles.) }
 
 FirstNote { Você encontrou uma carta!<br>Todas as cartas são armazenadas no seu diário na aba de cartas. Você pode lê-las de lá a qualquer momento. }
 
-FirstNote_Gamepad { Você encontrou uma carta.<br>Pressione $INPUTANIM:Inventory$ para abrir seu menu e use $INPUTANIM:PrevPanel$ e $INPUTANIM:NextPanel$ para acessar a aba do diário. Todas as suas cartas são reunidas na aba de cartas. Você pode lê-las de lá a qualquer momento. }
+FirstNote_Gamepad { Você encontrou uma carta.<br>Pressione $INPUTANIM:Inventory$ para abrir seu menu e use $INPUTANIM:PrevPanel$ e $INPUTANIM:NextPanel$ para acessar a aba do diário. Todas as suas cartas são armazenadas na aba de cartas, onde você pode lê-las a qualquer momento. }
 
-NeedMunition { Para usar uma arma de longo alcance em combate, você precisará carregá-la com $INPUTANIM:Block$. }
+NeedMunition { Para usar uma arma de longo alcance em combate, você deve carregá-la com $INPUTANIM:Block$. }
 
-FirstRangeWeapon { Você encontrou uma arma de longo alcance.<br>Pressione $INPUTANIM:Inventory$ para acessar seu inventário e equipar a arma.<br>Para usá-la, você também precisa equipar a munição apropriada do inventário. }
+FirstRangeWeapon { Você encontrou uma arma de longo alcance.<br>Pressione $INPUTANIM:Inventory$ para acessar seu inventário e equipar a arma. <br>Para usá-la, você também precisa equipar a munição apropriada do inventário. }
 
-Journal { Você fez uma nova entrada no seu diário.<br>Pressione $INPUTANIM:Journal$ para abrir seu diário.<br>A partir de lá, você pode verificar o status de suas missões a qualquer momento. }
+Journal { Você fez uma nova entrada no seu diário.<br>Pressione $INPUTANIM:Journal$ para abrir seu diário.<br>De lá, você pode verificar o status de suas missões a qualquer momento. }
 
-Journal_Gamepad { Você fez uma nova entrada no seu diário.<br>Pressione $INPUTANIM:Inventory$ para abrir seu menu e use $INPUTANIM:PrevPanel$ e $INPUTANIM:NextPanel$ para acessar a aba do diário.<br>A partir de lá, você pode verificar o status atual de suas missões a qualquer momento. }
+Journal_Gamepad { Você fez uma nova entrada no seu diário.<br>Pressione $INPUTANIM:Inventory$ para abrir seu menu e use $INPUTANIM:PrevPanel$ e $INPUTANIM:NextPanel$ para acessar a aba do diário.<br>De lá, você pode verificar o status atual de suas missões a qualquer momento. }
 
-FirstConsFlow_Gamepad { Você encontrou um pergaminho de feitiço.<br>Pressione $INPUTANIM:OpenAbilities$ para abrir o menu e use $INPUTANIM:PrevPanel$ para $INPUTANIM:NextPanel$ acessar a aba de habilidades. Você pode equipar seu pergaminho de feitiço a partir de lá.<br>Os pergaminhos de feitiço podem lhe dar uma vantagem em lutas difíceis; não há motivo para acumulá-los. }
+FirstConsFlow_Gamepad { Você encontrou um pergaminho de magia.<br>Pressione $INPUTANIM:OpenAbilities$ para abrir o menu e use $INPUTANIM:PrevPanel$ até $INPUTANIM:NextPanel$ para acessar a aba de habilidades. Você pode equipar seu pergaminho de lá.<br>Pergaminhos de magia podem dar uma vantagem em lutas difíceis; não faz sentido guardá-los. }
 
-FirstThrow { Você encontrou um consumível!<br> Pressione $INPUTANIM:Inventory$ para abrir seu inventário.<br>A partir daqui, você pode arrastar o item para sua barra rápida. }
+FirstThrow { Você encontrou um consumível!<br> Pressione $INPUTANIM:Inventory$ para abrir seu inventário.<br>A partir dele, você pode arrastar o item para sua Barra Rápida. }
 
-Stealing { Os habitantes de Drova estão de olho em suas posses. Você pode tentar roubar deles, mas deve ter certeza de não ser pego.<br>O ponteiro do mouse indica se uma interação é uma ofensa. }
+Stealing { Os habitantes de Drova mantêm um olho atento em seus pertences. Você pode tentar roubá-los, mas evite ser pego.<br>O ponteiro do mouse indica se uma interação é um delito. }
 
-Stealing_Gamepad { Os habitantes de Drova estão de olho em suas posses. Você pode tentar roubar deles, mas deve ter certeza de não ser pego.<br>O símbolo de interação indica se uma interação é uma ofensa. }
+Stealing_Gamepad { Os habitantes de Drova mantêm um olho atento em seus pertences. Você pode tentar roubá-los, mas evite ser pego.<br>O símbolo de interação indica se uma interação é um delito. }
 
-Crafting { Cozinhe e prepare poções em uma fogueira. Existem outras estações de trabalho que você pode usar para criar armadilhas, equipamentos e objetos lançáveis.<br>Cozinhe algumas receitas diretamente do menu de $INPUTANIM:CraftingMenu$ sem uma estação de trabalho. }
+Crafting { Cozinhe e faça poções em uma fogueira. Há outras estações de trabalho onde você pode criar armadilhas, equipamentos e arremessáveis.<br>Crie algumas receitas diretamente do menu de $INPUTANIM:CraftingMenu$ sem uma estação de trabalho. }
 
-CloseTutorial { Fechar }
+CloseTutorial { Ocultar }
 
-CloseTutorial_Gamepad { Fechar (Mantenha pressionado $INPUTANIM:UISubmit$) }
+CloseTutorial_Gamepad { Fechar (Segure $INPUTANIM:UISubmit$) }
 
-Statuseffects { Você andou em um espinheiro e ficou afetado por "sangramento".<br>No jogo, existem várias aflições que serão exibidas à esquerda e abaixo da sua barra de vida.<br>Abra o menu usando $INPUTANIM:Inventory$ para usar dicas de ferramentas e dar uma olhada mais de perto nas várias aflições. }
+Statuseffects { Você entrou em um arbusto de espinhos e foi afligido por “sangramento”.<br>No jogo, há várias aflições que são exibidas à direita da sua barra de Vida.<br>Abra o menu usando $INPUTANIM:Inventory$ para usar as dicas e examinar as diferentes aflições. }
 
-Secondaries { Você encontrou um escudo!<br>Este é um item de mão secundária. Use-o em combate pressionando $INPUTANIM:Block$.<br>Se você pressionar $INPUTANIM:Block$ sem ter um item de mão secundária equipado, você realizará uma ação exclusiva para cada tipo de arma. }
+Secondaries { Você encontrou um escudo!<br>Este é um item de mão secundária. Use-o em combate pressionando $INPUTANIM:Block$.<br>Se você pressionar $INPUTANIM:Block$ sem um item secundário equipado, realizará uma ação específica de cada tipo de arma. }
 
-UsedHealItem { Você consumiu um item de cura.<br>Você agora aplicou um efeito de cura, que faz com que você recupere vida periodicamente.<br>Múltiplos efeitos de cura podem estar ativos ao mesmo tempo. }
+UsedHealItem { Você consumiu um item de cura.<br>Agora você aplicou um efeito de cura, que causa regeneração periódica de Vida.<br>Vários efeitos de cura podem estar ativos ao mesmo tempo. }
 
-PoiseBreak { Seu oponente está no chão após você quebrar sua postura.<br>A postura é exibida como uma barra amarela abaixo da barra de vida.<br>Use esse tempo para atacar seu oponente, curar-se ou usar um item. }
+PoiseBreak { Seu oponente está no chão depois que você quebrou sua postura.<br>A postura é exibida como uma barra amarela abaixo da barra de Vida.<br>Aproveite este momento para atacar o oponente, se curar ou usar um item. }
 
-LookDirectionCombat { Em combate, você sempre atacará na direção em que está encarando.<br>A seta abaixo do seu personagem indica a direção que você está encarando.<br>Use seu mouse para mudar essa direção. }
+LookDirectionCombat { Em combate, você sempre atacará na direção para onde está olhando.<br>A seta sob seu personagem indica a direção para a qual está olhando.<br>Use o mouse para mudar essa direção. }
 
-LookDirectionCombat_Gamepad { Em combate, você sempre atacará na direção em que está encarando.<br>A seta abaixo do seu personagem indica a direção que você está encarando.<br>Use $INPUTANIM:LookX$ para mudar essa direção. }
+LookDirectionCombat_Gamepad { Em combate, você sempre atacará na direção para a qual está olhando.<br>A seta sob seu personagem indica a direção para a qual está olhando.<br>Use $INPUTANIM:LookX$ para mudar essa direção. }
 
-FirstTreasure { Você encontrou um mapa do tesouro!<br>Todos os mapas do tesouro são armazenados no seu diário na aba de cartas. Você pode vê-los a qualquer momento. }
+FirstTreasure { Você encontrou um mapa do tesouro!<br>Todos os mapas do tesouro são armazenados no seu diário na aba de cartas. Você pode vê-los de lá a qualquer momento. }
 
-FirstTreasure_Gamepad { Você encontrou um mapa do tesouro!<br>Pressione $INPUTANIM:Inventory$ para abrir seu menu e use $INPUTANIM:PrevPanel$ e $INPUTANIM:NextPanel$ para acessar a aba do diário.<br>Todos os mapas do tesouro são armazenados no seu diário na aba de cartas. Você pode vê-los a qualquer momento. }
+FirstTreasure_Gamepad { Você encontrou um mapa do tesouro!<br>Pressione $INPUTANIM:Inventory$ para abrir seu menu e use $INPUTANIM:PrevPanel$ e $INPUTANIM:NextPanel$ para acessar a aba do diário.<br>Todos os mapas do tesouro são armazenados no seu diário na aba de cartas. Você pode vê-los de lá a qualquer momento. }
 
-FirstRecipe { Você encontrou uma receita.<br>Abra o inventário com $INPUTANIM:Inventory$. Aí você pode aprender a receita usando $INPUTANIM:Interact$ }
+FirstRecipe { Você encontrou uma receita.<br>Abra o inventário com $INPUTANIM:Inventory$. Lá você pode aprender a receita usando $INPUTANIM:Interact$ }

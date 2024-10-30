@@ -1,8 +1,8 @@
-haudrauf { Dê-lhes uma boa pancada! }
+haudrauf { Dá uma boa pancada neles! }
 
-reaction01 { Vamos, lute! }
+reaction01 { Vamos lá, lute! }
 
-reaction02 { Oh rapaz, uma briga. }
+reaction02 { Opa, uma briga. }
 
 reaction03 { Bem no meio da cara! }
 
@@ -14,6 +14,6 @@ reaction06 { Alguém está brigando. }
 
 reaction07 { Sem segurar! }
 
-reaction08 { Finalmente, um pouco de emoção por aqui. }
+reaction08 { Finalmente, um pouco de animação por aqui. }
 
 reaction09 { Uma briga! }

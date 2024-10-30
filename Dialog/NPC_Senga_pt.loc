@@ -1,56 +1,56 @@
-Plh_5 { Você precisa de Musgo Ferrugento? }
+Plh_5 { Precisa de um pouco de Ferrumusgo? }
 
 Plh_31 { O que você está fazendo aqui? }
 
-Plh_32 { O que você acha que estou fazendo? }
+Plh_32 { O que você acha que eu estou fazendo? }
 
-Plh_33 { Trabalhando, conversando, fumando um pouco de Musgo Ferrugento de vez em quando, enxaguando e repetindo. As coisas que se faz como Hewer. }
+Plh_33 { Minerar, conversar, fumar um pouco de Ferrumusgo de vez em quando, e repetir. As coisas que um Lenhador faz. }
 
-Plh_29 { A Divindade precisa ficar atenta. }
+Plh_29 { A Divindade que se cuide. }
 
-Plh_30 { Sim! Por Jero! Por nossa liberdade! Pela Torre Vermelha! }
+Plh_30 { Isso! Por Jero! Pela nossa liberdade! Pela Torre Vermelha! }
 
 Plh_23 { *boceja* O que foi? }
 
-Plh_6 { Sim! Você está fazendo recados para Boris? Estou esperando por coisas novas há dias! }
+Plh_6 { Sim! Está fazendo entregas para o Boris? Estou esperando algo novo há dias! }
 
-Plh_34 { Eu não tenho mais nada. }
+Plh_34 { Não sobrou nada. }
 
-Plh_7 { Sim, mas é apenas uma vez. }
+Plh_7 { Sim, mas é só uma vez. }
 
-Plh_8 { Exatamente. E eu carrego as melhores coisas que você já experimentou. }
+Plh_8 { Exatamente. E eu carrego o melhor produto que você já experimentou. }
 
 Plh_35 { Já acabou tudo? Droga! }
 
-Plh_9 { Não me importo! O principal é que há mais suprimento! }
+Plh_9 { Não me importo! O importante é que tenha mais estoque! }
 
 Plh_11 { Quanto você quer por isso? }
 
-Plh_13 { Me pague $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ moedas, e você tem um acordo. }
+Plh_13 { Me pague $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ moedas, e temos um acordo. }
 
-Plh_14 { Isso é realmente bom. Eu te dou um por $GVAR:QuestVars_JobForBoris_Config.ScamPricePerJoint$ moedas. }
+Plh_14 { Esse é realmente um bom produto. Vou te dar por $GVAR:QuestVars_JobForBoris_Config.ScamPricePerJoint$ moedas. }
 
-Plh_15 { As coisas estão ficando mais caras a cada minuto. Aqui, leve. }
+Plh_15 { O produto está ficando mais caro a cada minuto. Aqui, pegue. }
 
-Plh_22 { É isso que torna toda a miséria válida. Obrigado. }
+Plh_22 { Isso faz todo o sofrimento valer a pena. Obrigado. }
 
-Plh_16 { O quê? Isso é duas vezes mais do que da última vez! Não me faça de otário. }
+Plh_16 { O quê? Isso é o dobro do preço da última vez! Não me venha com papo furado. }
 
-Plh_17 { Tudo bem, fine, o preço real é $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ moedas. }
+Plh_17 { Certo, tudo bem, o preço real é $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ moedas. }
 
-Plh_18 { Está ficando mais difícil conseguir essa coisa. Leve ou eu ofereço a alguém. }
+Plh_18 { Está ficando mais difícil conseguir o produto. Aceite ou ofereço para outra pessoa. }
 
-Plh_21 { Não tente me enganar! Caso contrário, contarei ao Boris sobre seu "preço ajustado." }
+Plh_21 { Não tente me enganar! Ou então conto para o Boris sobre seu "preço ajustado". }
 
-Plh_19 { *grunhe* Esse Boris... }
+Plh_19 { *ranger de dentes* Esse Boris... }
 
-Plh_20 { Primeiro ele quase dá o Musgo Ferrugento de graça, e agora eu mal posso pagar por isso. }
+Plh_20 { Primeiro ele quase dá o Ferrumusgo de graça, e agora mal posso pagar pelo produto. }
 
-Plh_24 { Tudo bem, me passe antes que acabe. }
+Plh_24 { Certo, passe para cá antes que acabe. }
 
-Plh_10 { É isso que pessoas como você sempre dizem quando querem empurrar algo. }
+Plh_10 { É o que gente como você sempre diz quando quer empurrar alguma coisa. }
 
-Plh_12 { Ei! Ouvi que você está vendendo Musgo Ferrugento fresco para o Boris! Você tem algum para mim? }
+Plh_12 { Ei! Ouvi dizer que você está vendendo Ferrumusgo fresco para o Boris! Tem um pouco para mim? }
 
 Plh_27 { *GRITA* }
 

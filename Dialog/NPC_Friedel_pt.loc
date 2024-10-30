@@ -130,9 +130,9 @@ Plh_90 { (abra a gaveta de baixo) }
 
 Plh_84 { *Os papéis parecem um contrato. Há uma linha na parte inferior para uma assinatura e várias linhas na parte superior detalhando os termos do acordo.* }
 
-Plh_85 { *Na gaveta, você encontra um cachimbo desgastado, uma pequena quantidade de Musgo Ferrugento e um punhado de moedas.* }
+Plh_85 { *Na gaveta, você encontra um cachimbo desgastado, uma pequena quantidade de Ferrumusgo e um punhado de moedas.* }
 
-Plh_86 { (pegar o Musgo Ferrugento e as moedas) }
+Plh_86 { (pegar o Ferrumusgo e as moedas) }
 
 Plh_87 { (fechar a gaveta) }
 

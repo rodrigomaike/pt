@@ -78,11 +78,11 @@ item_stolenPackage_description { Encontrei este pacote no pomar. Está com um ch
 
 item_alraune_name { Mandrágora }
 
-item_alraune_description { Uma raiz gritando. Me pergunto para que serve... }
+item_alraune_description { Uma raiz que grita. Me pergunto para que serve... }
 
-item_callashroom_name { Cogumelo Cala }
+item_callashroom_name { Cogumelo do Pântano }
 
-item_callashroom_description { Um cogumelo do pântano. }
+item_callashroom_description { Um cogumelo encontrado no pântano. }
 
 item_egg_name { Ovo }
 
@@ -94,7 +94,7 @@ item_beer_description { Cerveja simples. Quanto mais você bebe, melhor fica. }
 
 item_apple_name { Maçã }
 
-item_callashroom_extract_name { Extrato de Cogumelo Cala }
+item_callashroom_extract_name { Extrato de Cogumelo do Pântano }
 
 item_callashroom_extract_description { Extrato necessário para o talismã de Helma. }
 
@@ -128,15 +128,15 @@ item_silverore_name { Minério de Prata }
 
 tool_pickaxe_silberhauer_name { Quebra-Prata }
 
-tool_pickaxe_silberhauer_description { Uma picareta muito boa que Merik me vendeu. }
+tool_pickaxe_silberhauer_description { Uma baita picareta que comprei do Merik. }
 
 item_logwood_name { Lenha }
 
-item_salve_healing_name { Unguento Curativo }
+item_salve_healing_name { Pomada Curativa }
 
 item_pigglet_food_name { Ração Fortificada }
 
-item_pigglet_food_description { Isso ajudará os leitões a recuperar suas forças. }
+item_pigglet_food_description { Isso ajudará os leitões a recuperarem suas forças. }
 
 item_brokenwings_name { Asa de Mosquito }
 
@@ -168,7 +168,7 @@ weapon_axe_oldAxe_name { Machado Velho }
 
 weapon_axe_splittingAxe_name { Machado de Fendição }
 
-weapon_axe_beardedAxe_name { Machado de Barba Deformado }
+weapon_axe_beardedAxe_name { Machado Barbado Deformado }
 
 weapon_axe_broadAxe_name { Machado Largo }
 
@@ -188,7 +188,7 @@ weapon_axe_bearSlaughtererAxe_name { Machado Abatedor de Ursos }
 
 weapon_axe_greatAxe_name { Grande Machado }
 
-weapon_axe_barbarianBattleAxe_name { Poleaxe Bárbaro }
+weapon_axe_barbarianBattleAxe_name { Machado Bárbaro }
 
 weapon_axe_iron-BoundGreatAxe_name { Grande Machado Cego }
 
@@ -208,7 +208,7 @@ weapon_sword_bronzeShortSword_name { Espada Curta Gastada }
 
 weapon_sword_warClub_name { Espada de Bronze Improvisada }
 
-weapon_sword_oldBronzeGladius_name { Gládio de Bronze Antigo }
+weapon_sword_oldBronzeGladius_name { Gládio Antigo de Bronze }
 
 weapon_sword_roughSword_name { Espada Deformada }
 
@@ -506,7 +506,7 @@ weapon_barehands_name { Punhos }
 
 weapon_barehands_description { O dano de ataques desarmados escala com a força. }
 
-item_stew_tiaa_name { Ensopado de Tiaa }
+item_stew_tiaa_name { Ensopado da Tiaa }
 
 item_stew_tiaa_manipulated_name { Comida Adulterada }
 
@@ -934,7 +934,7 @@ item_skulldew_name { Orvalho do Crânio }
 
 item_skulldew_description { Encontrado nas profundezas dos pântanos. Muito raro. }
 
-item_rustymosspipe_name { Musgoenferrujado }
+item_rustymosspipe_name { Ferrumusgo }
 
 item_rustymosspipe_description { Relaxa você e ajuda a esquecer a rotina diária. }
 
@@ -1210,9 +1210,9 @@ item_letterAuwaldDungeon_5_name { Um dos Últimos Sobreviventes }
 
 key_ShadyDistrict_name { Chave do Quarteirão Sombrio }
 
-item_rustmoss_BadFromGera_name { Musgo Cortado }
+item_rustmoss_BadFromGera_name { Ferrumusgo Cortado }
 
-item_rustmoss_BadFromGera_description { Gera quer que eu "perca" esse musgo no suprimento de Leyna. }
+item_rustmoss_BadFromGera_description { Gera quer que eu "perca" esse Ferrumusgo no suprimento de Leyna. }
 
 item_kiepe_rubble_name { Paniço }
 
@@ -1434,7 +1434,7 @@ recipe_roastofthepast_name { Receita: Assado dos Antigos }
 
 recipe_rootstew_name { Receita: Ensopado Nebuloso }
 
-recipe_rustymosspipe_name { Receita: Rustmoss }
+recipe_rustymosspipe_name { Receita: Ferrumusgo }
 
 recipe_silberringmind_0_name { Receita: Anel dos Espíritos }
 

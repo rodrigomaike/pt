@@ -1,10 +1,10 @@
 Achievement_ImmersiveMod_name { Ferro }
 
-Achievement_ImmersiveMod_desc { Termine o jogo com o modo de salvamento definido como Ferro. }
+Achievement_ImmersiveMod_desc { Termine o jogo com o modo de salvamento ajustado para Ferro. }
 
 Achievement_CengizWoodcampQuest_name { Um Bom Começo }
 
-Achievement_CengizWoodcampQuest_desc { Certifique-se de que todos os homens de Cengiz estão trabalhando na ponte. }
+Achievement_CengizWoodcampQuest_desc { Certifique-se de que todas as pessoas de Cengiz estão trabalhando na ponte. }
 
 Achievement_LeftDeepMine_name { Lá em Baixo }
 
@@ -12,7 +12,7 @@ Achievement_LeftDeepMine_desc { Escape da Mina Profunda no acampamento dos Reman
 
 Achievement_HelpedGeorg_name { De Lutas e Raposas }
 
-Achievement_HelpedGeorg_desc { Ajude todas as pessoas na Georgefarm. }
+Achievement_HelpedGeorg_desc { Ajude todas as pessoas na Fazenda do George. }
 
 Achievement_JoinNemeton_name { Parte da Família }
 
@@ -40,7 +40,7 @@ Achievement_CompletedLibrary_desc { Complete a Biblioteca. }
 
 Achievement_CompletedAuwald_name { Sozinho na Floresta }
 
-Achievement_CompletedAuwald_desc { Encontre o Cristal Divino na Floresta da Planície de Inundação. }
+Achievement_CompletedAuwald_desc { Encontre o Cristal Divino na Floresta Alagada. }
 
 Achievement_CompletedCityDungeon_name { Rastros do Passado }
 
@@ -52,9 +52,9 @@ Achievement_EnteredRedTower_desc { Entre na Torre Vermelha. }
 
 Achievement_FirstDeath_name { Bem-vindo a Drova }
 
-Achievement_FirstDeath_desc { Prove da derrota pela primeira vez. }
+Achievement_FirstDeath_desc { Prove do pó pela primeira vez. }
 
-Achievement_FirstArenaFight_name { Eu Não Sou Entretenimento Para Você? }
+Achievement_FirstArenaFight_name { Não Estou Divertindo Vocês? }
 
 Achievement_FirstArenaFight_desc { Vença sua primeira batalha na arena. }
 
@@ -68,7 +68,7 @@ Achievement_BloodborneAchievement_desc { Um caçador deve caçar. }
 
 Achievement_BertineRevenge_name { Olho por Olho, Dente por Dente }
 
-Achievement_BertineRevenge_desc { Ajude Bertine a completar sua vingança final. }
+Achievement_BertineRevenge_desc { Ajude Bertine a concretizar sua vingança final. }
 
 Achievement_Schnitzeljagd_name { Caça ao Tesouro }
 
@@ -76,23 +76,23 @@ Achievement_Schnitzeljagd_desc { Crie seu próprio talismã. }
 
 Achievement_ArenaMaster_name { Gladiador }
 
-Achievement_ArenaMaster_desc { Avance até o topo durante as batalhas na arena no acampamento dos Remanescentes. }
+Achievement_ArenaMaster_desc { Avance ao topo durante as batalhas de arena no acampamento dos Remanescentes. }
 
 Achievement_Blackboard_name { Pela Comunidade }
 
 Achievement_Blackboard_desc { Complete todas as tarefas do quadro de avisos. }
 
-Achievement_LastManStandingFeuertaufe_name { Último Sobrevivente }
+Achievement_LastManStandingFeuertaufe_name { O Último de Pé }
 
 Achievement_LastManStandingFeuertaufe_desc { Seja a última pessoa em pé após o batismo de fogo de Eugen. }
 
 Achievement_CompletedBrutusMine_name { Liberdade! }
 
-Achievement_CompletedBrutusMine_desc { Libere os prisioneiros. }
+Achievement_CompletedBrutusMine_desc { Liberte os prisioneiros. }
 
 Achievement_KilledRipperWoodcampAct1_name { A Mão Direita de Cengiz }
 
-Achievement_KilledRipperWoodcampAct1_desc { Mate o líder da matilha de dilaceradores perto do Acampamento dos Lenhadores no Ato 1. }
+Achievement_KilledRipperWoodcampAct1_desc { Mate o líder do bando de rasgadores perto do Acampamento do Lenhador no Ato 1. }
 
 Achievement_HelpedSickSister_name { Samaritano }
 
@@ -102,25 +102,25 @@ Achievement_KilledBearBeforeAct2_name { Medo de Urso }
 
 Achievement_KilledBearBeforeAct2_desc { Mate um urso no Ato 1. }
 
-Achievement_KilledOlafRipper_name { Menos Uma Praga }
+Achievement_KilledOlafRipper_name { Um a Menos }
 
-Achievement_KilledOlafRipper_desc { Resolva o problema dos dilaceradores de Olaf. }
+Achievement_KilledOlafRipper_desc { Cuide do problema com o Rasgador de Olaf. }
 
-Achievement_KilledDiemo_name { Eu Não Tinha Escolha }
+Achievement_KilledDiemo_name { Não Tinha Escolha }
 
 Achievement_KilledDiemo_desc { Enfrente a vingança de Diemo. }
 
-Achievement_GaveCayFamiliar_name { Um Leitão Chamado Cay }
+Achievement_GaveCayFamiliar_name { Um Porquinho Chamado Cay }
 
-Achievement_GaveCayFamiliar_desc { Desista de parte de si mesmo para salvar Cay. }
+Achievement_GaveCayFamiliar_desc { Abra mão de parte de si para salvar Cay. }
 
 Achievement_StoppedMurtaghAndMursel_name { Eu Sou a Lei }
 
-Achievement_StoppedMurtaghAndMursel_desc { Traga justiça ao Poço no acampamento dos Remanescentes. }
+Achievement_StoppedMurtaghAndMursel_desc { Traga justiça para o Fosso no acampamento dos Remanescentes. }
 
 Achievement_LeftMine100Silver_name { Essa Prata é Minha! }
 
-Achievement_LeftMine100Silver_desc { Saia do Poço no acampamento dos Remanescentes com 100 pratas no bolso. }
+Achievement_LeftMine100Silver_desc { Saia do Fosso no acampamento dos Remanescentes com 100 pratas nos bolsos. }
 
 Achievement_UndertookJourneyToRoots_name { Um com a Floresta Primordial }
 
@@ -130,7 +130,7 @@ Achievement_FedMikesch10Fish_name { Mikesch, o Devorador }
 
 Achievement_FedMikesch10Fish_desc { Alimente Mikesch com 10 peixes. }
 
-Achievement_InteractedWithAllUniqueCritters_name { Sussurrador de Animais }
+Achievement_InteractedWithAllUniqueCritters_name { Amigo dos Animais }
 
 Achievement_InteractedWithAllUniqueCritters_desc { Interaja com todos os animais únicos em Drova. }
 
@@ -138,11 +138,11 @@ Achievement_LearnedFromBady_name { Conquistador da Arena }
 
 Achievement_LearnedFromBady_desc { Derrote Bady em uma luta justa. }
 
-Achievement_TookAllDrugs_name { Nada a Perder }
+Achievement_TookAllDrugs_name { Nada Pode Ser Desperdiçado }
 
 Achievement_TookAllDrugs_desc { Experimente todas as drogas em Drova. }
 
-Achievement_GotRelicFromRuinenraeuber_name { Fora de Vista, Mas Não Esquecido }
+Achievement_GotRelicFromRuinenraeuber_name { Fora da Vista, mas não do Pensamento }
 
 Achievement_GotRelicFromRuinenraeuber_desc { Complete a relíquia para os Saqueadores de Ruínas. }
 
@@ -150,41 +150,41 @@ Achievement_FinishedPwyllConversation_name { Tudo Começou Quando... }
 
 Achievement_FinishedPwyllConversation_desc { Receba um presente único de Pwyll. }
 
-Achievement_FoundAtlanterWeapon_name { O Legado dos Antigos }
+Achievement_FoundAtlanterWeapon_name { O Legado dos Ancestrais }
 
 Achievement_FoundAtlanterWeapon_desc { Encontre uma arma antiga. }
 
-Achievement_CraftedEpicArmor_name { Nada Pode Te Atingir! }
+Achievement_CraftedEpicArmor_name { Nada Pode Te Ferir! }
 
-Achievement_CraftedEpicArmor_desc { Receba uma armadura dos Antigos. }
+Achievement_CraftedEpicArmor_desc { Receba uma armadura dos Ancestrais. }
 
-Achievement_WonAgainstBrutus_name { O Último Soberano dos Antigos }
+Achievement_WonAgainstBrutus_name { O Último Soberano dos Ancestrais }
 
 Achievement_WonAgainstBrutus_desc { Derrote Drivanius. }
 
-Achievement_JoinedRustmossBusiness_name { Parte do Acordo }
+Achievement_JoinedRustmossBusiness_name { Parte do Negócio }
 
-Achievement_JoinedRustmossBusiness_desc { Entre no Comércio de Rustmoss. }
+Achievement_JoinedRustmossBusiness_desc { Participe do Comércio de Ferrumusgo. }
 
-Achievement_TrustedGawan_name { Confiança Absoluta }
+Achievement_TrustedGawan_name { Confiança Plena }
 
 Achievement_TrustedGawan_desc { Confie em Gawan e no seu senso de negócios. }
 
-Achievement_DefaultEnding_name { Tudo Termina }
+Achievement_DefaultEnding_name { Tudo Tem um Fim }
 
-Achievement_DefaultEnding_desc { Você experimentou a história até o amargo fim. Você liberou a ira das Divindades e dispersou a Névoa da Morte. }
+Achievement_DefaultEnding_desc { Você experimentou a história até o amargo fim. Libertou a fúria das Divindades e dispersou a Névoa Mortal. }
 
 Achievement_OptionalEnding_name { Novos Caminhos }
 
-Achievement_OptionalEnding_desc { Você experimentou a história até o amargo fim. Você apaziguou as Divindades e dispersou a Névoa da Morte. }
+Achievement_OptionalEnding_desc { Você experimentou a história até o amargo fim. Aplacou as Divindades e dispersou a Névoa Mortal. }
 
-Achievement_EnteredNemeton_name { Eu Vou Encontrar um Caminho! }
+Achievement_EnteredNemeton_name { Vou Encontrar um Caminho! }
 
-Achievement_EnteredNemeton_desc { Encontre um caminho para Nemeton. }
+Achievement_EnteredNemeton_desc { Encontre uma forma de entrar em Nemeton. }
 
-Achievement_AllAchievements_name { Drova-ástico! }
+Achievement_AllAchievements_name { Drovástico! }
 
-Achievement_AllAchievements_desc { Conquiste todas as Conquistas. }
+Achievement_AllAchievements_desc { Conquiste todos os Achievements. }
 
 Achievement_ExplorerMode_name { Explorador }
 
@@ -192,7 +192,7 @@ Achievement_ExplorerMode_desc { Termine Drova no Modo Explorador. }
 
 Achievement_HardcoreMode_name { Hardcore }
 
-Achievement_HardcoreMode_desc { Termine o jogo no modo Hardcore. }
+Achievement_HardcoreMode_desc { Termine o jogo com o modo de salvamento ajustado para Hardcore. }
 
 Achievement_ClassicMode_name { Clássico }
 

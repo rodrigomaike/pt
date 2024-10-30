@@ -1,8 +1,8 @@
-Woodcamp { Lenhador }
+Woodcamp { Acampamento do Lenhador }
 
 Schlund { Garganta }
 
-Mine { O Poço }
+Mine { O Fosso }
 
 River { Leito do Rio }
 
@@ -18,23 +18,23 @@ Tavern { Taverna }
 
 Heide { Charneca }
 
-FriendlyMoor { Pântano Vermelho }
+FriendlyMoor { Charneca Vermelha }
 
 Nemeton { Nemeton }
 
-EntryNemeton { Entrada para Nemeton }
+EntryNemeton { Entrada de Nemeton }
 
 NemetonHain { Bosque Sagrado }
 
-DeathMoor { Pântano Morbido }
+DeathMoor { Charneca Fúnebre }
 
-RottenMoor { Pântano Knawd }
+RottenMoor { Charneca Putrefata }
 
-Auwald { Floresta da Planície de Inundação }
+Auwald { Floresta Alagada }
 
 Leuchtwald { Floresta Primordial }
 
-Mutter { Mãe }
+Mutter { A Mãe }
 
 Magiecamp { Refúgio }
 
@@ -42,9 +42,9 @@ RedTower { Torre Vermelha }
 
 Library { Biblioteca }
 
-CityDungeon { Cidade da Floresta Primordial }
+CityDungeon { Cidade na Floresta Primordial }
 
-SpiderDungeon { Colina na Floresta da Planície de Inundação }
+SpiderDungeon { Colina na Floresta Alagada }
 
 Cave { Caverna }
 
@@ -52,7 +52,7 @@ RuinExplorer { Esconderijo dos Saqueadores de Ruínas }
 
 RuinSchmuggler { Bairro Sombrio }
 
-RuinUnder { Caverna }
+RuinUnder { Gruta }
 
 Intro_Real { O Velho Mundo }
 

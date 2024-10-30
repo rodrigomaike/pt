@@ -1,142 +1,142 @@
-talent_sword_01 { Esgrima Básica }
+talent_sword_01 { Maestria Básica em Espada }
 
-talent_sword_01_desc { Melhora sua postura de combate, aumenta o dano que você causa em [DamageValuePercent]. Você aprenderá a habilidade Executar. }
+talent_sword_01_desc { Melhora sua postura de combate, aumentando o dano que você causa em [DamageValuePercent]. Você aprenderá a habilidade Executar. }
 
-talent_sword_02 { Esgrima Treinada }
+talent_sword_02 { Maestria Intermediária em Espada }
 
 talent_sword_02_desc { Aumenta o dano que você causa em [DamageValuePercent] e desbloqueia um terceiro ataque de combo. }
 
-talent_sword_03 { Esgrima Masterizada }
+talent_sword_03 { Maestria Avançada em Espada }
 
 talent_sword_03_desc { Melhora sua postura de combate e aumenta o dano que você causa em [DamageValuePercent]. }
 
 talent_sneak_01 { Furtividade }
 
-talent_sneak_01_desc { Você pode se mover de forma mais furtiva, dificultando que seus oponentes o notem. }
+talent_sneak_01_desc { Você pode se mover furtivamente com mais discrição, dificultando que seus oponentes percebam sua presença. }
 
-talent_shield_02 { Esgrima com Escudo Treinada }
+talent_shield_02 { Maestria Intermediária em Escudo }
 
 talent_shield_02_desc { Um Bloqueio Perfeito atordoa temporariamente seus oponentes. }
 
-talent_shield_01 { Esgrima com Escudo Básica }
+talent_shield_01 { Maestria Básica em Escudo }
 
-talent_shield_01_desc { Agora você pode realizar um Bloqueio Perfeito com seu escudo. }
+talent_shield_01_desc { Você agora pode realizar um Bloqueio Perfeito com seu escudo. }
 
-talent_shield_01_addditional_headline { Bloqueio Perfeito }
+talent_shield_01_additionale_headline { Bloqueio Perfeito }
 
-talent_shield_01_addditional_desc { Você realiza um Bloqueio Perfeito que consome muito pouca stamina se bloquear logo antes que o ataque atinja. }
+talent_shield_01_additionale_desc { Você realiza um Bloqueio Perfeito que consome muito pouca resistência se você bloquear exatamente antes de um ataque acertar. }
 
-talent_spear_01 { Esgrima com Lança Básica }
+talent_spear_01 { Maestria Básica em Lança }
 
-talent_spear_01_desc { Melhora sua postura de combate, aumenta o dano que você causa em [DamageValuePercent]. Você aprenderá a habilidade de arma Perfuração. }
+talent_spear_01_desc { Melhora sua postura de combate, aumentando o dano que você causa em [DamageValuePercent]. Você aprenderá a habilidade Perfurar. }
 
-talent_spear_02 { Esgrima com Lança Treinada }
+talent_spear_02 { Maestria Intermediária em Lança }
 
-talent_spear_02_desc { Aumenta o dano que você causa em [DamageValuePercent]. Ataques normais com a lança regeneram [StaminaValueAbsolut] de stamina. }
+talent_spear_02_desc { Aumenta o dano que você causa em [DamageValuePercent]. Ataques normais com lança regeneram [StaminaValueAbsolut] de resistência. }
 
-talent_spear_03 { Esgrima com Lança Masterizada }
+talent_spear_03 { Maestria Avançada em Lança }
 
-talent_spear_03_desc { Melhora sua postura de combate. Aumenta o dano que você causa em [DamageValuePercent] e a stamina que você regenera com cada golpe para [StaminaValueAbsolut]. }
+talent_spear_03_desc { Melhora sua postura de combate. Aumenta o dano que você causa em [DamageValuePercent] e a resistência regenerada com cada golpe para [StaminaValueAbsolut]. }
 
-talent_dagger_01 { Esgrima com Adaga Básica }
+talent_dagger_01 { Maestria Básica em Adaga }
 
-talent_dagger_01_desc { Melhora sua postura de combate, aumenta o dano que você causa em [DamageValuePercent]. Você aprenderá a habilidade de arma Contágio. }
+talent_dagger_01_desc { Melhora sua postura de combate, aumentando o dano que você causa em [DamageValuePercent]. Você aprenderá a habilidade Contágio. }
 
-talent_dagger_02 { Esgrima com Adaga Treinada }
+talent_dagger_02 { Maestria Intermediária em Adaga }
 
-talent_dagger_02_desc { Aumenta o dano que você causa em [DamageValuePercent], aumenta o foco que você gera com cada golpe em [FocusValueAbsolut]. }
+talent_dagger_02_desc { Aumenta o dano que você causa em [DamageValuePercent], aumentando o foco gerado a cada golpe em [FocusValueAbsolut]. }
 
-talent_dagger_03 { Esgrima com Adaga Masterizada }
+talent_dagger_03 { Maestria Avançada em Adaga }
 
-talent_dagger_03_desc { Melhora sua postura de combate, aumenta o dano que você causa em [DamageValuePercent], aumenta o foco que você gera com cada golpe em [FocusValueAbsolut]. }
+talent_dagger_03_desc { Melhora sua postura de combate, aumenta o dano que você causa em [DamageValuePercent], e o foco gerado a cada golpe em [FocusValueAbsolut]. }
 
-talent_bow_01 { Esgrima com Arco Básica }
+talent_bow_01 { Maestria Básica em Arco }
 
-talent_bow_02 { Esgrima com Arco Masterizada }
+talent_bow_02 { Maestria Avançada em Arco }
 
-talent_bow_01_addditional_headline { Tiro Poderoso }
+talent_bow_01_additionale_headline { Tiro Poderoso }
 
-talent_bow_01_addditional_desc { Ao mirar com seu arco, você libera um Tiro Poderoso exatamente no momento certo que causa [WeaponDamagePercent] de dano. }
+talent_bow_01_additionale_desc { Enquanto mira com seu arco, você dispara um Tiro Poderoso no momento exato, causando [WeaponDamagePercent] de dano com a arma. }
 
 talent_bow_01_desc { Aumenta o dano que você causa em [DamageValuePercent]. Agora você pode realizar um Tiro Poderoso com seu arco. }
 
-talent_bow_02_desc { Aumenta o dano que você causa em [DamageValuePercent] e reduz o tempo que você precisa para mirar. Você aprenderá a habilidade de arma Tiro Concusivo. }
+talent_bow_02_desc { Aumenta o dano que você causa em [DamageValuePercent] e reduz o tempo necessário para mirar. Você aprenderá a habilidade Tiro Concussivo. }
 
-talent_slingshot_01 { Esgrima com Besta Básica }
+talent_slingshot_01 { Maestria Básica em Estilingue }
 
-talent_slingshot_02 { Esgrima com Besta Masterizada }
+talent_slingshot_02 { Maestria Avançada em Estilingue }
 
-talent_slingshot_01_desc { Aumenta o dano que você causa em [DamageValuePercent] e o dano de postura em [PoiseValuePercent]. Você aprenderá a habilidade de arma Ricochete. }
+talent_slingshot_01_desc { Aumenta o dano que você causa em [DamageValuePercent] e o dano à postura em [PoiseValuePercent]. Você aprenderá a habilidade Ricochete. }
 
-talent_slingshot_02_desc { Aumenta o dano que você causa em [DamageValuePercent] e o dano de postura em [PoiseValuePercent]. }
+talent_slingshot_02_desc { Aumenta o dano que você causa em [DamageValuePercent] e o dano à postura em [PoiseValuePercent]. }
 
-talent_axe_01 { Esgrima com Machado Básica }
+talent_axe_01 { Maestria Básica em Machado }
 
-talent_axe_01_desc { Melhora sua postura de combate, aumenta o dano que você causa em [DamageValuePercent]. Você aprenderá a habilidade de arma Frenesi de Sangue. }
+talent_axe_01_desc { Melhora sua postura de combate, aumentando o dano que você causa em [DamageValuePercent]. Você aprenderá a habilidade Frenesi de Sangue. }
 
-talent_axe_02 { Esgrima com Machado Treinada }
+talent_axe_02 { Maestria Intermediária em Machado }
 
 talent_axe_02_desc { Aumenta o dano que você causa em [DamageValuePercent] e desbloqueia um terceiro ataque de combo. }
 
-talent_axe_03 { Esgrima com Machado Masterizada }
+talent_axe_03 { Maestria Avançada em Machado }
 
 talent_axe_03_desc { Melhora sua postura de combate e aumenta o dano que você causa em [DamageValuePercent]. }
 
-talent_alchemy { Fabricar Poções }
+talent_alchemy { Preparar Poções }
 
-talent_alchemy_desc { Você pode fabricar poções que o ajudam em batalha ou aumentam suas estatísticas. }
+talent_alchemy_desc { Você pode preparar poções que ajudam em batalha ou aumentam seus atributos. }
 
-talent_lockpicking_01 { Destrancar Fechaduras Complexas }
+talent_lockpicking_01 { Arrombar Fechaduras Complexas }
 
-talent_lockpicking_01_desc { Nenhuma fechadura é mais segura para você. }
+talent_lockpicking_01_desc { Nenhuma fechadura está mais a salvo de você. }
 
-talent_extractsecretion { Extrair Icor }
+talent_extractsecretion { Extrair Ícor }
 
-talent_extractsecretion_desc { Você pode extrair ícor de certos animais. O ícor é necessário para fabricar poções e para o artesanato. }
+talent_extractsecretion_desc { Você pode extrair ícor de certos animais. Ícor é necessário para preparar poções e para a fabricação de itens. }
 
-talent_tearclaws { Eviscerar Animais }
+talent_tearclaws { Esquartejar Animal }
 
-talent_tearclaws_desc { Você pode remover as garras e dentes de alguns animais. As garras podem ser vendidas; os dentes podem ser usados para artesanato. }
+talent_tearclaws_desc { Você pode remover garras e dentes de alguns animais. As garras podem ser vendidas; os dentes podem ser usados na fabricação de itens. }
 
 talent_melting_01 { Fundição }
 
-talent_melting_01_desc { Você pode processar minério em fundições. }
+talent_melting_01_desc { Você pode processar minério em fornos. }
 
-talent_smith_01 { Artesanato }
+talent_smith_01 { Forjar }
 
-talent_smith_01_desc { Você pode criar uma variedade de itens. }
+talent_smith_01_desc { Você pode fabricar uma variedade de itens. }
 
-talent_smith_02 { Artesanato Masterizado }
+talent_smith_02 { Maestria Avançada em Artesanato }
 
-talent_smith_02_desc { Você pode criar armadilhas perigosas, itens e munições. }
+talent_smith_02_desc { Você pode fabricar armadilhas perigosas, itens e munição. }
 
-talent_stripfur { Descascar Animais }
+talent_stripfur { Esfolar Animais }
 
-talent_stripfur_desc { Você pode descascar alguns animais. Você pode vender as peles ou usá-las para artesanato. }
+talent_stripfur_desc { Você pode esfolar alguns animais. Pode vender as peles ou usá-las na fabricação de itens. }
 
 talent_shield_CritAfterBlock { Fora de Equilíbrio }
 
 talent_shield_CritAfterBlock_desc { Se você bloquear um ataque perfeitamente, seu próximo ataque resultará em um golpe crítico. }
 
-talent_shield_flow_afterblock { Isso é tudo que você tem? }
+talent_shield_flow_afterblock { Isso é tudo? }
 
 talent_shield_flow_afterblock_desc { Se você bloquear um ataque perfeitamente, você gera [FocusValueAbsolut] de foco. }
 
 talent_axe_adddmgflow { Frenesi de Batalha }
 
-talent_axe_adddmgflow_desc { Após um golpe bem-sucedido, os ataques geram [FocusValueAbsolut] de foco adicional. }
+talent_axe_adddmgflow_desc { Em um golpe bem-sucedido, os ataques geram [FocusValueAbsolut] de foco adicional. }
 
-talent_axe_critonpoise { Golpe de Graça }
+talent_axe_critonpoise { Golpe de Misericórdia }
 
-talent_axe_critonpoise_desc { Seu primeiro ataque com o machado em um oponente cuja postura foi quebrada resultará em um golpe crítico. }
+talent_axe_critonpoise_desc { Seu primeiro ataque com machado em um oponente com postura quebrada resultará em um golpe crítico. }
 
-talent_axe_decreasestamina { Acelerador Total }
+talent_axe_decreasestamina { No Limite }
 
-talent_axe_decreasestamina_desc { Ataques pesados consomem [StaminaValuePercent] menos stamina. }
+talent_axe_decreasestamina_desc { Ataques pesados consomem [StaminaValuePercent] menos resistência. }
 
 Talent_Daggers_CritAfterDodge { Surpresa! }
 
-Talent_Daggers_CritAfterDodge_desc { Seu primeiro ataque com uma adaga após esquivar resultará em uma chance de [CritPercent] maior de causar um golpe crítico. }
+Talent_Daggers_CritAfterDodge_desc { Seu primeiro ataque com adaga após esquivar terá uma chance [CritPercent] maior de ser um golpe crítico. }
 
 Talent_Daggers_DecreaseFlow { Totalmente focado! }
 
@@ -144,66 +144,66 @@ Talent_Daggers_DecreaseFlow_desc { Após usar uma habilidade, você ganhará [Fo
 
 Talent_Daggers_RegenerateStamina { Golpe Eficiente }
 
-Talent_Daggers_RegenerateStamina_desc { Ataques normais geram [StaminaValueAbsolut] de stamina. }
+Talent_Daggers_RegenerateStamina_desc { Ataques normais geram [StaminaValueAbsolut] de resistência. }
 
 Talent_Sword_NextSpellLesserFlow { Oportunista }
 
-Talent_Sword_NextSpellLesserFlow_desc { Após causar um golpe crítico com sua espada, você recuperará [FocusValuePercent] do custo de foco da próxima habilidade que requer foco. }
+Talent_Sword_NextSpellLesserFlow_desc { Após um golpe crítico com sua espada, você recuperará [FocusValuePercent] do custo de foco da próxima habilidade que requer foco. }
 
-Talent_Sword_ChargeAttacksDecreaseStamina { Golpe Poderoso }
+Talent_Sword_ChargeAttacksDecreaseStamina { Golpe Forte }
 
-Talent_Sword_ChargeAttacksDecreaseStamina_desc { Ataques pesados com a espada consomem [StaminaValuePercent] menos stamina. }
+Talent_Sword_ChargeAttacksDecreaseStamina_desc { Ataques pesados com espada consomem [StaminaValuePercent] menos resistência. }
 
 Talent_Sword_AddCritChance { Precisão }
 
-Talent_Sword_AddCritChance_desc { Ao atacar com sua espada, você tem uma chance [CritValuePercent] maior de causar um golpe crítico. }
+Talent_Sword_AddCritChance_desc { Ao atacar com sua espada, você tem uma chance [CritValuePercent] maior de desferir um golpe crítico. }
 
 Talent_Spear_GenerateFlow { Golpe Focado }
 
-Talent_Spear_GenerateFlow_desc { Cada ataque com a lança no mesmo oponente aumenta o foco gerado em [FocusValueAbsolut]. }
+Talent_Spear_GenerateFlow_desc { Cada ataque de lança no mesmo oponente aumenta o foco gerado em [FocusValueAbsolut]. }
 
 Talent_Spear_MoreDmgOnHead { Desempenho Máximo }
 
 Talent_Spear_MoreDmgOnHead_desc { A ponta da lança causa até [DamageValuePercent] de dano adicional. }
 
-Talent_Spear_PoiseOnCrit { Dica Envenenada }
+Talent_Spear_PoiseOnCrit { Ponta Venenosa }
 
-Talent_Spear_PoiseOnCrit_desc { Golpes críticos com sua lança afligem seu oponente com Veneno. }
+Talent_Spear_PoiseOnCrit_desc { Golpes críticos com sua lança envenenam o oponente. }
 
-Talent_Bow_InstantAfterDodge { Tiro Rápido }
+Talent_Bow_InstantAfterDodge { Saque Rápido }
 
-Talent_Bow_InstantAfterDodge_desc { Após esquivar, você pode disparar uma flecha sem mirar. }
+Talent_Bow_InstantAfterDodge_desc { Após esquivar, você pode disparar uma flecha sem precisar mirar. }
 
-Talent_Bow_IncreaseCritDamage { Coração de Touro }
+Talent_Bow_IncreaseCritDamage { Tiro Certeiro }
 
-Talent_Bow_IncreaseCritDamage_desc { Golpes críticos com o arco causam [DamageValuePercent] a mais de dano. }
+Talent_Bow_IncreaseCritDamage_desc { Golpes críticos com arco causam [DamageValuePercent] mais dano. }
 
-Talent_Sling_MultipleProjectiles { Dobra de Carga }
+Talent_Sling_MultipleProjectiles { Duplo Disparo }
 
 Talent_Sling_MultipleProjectiles_desc { Há uma chance de [TriggerPercent] de que, ao disparar um projétil, um segundo seja lançado sem consumir munição. }
 
-Talent_Sling_AddDmgOnPoise { Chicote }
+Talent_Sling_AddDmgOnPoise { Chicoteada }
 
-Talent_Sling_AddDmgOnPoise_desc { Se você quebrar a postura de um oponente usando seu estilingue, seu próximo ataque contra ele causará [DamageValuePercent] de dano adicional. }
+Talent_Sling_AddDmgOnPoise_desc { Se você quebrar a postura de um oponente com seu estilingue, seu próximo ataque contra ele causará [DamageValuePercent] de dano adicional. }
 
 Talent_Sling_Ricochet_Name { Ricochete }
 
-Talent_Sling_Ricochet_Desc { Você lança um projétil que causa [WeaponDamagePercent] de dano, e então ricocheteia de um oponente para outro oponente próximo. }
+Talent_Sling_Ricochet_Desc { Você lança um projétil que causa [WeaponDamagePercent] de dano, ricocheteando no oponente e atingindo outros próximos. }
 
-Talent_Sling_HeavyShot_Name { Tiro Concusivo }
+Talent_Sling_HeavyShot_Name { Tiro Concussivo }
 
 Talent_Sling_HeavyShot_Desc { Tiro pesado que causa [WeaponDamagePercent] de dano e atordoa os oponentes por [StunTime] segundos. }
 
 teachers { Professor }
 
-talent_mining_desc { Aumenta o rendimento da prospecção de minério. }
+talent_mining_desc { Aumenta o rendimento ao procurar minérios. }
 
-talent_mining_01 { Prospecção 1 }
+talent_mining_01 { Prospector 1 }
 
-talent_mining_02 { Prospecção 2 }
+talent_mining_02 { Prospector 2 }
 
-talent_mining_03 { Prospecção 3 }
+talent_mining_03 { Prospector 3 }
 
-talent_mining_04 { Prospecção 4 }
+talent_mining_04 { Prospector 4 }
 
-talent_mining_05 { Prospecção 5 }
+talent_mining_05 { Prospector 5 }

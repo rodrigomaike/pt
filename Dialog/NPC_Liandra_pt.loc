@@ -2,49 +2,49 @@ Plh_51 { Hoje nós dois vamos lutar na arena. }
 
 Plh_35 { Como posso ficar tão forte quanto você? }
 
-Plh_8 { Eu tenho um Rustmoss. Interessado? }
+Plh_8 { Tenho um pouco de Ferrumusgo. Interessado? }
 
-Plh_56 { Eu ainda tenho um Rustmoss para você. }
+Plh_56 { Ainda tenho um pouco de Ferrumusgo para você. }
 
-Plh_50 { Escória de Nemeton... Eu vou te mostrar! }
+Plh_50 { Escória de Nemeton... Vou te mostrar! }
 
 Plh_52 { Vejo você na arena! }
 
-Plh_53 { Estou ansioso pela luta. Certifique-se de se preparar bem e me manter entretido. }
+Plh_53 { Estou ansioso pela luta. Certifique-se de se preparar bem e me entreter. }
 
-Plh_54 { Kilian cuida bem de seu povo. Vamos ver do que você é feito. }
+Plh_54 { Kilian cuida bem do seu pessoal. Vamos ver do que você é feito. }
 
-Plh_57 { Vamos ver isso! }
+Plh_57 { Vamos ver! }
 
-Plh_58 { Vá com calma. }
+Plh_58 { Pegue leve. }
 
-Plh_59 { Eu acho que isso tornará a luta mais interessante. }
+Plh_59 { Acho que isso vai tornar a luta mais interessante. }
 
-Plh_60 { Ok, eu vou te mostrar. }
+Plh_60 { Certo, vou te mostrar. }
 
-Plh_25 { Você sabe algo sobre quem está sempre treinando no Quarteirão Superior? }
+Plh_25 { Sabe algo sobre quem está sempre treinando no Quarteirão Superior? }
 
 Plh_37 { *suspira* $GVAR:EVars_Liandra.AttributeCosts$ moedas. }
 
-Plh_40 { Tantas moedas?! }
+Plh_40 { Tantas moedas assim?! }
 
 Plh_41 { Espero que valha a pena. Aqui. }
 
-Plh_42 { Não tenho tantas moedas. }
+Plh_42 { Eu não tenho tantas moedas assim. }
 
-Plh_43 { Eu não posso treinar todos os Hewers assim. Você tem que me pagar por isso. }
+Plh_43 { Não posso treinar qualquer Lenhador assim. Você precisa me pagar por isso. }
 
-Plh_45 { Excelente. Eu vou manter minha palavra. }
+Plh_45 { Excelente. Cumprirei minha palavra. }
 
-Plh_44 { Você não pode me enganar. Isso não é suficiente. }
+Plh_44 { Não pode me enganar. Isso não é suficiente. }
 
-Plh_46 { Então volte quando tiver as moedas. Eu preciso treinar. }
+Plh_46 { Então volte quando tiver as moedas. Preciso treinar. }
 
 Plh_4 { O que você quer? }
 
-Plh_6 { Te conhecer. }
+Plh_6 { Conhecer você. }
 
-Plh_5 { Hmm, por que não. Mas na verdade, minha reputação deveria me preceder. Eu sou Liandra. }
+Plh_5 { Hmm, por que não. Mas, na verdade, minha reputação deveria falar por mim. Sou Liandra. }
 
 Plh_48 { Diga, o Boris te mandou? }
 
@@ -52,52 +52,52 @@ Plh_9 { Não, quem é Boris? }
 
 Plh_67 { Quem é Boris? }
 
-Plh_11 { Eu não tenho tempo para te apresentar a pessoas aleatórias... }
+Plh_11 { Não tenho tempo para te apresentar a pessoas aleatórias... }
 
-Plh_66 { Droga! Eu pensei que você tinha sido mandado por ele. Você encontrará o Boris na entrada do acampamento. }
+Plh_66 { Droga! Achei que ele tivesse te enviado. Você encontrará o Boris na entrada do acampamento. }
 
-Plh_13 { Finalmente — algumas das coisas boas de novo! Me passe, então. Eu preciso ir para a arena agora. }
+Plh_13 { Finalmente — um pouco do bom de novo! Passe para cá, então. Preciso ir para a arena imediatamente. }
 
 Plh_14 { O que está acontecendo na arena? }
 
-Plh_17 { O que isso tem a ver com Rustmoss? }
+Plh_17 { O que isso tem a ver com Ferrumusgo? }
 
-Plh_20 { Aqui. Isso custa $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ moedas. }
+Plh_20 { Aqui. São $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ moedas. }
 
-Plh_21 { Você pode ter o Rustmoss de graça. }
+Plh_21 { Pode ficar com o Ferrumusgo de graça. }
 
-Plh_16 { O que está acontecendo lá? Batalhas, claro! O lugar onde você se torna imortal! Um dia, contarão histórias de Liandra, a lutadora. Uma lenda em Drova. Quem sabe — talvez um dia nos enfrentemos na arena. }
+Plh_16 { O que está acontecendo lá? Lutas, é claro! O lugar onde você se torna imortal! Um dia, contarão histórias sobre Liandra, a lutadora. Uma lenda em Drova. Quem sabe — talvez nos enfrentemos na arena algum dia. }
 
-Plh_15 { Rustmoss ajuda a maioria das pessoas a relaxar ou a se tornarem mais sociáveis. Mas tem um efeito diferente em mim. Eu fico agressiva, mais forte e menos sensível à dor. É como um sonho — um que termina em derramamento de sangue. O sangue dos outros. }
+Plh_15 { Ferrumusgo ajuda a maioria das pessoas a relaxar ou a se tornarem mais sociáveis. Mas tem um efeito diferente em mim. Fico agressiva, mais forte e menos sensível à dor. É como um sonho — que termina em banho de sangue. O sangue dos outros. }
 
-Plh_18 { Isso soa — insalubre. Especialmente para todo o resto. }
+Plh_18 { Isso parece... insalubre. Especialmente para todos os outros. }
 
-Plh_19 { Eu vejo isso como um presente que me leva à glória. Então, você tem ou não? }
+Plh_19 { Vejo isso como um presente que me leva à glória. Então, tem algum ou não? }
 
-Plh_22 { Me passe. Tem que valer a pena para mim. Agora, saia — a menos que você vá lutar. }
+Plh_22 { Passe para cá. Tem que valer a pena para mim. Agora suma — a menos que você mesmo vá lutar. }
 
 Plh_23 { Ah, esse é o tipo de apoio que eu gosto! Vou dedicar minha próxima vitória a você! }
 
-Plh_65 { Eu não gosto exatamente do fato de que alguém do Nemeton é o campeão na arena, mas isso não vai ficar assim. }
+Plh_65 { Não gosto muito do fato de que alguém de Nemeton é o campeão da arena, mas isso não vai ficar assim. }
 
-Plh_64 { Estou feliz que a Ada não seja mais a campeã da arena. Já estava na hora. Bom trabalho. }
+Plh_64 { Fico feliz que Ada não seja mais a campeã da arena. Já estava na hora. Bom trabalho. }
 
-Plh_63 { Você lutou bem. Presumivelmente, você não ficou parado em Nemeton. }
+Plh_63 { Você lutou bem. Pelo visto, você não ficou só à toa em Nemeton. }
 
-Plh_62 { Você ganhou. Você lutou bem. }
+Plh_62 { Você venceu. Lutou bem. }
 
-Plh_26 { Você quer dizer o Farlan? Não é um homem de muitas palavras. Eu achatei esse Gra naquela arena. Eu lutei como uma fera — provavelmente o impressionei. }
+Plh_26 { Você quer dizer Farlan? Não é homem de muitas palavras. Eu derrotei esse Gra na própria arena. Lutei como uma fera — provavelmente o impressionei. }
 
-Plh_27 { Então ele veio e quis lutar comigo. Ele poderia ter lutado. Quando conseguiu andar de novo, começou a treinar incansavelmente. }
+Plh_27 { Então ele veio e quis me desafiar. Ele podia ter conseguido. Quando conseguiu andar de novo, começou a treinar sem parar. }
 
 Plh_28 { Parece que ele está esperando uma revanche... }
 
-Plh_30 { Ele pode ter uma. Eu vou derrotá-lo quantas vezes quiser. Talvez ele goste disso de alguma forma... Mas pelo menos ele tem determinação — algo que falta muito a todos esses chorões em Drova. }
+Plh_30 { Ele pode ter uma. Vou derrotá-lo quantas vezes ele quiser. Talvez ele goste disso de algum jeito... Mas ao menos tem determinação — algo que falta a todos esses chorões em Drova. }
 
-Plh_31 { Eu preciso do voto dele. Mas ele está me ignorando. }
+Plh_31 { Preciso do voto dele. Mas ele está me ignorando. }
 
 Plh_32 { Alguma ideia de como posso convencê-lo? }
 
-Plh_33 { Hmm, talvez você possa treinar com ele. Isso pode fazê-lo se interessar por você. Mas você deve ter algo em que se basear. Talvez não tanto quanto eu, mas pelo menos um pouco. }
+Plh_33 { Hmm, talvez você possa treinar com ele. Isso pode fazer com que ele simpatize com você. Mas você precisa ter algo a oferecer. Talvez não tanto quanto eu, mas pelo menos um pouco. }
 
-Plh_34 { Como eu vou saber? }
+Plh_34 { Como é que eu deveria saber? }

@@ -4,9 +4,9 @@ Plh_54 { Você pode me mostrar como ficar mais forte? }
 
 Plh_6 { O que você está fazendo aqui exatamente? }
 
-Plh_76 { O que é Rustmoss? }
+Plh_76 { O que é Ferrumusgo? }
 
-Plh_37 { Você precisa de Rustmoss? }
+Plh_37 { Você precisa de Ferrumusgo? }
 
 Plh_52 { Eu nasci assim de forte. Onde quer que eu fosse, sempre fui o mais forte. }
 
@@ -14,7 +14,7 @@ Plh_56 { Quanto mais forte você é, mais forte você atinge. }
 
 Plh_55 { Não sou exatamente um professor, mas tudo bem para mim. }
 
-Plh_9 { Acabei de vir do Poço, e preciso levar a prata para o Quartel Superior. Então vou descansar um pouco... Estou completamente exausto. Preciso de uma cerveja e de paz e sossego. Um pouco de Rustmoss também seria bom... }
+Plh_9 { Acabei de vir do Poço, e preciso levar a prata para o Quartel Superior. Então vou descansar um pouco... Estou completamente exausto. Preciso de uma cerveja e de paz e sossego. Um pouco de Ferrumusgo também seria bom... }
 
 Plh_77 { Você pode fumar. É relaxante e melhora seu humor. Você deveria experimentar também! O Boris vende a mercadoria aqui. Ou melhor, ele faz com que outras pessoas vendam. }
 
@@ -42,7 +42,7 @@ Plh_74 { Não quero ser um Talhador. Quero me juntar aos Remanescentes em vez di
 
 Plh_75 { Então você precisa ir para o Quartel Superior. E isso requer a aprovação do Levin. Para isso, você precisa impressioná-lo. E para impressioná-lo, você tem que hew. Muito simples! }
 
-Plh_57 { Rustmoss? Não posso recusar! }
+Plh_57 { Ferrumusgo? Não posso recusar! }
 
 Plh_58 { Isso vai custar $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ moedas. }
 

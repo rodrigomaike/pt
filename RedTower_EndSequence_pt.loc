@@ -1,34 +1,34 @@
-Plh_53 { *Os espíritos das Divindades aprisionadas aparecem diante de você. Seu poder já não é mais furioso. Agora é lento, frio e escuro. Calculista. Encurralado.* }
+Plh_53 { *Os espíritos das Divindades aprisionadas aparecem diante de você. Seu poder já não é mais uma fúria. É lento, frio e escuro. Calculista. Encurralado.* }
 
-Plh_197 { *Você sente que eles não o recebem como amigo. E você se sente alienado.* }
+Plh_197 { *Você sente que eles não o recebem como um amigo. E você se sente alienado.* }
 
-Plh_54 { *Os textos de Drivanius passam pela sua mente. "Como posso provar a eles que mereço sua confiança?"* }
+Plh_54 { *Os textos de Drivanius passam rapidamente pela sua mente. "Como posso provar a eles que mereço sua confiança?"* }
 
-Plh_198 { *Após um curto momento, você se dá conta da grande solidão que emana das Divindades e transborda até você. Você procura seus amigos ao redor, mas só vê escuridão.* }
+Plh_198 { *Depois de um curto instante, você percebe a grande solidão emanando das Divindades e inundando você. Olha ao redor procurando por seus amigos, mas vê apenas escuridão.* }
 
-Plh_174 { *Uma memória suave emerge. Um som? Você ouve uma voz melodiosa: "No Refúgio, em harmonia com as Divindades."* }
+Plh_174 { *Uma memória surge suavemente. Um chilreio? Você ouve uma voz melodiosa: "No Refúgio, em harmonia com as Divindades."* }
 
-Plh_72 { *Você se lembra dos valores do Refúgio — a virtude da Harmonia* }
+Plh_72 { *você se lembra dos valores do Refúgio — a virtude da Harmonia* }
 
-Plh_73 { (olhar ao redor em busca de ajuda) }
+Plh_73 { (olhe ao redor em busca de ajuda) }
 
 Plh_115 { Sem você, teríamos morrido na mina. }
 
 Plh_116 { Precisamos de você no acampamento dos Remanescentes. }
 
-Plh_118 { Caçar com você é ótimo! À nós! }
+Plh_118 { Caçar com você é ótimo! A nós! }
 
 Plh_119 { As Lâminas de Jero garantem por você. Bem-vindo ao acampamento dos Remanescentes. }
 
 Plh_131 { O fato de alguém ter derrotado Eugen... }
 
-Plh_133 { Ah, isso foi apenas sorte! }
+Plh_133 { Ah, isso foi pura sorte! }
 
-Plh_134 { Boa luta! }
+Plh_134 { Foi uma boa luta! }
 
-Plh_135 { A expedição para a Floresta Primeva será difícil. Temos que ficar juntos. }
+Plh_135 { A expedição à Floresta Primeva será difícil. Precisamos nos manter unidos. }
 
-Plh_136 { Vamos conseguir. Somos um bom grupo! }
+Plh_136 { Vamos conseguir. Somos uma boa equipe! }
 
 Plh_137 { Pela liberdade! Por Jero! }
 
@@ -40,91 +40,91 @@ Plh_140 { A liberdade nos chama! }
 
 Plh_130 { Bem-vindo ao acampamento dos Remanescentes! }
 
-Plh_132 { Boa luta! Mas ainda tem muito o que aprender. }
+Plh_132 { Boa luta! Mas você ainda tem muito a aprender. }
 
-Plh_117 { Precisamos de alguém com inteligência por aqui. }
+Plh_117 { Precisamos de alguém inteligente por aqui. }
 
-Plh_161 { *Você não vê nada. Nenhuma alma pode ajudá-lo aqui. Você está sozinho.* }
+Plh_161 { *Você não vê nada. Não há uma alma que possa ajudá-lo aqui. Você está sozinho.* }
 
-Plh_171 { (aceitar o poder de suas memórias) }
+Plh_171 { (aceite o poder das suas memórias) }
 
-Plh_201 { (revisitar suas memórias) }
+Plh_201 { (revise suas memórias) }
 
-Plh_74 { *Você sente sua solidão se dissolver. O poder das Divindades agora brilha mais forte. Ao fluir novamente, você percebe o calor inconfundível que emana dele.* }
+Plh_74 { *Você sente sua solidão se dissolvendo. O poder das Divindades agora brilha com mais intensidade. À medida que flui novamente, você percebe o calor inconfundível emanando dele.* }
 
-Plh_55 { *Um momento depois, você se vê paralisado pela dúvida. Você é forte o suficiente para confrontar as Divindades? Você se sente fraco. A visão das Divindades o assusta.* }
+Plh_55 { *Um instante depois, você se vê paralisado pela dúvida. Será que você é forte o suficiente para enfrentar as Divindades? Sente-se fraco. A visão das Divindades o amedronta.* }
 
-Plh_75 { *Você se lembra da virtude da coragem e de todos os desafios que enfrentou* }
+Plh_75 { *você se lembra da virtude da coragem e de todos os desafios que enfrentou* }
 
-Plh_76 { (olhar ao redor — chorar) }
+Plh_76 { (olhe ao redor — chore) }
 
 Plh_122 { $GVAR:EVars_Player.Name$ venceu! }
 
 Plh_121 { Uma boa luta... Com um vencedor digno. }
 
-Plh_163 { LOUVEM $GVAR:EVars_Player.Name$! }
+Plh_163 { GLÓRIA A $GVAR:EVars_Player.Name$! }
 
-Plh_56 { *Suas memórias lhe revigoram. Você se torna consciente de tudo o que viveu. O poder das Divindades agora se assemelha a uma brisa suave. Ele o abraça calorosamente.* }
+Plh_56 { *Suas memórias o revigoram. Você se dá conta do que já experimentou. O poder das Divindades agora se assemelha a uma brisa suave. Ela o envolve calorosamente.* }
 
-Plh_175 { *As Divindades agora sentem sua força. E você sente sua hesitação... As Divindades se submetem a você. Você se sente poderoso; pode fazer o que quiser.* }
+Plh_175 { *As Divindades agora sentem sua força. E você percebe sua hesitação... As Divindades se submetem a você. Você se sente poderoso; pode fazer o que quiser.* }
 
-Plh_77 { (você se lembra da virtude da compaixão e das vezes que pôde ajudar os fracos) }
+Plh_77 { *você se lembra da virtude da compaixão e das vezes em que pôde ajudar os fracos* }
 
-Plh_176 { (você obriga as Divindades a se submeterem à sua vontade, exigindo seu poder apenas para si) }
+Plh_176 { (você força as Divindades a se submeterem à sua vontade, exigindo seu poder apenas para você) }
 
 Plh_126 { Ei, Cay, você brincou com $GVAR:EVars_Player.Name$? }
 
 Plh_164 { Sobrevivemos, graças a você. }
 
-Plh_166 { Finalmente estou de volta a Georgefarm, e posso trabalhar lá. }
+Plh_166 { Finalmente estou de volta à Fazenda George, e posso trabalhar lá. }
 
-Plh_167 { Quando estávamos em apuros, você ficou do nosso lado! }
+Plh_167 { Quando estávamos em apuros, você ficou ao nosso lado! }
 
 Plh_127 { Finalmente, podemos cortar madeira de novo! }
 
-Plh_168 { Eu também, mas meu maldito ombro dói! }
+Plh_168 { Eu também, mas meu ombro maldito dói! }
 
 Plh_169 { Nossa irmã está melhor, graças a você. }
 
 Plh_170 { Obrigado. }
 
-Plh_57 { *As imagens que você recorda o inundam com amor e felicidade. Você se sente aquecido. E seguro.* }
+Plh_57 { *As imagens que você recorda o inundam de amor e felicidade. Você se sente aquecido. E seguro.* }
 
-Plh_58 { *O poder dentro de você, e o das Divindades, são idênticos. Agora você reconhece isso. Assim como elas. Vocês se olham — como se através de um espelho.* }
+Plh_58 { *O poder dentro de você e o das Divindades são idênticos. Agora você reconhece isso. E elas também. Vocês se olham — como que através de um espelho.* }
 
-Plh_178 { Você encontrou meus aposentos. Estou feliz. Finalmente, alguém que pode aplicar o conhecimento que reuni, conhecimento ao qual dediquei toda a minha vida... }
+Plh_178 { Você encontrou meus aposentos. Que bom. Finalmente, alguém que pode aplicar o conhecimento que reuni, conhecimento ao qual dediquei toda minha vida... }
 
-Plh_179 { Tive que esconder meus registros para que não caíssem nas mãos erradas. Quem os encontrasse teria que ser digno deles. Compreender seu significado. Meu povo foi enganado, e — mas essa é outra história. }
+Plh_179 { Tive que esconder meus registros para que não caíssem nas mãos erradas. Quem os encontrasse teria que ser digno deles. Compreender sua importância. Meu povo foi enganado e — mas essa é outra história. }
 
-Plh_180 { Mas você, $GVAR:EVars_Player.Name$, está aqui. Você é digno. Você continuou minha pesquisa, algo que eu falhei em fazer. Você mudará este mundo. Para melhor. Eu sei disso. Adeus. }
+Plh_180 { Mas você, $GVAR:EVars_Player.Name$, você está aqui. Você é digno. Você continuou minha pesquisa, algo que eu não consegui fazer. Você mudará este mundo. Para melhor. Eu sei disso. Adeus. }
 
-Plh_60 { (abrir os olhos) }
+Plh_60 { (abra os olhos) }
 
-Plh_177 { *Você direciona seu poder às Divindades... e elas sucumbem... a você...* }
+Plh_177 { *Você direciona seu poder para as Divindades... e elas sucumbem... a você...* }
 
-Plh_199 { *... Mas apenas brevemente... Então, elas reúnem sua força, superam a sua, e o forçam a se ajoelhar.* }
+Plh_199 { *... Mas apenas brevemente... Em seguida, elas reúnem suas forças, ofuscam o seu poder e o forçam a se ajoelhar.* }
 
-Plh_203 { *As Divindades são mais fortes do que você.* }
+Plh_203 { *As Divindades são mais fortes que você.* }
 
-Plh_200 { *Lentamente, você recobra a consciência...* }
+Plh_200 { *Aos poucos, você recupera a consciência...* }
 
-Plh_145 { Sem você, não teríamos condenado Kendrick. }
+Plh_145 { Sem você, não teríamos conseguido condenar Kendrick. }
 
 Plh_144 { Agora você faz parte de Nemeton. Parte da família. }
 
-Plh_147 { A Floresta Primeva é perigosa. Temos que ficar juntos. }
+Plh_147 { A Floresta Primeva é perigosa. Precisamos permanecer unidos. }
 
-Plh_150 { Fazemos tudo por nossa família. Por nossos entes queridos. }
+Plh_150 { Fazemos tudo pela nossa família. Pelos nossos entes queridos. }
 
 Plh_148 { Nunca mais terei medo. Estou pronto para lutar. }
 
-Plh_149 { Eu acredito em você, Karotte. E em você também, $GVAR:EVars_Player.Name$! }
+Plh_149 { Acredito em você, Karotte. E em você também, $GVAR:EVars_Player.Name$! }
 
-Plh_151 { É sua vez, Luten! }
+Plh_151 { É com você, Luten! }
 
 Plh_152 { Isso foi um golpe baixo! }
 
-Plh_153 { Calma, garotos — não é para isso que estamos aqui. }
+Plh_153 { Calma, crianças — não é pra isso que estamos aqui. }
 
 Plh_154 { Hoje é sobre $GVAR:EVars_Player.Name$. Você agora é um Guardião de Nemeton! }
 
@@ -132,27 +132,27 @@ Plh_155 { Vamos celebrar! }
 
 Plh_156 { Você prestou um grande serviço a Nemeton... }
 
-Plh_157 { Não apenas a Nemeton, a todos nós. }
+Plh_157 { Não apenas a Nemeton, mas a todos nós. }
 
-Plh_158 { Carregue essa runa com orgulho. }
+Plh_158 { Carregue essa pedra rúnica com orgulho. }
 
 Plh_159 { Ambos conseguimos. Gradan ficaria orgulhoso... }
 
-Plh_64 { Finalmente, chegamos! Os vasos rúnicos estão bem ali à nossa frente. As Divindades pertencem a nós! }
+Plh_64 { Finalmente, chegamos! Os recipientes rúnicos estão bem na nossa frente. As Divindades nos pertencem! }
 
 Plh_105 { Finalmente, graças às Divindades, temos poder mágico suficiente... }
 
 Plh_106 { O que — o que é isso? }
 
-Plh_0 { Olhe para isso — a Névoa da Morte. Ela está se espalhando! }
+Plh_0 { Olhe — a Névoa da Morte. Ela está se espalhando! }
 
 Plh_92 { A Névoa da Morte? }
 
-Plh_11 { A Névoa da Morte quase chegou a Nemeton! }
+Plh_11 { A Névoa da Morte quase alcançou Nemeton! }
 
 Plh_12 { Os Monólitos não estão mais ativos! }
 
-Plh_13 { O círculo rúnico... Ele costumava alimentar os Monólitos com energia mágica! A conexão deve ter sido rompida durante a luta... Agora a névoa vai nos engolir. }
+Plh_13 { O círculo rúnico... Ele alimentava os Monólitos com energia mágica! A conexão deve ter sido interrompida durante a luta... Agora a névoa vai nos engolir. }
 
 Plh_81 { $GVAR:EVars_Player.Name$, o que devemos fazer?! }
 
@@ -160,7 +160,7 @@ Plh_82 { Precisamos restaurar o círculo rúnico! }
 
 Plh_85 { Que tipo de dano a Névoa da Morte causa, afinal? }
 
-Plh_15 { Isso é loucura! Eu levaria uma eternidade apenas para decifrar seus segredos. Restaurar tudo — não — nós estamos... }
+Plh_15 { Isso é insanidade! Eu precisaria de uma eternidade só para decifrar seus segredos. Restaurar tudo — não — estamos... }
 
 Plh_87 { ... perdidos. }
 
@@ -170,143 +170,143 @@ Plh_4 { Deve ser possível, certo? }
 
 Plh_2 { $GVAR:EVars_Player.Name$... Sim! }
 
-Plh_19 { Dizem que a névoa apareceu quando a terceira Divindade foi capturada. Se as Divindades forem libertadas, elas expulsarão a névoa... Talvez. }
+Plh_19 { Dizem que a névoa apareceu quando a terceira Divindade foi capturada. Se as Divindades estiverem livres, elas expulsarão a névoa... Talvez. }
 
-Plh_88 { Isso pode funcionar. TEM que funcionar. }
+Plh_88 { Isso pode funcionar. DEVE funcionar. }
 
-Plh_16 { Nemeton — foi tudo em vão? Meu irmão Jero... }
+Plh_16 { Nemeton — será que foi tudo em vão? Meu irmão Jero... }
 
-Plh_20 { Vamos libertar as Divindades. Essa é nossa única chance. }
+Plh_20 { Liberamos as Divindades. Essa é nossa única chance. }
 
-Plh_69 { Mas eu li que os Antigos temiam muito a ira das Divindades... }
+Plh_69 { Mas li que os Esquecidos temiam grandemente a ira das Divindades... }
 
-Plh_21 { Precisamos das Divindades capturadas. Só com elas poderemos salvar Nemeton... }
+Plh_21 { Precisamos das Divindades cativas. Só com elas conseguiremos salvar Nemeton... }
 
-Plh_23 { Temos que libertar as Divindades, ou pereceremos aqui e agora. E então todo o resto em Drova! }
+Plh_23 { Precisamos libertar as Divindades, ou pereceremos aqui e agora. E todos os outros em Drova também! }
 
 Plh_35 { Molvina! }
 
-Plh_65 { Foi tudo em vão... Nós falhamos. }
+Plh_65 { Foi tudo em vão... Falhamos. }
 
-Plh_36 { Molvina não pode decidir agora. Temos que fazer isso. Então? }
+Plh_36 { Molvina não pode decidir agora. Precisamos fazer isso. E então? }
 
-Plh_193 { Eu testemunhei o poder das Divindades com meus próprios olhos. Se as libertarmos, elas devastarão todo Drova. Tenho certeza disso. }
+Plh_193 { Eu testemunhei o poder das Divindades com meus próprios olhos. Se as libertarmos, elas destruirão toda Drova. Tenho certeza disso. }
 
-Plh_33 { Mas sobreviveríamos! A Névoa da Morte nos consumiria de outra forma! }
+Plh_33 { Mas nós sobreviveríamos! A Névoa da Morte nos consumiria de outra forma! }
 
-Plh_24 { Temos que destruir os vasos rúnicos. Vamos! Sem tempo a perder! }
+Plh_24 { Precisamos destruir os recipientes rúnicos. Vamos! Não há tempo a perder! }
 
-Plh_25 { Encontrei algo — nos aposentos do último líder dos Antigos... }
+Plh_25 { Eu encontrei algo — nas câmaras do último líder dos Esquecidos... }
 
-Plh_208 { Droga, deveríamos ter ouvido Olaf. Talvez ele e seus Saqueadores das Ruínas tivessem encontrado uma solução. }
+Plh_208 { Droga, deveríamos ter ouvido Olaf. Talvez ele e seus Saqueadores de Ruínas pudessem ter encontrado uma solução. }
 
-Plh_207 { Não temos tempo para nos lamentar. Temos que destruir os vasos rúnicos. Vamos! }
+Plh_207 { Não temos tempo para autocomiseração. Precisamos destruir os recipientes rúnicos. Vamos! }
 
-Plh_102 { Esta é nossa última chance. FAÇA! }
+Plh_102 { Esta é nossa última chance. FAÇA ISSO! }
 
-Plh_101 { Também temos que libertar o Grande Javali. }
+Plh_101 { Também precisamos libertar o Grande Javali. }
 
 Plh_34 { Eu tenho o Grande Javali comigo... }
 
-Plh_66 { $GVAR:EVars_Player.Name$, você pega o Grande Javali. O resto de nós vai se espalhar — um em cada lugar! }
+Plh_66 { $GVAR:EVars_Player.Name$, você fica com o Grande Javali. O resto de nós vai se espalhar — cada um em um lugar! }
 
-Plh_103 { Temos que fazer isso. Agora! }
+Plh_103 { Precisamos fazer isso. Agora! }
 
 Plh_26 { Do que você está falando? }
 
-Plh_28 { Drivanius desenvolveu um capacete que lhe permitiu se comunicar com as Divindades. }
+Plh_28 { Drivanius desenvolveu um capacete que lhe permitia comunicar-se com as Divindades. }
 
-Plh_190 { Comunicar-se com as Divindades? De que isso vai adiantar? }
+Plh_190 { Comunicar-se com as Divindades? Do que isso vai adiantar? }
 
-Plh_195 { Talvez eu possa apaziguar as Divindades? }
+Plh_195 { Talvez eu consiga apaziguar as Divindades? }
 
-Plh_191 { Vou tentar. Esta é nossa melhor chance. }
+Plh_191 { Vou tentar. Essa é a nossa melhor chance. }
 
-Plh_204 { Não faço ideia, mas ninguém mais teve uma ideia melhor! }
+Plh_204 { Não tenho ideia, mas ninguém mais teve uma ideia melhor! }
 
 Plh_27 { Espero que você saiba o que está fazendo, $GVAR:EVars_Player.Name$... Mas tente. O que mais podemos fazer? }
 
-Plh_29 { Coloque o Javali no meio deles e — tente ficar calmo. }
+Plh_29 { Coloque o Javali no meio deles e — tente manter a calma. }
 
-Plh_70 { Eu preciso do vaso rúnico do Javali — já estabeleci contato com ele. }
+Plh_70 { Preciso do recipiente rúnico do Javali — já estabeleci contato com ele. }
 
-Plh_100 { Isso mesmo. Mas não temos escolha. Quanto da ira das Divindades será dirigida contra nós, não podemos saber. Mas na Névoa da Morte, certamente pereceremos. }
+Plh_100 { Isso mesmo. Mas não temos escolha. Não sabemos quanta ira as Divindades direcionarão a nós. Mas na Névoa da Morte, certamente pereceremos. }
 
-Plh_14 { Precisamos restaurar rapidamente o círculo rúnico. É assim que podemos conter a névoa! }
+Plh_14 { Precisamos restaurar rapidamente o círculo rúnico. É assim que manteremos a névoa afastada! }
 
-Plh_86 { Isso vai destruir tudo. Nós. Toda a vida. Os monólitos mantiveram a névoa afastada por todo esse tempo. Isso acabou. Tudo acabou. }
+Plh_86 { Ela destruirá tudo. Nós. Toda a vida. Os monólitos mantiveram a névoa afastada até agora. Isso acabou. Tudo acabou. }
 
 Plh_90 { Finalmente feito! Conseguimos... }
 
-Plh_91 { Olhem para isso! Algo está errado! A Névoa da Morte! }
+Plh_91 { Olhe isso! Algo está errado! A Névoa da Morte! }
 
-Plh_67 { A Névoa da Morte quase chegou a Nemeton. Molvina... O que devemos fazer?! }
+Plh_67 { A Névoa da Morte quase alcançou Nemeton. Molvina... O que faremos?! }
 
-Plh_1 { O que aconteceu? Os Monólitos... }
+Plh_1 { O que aconteceu? Os Monólitos estão... }
 
-Plh_80 { Molvina... E agora? }
+Plh_80 { Molvina... e agora? }
 
-Plh_50 { *Você estende a mão para o vaso rúnico. Sua mão esquerda toca a runa da verdade, e sua mão direita a runa da bondade.* }
+Plh_50 { *Você estende a mão para o recipiente rúnico. Sua mão esquerda toca a runa da verdade, sua mão direita a runa da bondade.* }
 
-Plh_51 { *Você respira fundo e se concentra no poder que reside entre suas mãos.* }
+Plh_51 { *Você respira fundo e se concentra no poder entre suas mãos.* }
 
-Plh_52 { *Você relaxa e exala...* }
+Plh_52 { *Você relaxa e solta o ar...* }
 
-Plh_8 { *De repente, uma fúria incompreensível toma conta de você. Todos os seus músculos se contraem, seu coração bate como uma marreta, pulsando por todo o corpo, e sua respiração explode como um fole.* }
+Plh_8 { *De repente, uma fúria insondável toma conta de você. Todos os seus músculos se retesam, seu coração bate como uma marreta, pulsando pelo corpo, e sua respiração sai como uma fornalha.* }
 
-Plh_37 { (responder à raiva, apertar mais forte, gritar) }
+Plh_37 { (responda à raiva, aperte mais forte, grite) }
 
-Plh_39 { (tentar manter a calma) }
+Plh_39 { (tente manter a calma) }
 
-Plh_40 { *A raiva é avassaladora. Você sente o fluxo quente de poder divino correndo por seus braços e corpo.* }
+Plh_40 { *A raiva é avassaladora. Você sente o fluxo quente do poder divino percorrendo seus braços e corpo.* }
 
-Plh_43 { *Pensamentos inundam sua mente, se espalhando, o sobrecarregando.* }
+Plh_43 { *Pensamentos inundam sua mente, se espalhando, dominando você.* }
 
-Plh_44 { *Todos os momentos em que você se sentiu impotente — quando você, ou outros, foram prejudicados...* }
+Plh_44 { *Todos os momentos em que você se sentiu impotente — quando você, ou outros, foram injustiçados...* }
 
-Plh_45 { *Desafios que você não conseguiu superar. Momentos em que você odiou a si mesmo, o mundo, e a vida em si...* }
+Plh_45 { *Desafios que você não conseguiu enfrentar. Momentos em que odiou a si mesmo, o mundo e a vida...* }
 
 Plh_46 { *Você não consegue parar de pensar em como a natureza e seus habitantes foram tão impiedosamente prejudicados...* }
 
-Plh_47 { *Um pensamento cresce cada vez mais até consumi-lo. Você está de volta à Floresta Primeva, na clareira com a primeira árvore. Você sente a origem da raiva...* }
+Plh_47 { *Um pensamento continua crescendo, até consumi-lo. Você está de volta à Floresta Primeva, na clareira com a primeira árvore. Você sente a origem da raiva...* }
 
-Plh_48 { *O Grande Javali está diante de você, com inúmeros javalis e leitões mortos espalhados ao seu redor. A criatura se sente impotente, fraca, e cheia de uma raiva incompreensível enquanto é sugada para o vaso em suas mãos.* }
+Plh_48 { *O Grande Javali está diante de você, com inúmeros javalis e filhotes mortos espalhados ao redor. A criatura se sente impotente, fraca e cheia de uma raiva insondável enquanto é atraída para o recipiente em suas mãos.* }
 
-Plh_196 { *A escuridão cai sobre seus olhos* }
+Plh_196 { *A escuridão desce sobre seus olhos* }
 
-Plh_49 { *À medida que seus sentidos desaparecem, você sente um calor abrasador entre suas mãos, e um grito interminável subindo por sua garganta, e então — silêncio...* }
+Plh_49 { *Quando seus sentidos se apagam, você sente um calor escaldante entre suas mãos, e um grito interminável se ergue da sua garganta, e então — silêncio...* }
 
 Plh_61 { $GVAR:EVars_Player.Name$, você conseguiu? O poder de uma Divindade acabou de irradiar de você! }
 
 Plh_184 { Foi tudo tão estranho... Eu — eu não sei o que aconteceu. }
 
-Plh_185 { O que aconteceu? Você deve ter aprendido algo! O que fazemos agora? }
+Plh_185 { O que aconteceu? Você deve ter aprendido algo! O que faremos agora? }
 
-Plh_187 { Temos que destruir os vasos! }
+Plh_187 { Precisamos destruir os recipientes! }
 
-Plh_78 { Você ouviu! Destrua os vasos! $GVAR:EVars_Player.Name$, você pega o Grande Javali! }
+Plh_78 { Você ouviu! Destrua os recipientes! $GVAR:EVars_Player.Name$, você fica com o Grande Javali! }
 
-Plh_62 { Está feito. As Divindades confiam em mim. Destruam os vasos. }
+Plh_62 { Está feito. As Divindades confiam em mim. Destrua os recipientes. }
 
-Plh_63 { Darwin... As Divindades repousam em NÓS. Temos que libertá-las, agora! }
+Plh_63 { Darwin... As Divindades repousam EM NÓS. Precisamos libertá-las, agora! }
 
-Plh_71 { Mombert, as Divindades repousam em NÓS. Temos que libertá-las, agora! }
+Plh_71 { Mombert, as Divindades repousam EM NÓS. Precisamos libertá-las, agora! }
 
-Plh_42 { *A raiva é avassaladora. Você sente o fluxo quente de poder divino correndo por seus braços e corpo.* }
+Plh_42 { *A raiva é avassaladora. Você sente o fluxo quente do poder divino percorrendo seus braços e corpo.* }
 
-Plh_17 { Podemos usar as Divindades para voltar para nossa terra natal? Ainda podemos escapar? }
+Plh_17 { Podemos usar as Divindades para voltar à nossa terra natal? Ainda podemos escapar? }
 
-Plh_18 { Eu — não tenho ideia. É impossível saber de imediato... Primeiro tenho que descobrir como funciona. }
+Plh_18 { Eu — não tenho ideia. É impossível saber de imediato... Primeiro tenho que descobrir como isso funciona. }
 
-Plh_111 { É possível... Mas vai nos custar tudo. Talvez haja outra possibilidade — uma melhor... }
+Plh_111 { É possível... Mas nos custará tudo. Talvez haja outra possibilidade — uma melhor... }
 
 Plh_110 { Jero, o que devemos fazer? }
 
 Plh_112 { Se libertarmos as Divindades, tudo terá sido em vão. Nunca poderemos voltar para casa... }
 
-Plh_113 { Mas se não fizermos nada, certamente morreremos. }
+Plh_113 { Mas se não fizermos nada, morreremos com certeza. }
 
-Plh_114 { Temos que deixá-las ir. Pelo menos nossas vidas serão poupadas. }
+Plh_114 { Precisamos deixá-las ir. Ao menos nossas vidas serão poupadas. }
 
-Plh_107 { A Névoa da Morte quase chegou a Nemeton — ela vai devorar tudo. Jero — o que devemos fazer?! }
+Plh_107 { A Névoa da Morte quase alcançou Nemeton — ela devorará tudo. Jero — o que faremos?! }
 

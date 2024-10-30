@@ -4,11 +4,11 @@ ForRuinenlager2 { Pela Torre Vermelha. }
 
 GoodBye2 { Cuide-se. }
 
-BusyWhatsUp { Tenho coisas para fazer. O que foi? }
+BusyWhatsUp { Tenho coisas a fazer. O que você quer? }
 
-WhatsUp3 { *te lança um olhar sujo* Cai fora! }
+WhatsUp3 { *olha para você com desprezo* Cai fora! }
 
-WhatsUp5 { O que agora? }
+WhatsUp5 { O que foi agora? }
 
 WhatsUp { E aí? }
 
@@ -24,7 +24,7 @@ Hey { Ei. }
 
 ForMagielager2 { Vá com a luz. }
 
-WhatsUp4 { O que foi? }
+WhatsUp4 { Qual é o problema? }
 
 GoodBye4 { Até mais. }
 
@@ -36,7 +36,7 @@ ForNemeton4 { Que Nemeton esteja com você. }
 
 DontKnowYourFace4 { Finalmente, um rosto novo. }
 
-Hey5 { Ei. }
+Hey5 { Oi. }
 
 ForRuinenlager4 { Pela nossa liberdade. }
 
@@ -48,18 +48,18 @@ HelloAsk { Olá? }
 
 ForRuinenlager { Por Jero. }
 
-WhatsUp2 { Como vai? }
+WhatsUp2 { Como estão as coisas? }
 
-GoodBye { Até logo. }
+GoodBye { A gente se vê por aí. }
 
 WhatCanIDoForYou { O que posso fazer por você? }
 
-DontKnowYourFace5 { Ei, você aí — eu não te reconheço. }
+DontKnowYourFace5 { Ei, você aí — não te reconheço. }
 
 Hey7 { Ah, é você. }
 
 GoodBye3 { Cuide-se. }
 
-ForMagielager { Que o Grande Javali te proteja. }
+ForMagielager { Que o Poderoso Javali te proteja. }
 
 DontKnowYourFace { Ei, não conheço seu rosto. }

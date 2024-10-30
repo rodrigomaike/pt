@@ -1,15 +1,15 @@
-Title { O Bairro Sombrio }
+Title { O Quarteirão Sombrio }
 
-Entry_01 { Boris quer que eu consiga $GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$ moedas de Leyna. Ele me deu uma chave para o Bairro Sombrio. Em algum lugar na parte oriental do acampamento dos Remanescentes, deve haver uma entrada secreta. }
+Entry_01 { Boris quer que eu consiga $GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$ moedas de Leyna. Ele me deu uma chave para o Quarteirão Sombrio. Em algum lugar na parte oeste do acampamento dos Remanescentes, deve haver uma entrada escondida. }
 
-Entry_02 { Depois que vi Boris, Gera me interceptou para cobrar seu favor. Eu devo plantar um pouco de Musgo-Rustico cortado anteriormente na Leyna e depois delatá-la para Boris. }
+Entry_02 { Depois que vi o Boris, Gera me interceptou para cobrar seu favor. Ela quer que eu plante um pouco de Ferrumusgo cortado previamente com Leyna e depois a denuncie para o Boris. }
 
-Entry_03 { Leyna me deu as $GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$ moedas. Devo informar Boris. }
+Entry_03 { Leyna me deu as $GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$ moedas. Devo informar o Boris. }
 
-Entry_04 { Eu disse a Leyna a verdade sobre o plano de Gera. Ela ficou muito grata. }
+Entry_04 { Eu contei a verdade para Leyna sobre o plano da Gera. Ela ficou muito grata. }
 
-Entry_05 { Eu dei as moedas a Boris e delatei Leyna. Agora não devo mais nada a Gera. }
+Entry_05 { Entreguei as moedas para Boris e denunciei Leyna. Agora, não devo mais nada para Gera. }
 
-Entry_06 { Eu entreguei todas as moedas de Leyna para Boris. }
+Entry_06 { Entreguei todas as moedas de Leyna para Boris. }
 
-Entry_05A { O Musgo-Rustico cortado anteriormente agora está no baú de Leyna. Agora só preciso alcançar Boris. }
+Entry_05A { O Ferrumusgo cortado está agora no baú de Leyna. Agora só preciso falar com Boris. }

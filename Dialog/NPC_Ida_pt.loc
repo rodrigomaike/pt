@@ -4,120 +4,120 @@ Plh_9 { Estou trabalhando. }
 
 Plh_8 { Você não parece estar trabalhando. }
 
-Plh_12 { E você não parece alguém que deveria estar falando assim. }
+Plh_12 { E você não parece alguém que devia falar tanto. }
 
-Plh_14 { Saia daqui. Tenho coisas a fazer. }
+Plh_14 { Saia daqui. Tenho coisas para fazer. }
 
-Plh_11 { No que você está trabalhando? }
+Plh_11 { Em que você está trabalhando? }
 
 Plh_13 { Não é da sua conta. }
 
 Plh_6 { O que você quer de mim? }
 
-Plh_65 { *boceja* Oh, ei, você. }
+Plh_65 { *boceja* Oh, você de novo. }
 
-Plh_62 { Se não há mais nada... Eu tenho algo para entregar. }
+Plh_62 { Se não há mais nada... Tenho algo para entregar. }
 
-Plh_16 { Ei, você aí! Mãos longe das minhas coisas! }
+Plh_16 { Ei, você aí! Tire as mãos das minhas coisas! }
 
 Plh_17 { Suas coisas? }
 
-Plh_21 { O que é rustroot? }
+Plh_21 { O que é Raiz-Rubra? }
 
-Plh_20 { Eu não vejo seu nome em nenhuma dessas plantas. }
+Plh_20 { Não vejo seu nome em nenhuma dessas plantas. }
 
 Plh_18 { Tudo bem, eu vou. }
 
-Plh_19 { O rustroot! }
+Plh_19 { A Raiz-Rubra! }
 
-Plh_22 { *piscando* De onde você veio? Rustroot é o que usamos para fazer Rustmoss. Nós o fumamos. Para relaxar. }
+Plh_22 { *pisca* De onde você veio? Raiz-Rubra é o que usamos para fazer Ferrumusgo. Nós fumamos. Para relaxar. }
 
-Plh_23 { E isso aqui é meu rustroot! }
+Plh_23 { E esta aqui é a minha Raiz-Rubra! }
 
-Plh_24 { Vou reservar um belo espaço no cemitério para você! }
+Plh_24 { Vou reservar uma bela cova para você! }
 
-Plh_26 { Me dê os $GVAR:EVars_Ida.RustmossPicked$ talos de rustroot que você roubou! }
+Plh_26 { Devolva os $GVAR:EVars_Ida.RustmossPicked$ talos de Raiz-Rubra que você roubou! }
 
-Plh_27 { Por quê? Eu os encontrei aqui. }
+Plh_27 { Por quê? Achei eles aqui. }
 
-Plh_28 { Calma. Pegue as coisas. (entrega $GVAR:EVars_Ida.RustmossPicked$x talos de rustroot) }
+Plh_28 { Calma aí. Pegue as coisas. (entregar $GVAR:EVars_Ida.RustmossPicked$x talos de Raiz-Rubra) }
 
-Plh_29 { Esqueça! Eles agora pertencem a mim. }
+Plh_29 { Esqueça! Agora eles são meus. }
 
-Plh_30 { Mas eu os encontrei primeiro! Você está começando a me irritar... }
+Plh_30 { Mas eu achei primeiro! Você está começando a me irritar... }
 
-Plh_31 { Muito razoável. Talvez ainda haja esperança para você. }
+Plh_31 { Muito sensato. Talvez haja esperança para você. }
 
 Plh_32 { Para que você precisa disso? }
 
-Plh_50 { Onde posso encontrar a Delani? }
+Plh_50 { Onde posso encontrar Delani? }
 
-Plh_34 { Estou vendendo para a Delani. Ela paga muito bem por isso. }
+Plh_34 { Vou vender para Delani. Ela paga muito bem por isso. }
 
-Plh_35 { Mas isso aqui me pertence, certo? }
+Plh_35 { Mas isso aqui em cima pertence a mim, certo? }
 
-Plh_51 { No Georgefarm. Ela trabalha para ele. }
+Plh_51 { Na fazenda de George. Ela trabalha para ele. }
 
 Plh_52 { Você não ouviu isso de mim. }
 
-Plh_36 { Faça isso. E no futuro, mantenha suas mãos longe do meu rustroot! }
+Plh_36 { Faça isso. E no futuro, mantenha suas mãos longe da minha Raiz-Rubra! }
 
-Plh_37 { *range os dentes* Bem, você provavelmente não vai aprender de outra forma... }
+Plh_37 { *ranger de dentes* Bem, você provavelmente só vai aprender de outro jeito... }
 
 Plh_39 { Vou te ensinar uma lição. }
 
-Plh_40 { Vamos ver sobre isso. }
+Plh_40 { Veremos sobre isso. }
 
-Plh_25 { Não tão rápido! Você acha que vai levar MEU rustroot assim? }
+Plh_25 { Não tão rápido! Acha que vai embora com a MINHA Raiz-Rubra? }
 
-Plh_41 { Ei! Você ainda me deve rustroot! }
+Plh_41 { Ei! Você ainda me deve Raiz-Rubra! }
 
-Plh_45 { Eu pensei que tínhamos um acordo! Entregue o rustroot e suma daqui! }
+Plh_45 { Achei que tínhamos um entendimento! Entregue a Raiz-Rubra e caia fora daqui! }
 
 Plh_49 { Você não é tão burro quanto parece. Agora me deixe trabalhar. }
 
-Plh_48 { *suspira* Bem, como dizem: Spare the rod and spoil the child. }
+Plh_48 { *suspira* Bem, como dizem: Quem poupa a vara, estraga o filho. }
 
-Plh_42 { Procurando mais problemas? Saia daqui! Este é meu território! }
+Plh_42 { Procurando mais encrenca? Saia daqui! Esse é meu território! }
 
 Plh_43 { *sem fôlego* Você... Você acabou de me derrubar! }
 
-Plh_66 { Vamos torcer para que você tenha aprendido a lição. }
+Plh_66 { Espero que tenha aprendido a lição. }
 
-Plh_67 { Minha montanha. Minhas regras. Meu rustroot. }
+Plh_67 { Minha montanha. Minhas regras. Minha Raiz-Rubra. }
 
-Plh_68 { Faça o que quiser. Essa coisa aqui tem gosto de lixo de qualquer forma! }
+Plh_68 { Faça o que quiser. Isso aqui tem gosto de lixo mesmo! }
 
-Plh_69 { Então. Quem é o dono desta montanha? }
+Plh_69 { Então. Quem é dono desta montanha? }
 
-Plh_71 { Q-que? }
+Plh_71 { Q-quê? }
 
 Plh_73 { Você me ouviu. Diga. }
 
-Plh_78 { Esqueça. Eu tenho que ir. }
+Plh_78 { Esqueça. Tenho que ir. }
 
-Plh_72 { S-sua montanha. S-suas regras. S-seu r-rustroot. }
+Plh_72 { S-sua montanha. S-suas regras. S-sua R-raiz-Rubra. }
 
 Plh_75 { Isso mesmo. }
 
-Plh_76 { Muito bem colocado. E agora, saia daqui. }
+Plh_76 { Bem dito. E agora, caia fora daqui. }
 
-Plh_77 { T-tá bom. }
+Plh_77 { T-tudo bem. }
 
-Plh_79 { Ufa. *secar o suor da testa* }
+Plh_79 { Ufa. *enxuga o suor da testa* }
 
-Plh_80 { *ofega quando te reconhece* Sua montanha. Suas regras. Seu rustroot. }
+Plh_80 { *fica ofegante ao reconhecê-lo* Sua montanha. Suas regras. Sua Raiz-Rubra. }
 
-Plh_15 { E agora? }
+Plh_15 { O que foi agora? }
 
-Plh_58 { Eu não tenho tempo para lutar com você novamente. Neste momento, estou ocupado trabalhando para o Asmus. }
+Plh_58 { Não tenho tempo para brigar com você de novo. No momento estou trabalhando para Asmus. }
 
-Plh_59 { Você de novo... Estou trabalhando para o Asmus agora. Desta vez, você não vai colocar suas mãos nas minhas coisas. }
+Plh_59 { Você de novo... Agora estou trabalhando para o Asmus. Desta vez, você não vai pôr as mãos nas minhas coisas. }
 
-Plh_60 { Não posso ficar conversando. Preciso fazer uma entrega. }
+Plh_60 { Não posso ficar tagarelando. Preciso fazer uma entrega. }
 
-Plh_63 { Você está me entediando até a morte. *boceja* }
+Plh_63 { Você está me matando de tédio. *boceja* }
 
-Plh_64 { Alguém cuidou dos bandidos na ponte. Finalmente, posso pegar a estrada novamente! }
+Plh_64 { Alguém deu conta dos bandidos na ponte. Finalmente posso pegar a estrada de novo! }
 
-Plh_5 { Você aí! Mãos longe! }
+Plh_5 { Você aí! Mãos para o alto! }

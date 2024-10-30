@@ -1,27 +1,27 @@
-Plh_0 { *Diante de você há uma colmeia zumbindo com pequenas abelhas. Uma sensação calorosa de vida flui por você.* }
+Plh_0 { *À sua frente está uma colmeia cheia de abelhas zumbindo. Uma sensação calorosa de vida percorre você.* }
 
 Plh_5 { Esta deve ser uma das colmeias de Bombus... }
 
 Plh_1 { (coletar um pouco de mel) }
 
-Plh_6 { *Você se lembra de Bombus mencionar que tinha colmeias. Ao dizer seu nome, parece que as abelhas respondem.* }
+Plh_6 { *Você se lembra que Bombus mencionou ter colmeias. Ao dizer o nome dele, parece que as abelhas respondem.* }
 
-Plh_7 { *Cuidadosamente, você retira um pouco de mel dos favos.* }
+Plh_7 { *Com cuidado, você recolhe um pouco de mel dos favos.* }
 
-Plh_12 { *Muitas abelhas, mas sem mel. Parece que alguém já pegou tudo.* }
+Plh_12 { *Abelhas por toda parte, mas nenhum mel. Parece que alguém já pegou tudo.* }
 
-Plh_9 { *Olhando para dentro, você vê muito pouco mel sobrando. Alguém deve ter estado aqui recentemente. Mas você consegue retirar um pouco.* }
+Plh_9 { *Ao olhar dentro, você vê pouquíssimo mel restante. Alguém deve ter estado aqui recentemente. Mas você consegue coletar um pouco.* }
 
-Plh_3 { *Você alcança e puxa uma rede de favos de mel da colmeia. As abelhas parecem não se importar enquanto você cuidadosamente retira um pouco de mel.* }
+Plh_3 { *Você alcança e puxa uma rede de favos de mel da colmeia. As abelhas parecem não se incomodar enquanto você cuidadosamente recolhe um pouco de mel.* }
 
-Plh_4 { *Você conseguiu coletar uma boa quantidade de mel e cuidadosamente coloca os favos de volta na colmeia.* }
+Plh_4 { *Você conseguiu reunir uma boa quantidade de mel e cuidadosamente colocou os favos de volta na colmeia.* }
 
-Plh_15 { *Você percebe que ainda há mais mel. Mas ele pertence a alguém, certo?* }
+Plh_15 { *Você percebe que ainda resta mais mel. Mas ele pertence a alguém, não é?* }
 
-Plh_13 { (pegue tudo) }
+Plh_13 { (pegar tudo) }
 
-Plh_14 { (abster-se de pegar mais) }
+Plh_14 { (evitar pegar mais) }
 
-Plh_16 { *Você raspa o último pedaço de mel. Que captura!* }
+Plh_16 { *Você raspa o último restinho de mel. Que colheita!* }
 
-Plh_11 { *Por decência, você deixa um pouco para trás.* }
+Plh_11 { *Por consideração, você deixa um pouco para trás.* }

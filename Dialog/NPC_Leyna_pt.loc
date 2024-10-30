@@ -1,95 +1,95 @@
-Plh_54 { *Você vê vários itens na caixa: ferramentas de lockpick, raízes da terra...* }
+Plh_54 { *Você vê vários itens na caixa: gazuas, raízes-terrestres...* }
 
-Plh_55 { (pegar as ferramentas de lockpick) }
+Plh_55 { (pegar as gazuas) }
 
-Plh_57 { (pegar as raízes da terra) }
+Plh_57 { (pegar as raízes-terrestres) }
 
-Plh_59 { (colocar o Rustmoss adulterado da Gera) }
+Plh_59 { (colocar o Ferrumusgo adulterado de Gera) }
 
-Plh_64 { *Há três ferramentas de lockpick; você as pega.* }
+Plh_64 { *Há três gazuas; você as pega.* }
 
-Plh_65 { *Raízes da terra ao lado do Rustmoss? Seja como for. Você as pega todas.* }
+Plh_65 { *Raízes-terrestres ao lado de Ferrumusgo? Tanto faz. Você pega tudo.* }
 
-Plh_60 { *Você levanta alguns itens e cuidadosamente esconde o Rustmoss cortado embaixo.* }
+Plh_60 { *Você levanta alguns itens e cuidadosamente esconde o Ferrumusgo cortado por baixo.* }
 
-Plh_36 { O Boris manda lembranças. Estou aqui para pegar suas moedas. }
+Plh_36 { O Boris manda lembranças. Eu devo pegar as moedas dele. }
 
-Plh_37 { Ah, o Boris está enviando um novo membro. É você, certo? }
+Plh_37 { Ah, o Boris está enviando um novo membro. Esse é você, certo? }
 
-Plh_39 { Sim, agora eu me juntei ao Boris. }
+Plh_39 { Sim, agora estou com o Boris. }
 
-Plh_40 { De qualquer forma, estou aqui para pegar suas moedas. }
+Plh_40 { De qualquer forma, estou aqui para pegar as moedas dele. }
 
-Plh_41 { Então ele ficará orgulhoso que você cumpriu sua primeira tarefa. *sorri* }
+Plh_41 { Então ele vai ficar orgulhoso de você por ter cumprido sua primeira tarefa. *sorri de lado* }
 
-Plh_43 { Aqui estão as moedas. Você pode dizer ao Boris que estou satisfeito. }
+Plh_43 { Aqui estão as moedas. Diga ao Boris que estou satisfeito. }
 
 Plh_42 { Não é muito de conversar, hein? }
 
-Plh_21 { A Gera queria te vender um Rustmoss cortado para que você ocupasse seu lugar aqui. (entrega) }
+Plh_21 { Gera queria te vender um pouco de Ferrumusgo cortado para tomar seu lugar aqui. (entregar) }
 
-Plh_25 { O quê?! Mostre-me. }
+Plh_25 { O quê?! Me mostre. }
 
-Plh_26 { Hmm... esse negócio parece normal. *cheira* Também cheira normal. }
+Plh_26 { Hmm... esse produto parece normal. *cheira* Cheiro normal também. }
 
-Plh_28 { Acenda-o e dê uma olhada mais de perto nas cinzas. }
+Plh_28 { Acenda e olhe mais de perto as cinzas. }
 
-Plh_30 { *acende o Rustmoss* }
+Plh_30 { *acende o Ferrumusgo* }
 
 Plh_31 { Queima normalmente... }
 
-Plh_32 { Mas... as cinzas são muito mais escuras e firmes. Você está certo — há algo aí. }
+Plh_32 { Mas... As cinzas estão muito mais escuras e firmes. Você está certo — tem algo nisso. }
 
-Plh_33 { E você me avisou sobre isso. Obrigado. Não sei por que você fez isso... }
+Plh_33 { E você me avisou sobre isso. Obrigado. Eu realmente não sei por que você fez isso... }
 
-Plh_34 { ... mas você será recompensado por isso. E se eu pegar a Gera, então... }
+Plh_34 { ... mas você será recompensado por isso. E se eu pegar o Gera, então... }
 
-Plh_53 { Apenas o melhor de Leyna! }
+Plh_53 { Só o melhor da Leyna! }
 
-Plh_63 { Mantenha as mãos longe da minha caixa! }
+Plh_63 { Tire as mãos da minha caixa! }
 
-Plh_38 { Alguém com esse tipo de armadura aqui embaixo? Não se preocupe. Estamos fazendo tudo de acordo com as regras. }
+Plh_38 { Alguém com esse tipo de armadura por aqui? Não se preocupe. Estamos fazendo tudo como manda o figurino. }
 
-Plh_5 { Ei, você aí. Parece que você poderia usar algo que te faria bem. }
+Plh_5 { Ei, você aí. Parece que você poderia usar algo que te faça bem. }
 
-Plh_6 { Por quê? Como eu estou? }
+Plh_6 { Por quê? Como eu pareço? }
 
-Plh_7 { Sempre. Me dê. }
+Plh_7 { Sempre. Me dá. }
 
-Plh_11 { Não é "fazer o bem" apenas um termo excessivamente humano que exagera o que é bom, e não deveríamos abraçar a escuridão dentro de nós também? }
+Plh_11 { "Fazer bem" não é apenas um termo exageradamente humano que exalta o que é bom, e não deveríamos abraçar também a escuridão em nós mesmos? }
 
-Plh_8 { Você realmente parece um pouco nervoso. Mas poderíamos mudar isso. }
+Plh_8 { Você parece um pouco tenso. Mas podemos mudar isso. }
 
 Plh_9 { Parece bom. O que você tem? }
 
 Plh_10 { Não estou interessado. }
 
-Plh_18 { É o melhor. Você pode simplesmente experimentar. Se não gostar, então, hey, sem problemas! }
+Plh_18 { É o melhor produto. Pode experimentar. Se não gostar, tudo bem, sem problemas! }
 
-Plh_19 { Claro, claro. Totalmente sua decisão. Você sempre pode mudar de ideia. }
+Plh_19 { Claro, claro. A decisão é totalmente sua. Você sempre pode mudar de ideia. }
 
-Plh_13 { Esse é o espírito. Aqui. É de graça. E realmente te fará muito bem! }
+Plh_13 { Assim que se fala. Aqui. É de graça. E vai realmente te fazer muito bem! }
 
-Plh_17 { Se você quiser mais desse negócio, é só vir até mim. }
+Plh_17 { Se quiser mais desse produto, é só me procurar. }
 
-Plh_12 { Huh? }
+Plh_12 { Hã? }
 
-Plh_14 { Não importa. Apenas me dê o que você tem. }
+Plh_14 { Não importa. Só me dê o que tiver. }
 
-Plh_15 { "Bom" e "bondade" estão interconectados, mas o que "nos faz bem" muitas vezes não nos faz bem, enquanto a exclamação "Meu Deus" às vezes — }
+Plh_15 { "Bem" e "bondade" estão interligados, mas o que "nos faz bem" muitas vezes não nos faz bem, enquanto a exclamação "Minha bondade" às vezes — }
 
-Plh_16 { Apenas cale a boca e pegue. Eu não aguento mais suas conversa fiadas. }
+Plh_16 { Só cale a boca e aceite. Não aguento mais a sua tagarelice. }
 
-Plh_46 { Você! Você me vendeu esse maldito Rustmoss, e o Boris me deu um inferno por isso! }
+Plh_46 { Você! Você me vendeu esse maldito Ferrumusgo, e o Boris me deu um esporro por isso! }
 
-Plh_47 { Eu não sei do que você está falando. }
+Plh_47 { Não sei do que você está falando. }
 
-Plh_48 { O que você vai fazer sobre isso? }
+Plh_48 { E o que você vai fazer sobre isso? }
 
-Plh_49 { Você rato sujo! }
+Plh_49 { Seu rato sujo! }
 
-Plh_50 { Eu... eu... estou tão bravo agora! }
+Plh_50 { Eu... Eu... Eu estou tão bravo agora! }
 
-Plh_51 { Vá embora! Por sua causa, estou encrencado e tenho que esgrimir! Eu! }
+Plh_51 { Vá embora! Por sua causa, estou ferrado e tenho que minerar! Eu! }
 
-Plh_45 { Estou apenas falando de negócios. }
+Plh_45 { Só estou falando de negócios. }
