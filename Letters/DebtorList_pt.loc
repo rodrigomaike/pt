@@ -1,9 +1,9 @@
 Mog { Mog me deve $GVAR:QuestVars_Debt_Config.MoneyFromMog$ moedas. }
 
-Meluna { Desde que Meluna foi roubada, ela também me deve $GVAR:QuestVars_Debt_Config.MoneyFromMeluna$ moedas. }
+Meluna { Como Meluna foi roubada, ela também me deve $GVAR:QuestVars_Debt_Config.MoneyFromMeluna$ moedas. }
 
-Lindon { Lindon estava sendo ousado.<br>Ele me deve $GVAR:QuestVars_Debt_Config.MoneyFromLindon$ moedas. }
+Lindon { Lindon foi atrevido.<br>Ele me deve $GVAR:QuestVars_Debt_Config.MoneyFromLindon$ moedas. }
 
-Bady { O honorável Bady pegou um empréstimo de $GVAR:QuestVars_Debt_Config.MoneyFromBady$ moedas. }
+Bady { O honrado Bady fez um empréstimo de $GVAR:QuestVars_Debt_Config.MoneyFromBady$ moedas. }
 
 Lore { Lore me deve $GVAR:QuestVars_Debt_Config.MoneyFromLore$ moedas. }

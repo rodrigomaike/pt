@@ -1,17 +1,17 @@
-Letter_0 { O templo é o último lugar seguro em Drova.<br>Suas portas estão fechadas para nós, mas deve haver outra maneira de entrar!<br><br>Uma vez que você chegue, faça todos pesquisarem as áreas adjacentes. }
+Letter_0 { O templo é o último lugar seguro em Drova.<br>Seus portões estão fechados para nós, mas deve haver outra maneira de entrar!<br><br>Assim que você chegar, faça com que todos procurem nas áreas adjacentes. }
 
-Letter_1 { Para a resistência remanescente na Torre Vermelha:<br><br>Dentro da caverna oriental nos quartos, encontramos uma passagem secreta pela qual podemos entrar no templo.<br><br>Desistam de seu objetivo de invadir a torre.<br>Isso se tornou perigoso demais. }
+Letter_1 { À resistência remanescente na Torre Vermelha:<br><br>Dentro da caverna leste nos aposentos, encontramos uma passagem secreta pela qual podemos entrar no templo.<br><br>Abandonem o objetivo de invadir a torre.<br>Está perigoso demais. }
 
-Letter_2 { A esperança está diminuindo.<br>Oberus, com sua lança mortal, quer passar seus últimos momentos à beira da cachoeira com sua amada.<br>Francus está lingerando no jardim de Terra e não deseja perecer sob a terra.<br>...<br><br>Vou me juntar aos outros. Temos suprimentos suficientes para nos manter por um tempo. }
+Letter_2 { A esperança está desaparecendo.<br>Oberus, com sua lança mortal, quer passar seus últimos momentos junto à cachoeira com sua amada.<br>Francus está na horta de Terra e não deseja perecer sob a terra.<br>...<br><br>Vou me juntar aos outros. Temos suprimentos suficientes para aguentar por um tempo. }
 
-Letter_Underground_0 { De onde estão vindo essas criaturas, afinal?<br>Como elas estão entrando aqui?<br>Parece que chegaram de outro mundo para nos assombrar!<br><br>Os estudiosos dizem que Drova se recuperará uma vez que os tecelões de runas pararem de tecer, mas quanto tempo isso deve levar?<br><br>Estamos ficando sem suprimentos... e guerreiros. }
+Letter_Underground_0 { De onde estão vindo essas criaturas, afinal?<br>Como elas estão entrando aqui?<br>É como se tivessem vindo de outro mundo para assombrar a nós, humanos!<br><br>Os estudiosos dizem que Drova se recuperará assim que os tecelões de runas pararem de tecer, mas quanto tempo isso deve levar?<br><br>Estamos ficando sem suprimentos... e guerreiros. }
 
-Letter_Underground_1 { Mais cedo, o golem de runas apresentou problemas.<br>Não entendi a explicação dos estudiosos...<br>tantos já caíram... Nós rejeitamos os deuses cedo demais? }
+Letter_Underground_1 { Mais cedo, o golem rúnico apresentou um defeito.<br> Não entendi a explicação dos estudiosos...<br>Tantos caíram... Será que rejeitamos os deuses cedo demais? }
 
-Letter_Underground_2 { Descobrimos a runa para abrir a sala trancada no oeste.<br>Infelizmente, não consegui encontrar nada de relevante.<br>Mas fiz um desenho da runa, caso você queira dar uma olhada. }
+Letter_Underground_2 { Descobrimos a runa para abrir a sala trancada a oeste.<br>Infelizmente, não consegui encontrar nada de relevante.<br>Mas fiz um desenho da runa, caso queira dar uma olhada você mesmo. }
 
-Eye { Relatório de pesquisa:<br>A ressonância que está sendo percebida pelo nosso Olho Imperiano varia, apesar dos parâmetros do experimento permanecerem os mesmos.<br><br>Assumimos que isso está relacionado à constelação dos símbolos no céu. De acordo com nossas últimas observações e cálculos, uma oportunidade especial deve se apresentar em 31 Octavina.<br><br>Drivanius irá liderar e documentar esta sessão.<br><br>7 Secundora 280 a.Av. }
+Eye { Relatório de pesquisa:<br>A ressonância percebida pelo nosso Olho de Imperia varia, apesar de os parâmetros do experimento permanecerem os mesmos.<br><br>Presumimos que isso esteja relacionado à constelação dos símbolos no céu. De acordo com nossas últimas observações e cálculos, uma oportunidade especial deverá se apresentar em 31 de Octavina.<br><br>O próprio Drivanius conduzirá e documentará essa sessão.<br><br>7 de Secundora 280 a.Av. }
 
-AtlanterProblems { Drivanius, Imperia está nos pressionando.<br>Manter a jornada de runas é a mais alta prioridade.<br><br>A hora de delongas acabou.<br>Você sabe o que aconteceu com Lucius. É hora de você assumir seu lugar ao nosso lado.<br><br>A Torre Vermelha<br>20 Quartaris 282 a.Av. }
+AtlanterProblems { Drivanius, Imperia está em nosso encalço.<br>Manter a jornada rúnica é a mais alta prioridade.<br><br>Não há mais tempo para delongas.<br>Você sabe o que aconteceu com Lucius. Está na hora de assumir seu lugar ao nosso lado.<br><br>A Torre Vermelha<br>20 de Quartaris 282 a.Av. }
 
-Stars { Relatório de pesquisa:<br>A sessão provou ser verdadeira. Pelos deuses, não tenho palavras...<br><br>Estou incerto sobre como devo interpretar o desenrolar da sessão. Uma suposição... não pertence a um relatório de pesquisa.<br><br>Drivanius<br>31 Octavia 280 a.Av. }
+Stars { Relatório de pesquisa:<br>A sessão provou que é verdade. Pelos deuses, estou sem palavras...<br><br>Não sei como interpretar o curso da sessão. Uma suposição... não cabe em um relatório de pesquisa.<br><br>Drivanius<br>31 de Octavia 280 a.Av. }
