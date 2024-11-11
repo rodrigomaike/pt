@@ -1,0 +1,5 @@
+DescText_NotLoggedIn { O jogo não conseguiu encontrar um login no seu perfil do Xbox. Por favor, certifique-se de que você está logado, caso contrário, o jogo não poderá ser salvo e carregado! }
+
+ButtonText_Login { Entrar }
+
+PleaseWait { Por favor, aguarde... }
